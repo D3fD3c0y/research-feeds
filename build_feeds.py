@@ -34,6 +34,9 @@ COMMON_SUFFIXES = [
 ]
 
 # Helper: RFC2822 date
+import datetime
+import email.utils
+
 def rfc2822(dt=None) -> str:
     """
     Return an RFC 2822 date string in UTC.
@@ -42,8 +45,10 @@ def rfc2822(dt=None) -> str:
     if dt is None:
         dt = datetime.datetime.now(datetime.timezone.utc)
     elif dt.tzinfo is None:
+        # Treat naive timestamps as UTC
         dt = dt.replace(tzinfo=datetime.timezone.utc)
     return email.utils.format_datetime(dt, usegmt=True)
+
 
 
 def get(url):
