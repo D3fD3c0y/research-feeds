@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Censys Blog (Custom Feed)</title>
+  <link>https://censys.com/resources/blog</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:04:02 GMT</lastBuildDate>
+  <item>
+    <title>Odyssey Stealer: Inside a macOS Crypto-Stealing Operation</title>
+    <link>https://censys.com/blog/odyssey-stealer-inside-a-macos-crypto-stealing-operation/</link>
+    <description>What Is Odyssey Stealer? Odyssey Stealer is a macOS information stealer designed to steal cryptocurrencies. It operates as a Malware-as-a-Service (MaaS) platform with an affiliate-based model, meaning that the C2 infrastructure and admin panel are operated by a controlling group, while independent operators (affiliates) rent access in exchange for a share of the proceeds. Often […] The post Odyssey Stealer: Inside a macOS Crypto-Stealing Operation appeared first on Censys .</description>
+    <pubDate>Wed, 11 Feb 2026 18:49:36 GMT</pubDate>
+  </item>
+  <item>
+    <title>Malicious Notepad++ Network Infrastructure</title>
+    <link>https://censys.com/blog/npp-infra/</link>
+    <description>On February 2, 2026, Notepad++ published an update on the security incident they first disclosed in early December of 2025, confirming that their distribution infrastructure had been compromised between June and December 2025 and used to deliver a malicious installer to users downloading version 8.9.9. Subsequent research by Rapid7 tied this compromise to a campaign attributed to the Chinese […] The post Malicious Notepad++ Network Infrastructure appeared first on Censys .</description>
+    <pubDate>Tue, 03 Feb 2026 18:42:33 GMT</pubDate>
+  </item>
+  <item>
+    <title>Prioritize What Matters: Introducing Cloud Asset Context in Censys ASM</title>
+    <link>https://censys.com/blog/cloud-asset-context-in-censys-asm/</link>
+    <description>Security analysts investigate and prioritize risks every day. But once you find a critical exposure, the next question is often the hardest: Who owns this, and who can fix it? Especially within large enterprise environments, that answer is rarely obvious. Cloud infrastructure is fragmented across hundreds of accounts, subscriptions, and projects. Ownership is spread across teams, […] The post Prioritize What Matters: Introducing Cloud Asset Context in Censys ASM appeared first on Censys .</description>
+    <pubDate>Tue, 03 Feb 2026 18:14:44 GMT</pubDate>
+  </item>
+  <item>
+    <title>Hiding in Plain Sight: Tracking Bulletproof Hosting and Abused RDP Infrastructure</title>
+    <link>https://censys.com/blog/hiding-in-plain-sight-tracking-bulletproof-hosting-and-abused-rdp-infrastructure/</link>
+    <description>Executive Summary: What Is Bulletproof Hosting? Bulletproof hosting (often abbreviated as BPH) refers to hosting providers that knowingly enable malicious activity and consistently evade abuse complaints and takedown requests.  The operative word here is enable. Bulletproof infrastructure is not always the direct source of malicious traffic, but it plays a critical role in the cybercrime supply chain. […] The post Hiding in Plain Sight: Tracking Bulletproof Hosting and Abused RDP Infrastructure appeared first on Censys .</description>
+    <pubDate>Tue, 03 Feb 2026 17:49:41 GMT</pubDate>
+  </item>
+  <item>
+    <title>Voicemail Trap: German-Language Voicemail Lure Leads to Remote Access</title>
+    <link>https://censys.com/blog/voicemail-trap-german-language-voicemail-lure-leads-to-remote-access/</link>
+    <description>Executive Summary Introduction Censys observed 86 web properties delivering German-language voicemail themed lures that lead victims to download a BAT file, play a decoy audio message, and install Remotely RMM (remote monitoring and management). This emerging threat was first noted by Censys researchers on 01/12/26. Attack Chain Analysis 1. Voicemail Landing Page Victims are directed […] The post Voicemail Trap: German-Language Voicemail Lure Leads to Remote Access appeared first on Censys .</description>
+    <pubDate>Mon, 02 Feb 2026 17:47:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>OpenClaw in the Wild: Mapping the Public Exposure of a Viral AI Assistant</title>
+    <link>https://censys.com/blog/openclaw-in-the-wild-mapping-the-public-exposure-of-a-viral-ai-assistant/</link>
+    <description>During the last week of January 2026, the Internet latched onto the open-source personal AI assistant now known as OpenClaw. Designed to run locally with native integrations into tools like email, calendars, smart-home services and food delivery, OpenClaw has gained significant attention because of its ability to take actions beyond the limitations of traditional chat bots. […] The post OpenClaw in the Wild: Mapping the Public Exposure of a Viral AI Assistant appeared first on Censys .</description>
+    <pubDate>Sat, 31 Jan 2026 21:49:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>AsyncRAT C2 Activity at Internet Scale</title>
+    <link>https://censys.com/blog/asyncrat-c2-activity-at-internet-scale/</link>
+    <description>Executive Summary AsyncRAT is an open-source .NET remote access trojan (RAT) implemented in C# and first released publicly in 2019. AsyncRAT has since become widely adopted by criminal operators for persistent remote access, surveillance, and data theft. The malware supports remote command execution, file transfer, keylogging, screen capture, and credential harvesting, typically communicating with command-and-control […] The post AsyncRAT C2 Activity at Internet Scale appeared first on Censys .</description>
+    <pubDate>Thu, 29 Jan 2026 21:40:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Censys Recognized as One of the Most Popular New Integrations in the Wiz Integration Network (WIN) Partner Index</title>
+    <link>https://censys.com/blog/censys-recognized-as-one-of-the-most-popular-new-integrations-in-the-wiz-integration-network-win-partner-index/</link>
+    <description>ANN ARBOR, Mich. — Jan. 29, 2026 — Censys, the authority for Internet intelligence and insights, today announced its recognition in the inaugural WIN Partner Index 2025. This data-driven benchmark, published by cloud security leader Wiz, highlights the integrations that are essential to modern cybersecurity based on real-world adoption and impact. Censys ASM and Wiz: Delivering […] The post Censys Recognized as One of the Most Popular New Integrations in the Wiz Integration Network (WIN) Partner Index appeared first on Censys .</description>
+    <pubDate>Thu, 29 Jan 2026 21:26:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>A Tiny Peek Into Unauthenticated SOCKS Proxies</title>
+    <link>https://censys.com/blog/unauth-socks/</link>
+    <description>The SOCKS protocol has been around for a very long time, and it has been used as a proxy in many different ways. One of its more infamous capabilities is the ability to proxy arbitrary client traffic to arbitrary servers, effectively masking the true origin of a connection. This is why SOCKS is useful in […] The post A Tiny Peek Into Unauthenticated SOCKS Proxies appeared first on Censys .</description>
+    <pubDate>Mon, 26 Jan 2026 19:48:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Living Off the Web: How Trust Infrastructure Became a Malware Delivery Interface</title>
+    <link>https://censys.com/blog/living-off-the-web-how-trust-infrastructure-became-a-malware-delivery-interface/</link>
+    <description>Executive Summary The Fake Captcha ecosystem can look like a monolithic, coordinated campaign, but it is better understood as a fragmented, fast-changing abuse pattern that uses trusted web infrastructure as the delivery surface.  Perceptual hashing (pHash) across thousands of Fake Captcha pages observed in the Censys dataset identifies one dominant visual cluster, closely resembling legitimate […] The post Living Off the Web: How Trust Infrastructure Became a Malware Delivery Interface appeared first on Censys .</description>
+    <pubDate>Thu, 22 Jan 2026 19:29:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Analyst1 Blog (Custom Feed)</title>
+  <link>https://analyst1.com/category/blog/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:01:05 GMT</lastBuildDate>
+  <item>
+    <title>Analyst1 Blog — no items discovered</title>
+    <link>https://analyst1.com/category/blog/</link>
+    <description>Feed builder could not detect recent posts automatically.</description>
+    <pubDate>Fri, 20 Feb 2026 17:01:05 GMT</pubDate>
+  </item>
+</channel>
+</rss>

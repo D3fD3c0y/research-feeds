@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>TeamT5 Blog (Custom Feed)</title>
+  <link>https://teamt5.org/en/blog/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:11:50 GMT</lastBuildDate>
+  <item>
+    <title>BLOG</title>
+    <link>https://teamt5.org/en/blog/</link>
+    <description>BLOG</description>
+    <pubDate>Fri, 20 Feb 2026 17:11:50 GMT</pubDate>
+  </item>
+</channel>
+</rss>

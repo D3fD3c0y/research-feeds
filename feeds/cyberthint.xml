@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>CyberThint Resources (Custom Feed)</title>
+  <link>https://cyberthint.io/resources/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:04:45 GMT</lastBuildDate>
+  <item>
+    <title>ZeroDayRAT: A Next-Generation Mobile Espionage and Financial Theft Platform</title>
+    <link>https://cyberthint.io/zerodayrat-a-next-generation-mobile-espionage-and-financial-theft-platform/</link>
+    <description>The MaaS (Malware as a Service) model continues to evolve in the world of cybercrime. This new mobile spyware platform, dubbed "ZeroDayRAT" and examined by Cyberthint researchers, allows anyone without technical expertise to become an advanced cyber spy. The post ZeroDayRAT: A Next-Generation Mobile Espionage and Financial Theft Platform appeared first on Cyberthint .</description>
+    <pubDate>Tue, 17 Feb 2026 21:38:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Global Cyber Threat Intelligence Report – 2025 (with Further 2026 Predictions)</title>
+    <link>https://cyberthint.io/global-cyber-threat-intelligence-report-2025-with-further-2026-predictions/</link>
+    <description>This cyber threat intelligence report stats prepared by Cyberthint, which includes important cyber incidents that took place in 2025 at the global level, cases encountered by Cyberthint &amp; Seccops teams, observations and analysis, also includes threat predictions for 2026. The post Global Cyber Threat Intelligence Report – 2025 (with Further 2026 Predictions) appeared first on Cyberthint .</description>
+    <pubDate>Fri, 06 Feb 2026 12:58:48 GMT</pubDate>
+  </item>
+  <item>
+    <title>“There is a Lawsuit File Against You” Trap Targeting Turkish Users – Frogblight Android Banking Trojan Analysis</title>
+    <link>https://cyberthint.io/there-is-a-lawsuit-file-against-you-trap-targeting-turkish-users-frogblight-android-banking-trojan-analysis/</link>
+    <description>Attacks that exploit regional and cultural elements are on the rise in the cybercrime world. A new Android banking malware called "Frogblight" is running a sophisticated campaign specifically targeting Turkish users. This analysis covers the social engineering techniques used by Frogblight (fake applications disguised as e-Devlet/UYAP), its technical evolution, and the precautions that institutions/users should take. The post “There is a Lawsuit File Against You” Trap Targeting Turkish Users – Frogblight Android Banking Trojan Analysis appeared first on Cyberthint .</description>
+    <pubDate>Tue, 16 Dec 2025 22:56:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>Actively Attacks Observed on FortiGate Devices (CVE-2025-59718 &amp; CVE-2025-59719)</title>
+    <link>https://cyberthint.io/actively-attacks-observed-on-fortigate-devices-cve-2025-59718-cve-2025-59719/</link>
+    <description>In the cybersecurity world, the time between a "patch released" announcement and an "active attack started" warning is getting shorter and shorter. Two critical vulnerabilities (CVE-2025-59718 and CVE-2025-59719) affecting Fortinet devices, which Fortinet announced last week, were actively exploited by threat actors as of December 12, 2025, less than a week after their disclosure. The post Actively Attacks Observed on FortiGate Devices (CVE-2025-59718 &amp; CVE-2025-59719) appeared first on Cyberthint .</description>
+    <pubDate>Tue, 16 Dec 2025 15:46:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Critical Privilege Escalation Vulnerability in Plesk</title>
+    <link>https://cyberthint.io/critical-privilege-escalation-vulnerability-in-plesk/</link>
+    <description>A Local Privilege Escalation (LPE) vulnerability identified as CVE-2025-66430 with a CVSS 9.1 severity score has been detected in the widely used Plesk platform. This vulnerability allows any Plesk user with limited privileges to inject malicious data into the Apache configuration, enabling them to execute arbitrary commands on the server with root privileges. This poses a risk of cross-contamination to all server commands and customer data, particularly in shared hosting environments. The post Critical Privilege Escalation Vulnerability in Plesk appeared first on Cyberthint .</description>
+    <pubDate>Mon, 15 Dec 2025 21:03:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Strategic Breakdown Behind the CrowdStrike Incident and the Rising “ShinySp1d3r” Threat</title>
+    <link>https://cyberthint.io/the-strategic-breakdown-behind-the-crowdstrike-incident-and-the-rising-shinysp1d3r-threat/</link>
+    <description>On November 21, 2025, CrowdStrike, a leading company in the cybersecurity industry, announced that it had successfully neutralized an "insider" attempt to gain access to its systems. This incident goes beyond being an isolated case, signaling a radical shift in the operational strategy of the threat group identifying itself as "Scattered LAPSUS$ Hunters (SLH)". The post The Strategic Breakdown Behind the CrowdStrike Incident and the Rising “ShinySp1d3r” Threat appeared first on Cyberthint .</description>
+    <pubDate>Fri, 21 Nov 2025 22:11:39 GMT</pubDate>
+  </item>
+  <item>
+    <title>North Korean “Synthetic Employees”: Next-Generation Infiltration Operations Masked with Artificial Intelligence</title>
+    <link>https://cyberthint.io/north-korean-synthetic-employees-next-generation-infiltration-operations-masked-with-artificial-intelligence/</link>
+    <description>As of 2025, North Korea-linked threat actors are emerging not only through financial fraud but also through cyber infiltration strategies involving remote recruitment. In this case, the Lazarus threat actor's sub-group "Famous Chollima" attempted to secure a position at a Western tech company using fake resumes and AI-based facial filters. The post North Korean “Synthetic Employees”: Next-Generation Infiltration Operations Masked with Artificial Intelligence appeared first on Cyberthint .</description>
+    <pubDate>Sun, 09 Nov 2025 13:44:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>Updated MuddyWater Analysis – MuddyWater Uses Compromised Mail Accounts for Global Phishing Campaigns</title>
+    <link>https://cyberthint.io/updated-muddywater-analysis-2025/</link>
+    <description>The Iran-backed MuddyWater (TA450) APT group has escalated its cyber espionage operations targeting government, diplomatic, and energy entities in the MENA region (including Turkey) using an advanced toolkit. The post Updated MuddyWater Analysis – MuddyWater Uses Compromised Mail Accounts for Global Phishing Campaigns appeared first on Cyberthint .</description>
+    <pubDate>Fri, 24 Oct 2025 16:08:24 GMT</pubDate>
+  </item>
+  <item>
+    <title>Windows RasMan 0-Day (CVE-2025-59230)</title>
+    <link>https://cyberthint.io/windows-rasman-0-day-cve-2025-59230-vulnerability/</link>
+    <description>Windows RasMan 0-Day (CVE-2025-59230): Actively Exploited Vulnerability Patched, But Risk Remains The CVE-2025-59230 vulnerability, which was fixed as part of Microsoft‘s October 2025 Patch Tuesday update, was a 0-day vulnerability discovered and actively exploited in the Remote Access Connection Manager (RasMan) component of Windows. The vulnerability was due to a local privilege escalation (EoP) flaw that allowed attackers to gain “SYSTEM” level privileges from a low-privilege user account. Microsoft has released a patch to close this vulnerability; however, systems that have not been patched are still at serious risk. The post Windows RasMan 0-Day (CVE-2025-59230) appeared first on Cyberthint .</description>
+    <pubDate>Wed, 15 Oct 2025 14:09:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>Activity Report of Ransomware Groups – July 2024</title>
+    <link>https://cyberthint.io/activity-report-of-ransomware-groups-july-2024/</link>
+    <description>Cyberthint threat hunters have created a monthly report on ransomware activity by tracking ransomware groups‘ posts on their official leak sites on the DarkWeb. The post Activity Report of Ransomware Groups – July 2024 appeared first on Cyberthint .</description>
+    <pubDate>Mon, 05 Aug 2024 21:17:27 GMT</pubDate>
+  </item>
+</channel>
+</rss>

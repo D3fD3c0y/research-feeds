@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>DarkAtlas Blog (Custom Feed)</title>
+  <link>https://darkatlas.io/blog</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:05:35 GMT</lastBuildDate>
+  <item>
+    <title>The Ransomware Ecosystem: Roles, Tools, and How Modern RaaS Attacks Work</title>
+    <link>https://darkatlas.io/blog/the-ransomware-ecosystem-roles-tools-and-how-modern-raas-attacks-work</link>
+    <description>The Ransomware Ecosystem: Roles, Tools, and How Modern RaaS Attacks Work</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>Smishing Triad Targets Egypt’s Financial Sector and Postal Services</title>
+    <link>https://darkatlas.io/blog/smishing-triad-targets-egypts-financial-sector-and-postal-services</link>
+    <description>Smishing Triad Targets Egypt’s Financial Sector and Postal Services</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Profile: APT35 (Charming Kitten)</title>
+    <link>https://darkatlas.io/blog/inside-apt35-irans-state-sponsored-cyber-espionage</link>
+    <description>Threat Profile: APT35 (Charming Kitten)</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:35 GMT</pubDate>
+  </item>
+</channel>
+</rss>

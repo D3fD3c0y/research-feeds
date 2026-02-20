@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Tanium Blog (Custom Feed)</title>
+  <link>https://www.tanium.com/p/tanium-blog</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:11:27 GMT</lastBuildDate>
+  <item>
+    <title>View all</title>
+    <link>https://www.tanium.com/resources/</link>
+    <description>View all</description>
+    <pubDate>Fri, 20 Feb 2026 17:11:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>Analyst ReportTanium named Leader and furthest in Completeness of Vision.Download now</title>
+    <link>https://www.tanium.com/resources/gartner-magic-quadrant-endpoint-management-tools-2026/</link>
+    <description>Analyst ReportTanium named Leader and furthest in Completeness of Vision.Download now</description>
+    <pubDate>Fri, 20 Feb 2026 17:11:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>Reports</title>
+    <link>https://www.tanium.com/p/reports/</link>
+    <description>Reports</description>
+    <pubDate>Fri, 20 Feb 2026 17:11:27 GMT</pubDate>
+  </item>
+</channel>
+</rss>

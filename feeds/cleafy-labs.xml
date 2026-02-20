@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Cleafy Labs (Custom Feed)</title>
+  <link>https://cleafy.com/labs</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:04:10 GMT</lastBuildDate>
+  <item>
+    <title>Documents</title>
+    <link>https://cleafy.com/resources/documents</link>
+    <description>Documents</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Insights</title>
+    <link>https://cleafy.com/resources/insights</link>
+    <description>Insights</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>LABS Reports</title>
+    <link>https://cleafy.com/labs</link>
+    <description>LABS Reports</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Malware-as-a-Service</title>
+    <link>https://cleafy.com/labs-category/malware-as-a-service</link>
+    <description>Malware-as-a-Service</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>NFC</title>
+    <link>https://cleafy.com/labs-category/nfc</link>
+    <description>NFC</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>ToxicPanda</title>
+    <link>https://cleafy.com/labs-category/toxicpanda</link>
+    <description>ToxicPanda</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>ATO</title>
+    <link>https://cleafy.com/labs-category/ato</link>
+    <description>ATO</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>PixPirate</title>
+    <link>https://cleafy.com/labs-category/pixpirate</link>
+    <description>PixPirate</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Banker</title>
+    <link>https://cleafy.com/labs-category/banker</link>
+    <description>Banker</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>SharkBot</title>
+    <link>https://cleafy.com/labs-category/sharkbot</link>
+    <description>SharkBot</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Android</title>
+    <link>https://cleafy.com/labs-category/android</link>
+    <description>Android</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Subscribe now</title>
+    <link>https://cleafy.com/labs/subscribe</link>
+    <description>Subscribe now</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:10 GMT</pubDate>
+  </item>
+</channel>
+</rss>

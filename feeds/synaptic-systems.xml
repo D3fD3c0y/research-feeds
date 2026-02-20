@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Synaptic Systems Blog (Custom Feed)</title>
+  <link>https://blog.synapticsystems.de</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:03:32 GMT</lastBuildDate>
+  <item>
+    <title>APT28: Geofencing as a Targeting Signal (CVE-2026-21509 Campaign)</title>
+    <link>https://blog.synapticsystems.de/apt28-geofencing-as-a-targeting-signal-cve-2026-21509/</link>
+    <description>by Robin Dost EDIT: 04.02.2026: I have YARA Rules available for detection, contact me at contact@robin-dost.de if you need them. Since the beginning of this year, we have again observed an increased number of attacks by APT28 targeting various European countries. In multiple campaigns, the group actively leverages the Microsoft Office vulnerability CVE-2026-21509 as an […] The post APT28: Geofencing as a Targeting Signal (CVE-2026-21509 Campaign) appeared first on Synaptic Security Blog .</description>
+    <pubDate>Tue, 03 Feb 2026 09:17:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>Actor-Centric Defensive Prioritization (ACDP)</title>
+    <link>https://blog.synapticsystems.de/actor-centric-defensive-prioritization-acdp/</link>
+    <description>by Robin Dost Introduction Much of my previous work has focused on understanding threat actors not through individual malware samples alone, but through infrastructure, operational behavior, and strategic intent. Over time, a recurring problem became increasingly difficult to ignore: While our visibility into attacker tradecraft continues to improve, our ability to decide what to defend […] The post Actor-Centric Defensive Prioritization (ACDP) appeared first on Synaptic Security Blog .</description>
+    <pubDate>Sat, 31 Jan 2026 13:13:25 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why Is a North Korean Mail Server Using a .cc Domain? – Threat Intelligence Beyond Malware</title>
+    <link>https://blog.synapticsystems.de/why-is-a-north-korean-mail-server-using-a-cc-domain-threat-intelligence-beyond-malware/</link>
+    <description>by Robin Dost Today I stumbled over a rather accidental finding during a routine analysis of North Korean infrastructure that I would like to share with you.Since North Korea does not exactly use the internet for legitimate purposes and is well known for a long history of attacks against (critical) infrastructure, I consider it reasonable […] The post Why Is a North Korean Mail Server Using a .cc Domain? – Threat Intelligence Beyond Malware appeared first on Synaptic Security Blog .</description>
+    <pubDate>Tue, 27 Jan 2026 15:56:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>RustyStealer: Your Compiler Is Snitching on You</title>
+    <link>https://blog.synapticsystems.de/rustystealer-your-compiler-is-snitching-on-you/</link>
+    <description>by Robin Dost As already mentioned in my last MuddyWater article, I originally planned to take a closer look at the remaining RustyWater samples in the hope of finding additional leftover artefacts. But: writing a pure “let’s grep a few more binaries for leftovers” follow-up article sounded painfully boring, both to read and to write. […] The post RustyStealer: Your Compiler Is Snitching on You appeared first on Synaptic Security Blog .</description>
+    <pubDate>Thu, 15 Jan 2026 20:47:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>Gamaredon: Now Downloading via Windows Updates Best Friend “BITS”</title>
+    <link>https://blog.synapticsystems.de/gamaredon-now-downloading-via-windows-updates-best-friend/</link>
+    <description>by Robin Dost There’s yet another update in Gamaredons GamaLoad scripts, which pushed me to write this article and to slightly revisit my previous post “Defending Against Gamaredon: Practical Controls That Actually Work“. In this article, I distinguish between GamaLoad and Pterodo. I still consider GamaLoad a transitional stage, primarily implemented as a defensive layer […] The post Gamaredon: Now Downloading via Windows Updates Best Friend “BITS” appeared first on Synaptic Security Blog .</description>
+    <pubDate>Tue, 13 Jan 2026 14:04:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>MuddyWater: When Your Build System Becomes an IOC – “Jacob”</title>
+    <link>https://blog.synapticsystems.de/muddywater-when-your-build-system-becomes-an-ioc/</link>
+    <description>by Robin Dost EDIT 2026-01-18: I published a follow-up article analyzing the evolution and version history of the latest RustyStealer samples, focusing on change tracking, tooling evolution, and architectural shifts across multiple builds Today I was bored, so I decided to take a short break from Russian threat actors and spend a day with our […] The post MuddyWater: When Your Build System Becomes an IOC – “Jacob” appeared first on Synaptic Security Blog .</description>
+    <pubDate>Sat, 10 Jan 2026 22:41:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Defending Against Gamaredon: Practical Controls That Actually Work</title>
+    <link>https://blog.synapticsystems.de/how-to-defend-against-gamaredon/</link>
+    <description>by Robin Dost This is the result of a lengthy analysis and study of the Gamaredon UAC-0010 group. I recommend reading my previous articles for more context. Defending against Gamaredon is uncomfortable not because the group uses particularly advanced malware, but because it forces defenders to question many assumptions that modern security strategies are built […] The post Defending Against Gamaredon: Practical Controls That Actually Work appeared first on Synaptic Security Blog .</description>
+    <pubDate>Tue, 06 Jan 2026 21:26:14 GMT</pubDate>
+  </item>
+  <item>
+    <title>Gamaredon: Same Goal, Fewer Fingerprints</title>
+    <link>https://blog.synapticsystems.de/gamaredon-same-goal-fewer-fingerprints/</link>
+    <description>by Robin Dost In malware analysis, it is tempting to describe change as innovation.New tricks, new tooling, new malware families.What is far more revealing, however, is how little actually changes and what changes anyway. Between late November and the end of December 2025, several Gamaredon-related VBScript loaders surfaced that are, functionally, almost identical. They all […] The post Gamaredon: Same Goal, Fewer Fingerprints appeared first on Synaptic Security Blog .</description>
+    <pubDate>Mon, 05 Jan 2026 15:42:53 GMT</pubDate>
+  </item>
+  <item>
+    <title>GamaWiper Explained: Gamaredon’s “New” Anti-Analysis Weapon</title>
+    <link>https://blog.synapticsystems.de/gamawiper-explained-gamaredon-anti-analysis/</link>
+    <description>by Robin Dost After my recent blog posts covering Gamaredon’s ongoing PterodoGraph campaign targeting Ukraine, and following almost a full month of silence in terms of newly observed malware samples, fresh activity has finally resurfaced. New samples have appeared, along with reports pointing to a component now referred to as GamaWiper. It is important to […] The post GamaWiper Explained: Gamaredon’s “New” Anti-Analysis Weapon appeared first on Synaptic Security Blog .</description>
+    <pubDate>Mon, 22 Dec 2025 17:33:54 GMT</pubDate>
+  </item>
+  <item>
+    <title>QuasarRAT Malware Campaign using CVE-2025-6218</title>
+    <link>https://blog.synapticsystems.de/quasarrat-malware-campaign-using-cve-2025-6218/</link>
+    <description>I am currently analyzing the recent surge of malware samples exploiting the WinRAR vulnerability CVE-2025-6218. During this research, I found a new sample on abuse.ch which appears to be part of a small QuasarRAT malware campaign. What is CVE-2025-6218? (Short summary for this analysis) This vulnerability enables: The exploit relies on: The SHA256 hash of […] The post QuasarRAT Malware Campaign using CVE-2025-6218 appeared first on Synaptic Security Blog .</description>
+    <pubDate>Tue, 02 Dec 2025 20:18:09 GMT</pubDate>
+  </item>
+</channel>
+</rss>

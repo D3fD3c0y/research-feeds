@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>ZENSEC Blog (Custom Feed)</title>
+  <link>https://zensec.co.uk/blog/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:12:46 GMT</lastBuildDate>
+  <item>
+    <title>What UK organisations get wrong about incident response retainers</title>
+    <link>https://zensec.co.uk/blog/what-uk-organisations-get-wrong-about-incident-response-retainers/</link>
+    <description>What UK organisations get wrong about incident response retainers</description>
+    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>Ransomware without encryption: the rise of pure data extortion</title>
+    <link>https://zensec.co.uk/blog/ransomware-without-encryption-the-rise-of-pure-data-extortion/</link>
+    <description>Ransomware without encryption: the rise of pure data extortion</description>
+    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why MFA alone isn’t stopping ransomware in 2026 (and what attackers do instead)</title>
+    <link>https://zensec.co.uk/blog/why-mfa-alone-isnt-stopping-ransomware-in-2026-and-what-attackers-do-instead/</link>
+    <description>Why MFA alone isn’t stopping ransomware in 2026 (and what attackers do instead)</description>
+    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>EDR vs XDR: what’s the difference, and which one do you actually need?</title>
+    <link>https://zensec.co.uk/blog/edr-vs-xdr-whats-the-difference-and-which-one-do-you-actually-need/</link>
+    <description>EDR vs XDR: what’s the difference, and which one do you actually need?</description>
+    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>SIEM vs SOAR</title>
+    <link>https://zensec.co.uk/blog/siem-vs-soar/</link>
+    <description>SIEM vs SOAR</description>
+    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>Living off the land: how legitimate tools are powering modern ransomware intrusions in the UK</title>
+    <link>https://zensec.co.uk/blog/living-off-the-land-how-legitimate-tools-are-powering-modern-ransomware-intrusions-in-the-uk/</link>
+    <description>Living off the land: how legitimate tools are powering modern ransomware intrusions in the UK</description>
+    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cyber security regulation and global governance</title>
+    <link>https://zensec.co.uk/blog/cyber-security-regulation-and-global-governance/</link>
+    <description>Cyber security regulation and global governance</description>
+    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>RTO vs. RPO for disaster recovery: the critical metrics explained</title>
+    <link>https://zensec.co.uk/blog/rto-vs-rpo-for-disaster-recovery-the-critical-metrics-explained/</link>
+    <description>RTO vs. RPO for disaster recovery: the critical metrics explained</description>
+    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>Incident response tabletop exercise checklist</title>
+    <link>https://zensec.co.uk/blog/incident-response-tabletop-exercise-checklist/</link>
+    <description>Incident response tabletop exercise checklist</description>
+    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>3-2-1-1 backup strategy for ransomware defence</title>
+    <link>https://zensec.co.uk/blog/3-2-1-1-backup-strategy-for-ransomware-defence/</link>
+    <description>3-2-1-1 backup strategy for ransomware defence</description>
+    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blog</title>
+    <link>https://zensec.co.uk/blog/</link>
+    <description>Blog</description>
+    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>2</title>
+    <link>https://zensec.co.uk/blog/page/2/</link>
+    <description>2</description>
+    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>7</title>
+    <link>https://zensec.co.uk/blog/page/7/</link>
+    <description>7</description>
+    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+  </item>
+</channel>
+</rss>

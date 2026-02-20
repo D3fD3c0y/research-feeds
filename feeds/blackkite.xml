@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Black Kite Blog (Custom Feed)</title>
+  <link>https://blackkite.com/blog</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:03:08 GMT</lastBuildDate>
+  <item>
+    <title>2025 Third-Party Breach Report: The Silent Breach: How Third Parties Became the Biggest Cyber Threat in 2024Discover how third-party breaches became 2024's top cyber threat. Get key insights and strategies from Black Kite’s 2025 Third-Party Breach Report.</title>
+    <link>https://blackkite.com/reports/black-kite-third-party-breach-report-2025</link>
+    <description>2025 Third-Party Breach Report: The Silent Breach: How Third Parties Became the Biggest Cyber Threat in 2024Discover how third-party breaches became 2024's top cyber threat. Get key insights and strategies from Black Kite’s 2025 Third-Party Breach Report.</description>
+    <pubDate>Fri, 20 Feb 2026 17:03:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>2025 Ransomware Report: How Ransomware Wars Threaten Third-Party Cyber EcosystemsGet the latest ransomware data. The 2025 Ransomware Report analyzes a 24% surge in attacks, SMB targets, and the growing risk to third-party vendor ecosystems.</title>
+    <link>https://blackkite.com/reports/2025-ransomware-report</link>
+    <description>2025 Ransomware Report: How Ransomware Wars Threaten Third-Party Cyber EcosystemsGet the latest ransomware data. The 2025 Ransomware Report analyzes a 24% surge in attacks, SMB targets, and the growing risk to third-party vendor ecosystems.</description>
+    <pubDate>Fri, 20 Feb 2026 17:03:08 GMT</pubDate>
+  </item>
+</channel>
+</rss>

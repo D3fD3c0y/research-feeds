@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Hornetsecurity Blog (Custom Feed)</title>
+  <link>https://www.hornetsecurity.com/en/blog/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:07:52 GMT</lastBuildDate>
+  <item>
+    <title>Inside the Email Threat Landscape: How Hornetsecurity Uncovers Real-World Attacks</title>
+    <link>https://www.hornetsecurity.com/en/blog/email-threat-landscape-analysis/</link>
+    <description>At Hornetsecurity, our Threat Research and Response activities continuously analyze real-world email attacks observed across global customer environments. This article shares what we see from the front lines, based on months of investigation.</description>
+    <pubDate>Tue, 10 Feb 2026 10:00:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Monthly Threat Report February 2026</title>
+    <link>https://www.hornetsecurity.com/en/blog/monthly-threat-report/</link>
+    <description>The Monthly Threat Report by Hornetsecurity brings you monthly insights into M365 security trends, email-based threats, and commentary on current events in the cybersecurity space. This edition of the Monthly Threat Report focuses on data and industry events from the month of January 2026.</description>
+    <pubDate>Tue, 10 Feb 2026 09:16:28 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why Recent Cyber Attacks in France Are a Wake-Up Call for Every Business</title>
+    <link>https://www.hornetsecurity.com/en/blog/france-cyber-attacks/</link>
+    <description>Every business is under siege as France has experienced a series of high-impact incidents that have made headlines well beyond the security community. For IT leaders and Microsoft 365 admins, these French cyberattacks can serve as useful case studies.</description>
+    <pubDate>Mon, 02 Feb 2026 13:52:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cybersecurity Best Practices Every Business Needs to Follow Today</title>
+    <link>https://www.hornetsecurity.com/en/blog/cybersecurity-best-practices/</link>
+    <description>Cybersecurity isn’t just an IT concern anymore, gone are the days when a ‘seasoned’ system administrator was hardening the infrastructure based on a random tip from some guy on Reddit, it is a business continuity issue, a compliance issue and now an increasingly, a human issue.</description>
+    <pubDate>Mon, 26 Jan 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The SharePoint Iceberg: Permission Links and the Risk Beneath the Surface</title>
+    <link>https://www.hornetsecurity.com/en/blog/sharepoint-iceberg/</link>
+    <description>In this article we’ll look at the risks, the current state of various attacks against this underlying document storage substrate, and what you can do about it.</description>
+    <pubDate>Wed, 21 Jan 2026 10:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why Backing Up Entra ID is Critical for Every IT Admin</title>
+    <link>https://www.hornetsecurity.com/en/blog/entra-id-backup/</link>
+    <description>This blog explores why backup of Entra ID is now a critical requirement for IT admins and Microsoft 365 partners, what can go wrong without it, and how 365 Total Backup by Hornetsecurity solves this growing risk when combined with your broader Microsoft 365 backup strategy.</description>
+    <pubDate>Wed, 14 Jan 2026 10:00:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>Monthly Threat Report January 2026</title>
+    <link>https://www.hornetsecurity.com/en/blog/monthly-threat-report-january-2026/</link>
+    <description>The Monthly Threat Report by Hornetsecurity brings you monthly insights into M365 security trends, email-based threats, and commentary on current events in the cybersecurity space. This edition of the Monthly Threat Report focuses on data from the month of December 2025.</description>
+    <pubDate>Tue, 13 Jan 2026 08:25:58 GMT</pubDate>
+  </item>
+  <item>
+    <title>An Analysis of the Major Security Incidents and Cybersecurity News of 2025</title>
+    <link>https://www.hornetsecurity.com/en/blog/cybersecurity-incidents/</link>
+    <description>In this article, we will walk you through the most significant incidents between 2024 and 2025. More importantly, we will explain what these incidents reveal about gaps in today’s defenses and incident response plans.</description>
+    <pubDate>Wed, 07 Jan 2026 10:00:24 GMT</pubDate>
+  </item>
+  <item>
+    <title>How to Prepare Your Organization for a Ransomware Response Plan</title>
+    <link>https://www.hornetsecurity.com/en/blog/ransomware-response-plan/</link>
+    <description>Preparing and maintaining a well thought out ransomware response plan allows your organization to respond proactively to ransomware attacks. This preparation can significantly reduce the impact of a Ransomware incident and increase the chances of data recovery. We don’t want to end up with a brick to the face.</description>
+    <pubDate>Tue, 23 Dec 2025 08:00:18 GMT</pubDate>
+  </item>
+</channel>
+</rss>

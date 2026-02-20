@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Obsidian Security Blog (Custom Feed)</title>
+  <link>https://www.obsidiansecurity.com/blog</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:09:20 GMT</lastBuildDate>
+  <item>
+    <title>Knowledge Graph</title>
+    <link>https://www.obsidiansecurity.com/blog/from-saas-sprawl-to-a-knowledge-graph</link>
+    <description>Knowledge Graph</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>SaaS Supply ChainObsidian Security for the modern SaaS Supply Chain4MINJanuary 22, 2026</title>
+    <link>https://www.obsidiansecurity.com/blog/supply-chain-security-for-modern-saas</link>
+    <description>SaaS Supply ChainObsidian Security for the modern SaaS Supply Chain4MINJanuary 22, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Security GuidanceThe new attack surface: OAuth Token Abuse7MINJanuary 6, 2026</title>
+    <link>https://www.obsidiansecurity.com/blog/the-new-attack-surface-oauth-token-abuse</link>
+    <description>Security GuidanceThe new attack surface: OAuth Token Abuse7MINJanuary 6, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Product SpotlightsObsidian Security Announces Integration with Microsoft Sentinel to Bolster Enterprise SaaS Security7MINDecember 11, 2025</title>
+    <link>https://www.obsidiansecurity.com/blog/obsidian-microsoft-sentinel</link>
+    <description>Product SpotlightsObsidian Security Announces Integration with Microsoft Sentinel to Bolster Enterprise SaaS Security7MINDecember 11, 2025</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>SaaS Supply ChainWhat is Token Theft? OAuth, Session &amp; API Token Attacks Explained10MINFebruary 6, 2026</title>
+    <link>https://www.obsidiansecurity.com/blog/what-is-token-theft-oauth-session-api-token-attacks-explained</link>
+    <description>SaaS Supply ChainWhat is Token Theft? OAuth, Session &amp; API Token Attacks Explained10MINFebruary 6, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>SaaS Supply ChainWhat is API Security? Protecting the Hidden Layer Between SaaS Apps15MINFebruary 5, 2026</title>
+    <link>https://www.obsidiansecurity.com/blog/what-is-api-security-fundamental-strategies-for-saas-integrations</link>
+    <description>SaaS Supply ChainWhat is API Security? Protecting the Hidden Layer Between SaaS Apps15MINFebruary 5, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>SaaS Supply ChainWhat is Webhook Security: Securing SaaS Integrations in 202615MINFebruary 4, 2026</title>
+    <link>https://www.obsidiansecurity.com/blog/what-is-webhook-security-securing-saas-integrations-2026</link>
+    <description>SaaS Supply ChainWhat is Webhook Security: Securing SaaS Integrations in 202615MINFebruary 4, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>SaaS Supply ChainSaaS Attack Techniques: How Threat Actors Compromise SaaS Applications10MINFebruary 4, 2026</title>
+    <link>https://www.obsidiansecurity.com/blog/saas-attack-techniques-threat-actors</link>
+    <description>SaaS Supply ChainSaaS Attack Techniques: How Threat Actors Compromise SaaS Applications10MINFebruary 4, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>SaaS Supply ChainWhat are OAuth Tokens? How It Works, and Its Vulnerabilities10MINFebruary 4, 2026</title>
+    <link>https://www.obsidiansecurity.com/blog/what-are-oauth-tokens-vulnerabilities</link>
+    <description>SaaS Supply ChainWhat are OAuth Tokens? How It Works, and Its Vulnerabilities10MINFebruary 4, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>SaaS Supply ChainWhat is Account Takeover? ATO Attacks Explained10MINFebruary 4, 2026</title>
+    <link>https://www.obsidiansecurity.com/blog/account-takeover-ato-attacks-explained</link>
+    <description>SaaS Supply ChainWhat is Account Takeover? ATO Attacks Explained10MINFebruary 4, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>SaaS Supply ChainWhat Are Refresh Tokens and How to Use Them Securely10MINFebruary 4, 2026</title>
+    <link>https://www.obsidiansecurity.com/blog/what-are-refresh-tokens-secure-usage</link>
+    <description>SaaS Supply ChainWhat Are Refresh Tokens and How to Use Them Securely10MINFebruary 4, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>SaaS Supply ChainWhat Are Machine Identities? Security Risks &amp; Management Guide10MINFebruary 4, 2026</title>
+    <link>https://www.obsidiansecurity.com/blog/what-are-machine-identities-security-risks-management</link>
+    <description>SaaS Supply ChainWhat Are Machine Identities? Security Risks &amp; Management Guide10MINFebruary 4, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>SaaS Supply ChainWhat Are Non-Human Identities? The Complete Guide to NHI Security10MINFebruary 4, 2026</title>
+    <link>https://www.obsidiansecurity.com/blog/what-are-non-human-identities-nhi-security-guide</link>
+    <description>SaaS Supply ChainWhat Are Non-Human Identities? The Complete Guide to NHI Security10MINFebruary 4, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>SaaS Supply ChainSaaS Supply Chain Security vs Software Supply Chain Security: What CISOs Need to Know10MINFebruary 4, 2026</title>
+    <link>https://www.obsidiansecurity.com/blog/saas-supply-chain-security-vs-software-supply-chain</link>
+    <description>SaaS Supply ChainSaaS Supply Chain Security vs Software Supply Chain Security: What CISOs Need to Know10MINFebruary 4, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>SaaS Supply ChainService Account Security Best Practices to Secure Non-Human Identities10MINFebruary 4, 2026</title>
+    <link>https://www.obsidiansecurity.com/blog/service-account-security-best-practices</link>
+    <description>SaaS Supply ChainService Account Security Best Practices to Secure Non-Human Identities10MINFebruary 4, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:20 GMT</pubDate>
+  </item>
+</channel>
+</rss>

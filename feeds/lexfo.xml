@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>LEXFO Blog (Custom Feed)</title>
+  <link>https://blog.lexfo.fr/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:03:24 GMT</lastBuildDate>
+  <item>
+    <title>Binary ExploitationPwning Supercomputers - A 20yo vulnerability in MungeThu 12 February 2026Exploiting Heap Buffer Overflow in the authentication daemon used by most High Performance Computer.Read more</title>
+    <link>https://blog.lexfo.fr/munge-heap-buffer-overflow.html</link>
+    <description>Binary ExploitationPwning Supercomputers - A 20yo vulnerability in MungeThu 12 February 2026Exploiting Heap Buffer Overflow in the authentication daemon used by most High Performance Computer.Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:03:24 GMT</pubDate>
+  </item>
+  <item>
+    <title>Ambionics / Web ExploitationAttacking WSO2 ProductsThu 11 September 2025Uncovering bypasses, RCE, SSRF, CSRF, and account-takeover vulnerabilities in WSO2 products.Read more</title>
+    <link>https://blog.lexfo.fr/wso2.html</link>
+    <description>Ambionics / Web ExploitationAttacking WSO2 ProductsThu 11 September 2025Uncovering bypasses, RCE, SSRF, CSRF, and account-takeover vulnerabilities in WSO2 products.Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:03:24 GMT</pubDate>
+  </item>
+  <item>
+    <title>Network / ToolingSniffing established BLE connections with HackRF OneMon 01 September 2025Tracking already-established BLE connections using SDR has its own challenges. With custom firmware and multi-channel listening, the presented approach quickly deduces the hidden hopping parameters needed to follow the connection.Read more</title>
+    <link>https://blog.lexfo.fr/sniffing-ble-sdr.html</link>
+    <description>Network / ToolingSniffing established BLE connections with HackRF OneMon 01 September 2025Tracking already-established BLE connections using SDR has its own challenges. With custom firmware and multi-channel listening, the presented approach quickly deduces the hidden hopping parameters needed to follow the connection.Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:03:24 GMT</pubDate>
+  </item>
+  <item>
+    <title>CTIAnalysis of Secp0 RansomwareTue 15 July 2025The article analyzes the Secp0 ransomware, which emerged in early 2025 and operates as conventional double-extortion ransomware, encrypting data while threatening public disclosure, targeting Linux systems.Read more</title>
+    <link>https://blog.lexfo.fr/analysis-of-secp0-ransomware.html</link>
+    <description>CTIAnalysis of Secp0 RansomwareTue 15 July 2025The article analyzes the Secp0 ransomware, which emerged in early 2025 and operates as conventional double-extortion ransomware, encrypting data while threatening public disclosure, targeting Linux systems.Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:03:24 GMT</pubDate>
+  </item>
+  <item>
+    <title>CTIWorld Leaks: An Extortion PlatformTue 20 May 2025This article provides an analysis of World Leaks, a new extortion platform that emerged in early 2025, detailing its origins, operational challenges, and collaborations with other threat actors.Read more</title>
+    <link>https://blog.lexfo.fr/world-leaks-an-extortion-platform.html</link>
+    <description>CTIWorld Leaks: An Extortion PlatformTue 20 May 2025This article provides an analysis of World Leaks, a new extortion platform that emerged in early 2025, detailing its origins, operational challenges, and collaborations with other threat actors.Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:03:24 GMT</pubDate>
+  </item>
+  <item>
+    <title>Ambionics / Web ExploitationPre-authentication SQL injection to RCE in GLPI (CVE-2025-24799/CVE-2025-24801)Wed 12 March 2025Exploitation of multiple vulnerabilities in GLPI to gain remote code execution from unauthenticated privileges.Read more</title>
+    <link>https://blog.lexfo.fr/glpi-sql-to-rce.html</link>
+    <description>Ambionics / Web ExploitationPre-authentication SQL injection to RCE in GLPI (CVE-2025-24799/CVE-2025-24801)Wed 12 March 2025Exploitation of multiple vulnerabilities in GLPI to gain remote code execution from unauthenticated privileges.Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:03:24 GMT</pubDate>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>CyberArmor Blog (Custom Feed)</title>
+  <link>https://cyberarmor.tech/blog</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:04:16 GMT</lastBuildDate>
+  <item>
+    <title>November 18, 2025Autumn Dragon: China-nexus APT Group Targets South East AsiaIn this report, we describe how we tracked for several months a sustained espionage campaign against the government, media, and news sectors in several countries including Laos, Cambodia, Singapore, the Philippines and Indonesia</title>
+    <link>https://cyberarmor.tech/blog/autumn-dragon-china-nexus-apt-group-targets-south-east-asia</link>
+    <description>November 18, 2025Autumn Dragon: China-nexus APT Group Targets South East AsiaIn this report, we describe how we tracked for several months a sustained espionage campaign against the government, media, and news sectors in several countries including Laos, Cambodia, Singapore, the Philippines and Indonesia</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>November 21, 2025Global Phishing Targeting Meta Business AccountsOur threat intelligence team investigated a phishing campaign impersonating Meta Business and Ads Manager support, using fake “policy violation” and “trademark rights” alerts to steal credentials, hijack ad accounts, and launch fraudulent campaigns</title>
+    <link>https://cyberarmor.tech/blog/global-phishing-targeting-meta-business-accounts</link>
+    <description>November 21, 2025Global Phishing Targeting Meta Business AccountsOur threat intelligence team investigated a phishing campaign impersonating Meta Business and Ads Manager support, using fake “policy violation” and “trademark rights” alerts to steal credentials, hijack ad accounts, and launch fraudulent campaigns</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>October 27, 2025TG-VoIP-001: Cryptocurrency-Based VoIP Infrastructure Promoted via TelegramOur threat hunting team uncovered a suspicious VoIP/SIP infrastructure tied to malicious activity on Telegram’s marketplace. This network advertises IP telephony for call centers but exhibits hallmarks of gray-market operations using cryptocurrency</title>
+    <link>https://cyberarmor.tech/blog/tg-voip-001-cryptocurrency-based-voip-infrastructure-promoted-via-telegram</link>
+    <description>October 27, 2025TG-VoIP-001: Cryptocurrency-Based VoIP Infrastructure Promoted via TelegramOur threat hunting team uncovered a suspicious VoIP/SIP infrastructure tied to malicious activity on Telegram’s marketplace. This network advertises IP telephony for call centers but exhibits hallmarks of gray-market operations using cryptocurrency</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>August 4, 2025How a Nigerian Hacker Uses AI to Build Cybercrime Tools and Launch Phishing AttacksOur platform collected and analyzed over 3,000 screenshots from a Nigerian-based cybercriminal, giving a special behind-the-scenes look into the daily operations of a modern threat actor, revealing how campaigns are built with the help of AI.</title>
+    <link>https://cyberarmor.tech/blog/how-a-nigerian-hacker-uses-ai-to-build-cybercrime-tools-and-launch-phishing-attacks</link>
+    <description>August 4, 2025How a Nigerian Hacker Uses AI to Build Cybercrime Tools and Launch Phishing AttacksOur platform collected and analyzed over 3,000 screenshots from a Nigerian-based cybercriminal, giving a special behind-the-scenes look into the daily operations of a modern threat actor, revealing how campaigns are built with the help of AI.</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>July 1, 2025Phishing Attack Targets Canadian Infrastructure on Canada DayOur systems detected a coordinated phishing campaign leveraging PDF-themed lures to harvest user email credentials. The attackers used socially engineered emails that mimicked service notifications, account updates, and login requests.</title>
+    <link>https://cyberarmor.tech/blog/phishing-attack-targets-canadian-infrastructure-on-canada-day</link>
+    <description>July 1, 2025Phishing Attack Targets Canadian Infrastructure on Canada DayOur systems detected a coordinated phishing campaign leveraging PDF-themed lures to harvest user email credentials. The attackers used socially engineered emails that mimicked service notifications, account updates, and login requests.</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>June 19, 2025Threat Insight: Cybercriminals Abusing Vercel to Deliver Remote Access MalwareCyberArmor has identified a phishing campaign leveraging Vercel, a legitimate frontend hosting platform, to distribute a malicious version of LogMeIn, a legitimate remote access tool, by cybercriminals to gain full control over victims’ machines.</title>
+    <link>https://cyberarmor.tech/blog/threat-insight-cybercriminals-abusing-vercel-to-deliver-remote-access-malware</link>
+    <description>June 19, 2025Threat Insight: Cybercriminals Abusing Vercel to Deliver Remote Access MalwareCyberArmor has identified a phishing campaign leveraging Vercel, a legitimate frontend hosting platform, to distribute a malicious version of LogMeIn, a legitimate remote access tool, by cybercriminals to gain full control over victims’ machines.</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>May 8, 2025Hacker Exploits Social Security Statement Theme to Target Over 2,000 Victims with MalwareIn a recent campaign uncovered by CyberArmor analysts, cybercriminals exploited the official them of the Social Security Administration (SSA) in a convincing phishing lure that deceived over 2,000 individuals into downloading malware.</title>
+    <link>https://cyberarmor.tech/blog/hacker-exploit-social-security-statement-theme-to-target-over-2-000-victims-with-malware</link>
+    <description>May 8, 2025Hacker Exploits Social Security Statement Theme to Target Over 2,000 Victims with MalwareIn a recent campaign uncovered by CyberArmor analysts, cybercriminals exploited the official them of the Social Security Administration (SSA) in a convincing phishing lure that deceived over 2,000 individuals into downloading malware.</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>April 1, 2025Uncovered: How Cybercriminals Scam Each Other Using Fake USDT Sender SoftwareSee how cybercriminals weaponized "FLASH USDT Sender" software. Our analysis reveals it's a sophisticated dropper that installs a suite of malware—including a stealer, clipper, and RDP grabber—for complete system control.</title>
+    <link>https://cyberarmor.tech/blog/uncovered-how-cybercriminals-scam-each-other-using-fake-usdt-sender-software-copy-feature</link>
+    <description>April 1, 2025Uncovered: How Cybercriminals Scam Each Other Using Fake USDT Sender SoftwareSee how cybercriminals weaponized "FLASH USDT Sender" software. Our analysis reveals it's a sophisticated dropper that installs a suite of malware—including a stealer, clipper, and RDP grabber—for complete system control.</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>February 11, 2025Inside a Malware Campaign: A Nigerian Hacker’s PerspectiveOn 02/07/2025, our platform obtained various screenshots taken from a malware stealer (infostealer) showing a cybercriminal, whom we believe to be from Nigeria (based on his IP address), performing various activities in a malware campaign.</title>
+    <link>https://cyberarmor.tech/blog/inside-a-malware-campaign-a-nigerian-hackers-perspective</link>
+    <description>February 11, 2025Inside a Malware Campaign: A Nigerian Hacker’s PerspectiveOn 02/07/2025, our platform obtained various screenshots taken from a malware stealer (infostealer) showing a cybercriminal, whom we believe to be from Nigeria (based on his IP address), performing various activities in a malware campaign.</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>December 4, 2024Investment Scam: The OperationsAn analysis of an active investment scam targeting individuals through online platforms. The scheme is disguised as either a job opportunity or a high-yield investment and uses sophisticated social engineering and cryptocurrency transactions.</title>
+    <link>https://cyberarmor.tech/blog/investment-scam-the-operations</link>
+    <description>December 4, 2024Investment Scam: The OperationsAn analysis of an active investment scam targeting individuals through online platforms. The scheme is disguised as either a job opportunity or a high-yield investment and uses sophisticated social engineering and cryptocurrency transactions.</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>November 11, 2024Understanding Coinbase Account CheckingAccount checking, also known as credential stuffing or account validation, is a tactic used by cybercriminals to verify whether certain accounts exist on a platform, typically depending on automated scripts and software.</title>
+    <link>https://cyberarmor.tech/blog/understanding-coinbase-account-checking</link>
+    <description>November 11, 2024Understanding Coinbase Account CheckingAccount checking, also known as credential stuffing or account validation, is a tactic used by cybercriminals to verify whether certain accounts exist on a platform, typically depending on automated scripts and software.</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>July 17, 2024White Snake: Latest Campaign With Multi-Stage Malware DropperThreat actors are constantly developing sophisticated methods to compromise systems. One of the latest threats is the Tax Invoice-themed campaign, which employs a multi-stage malware dropper to deliver the WhiteSnake malware stealer.</title>
+    <link>https://cyberarmor.tech/blog/white-snake-latest-campaign-with-multi-stage-malware-dropper</link>
+    <description>July 17, 2024White Snake: Latest Campaign With Multi-Stage Malware DropperThreat actors are constantly developing sophisticated methods to compromise systems. One of the latest threats is the Tax Invoice-themed campaign, which employs a multi-stage malware dropper to deliver the WhiteSnake malware stealer.</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>June 19, 2024New North Korean-Based BackdoorIn this paper we analyze a new threat campaign which is specifically focused on Aerospace and Defense companies: sectors appealing to multiple threat actors, but of particular interest to North Korean threat groups in other recent campaigns.</title>
+    <link>https://cyberarmor.tech/blog/new-north-korean-based-backdoor</link>
+    <description>June 19, 2024New North Korean-Based BackdoorIn this paper we analyze a new threat campaign which is specifically focused on Aerospace and Defense companies: sectors appealing to multiple threat actors, but of particular interest to North Korean threat groups in other recent campaigns.</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>May 6, 2024Account Takeover Through OTP Bots: The Latest Cyber ThreatThreats have evolved at an alarming rate, with attackers constantly finding new ways to exploit vulnerabilities and compromise user accounts. One is account takeover through OTP bots, posing a significant risk to individuals and businesses alike.</title>
+    <link>https://cyberarmor.tech/blog/account-takeover-through-otp-bots-the-latest-cyber-threat</link>
+    <description>May 6, 2024Account Takeover Through OTP Bots: The Latest Cyber ThreatThreats have evolved at an alarming rate, with attackers constantly finding new ways to exploit vulnerabilities and compromise user accounts. One is account takeover through OTP bots, posing a significant risk to individuals and businesses alike.</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>May 5, 2024Exploring the Evolution of Online Criminal Activity: A Dive into Modern CybercrimeCybercrime has evolved from isolated individuals to international networks. In this paper we delves into this evolution, highlighting the complexities of modern cybercriminal operations and the challenges they pose to law enforcement.</title>
+    <link>https://cyberarmor.tech/blog/exploring-the-evolution-of-online-criminal-activity-a-dive-into-modern-cybercrime</link>
+    <description>May 5, 2024Exploring the Evolution of Online Criminal Activity: A Dive into Modern CybercrimeCybercrime has evolved from isolated individuals to international networks. In this paper we delves into this evolution, highlighting the complexities of modern cybercriminal operations and the challenges they pose to law enforcement.</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:16 GMT</pubDate>
+  </item>
+</channel>
+</rss>

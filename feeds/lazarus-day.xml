@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Lazarus Day Reports (Custom Feed)</title>
+  <link>https://lazarus.day/reports/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:09:00 GMT</lastBuildDate>
+  <item>
+    <title>Ukrainian National Sentenced in ‘Laptop Farm’ Scheme That Generated Income for North Korean IT Workers</title>
+    <link>http://lazarus.day/reports/post/ukrainian-national-sentenced-in-laptop-farm-scheme-that-generated-income-for-north-korean-it-workers-W1kSN</link>
+    <description>Ukrainian National Sentenced in ‘Laptop Farm’ Scheme That Generated Income for North Korean IT Workers Thursday, February 19, 2026 For Immediate Release U.S. Attorney's Office, District of Columbia USADC.Media@usdoj.gov WASHINGTON – Oleksandr Didenko, 29, of Kyiv, Ukraine, was sentenced today in U.S. District Court to 60 months in prison in connection with a years-long scheme that stole the identities of U.S. citizens and sold them to North Korean workers so they could fraudulently gain employment at 40 U.S. companies, announced U.S. Attorney Jeanine Ferris Pirro. Didenko, aka “Alexander Didenko,” pleaded guilty Nov. 10, 2025, before Judge Randolph D. Moss to wire fraud conspiracy and aggravated identity theft. Didenko agreed to forfeit more than $1.4 million, which includes approximately $181,438 in …</description>
+    <pubDate>Wed, 18 Feb 2026 15:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>GitLab Threat Intelligence Team reveals North Korean tradecraft</title>
+    <link>http://lazarus.day/reports/post/gitlab-threat-intelligence-team-reveals-north-korean-tradecraft-cknZE</link>
+    <description>Published on: February 19, 2026 96 min read Gain threat intelligence about North Koreaâs Contagious Interview and fake IT worker campaigns and learn how GitLab disrupted their operations. Weâre sharing intelligence on threat actors associated with North Korean Contagious Interview and IT worker campaigns to raise awareness of emerging trends in operations and tradecraft. We hope this analysis helps the broader security community defend against evolving threats and address the industry-wide challenge of threat actors using legitimate platforms and tools for their operations. Publishing this intelligence reflects our commitment to disrupting threat actor infrastructure. Our security team continuously monitors for accounts that violate our platformâs terms of use and maintains controls designed to prevent the creation of accounts from U.S.-embargoed …</description>
+    <pubDate>Wed, 18 Feb 2026 15:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Beyond the Backdoor: How Contagious Interview Is Surgically Tampering with MetaMask Wallets</title>
+    <link>http://lazarus.day/reports/post/beyond-the-backdoor-how-contagious-interview-is-surgically-tampering-with-metamask-wallets-Hwjg6</link>
+    <description>Introduction Contagious Interview is an ongoing cyber threat campaign targeting IT professionals working in cryptocurrency, Web3, and artificial intelligence sectors. The campaign, orchestrated by North Korean threat actors, aims to steal financial information and sensitive data from developers and engineers. The attackers consistently deploy two primary malware families, BeaverTail and InvisibleFerret, regularly updating these tools with new capabilities. Recent analysis indicates that the threat actors have significantly expanded their data theft capabilities by incorporating manipulation of the MetaMask wallet extension, making the campaign more aggressive and effective in compromising victim systems. Key Takeaways The attackers simplified their first-stage JavaScript code to perform two core functions, confirming successful infection by sending a beacon to their servers, and downloading the next stage …</description>
+    <pubDate>Sat, 14 Feb 2026 15:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>GTIG AI Threat Tracker: Distillation, Experimentation, and (Continued) Integration of AI for Adversarial Use</title>
+    <link>http://lazarus.day/reports/post/gtig-ai-threat-tracker-distillation-experimentation-and-continued-integration-of-ai-for-adversarial-use-o5pKE</link>
+    <description>GTIG AI Threat Tracker: Distillation, Experimentation, and (Continued) Integration of AI for Adversarial Use Google Threat Intelligence Group Google Threat Intelligence Visibility and context on the threats that matter most. Contact Us &amp; Get a DemoIntroduction In the final quarter of 2025, Google Threat Intelligence Group (GTIG) observed threat actors increasingly integrating artificial intelligence (AI) to accelerate the attack lifecycle, achieving productivity gains in reconnaissance, social engineering, and malware development. This report serves as an update to our November 2025 findings regarding the advances in threat actor usage of AI tools. By identifying these early indicators and offensive proofs of concept, GTIG aims to arm defenders with the intelligence necessary to anticipate the next phase of AI-enabled threats, proactively thwart …</description>
+    <pubDate>Thu, 12 Feb 2026 15:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Digital Parasites</title>
+    <link>http://lazarus.day/reports/post/digital-parasites-vNTlu</link>
+    <description>Digital Parasites Amazon blocked 1,800 fake IT worker applications last year. All traced back to North Korea. These weren't sloppy attempts. We’re talking stolen identities, fabricated work histories, polished LinkedIn profiles with verified badges - the important material you need to play mole. DPRK operatives are applying for remote developer jobs at Western companies - then drawing salaries, accessing codebases, and exfiltrating data for months before anyone even noticed. Over 300 U.S. companies have unknowingly hired them. Hundreds of Fortune 500 names on the list. The scheme has evolved. The FBI recently warned that these operatives now exfiltrate proprietary code and hold it hostage, demanding ransom from former employers. When victims refuse to pay, the data gets leaked. Think about …</description>
+    <pubDate>Wed, 11 Feb 2026 15:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>High-Tech Crime Trends Report 2026: The age of supply chain attacks</title>
+    <link>http://lazarus.day/reports/post/high-tech-crime-trends-report-2026-the-age-of-supply-chain-attacks-Z5ZbZ</link>
+    <description>The age of supply chain attacks Cybercrime is no longer defined by isolated breaches. By compromising upstream vendors, SaaS platforms, open-source projects, and managed service providers, attackers inherit trusted access to hundreds of downstream organizations, transforming single intrusions into cascading, multi-victim incidents. The High-Tech Crime Trends Report 2026 reveals how this shift has industrialized cybercrime, exposed the limits of perimeter-based defenses, and elevated identity and trust as the new primary attack surfaces. Trust is no longer implicit – it must be verified, monitored, and secured continuously. The Interconnectivity and Impact of Supply Chain Attacks 2025 saw an escalation in the abuse of trusted vendor access that triggered a cascading impact across supply chains, impacting hundreds of organizations and millions of …</description>
+    <pubDate>Wed, 11 Feb 2026 15:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>2026년 1월 APT 그룹 동향 보고서</title>
+    <link>http://lazarus.day/reports/post/2026%EB%85%84-1%EC%9B%94-apt-%EA%B7%B8%EB%A3%B9-%EB%8F%99%ED%96%A5-%EB%B3%B4%EA%B3%A0%EC%84%9C-edwEn</link>
+    <description>2026년 1월 APT 그룹 동향 보고서 중점 APT 그룹 Sandworm은 2025년 12월 말 폴란드 풍력·태양광 발전소 등 최소 30개 에너지 시설을 대상으로 FortiGate 취약 구성을 악용한 침투 후 DynoWiper로 OT와 IT 장비 파괴를 시도했다. RTU, IED, 시리얼 장비를 직접 파손하거나 설정을 조작해 원격 제어 불가 및 운영 중단을 유발했으며, GPO를 이용한 대규모 와이퍼 배포까지 수행했다. 유럽 전력망 안정성에 실질적 타격을 야기한 가장 중대한 파괴(Sabotage)형 공격으로 이번 달 최우선 경계 대상 그룹이다. Lazarus는 차단된 Pastebin을 대체해 Polygon NFT 컨트랙트를 Dead Drop으로 활용, 서버 폐쇄 대응력을 극대화했다. VSCode의 runOn: folderOpen 자동 실행 기능과 npm 스크립트 하이재킹을 결합해 개발자 환경에서 사용자 실행 없이 즉시 악성 코드가 실행되는 공급망형 공격을 구현했다. 지갑·패스워드 매니저·SSH 키까지 탈취하는 모듈형 스틸러가 포함돼 개발자·Web3 조직 대상 심각한 피해 가능성이 …</description>
+    <pubDate>Wed, 11 Feb 2026 15:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Famous Chollima and Dragon Sickness</title>
+    <link>http://lazarus.day/reports/post/famous-chollima-and-dragon-sickness-c5Vzv</link>
+    <description>Famous Chollima and Dragon Sickness There is nothing like looking, if you want to find something. You certainly usually find something, if you look, but it is not always quite the something you were after. ― J.R.R. Tolkien, The Hobbit, or There and Back Again Disclaimer I am not a malware researcher or a reverse engineer. I poke at things when I get bored (which is pretty often, now more often!). The samples and behavior of malware that is discussed here are my understanding, expert opinion may be needed. I relied on public information, intelligence reports, IOCs, and observing malware execution in sandbox environments to write this analysis. Job Hugging, Economy and DPRK enters the hiring market Job Hugging : …</description>
+    <pubDate>Wed, 11 Feb 2026 15:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The North Korean on your payroll</title>
+    <link>http://lazarus.day/reports/post/the-north-korean-on-your-payroll-vFxNh</link>
+    <description>In September 2025, Okta Threat Intelligence published research from a large-scale analysis into fraudulent employment schemes conducted by Democratic People’s Republic of Korea (DPRK) IT Workers (ITW). That research collated data from over 130 actors, conducting over 6500 interviews with 500 companies. In this post, we look specifically at the activities of two individual personas. We selected these two examples from a large list of actors that we continue to track because they exemplify the typical tools, techniques and procedures (TTPs) employed by DPRK ITW actors. Additionally, each had novel observables that can further inform defenders against these efforts. These two actors reveal two interesting TTPs DPRK actors use to land employment: the abuse of legitimate LinkedIn profiles to pass …</description>
+    <pubDate>Tue, 10 Feb 2026 15:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Fake recruiter campaign targets crypto developers with RAT</title>
+    <link>http://lazarus.day/reports/post/fake-recruiter-campaign-targets-crypto-developers-with-rat-R1MbA</link>
+    <description>Spectra Assure Free Trial Get your 14-day free trial of Spectra Assure Get Free TrialMore about Spectra Assure Free TrialThe ReversingLabs research team has identified a new branch of a fake recruiter campaign conducted by the North Korean hacking team Lazarus Group. The campaign, which the team named graphalgo, based on the first package included in this campaign in the npm repository, has been active since the beginning of May 2025. It is a coordinated campaign targeting both Javascript and Python developers with cryptocurrency-related fake recruiter tasks. Developers are approached via social platforms like LinkedIn and Facebook, or through job offerings on forums like Reddit. The campaign includes a well-orchestrated story around a company involved in blockchain and cryptocurrency exchanges. …</description>
+    <pubDate>Tue, 10 Feb 2026 15:00:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>

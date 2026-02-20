@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>HiddenLayer Research (Custom Feed)</title>
+  <link>https://www.hiddenlayer.com/innovation-hub/research</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:07:51 GMT</lastBuildDate>
+  <item>
+    <title>Ethiack</title>
+    <link>https://ethiack.com/news/blog/one-click-rce-moltbot</link>
+    <description>Ethiack</description>
+    <pubDate>Fri, 20 Feb 2026 17:07:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>embracethered</title>
+    <link>https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/</link>
+    <description>embracethered</description>
+    <pubDate>Fri, 20 Feb 2026 17:07:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>invisible characters in rule files</title>
+    <link>https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents</link>
+    <description>invisible characters in rule files</description>
+    <pubDate>Fri, 20 Feb 2026 17:07:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>BackSlash</title>
+    <link>https://www.backslash.security/blog/cursor-ai-security-flaw-autorun-denylist</link>
+    <description>BackSlash</description>
+    <pubDate>Fri, 20 Feb 2026 17:07:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>Reports and Guides</title>
+    <link>https://www.hiddenlayer.com/innovation-hub/reports-and-guides</link>
+    <description>Reports and Guides</description>
+    <pubDate>Fri, 20 Feb 2026 17:07:51 GMT</pubDate>
+  </item>
+</channel>
+</rss>

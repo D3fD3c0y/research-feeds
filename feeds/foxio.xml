@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>FoxIO Blog (Custom Feed)</title>
+  <link>https://foxio.io/blog</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:06:55 GMT</lastBuildDate>
+  <item>
+    <title>JA4D and JA4D6: DHCP FingerprintingNov 19, 2025John Althouse</title>
+    <link>https://foxio.io/blog/ja4d-and-ja4d6-dhcp-fingerprinting</link>
+    <description>JA4D and JA4D6: DHCP FingerprintingNov 19, 2025John Althouse</description>
+    <pubDate>Fri, 20 Feb 2026 17:06:55 GMT</pubDate>
+  </item>
+  <item>
+    <title>Introducing EVA â The Employee Verification AppOct 14, 2024John Althouse</title>
+    <link>https://foxio.io/blog/introducing-eva-the-employee-verification-app</link>
+    <description>Introducing EVA â The Employee Verification AppOct 14, 2024John Althouse</description>
+    <pubDate>Fri, 20 Feb 2026 17:06:55 GMT</pubDate>
+  </item>
+  <item>
+    <title>Investigating Surfshark and NordVPN with JA4TMay 14, 2024John Althouse</title>
+    <link>https://foxio.io/blog/investigating-surfshark-and-nordvpn-with-ja4t</link>
+    <description>Investigating Surfshark and NordVPN with JA4TMay 14, 2024John Althouse</description>
+    <pubDate>Fri, 20 Feb 2026 17:06:55 GMT</pubDate>
+  </item>
+  <item>
+    <title>JA4T: TCP FingerprintingApr 23, 2024John Althouse</title>
+    <link>https://foxio.io/blog/ja4t-tcp-fingerprinting</link>
+    <description>JA4T: TCP FingerprintingApr 23, 2024John Althouse</description>
+    <pubDate>Fri, 20 Feb 2026 17:06:55 GMT</pubDate>
+  </item>
+  <item>
+    <title>JA4+ Network FingerprintingSep 26, 2023John Althouse</title>
+    <link>https://foxio.io/blog/ja4-network-fingerprinting</link>
+    <description>JA4+ Network FingerprintingSep 26, 2023John Althouse</description>
+    <pubDate>Fri, 20 Feb 2026 17:06:55 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cut SIEM and AI cost by 80% with LogSlash and cwolvesJun 15, 2023John Althouse</title>
+    <link>https://foxio.io/blog/cut-siem-and-ai-costs-by-80-percent</link>
+    <description>Cut SIEM and AI cost by 80% with LogSlash and cwolvesJun 15, 2023John Althouse</description>
+    <pubDate>Fri, 20 Feb 2026 17:06:55 GMT</pubDate>
+  </item>
+  <item>
+    <title>Introducing LogSlash and the End of Traditional LoggingJan 21, 2023John Althouse</title>
+    <link>https://foxio.io/blog/introducing-logslash-and-the-end-of-traditional-logging</link>
+    <description>Introducing LogSlash and the End of Traditional LoggingJan 21, 2023John Althouse</description>
+    <pubDate>Fri, 20 Feb 2026 17:06:55 GMT</pubDate>
+  </item>
+</channel>
+</rss>

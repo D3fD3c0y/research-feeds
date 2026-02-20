@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Cynet Blog (Custom Feed)</title>
+  <link>https://www.cynet.com/blog/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:05:19 GMT</lastBuildDate>
+  <item>
+    <title>Platform</title>
+    <link>https://www.cynet.com/platform/</link>
+    <description>Platform</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>Partner</title>
+    <link>https://www.cynet.com/partners/</link>
+    <description>Partner</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>Resources</title>
+    <link>https://www.cynet.com/resources/</link>
+    <description>Resources</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>Company</title>
+    <link>https://www.cynet.com/about-us/</link>
+    <description>Company</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why Cynet</title>
+    <link>https://www.cynet.com/why-cynet/</link>
+    <description>Why Cynet</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blog</title>
+    <link>https://www.cynet.com/blog/</link>
+    <description>Blog</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cynet Achieves 100% Protection, 100% Detection in Third Straight MITRE ATT&amp;CK Evaluation</title>
+    <link>https://www.cynet.com/blog/mitre-attack-2025-cynet-results/</link>
+    <description>Cynet Achieves 100% Protection, 100% Detection in Third Straight MITRE ATT&amp;CK Evaluation</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>January 2026 Cyber Threat Landscape: New Year, New Attacks, Same Headaches for Security Teams</title>
+    <link>https://www.cynet.com/blog/january-2026-cyber-threat-landscape-new-year-new-attacks-same-headaches-for-security-teams/</link>
+    <description>January 2026 Cyber Threat Landscape: New Year, New Attacks, Same Headaches for Security Teams</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cynet Recognized in Gartner Peer Insights™ "Voice of the Customer" for Endpoint Protection Platforms</title>
+    <link>https://www.cynet.com/blog/cynet-recognized-in-gartner-peer-insights-voice-of-the-customer-for-endpoint-protection-platforms/</link>
+    <description>Cynet Recognized in Gartner Peer Insights™ "Voice of the Customer" for Endpoint Protection Platforms</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>CyOps Analysis: The Zipline Campaign &amp; The Weaponization of Trust</title>
+    <link>https://www.cynet.com/blog/cyops-analysis-the-zipline-campaign-the-weaponization-of-trust/</link>
+    <description>CyOps Analysis: The Zipline Campaign &amp; The Weaponization of Trust</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>Gartner® Hype Cycle™ 2025: Cybersecurity AI Assistants and AI SOC Agents</title>
+    <link>https://www.cynet.com/blog/gartner-hype-cycle-2025-cybersecurity-ai-assistants-and-ai-soc-agents/</link>
+    <description>Gartner® Hype Cycle™ 2025: Cybersecurity AI Assistants and AI SOC Agents</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>Proactive Security Disclosure: Detection Enhancement Update</title>
+    <link>https://www.cynet.com/blog/proactive-security-disclosure-detection-enhancement-update/</link>
+    <description>Proactive Security Disclosure: Detection Enhancement Update</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>December 2025 Cyber Threat Intelligence Report: ShinySp1d3r, Rusty Lockbox, Operation Sentinel</title>
+    <link>https://www.cynet.com/blog/dec-2025-cyber-threat-intelligence-report/</link>
+    <description>December 2025 Cyber Threat Intelligence Report: ShinySp1d3r, Rusty Lockbox, Operation Sentinel</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI Trash or Security Operations Treasure? Discern with Forrester Guidance</title>
+    <link>https://www.cynet.com/blog/ai-trash-or-security-operations-treasure-discern-with-forrester-guidance/</link>
+    <description>AI Trash or Security Operations Treasure? Discern with Forrester Guidance</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>MongoBleed: Inside The Critical MongoDB Memory Disclosure Vulnerability (CVE-2025-14847)</title>
+    <link>https://www.cynet.com/blog/mongobleed-inside-the-critical-mongodb-memory-disclosure-vulnerability-cve-2025-14847/</link>
+    <description>MongoBleed: Inside The Critical MongoDB Memory Disclosure Vulnerability (CVE-2025-14847)</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:19 GMT</pubDate>
+  </item>
+</channel>
+</rss>

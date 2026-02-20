@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Push Security Blog (Custom Feed)</title>
+  <link>https://pushsecurity.com/blog</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:10:04 GMT</lastBuildDate>
+  <item>
+    <title>Browser-based attacksDetection &amp; responseDetecting and blocking phishing attacks in the browserHow Push detects and blocks phishing attempts in the browser â explained in less than two minutes.Read more</title>
+    <link>https://pushsecurity.com/blog/detecting-and-blocking-phishing-attacks-in-the-browser/</link>
+    <description>Browser-based attacksDetection &amp; responseDetecting and blocking phishing attacks in the browserHow Push detects and blocks phishing attempts in the browser â explained in less than two minutes.Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Browser-based attacksDetection &amp; response"Scattered Lapsus$ Hunters" â how modern attackers exploit the gaps in your security stackHow Scattered Lapsus$ Hunters breaches demonstrate the evolution of attacker TTPs, shaping the future of cyber attacks.Read more</title>
+    <link>https://pushsecurity.com/blog/scattered-lapsus-hunters/</link>
+    <description>Browser-based attacksDetection &amp; response"Scattered Lapsus$ Hunters" â how modern attackers exploit the gaps in your security stackHow Scattered Lapsus$ Hunters breaches demonstrate the evolution of attacker TTPs, shaping the future of cyber attacks.Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Identity securityRisk managementCyber Essentials April 2026 update: Mandatory MFA on ALL cloud services (and how Push can help)Big changes are being made to the Cyber Essentials scheme in 2026 that will change how companies must validate compliance. Hereâs what you need to know.DanFeb 12, 2026Read more</title>
+    <link>https://pushsecurity.com/blog/cyber-essentials-april-2026-update/</link>
+    <description>Identity securityRisk managementCyber Essentials April 2026 update: Mandatory MFA on ALL cloud services (and how Push can help)Big changes are being made to the Cyber Essentials scheme in 2026 that will change how companies must validate compliance. Hereâs what you need to know.DanFeb 12, 2026Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Browser-based attacksDetection &amp; responsePush + Cloud Security: What do you do when bad looks normal?Why cloud security tools only give you part of the picture when it comes to modern attacks.PeytonFeb 6, 2026Read more</title>
+    <link>https://pushsecurity.com/blog/push-plus-cloud-security/</link>
+    <description>Browser-based attacksDetection &amp; responsePush + Cloud Security: What do you do when bad looks normal?Why cloud security tools only give you part of the picture when it comes to modern attacks.PeytonFeb 6, 2026Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Browser-based attacksDetection &amp; responsePush + Endpoint Security: Extending detection and response to the browserWhy extending detection and response into the browser is crucial in the face of modern attacks that consciously evade the network and endpoint.PeytonJan 30, 2026Read more</title>
+    <link>https://pushsecurity.com/blog/push-plus-endpoint-security/</link>
+    <description>Browser-based attacksDetection &amp; responsePush + Endpoint Security: Extending detection and response to the browserWhy extending detection and response into the browser is crucial in the face of modern attacks that consciously evade the network and endpoint.PeytonJan 30, 2026Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Browser-based attacksDetection &amp; responsePush + Network Security: The gap between seeing the packet and securing the sessionWhy network and web traffic only gives you part of the picture when it comes to modern browser-based attacks.PeytonJan 30, 2026Read more</title>
+    <link>https://pushsecurity.com/blog/push-plus-network-security/</link>
+    <description>Browser-based attacksDetection &amp; responsePush + Network Security: The gap between seeing the packet and securing the sessionWhy network and web traffic only gives you part of the picture when it comes to modern browser-based attacks.PeytonJan 30, 2026Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Browser-based attacksDetection &amp; responseUnpacking the latest SLH campaign â combining vishing with AiTM phishing to hijack SSO accountsAnalysing the latest Scattered Lapsus$ Hunters (SLH) phishing campaign targeting hundreds of organizations.DanJan 28, 2026Read more</title>
+    <link>https://pushsecurity.com/blog/unpacking-the-latest-slh-campaign/</link>
+    <description>Browser-based attacksDetection &amp; responseUnpacking the latest SLH campaign â combining vishing with AiTM phishing to hijack SSO accountsAnalysing the latest Scattered Lapsus$ Hunters (SLH) phishing campaign targeting hundreds of organizations.DanJan 28, 2026Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Browser-based attacksDetection &amp; responseConsentFix debrief: latest community insights, recommendations, and predictionsNew insights on the ConsentFix campaign stopped by Push.DanJan 14, 2026Read more</title>
+    <link>https://pushsecurity.com/blog/consentfix-debrief/</link>
+    <description>Browser-based attacksDetection &amp; responseConsentFix debrief: latest community insights, recommendations, and predictionsNew insights on the ConsentFix campaign stopped by Push.DanJan 14, 2026Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Browser-based attacksDetection &amp; responseHow cyber criminals power malvertising scams with stolen accountsAttackers are going out of their way to target Google Ad Manager accounts, powering malvertising scams. Hereâs what you need to know.DanJan 12, 2026Read more</title>
+    <link>https://pushsecurity.com/blog/cyber-criminal-ecosystem-analysis/</link>
+    <description>Browser-based attacksDetection &amp; responseHow cyber criminals power malvertising scams with stolen accountsAttackers are going out of their way to target Google Ad Manager accounts, powering malvertising scams. Hereâs what you need to know.DanJan 12, 2026Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Browser-based attacksDetection &amp; responseGoogle Search malvertising campaign continues, now impersonating AhrefsNew samples linked to a Push-tracked malvertising campaign detected, targeting Google accounts via an Ahrefs lure.DanJan 12, 2026Read more</title>
+    <link>https://pushsecurity.com/blog/google-search-malvertising-campaign-continues-now-impersonating-ahrefs/</link>
+    <description>Browser-based attacksDetection &amp; responseGoogle Search malvertising campaign continues, now impersonating AhrefsNew samples linked to a Push-tracked malvertising campaign detected, targeting Google accounts via an Ahrefs lure.DanJan 12, 2026Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Browser-based attacksDetection &amp; responseTaking the fight to attackers: Pushâs top features of 2025Hereâs how real-world attacks and our own R&amp;D informed what we built for Push customers over the last year.KellyDec 17, 2025Read more</title>
+    <link>https://pushsecurity.com/blog/taking-the-fight-to-attackers-top-features-of-2025/</link>
+    <description>Browser-based attacksDetection &amp; responseTaking the fight to attackers: Pushâs top features of 2025Hereâs how real-world attacks and our own R&amp;D informed what we built for Push customers over the last year.KellyDec 17, 2025Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Browser-based attacksDetection &amp; response2025âs top phishing trends â and what they mean for your 2026 security strategyAnalysing the key trends that defined phishing attacks in 2025, and what these changes mean for security teams heading into 2026.ÂDanDec 15, 2025Read more</title>
+    <link>https://pushsecurity.com/blog/2025-top-phishing-trends/</link>
+    <description>Browser-based attacksDetection &amp; response2025âs top phishing trends â and what they mean for your 2026 security strategyAnalysing the key trends that defined phishing attacks in 2025, and what these changes mean for security teams heading into 2026.ÂDanDec 15, 2025Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Browser-based attacksDetection &amp; responseConsentFix: Analysing a browser-native ClickFix-style attack that hijacks OAuth consent grantsAnalysing "ConsentFix", a new browser-native attack technique we've detected in the wild, combining OAuth consent phishing with a ClickFix-style user prompt.LukeDec 11, 2025Read more</title>
+    <link>https://pushsecurity.com/blog/consentfix/</link>
+    <description>Browser-based attacksDetection &amp; responseConsentFix: Analysing a browser-native ClickFix-style attack that hijacks OAuth consent grantsAnalysing "ConsentFix", a new browser-native attack technique we've detected in the wild, combining OAuth consent phishing with a ClickFix-style user prompt.LukeDec 11, 2025Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Browser-based attacksDetection &amp; responseAnalysing a sophisticated Google malvertising attack impersonating TradingViewPush recently detected and blocked a malvertising attack impersonating TradingView designed to hijack Google Workspace accounts.DanDec 8, 2025Read more</title>
+    <link>https://pushsecurity.com/blog/analysing-a-sophisticated-google-malvertising-attack/</link>
+    <description>Browser-based attacksDetection &amp; responseAnalysing a sophisticated Google malvertising attack impersonating TradingViewPush recently detected and blocked a malvertising attack impersonating TradingView designed to hijack Google Workspace accounts.DanDec 8, 2025Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Browser-based attacksDetection &amp; responseAnalysing a malvertising attack targeting business Google accounts intercepted by PushAnalysing a malvertising attack targeting Google business accounts that was intercepted by Push.DanDec 2, 2025Read more</title>
+    <link>https://pushsecurity.com/blog/analysing-a-malvertising-attack-targeting-business-google-accounts/</link>
+    <description>Browser-based attacksDetection &amp; responseAnalysing a malvertising attack targeting business Google accounts intercepted by PushAnalysing a malvertising attack targeting Google business accounts that was intercepted by Push.DanDec 2, 2025Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:04 GMT</pubDate>
+  </item>
+</channel>
+</rss>

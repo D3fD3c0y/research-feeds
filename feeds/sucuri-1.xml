@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Sucuri Blog (1) (Custom Feed)</title>
+  <link>https://blog.sucuri.net/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:03:29 GMT</lastBuildDate>
+  <item>
+    <title>Beyond Login Screens: Why Access Control Matters</title>
+    <link>https://blog.sucuri.net/2026/02/beyond-login-screens-why-access-control-matters.html</link>
+    <description>As breach costs go up and attackers focus on common web features like dashboards, admin panels, customer portals, and APIs, weak access control quickly leads to lost data, broken trust, and costly incidents. The worst part is that many failures are not rare technical flaws but simple mistakes, such as missing permission checks, roles with too much power, or predictable IDs in URLs. This post aims to help you control who can access different parts of your website and explain why it matters. Continue reading Beyond Login Screens: Why Access Control Matters at Sucuri Blog.</description>
+    <pubDate>Sat, 07 Feb 2026 03:01:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vulnerability &amp; Patch Roundup — January 2026</title>
+    <link>https://blog.sucuri.net/2026/01/vulnerability-patch-roundup-january-2026.html</link>
+    <description>Vulnerability reports and responsible disclosures are essential for website security awareness and education. Automated attacks targeting known software vulnerabilities are one of the leading causes of website compromises. To help educate website owners about potential threats to their environments, we’ve compiled a list of important security updates and vulnerability patches for the WordPress ecosystem this past month. The vulnerabilities listed below are virtually patched by the Sucuri Firewall and existing clients are protected. Continue reading Vulnerability &amp; Patch Roundup — January 2026 at Sucuri Blog.</description>
+    <pubDate>Sun, 01 Feb 2026 01:12:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Shadow Directories: A Unique Method to Hijack WordPress Permalinks</title>
+    <link>https://blog.sucuri.net/2026/01/shadow-directories-a-unique-method-to-hijack-wordpress-permalinks.html</link>
+    <description>Last month, while working on a WordPress cleanup case, a customer reached out with a strange complaint: their website looked completely normal to them and their visitors, but Google search results were showing something very different. Instead of normal titles and descriptions, Google was displaying casino and gambling-related content. We have been seeing rising cases of spam on WordPress websites. What made this even more confusing was where the spam was appearing. Continue reading Shadow Directories: A Unique Method to Hijack WordPress Permalinks at Sucuri Blog.</description>
+    <pubDate>Fri, 30 Jan 2026 22:09:33 GMT</pubDate>
+  </item>
+  <item>
+    <title>Malware Intercepts Googlebot via IP-Verified Conditional Logic</title>
+    <link>https://blog.sucuri.net/2026/01/malware-intercepts-googlebot-via-ip-verified-conditional-logic.html</link>
+    <description>Some attackers are increasingly moving away from simple redirects in favor of more “selective” methods of payload delivery. This approach filters out regular human visitors, allowing attackers to serve malicious content to search engine crawlers while remaining invisible to the website owner. What did we find? During a malware investigation, we identified a selective content injection attack inside the main index.php file of a WordPress website. Instead of always loading WordPress normally, this modified file checks who is visiting the site. Continue reading Malware Intercepts Googlebot via IP-Verified Conditional Logic at Sucuri Blog.</description>
+    <pubDate>Tue, 13 Jan 2026 23:48:41 GMT</pubDate>
+  </item>
+  <item>
+    <title>Google Sees Spam, You See Your Site: A Cloaked SEO Spam Attack</title>
+    <link>https://blog.sucuri.net/2026/01/google-sees-spam-you-see-your-site-a-cloaked-seo-spam-attack.html</link>
+    <description>We recently handled a case where a customer reported strange SEO behavior on their website. Regular visitors saw a normal site. No popups. No redirects. No visible spam. However, when they checked their site on Google, the search results were flooded with eBay-type-looking websites and “Situs Toto” gambling spam. This is a professional-grade SEO cloaking attack. The malware turns the application into a double agent: it serves your genuine website content to real people but swaps it for a massive list of gambling ads the second a search engine bot crawls the page. Continue reading Google Sees Spam, You See Your Site: A Cloaked SEO Spam Attack at Sucuri Blog.</description>
+    <pubDate>Thu, 08 Jan 2026 21:58:15 GMT</pubDate>
+  </item>
+  <item>
+    <title>Fake Browser Updates Targeting WordPress Administrators via Malicious Plugin</title>
+    <link>https://blog.sucuri.net/2026/01/fake-browser-updates-targeting-wordpress-administrators-via-malicious-plugin.html</link>
+    <description>We recently investigated a case involving a WordPress website where a customer reported persistent fake pop-up notifications appearing on their site. The warnings were urging them to update their browser (Chrome or Firefox), even though their software was already fully up-to-date. What made this case particularly unique was the targeting. The fake alerts were not visible to regular visitors on the public-facing site. They only appeared when the site owner was logged into the wp-admin dashboard. Continue reading Fake Browser Updates Targeting WordPress Administrators via Malicious Plugin at Sucuri Blog.</description>
+    <pubDate>Thu, 08 Jan 2026 01:54:13 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vulnerability &amp; Patch Roundup — December 2025</title>
+    <link>https://blog.sucuri.net/2025/12/vulnerability-patch-roundup-december-2025.html</link>
+    <description>Vulnerability reports and responsible disclosures are essential for website security awareness and education. Automated attacks targeting known software vulnerabilities are one of the leading causes of website compromises. To help educate website owners about potential threats to their environments, we’ve compiled a list of important security updates and vulnerability patches for the WordPress ecosystem this past month. The vulnerabilities listed below are virtually patched by the Sucuri Firewall and existing clients are protected. Continue reading Vulnerability &amp; Patch Roundup — December 2025 at Sucuri Blog.</description>
+    <pubDate>Thu, 01 Jan 2026 00:46:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>How to Protect Your Site From Content Sniffing with HTTP Security Headers</title>
+    <link>https://blog.sucuri.net/2025/12/how-to-protect-your-site-from-content-sniffing-with-http-security-headers.html</link>
+    <description>Ever had a perfectly “safe” page or file turn into an attack vector out of nowhere? That can happen when browsers start guessing what your content is instead of listening to your server. Browsers sometimes try to figure out what kind of file they’re dealing with if the server doesn’t provide the Content-Type header or provides the wrong one, a process known as “content sniffing.” While this can be helpful, content sniffing is a security risk if an attacker can mess with the content. Continue reading How to Protect Your Site From Content Sniffing with HTTP Security Headers at Sucuri Blog.</description>
+    <pubDate>Thu, 18 Dec 2025 23:58:06 GMT</pubDate>
+  </item>
+  <item>
+    <title>How to Run a Security Test and Set Up Continuous Monitoring</title>
+    <link>https://blog.sucuri.net/2025/12/how-to-run-a-security-test-and-set-up-continuous-monitoring.html</link>
+    <description>Many website owners follow a similar “security plan,” even if they don’t call it that. They launch the site, add a couple of plugins, and just hope nothing goes wrong. The issue is that modern website hacks don’t make themselves obvious. Instead, they show up as small signs, like a redirect that only affects mobile users, a hidden credit card skimmer in a template file, silent SEO spam that hurts your rankings, or a DNS change that quietly reroutes your email. Continue reading How to Run a Security Test and Set Up Continuous Monitoring at Sucuri Blog.</description>
+    <pubDate>Mon, 15 Dec 2025 23:07:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>How to Protect Your WordPress Site From a Phishing Attack</title>
+    <link>https://blog.sucuri.net/2025/12/how-to-protect-your-wordpress-site-from-a-phishing-attack.html</link>
+    <description>If you run a website, manage a business inbox, or even just use online banking, you’ve already lived in the phishing era for a long time. The only thing that’s changed is the polish. Phishing scams have moved past those obviously fake “please verify” requests to include convincing login pages, realistic invoices, and even bogus delivery updates. Some are mass-sent and easy to spot, others are customized precisely for the person they’re targeting, their job, company, tech, and everyday apps. Continue reading How to Protect Your WordPress Site From a Phishing Attack at Sucuri Blog.</description>
+    <pubDate>Sat, 13 Dec 2025 07:36:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>WordPress Auto-Login Backdoor Disguised as JavaScript Data File</title>
+    <link>https://blog.sucuri.net/2025/12/wordpress-auto-login-backdoor-disguised-as-javascript-data-file.html</link>
+    <description>During a recent investigation, we discovered a sophisticated WordPress backdoor hidden in what appears to be a JavaScript data file. This malware automatically logs attackers into administrator accounts without requiring any credentials. In September, we published an article showcasing another WordPress backdoor that creates admin accounts. This new variant takes a different approach by hijacking existing administrator sessions instead of creating new accounts, making it harder to detect through user audits. What turned up during our review The file was disguised as a JavaScript asset in a PHP file located in the WordPress admin wp-admin/js directory, but it was really all PHP. Continue reading WordPress Auto-Login Backdoor Disguised as JavaScript Data File at Sucuri Blog.</description>
+    <pubDate>Wed, 10 Dec 2025 22:13:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>WithSecure Labs Publications (Custom Feed)</title>
+  <link>https://labs.withsecure.com/publications</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:08:57 GMT</lastBuildDate>
+  <item>
+    <title>To the past and beyond: Andariel’s latest arsenal and cyberattacksIn 2025, WithSecure discovered two cyberattacks that we attributed to the Andariel group, a state-sponsored cyber group linked to the RGB 3rdbureau of Democratic People’s Republic of Korea (DPRK). During our investigation, we also discovered a staging server used by Andariel. We were able to pull artifacts from it during its uptime.Throughout our research, we identified several new implants, tools, and techniques that shape a part of Andariel’s latest arsenal. These include new remote access trojans (RATs) such as JelusRAT, StarshellRAT, and GopherRAT, as well as tools and techniques such as a custom port scanner, a PetitPotato sample, and abusing a vulnerable driver to target AV/EDR products.Read more</title>
+    <link>https://labs.withsecure.com/publications/andariel-2025.html</link>
+    <description>To the past and beyond: Andariel’s latest arsenal and cyberattacksIn 2025, WithSecure discovered two cyberattacks that we attributed to the Andariel group, a state-sponsored cyber group linked to the RGB 3rdbureau of Democratic People’s Republic of Korea (DPRK). During our investigation, we also discovered a staging server used by Andariel. We were able to pull artifacts from it during its uptime.Throughout our research, we identified several new implants, tools, and techniques that shape a part of Andariel’s latest arsenal. These include new remote access trojans (RATs) such as JelusRAT, StarshellRAT, and GopherRAT, as well as tools and techniques such as a custom port scanner, a PetitPotato sample, and abusing a vulnerable driver to target AV/EDR products.Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>TangleCrypt: a sophisticated but buggy malware packerWithSecure's STINGR Group is releasing a detailed technical analysis of TangleCrypt, a previously undocumented packer for Windows malware. The packer was found on two executables of the STONESTOP EDR killer used in a recent ransomware attack. The blogpost describes how TangleCrypt unpacks and launches the payload, which anti-analysis techniques it uses, and the implementation flaws we identified.Read more</title>
+    <link>https://labs.withsecure.com/publications/tanglecrypt.html</link>
+    <description>TangleCrypt: a sophisticated but buggy malware packerWithSecure's STINGR Group is releasing a detailed technical analysis of TangleCrypt, a previously undocumented packer for Windows malware. The packer was found on two executables of the STONESTOP EDR killer used in a recent ransomware attack. The blogpost describes how TangleCrypt unpacks and launches the payload, which anti-analysis techniques it uses, and the implementation flaws we identified.Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>WEBJACK: Evolving IIS Hijacking Campaign Abuses SEO for Fraud and MonetizationWithSecure’s STINGR has been investigating a malware campaign, tracked as WEBJACK, which compromises Microsoft IIS servers to deploy malicious IIS modules belonging to the BadIIS malware family. The hijacked servers are being abused for SEO poisoning and fraud, redirecting users to casino, gambling, or betting websites. The threat actor has compromised high-profile targets, including government institutions, universities, tech firms, and many other organizations, abusing their domain reputation to serve fraudulent content through search engine results pages (SERPs).Read more</title>
+    <link>https://labs.withsecure.com/publications/webjack.html</link>
+    <description>WEBJACK: Evolving IIS Hijacking Campaign Abuses SEO for Fraud and MonetizationWithSecure’s STINGR has been investigating a malware campaign, tracked as WEBJACK, which compromises Microsoft IIS servers to deploy malicious IIS modules belonging to the BadIIS malware family. The hijacked servers are being abused for SEO poisoning and fraud, redirecting users to casino, gambling, or betting websites. The threat actor has compromised high-profile targets, including government institutions, universities, tech firms, and many other organizations, abusing their domain reputation to serve fraudulent content through search engine results pages (SERPs).Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>TamperedChef: Malvertising to Credential TheftTamperedChef is a sophisticated malware campaign that leveraged a convincing advertising campaign strategy and a fully functional decoy application to target European organizations. Disguised as a legitimate application such as a PDF editor, the malware operated with expected functionality for nearly two months before activating its payload to harvest browser credentials, impacting a significant number of systems.Read more</title>
+    <link>https://labs.withsecure.com/publications/tamperedchef.html</link>
+    <description>TamperedChef: Malvertising to Credential TheftTamperedChef is a sophisticated malware campaign that leveraged a convincing advertising campaign strategy and a fully functional decoy application to target European organizations. Disguised as a legitimate application such as a PDF editor, the malware operated with expected functionality for nearly two months before activating its payload to harvest browser credentials, impacting a significant number of systems.Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>Email-Delivered RMM: Abusing PDFs for Silent Initial AccessSince November 2024, WithSecure has been tracking a slight uptick of targeted activities leveraging Remote Monitoring and Management (RMM) tools embedded within PDF documents. The activity primarily targets organizations in France and Luxembourg, using socially engineered emails to deliver a clean PDF containing an embedded link to an RMM installer, a simple but effective method of bypassing many email and malware defences.Read more</title>
+    <link>https://labs.withsecure.com/publications/email-delivered-rmm.html</link>
+    <description>Email-Delivered RMM: Abusing PDFs for Silent Initial AccessSince November 2024, WithSecure has been tracking a slight uptick of targeted activities leveraging Remote Monitoring and Management (RMM) tools embedded within PDF documents. The activity primarily targets organizations in France and Luxembourg, using socially engineered emails to deliver a clean PDF containing an embedded link to an RMM installer, a simple but effective method of bypassing many email and malware defences.Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>Time to next exploitOrganizations are facing an attack surface that is not only expanding at an unprecedented rate but also becoming more difficult to manage using traditional security approaches. The first half of 2025 has shown a sharp rise in both the discovery and exploitation of vulnerabilities, especially zero-days and those affecting security services, indicating that attackers are moving faster than defenders can respond. A new exploited vulnerability is published every two days, and a new exploited zero-day every three, with both categories growing significantly faster than in 2024. This growing gap between discovery and mitigation underscores a fundamental reality: reactive defence is no longer sufficient. Companies must adopt a proactive approach centred around continuous exposure management: monitoring, prioritizing, and remediating vulnerabilities before they are exploited. This research draws on verified exploitation data and real-world vulnerability trends to demonstrate why exposure management is no longer optional, but a foundational requirement for any organization aiming to stay ahead of cyber threats.Read more</title>
+    <link>https://labs.withsecure.com/publications/time-to-next-exploit.html</link>
+    <description>Time to next exploitOrganizations are facing an attack surface that is not only expanding at an unprecedented rate but also becoming more difficult to manage using traditional security approaches. The first half of 2025 has shown a sharp rise in both the discovery and exploitation of vulnerabilities, especially zero-days and those affecting security services, indicating that attackers are moving faster than defenders can respond. A new exploited vulnerability is published every two days, and a new exploited zero-day every three, with both categories growing significantly faster than in 2024. This growing gap between discovery and mitigation underscores a fundamental reality: reactive defence is no longer sufficient. Companies must adopt a proactive approach centred around continuous exposure management: monitoring, prioritizing, and remediating vulnerabilities before they are exploited. This research draws on verified exploitation data and real-world vulnerability trends to demonstrate why exposure management is no longer optional, but a foundational requirement for any organization aiming to stay ahead of cyber threats.Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>Research</title>
+    <link>https://labs.withsecure.com/publications.html</link>
+    <description>Research</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>Expertise</title>
+    <link>https://labs.withsecure.com/expertise.html</link>
+    <description>Expertise</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>Tools</title>
+    <link>https://labs.withsecure.com/tools.html</link>
+    <description>Tools</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>Advisories</title>
+    <link>https://labs.withsecure.com/advisories.html</link>
+    <description>Advisories</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>Contact us</title>
+    <link>https://labs.withsecure.com/contact-us.html</link>
+    <description>Contact us</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>Careers at WithSecure™</title>
+    <link>https://labs.withsecure.com/careers.html</link>
+    <description>Careers at WithSecure™</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vulnerability Disclosure Policy</title>
+    <link>https://labs.withsecure.com/vulnerability-disclosure-policy.html</link>
+    <description>Vulnerability Disclosure Policy</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:57 GMT</pubDate>
+  </item>
+</channel>
+</rss>

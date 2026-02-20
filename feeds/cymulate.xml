@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Cymulate Blog (Custom Feed)</title>
+  <link>https://cymulate.com/blog/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:05:10 GMT</lastBuildDate>
+  <item>
+    <title>Learn More</title>
+    <link>https://cymulate.com/blog/gartner-customers-choice-2025/</link>
+    <description>Learn More</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Learn More</title>
+    <link>https://cymulate.com/blog/cve-2026-20965-azure-windows-admin-center-tenant-wide-rce/</link>
+    <description>Learn More</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>BlogStay on top of how Cymulate addresses the latest threats, new research and so much more</title>
+    <link>https://cymulate.com/blog/</link>
+    <description>BlogStay on top of how Cymulate addresses the latest threats, new research and so much more</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>FEATUREDKerberos Authentication Relay Via CNAME AbuseA breakdown of Kerberos authentication relay using CNAME abuse and mitigation considerations.Read More</title>
+    <link>https://cymulate.com/blog/kerberos-authentication-relay-via-cname-abuse/</link>
+    <description>FEATUREDKerberos Authentication Relay Via CNAME AbuseA breakdown of Kerberos authentication relay using CNAME abuse and mitigation considerations.Read More</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>FEATUREDRed Team vs Blue Team vs Purple Team in CybersecurityUnify Red, Blue, and Purple Teams with Breach and Attack Simulation to close security gaps and improve collaborationRead More</title>
+    <link>https://cymulate.com/blog/red-blue-purple-team-in-cybersecurity/</link>
+    <description>FEATUREDRed Team vs Blue Team vs Purple Team in CybersecurityUnify Red, Blue, and Purple Teams with Breach and Attack Simulation to close security gaps and improve collaborationRead More</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>FEATURED10 Types of Network Attacks: Common Threats and How to Prevent ThemNetwork attacks have evolved far beyond simple brute-force intrusions or spam. Threat actors now employ complex, multi-vector tactics that can infiltrate even the most fortified infrastructures.   As attack surfaces grow...Read More</title>
+    <link>https://cymulate.com/blog/types-of-network-attacks/</link>
+    <description>FEATURED10 Types of Network Attacks: Common Threats and How to Prevent ThemNetwork attacks have evolved far beyond simple brute-force intrusions or spam. Threat actors now employ complex, multi-vector tactics that can infiltrate even the most fortified infrastructures.   As attack surfaces grow...Read More</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Validate What Matters: Simulate Real-World Identity and Privilege Attacks in AD and Entra IDRead More</title>
+    <link>https://cymulate.com/blog/validate-identity-attacks-ad-entra-id/</link>
+    <description>Validate What Matters: Simulate Real-World Identity and Privilege Attacks in AD and Entra IDRead More</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>New Cymulate WAF Rules: Turn Validation Gaps Into Actionable DefenseRead More</title>
+    <link>https://cymulate.com/blog/waf-rules-validation-to-remediation/</link>
+    <description>New Cymulate WAF Rules: Turn Validation Gaps Into Actionable DefenseRead More</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Validating Cloud Threat Detection with Wiz Defend and CymulateRead More</title>
+    <link>https://cymulate.com/blog/validate-cloud-threat-detection-wiz-cymulate/</link>
+    <description>Validating Cloud Threat Detection with Wiz Defend and CymulateRead More</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Evolving Vulnerability Management to Continuous Threat Exposure ManagementRead More</title>
+    <link>https://cymulate.com/blog/evolving-vulnerability-management-to-ctem/</link>
+    <description>Evolving Vulnerability Management to Continuous Threat Exposure ManagementRead More</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Uncovered: Improper Attestation Signature Validation in Windows Admin CenterRead More</title>
+    <link>https://cymulate.com/blog/improper-attestation-validation-windows-admin-center/</link>
+    <description>Uncovered: Improper Attestation Signature Validation in Windows Admin CenterRead More</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Resource HubA combination of insights, thought leadership and Cymulate product info. Find it all here</title>
+    <link>https://cymulate.com/resources/</link>
+    <description>Resource HubA combination of insights, thought leadership and Cymulate product info. Find it all here</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:10 GMT</pubDate>
+  </item>
+</channel>
+</rss>

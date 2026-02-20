@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Cyberxtron Blogs (Custom Feed)</title>
+  <link>https://cyberxtron.com/resources/blogs</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:04:58 GMT</lastBuildDate>
+  <item>
+    <title>Security AdvisorsCritical security alerts &amp; advisories</title>
+    <link>https://cyberxtron.com/resources/advisors</link>
+    <description>Security AdvisorsCritical security alerts &amp; advisories</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:58 GMT</pubDate>
+  </item>
+  <item>
+    <title>NewsletterCyber risk intelligence digest</title>
+    <link>https://cyberxtron.com/resources/newsletter</link>
+    <description>NewsletterCyber risk intelligence digest</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:58 GMT</pubDate>
+  </item>
+  <item>
+    <title>WhitepapersIn-depth cybersecurity strategy whitepapers</title>
+    <link>https://cyberxtron.com/resources/whitepapers</link>
+    <description>WhitepapersIn-depth cybersecurity strategy whitepapers</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:58 GMT</pubDate>
+  </item>
+  <item>
+    <title>BlogsCybersecurity insights &amp; analysis blogs</title>
+    <link>https://cyberxtron.com/resources/blogs</link>
+    <description>BlogsCybersecurity insights &amp; analysis blogs</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:58 GMT</pubDate>
+  </item>
+  <item>
+    <title>Research ReportsAdvance threat research &amp; reports</title>
+    <link>https://cyberxtron.com/resources/reports</link>
+    <description>Research ReportsAdvance threat research &amp; reports</description>
+    <pubDate>Fri, 20 Feb 2026 17:04:58 GMT</pubDate>
+  </item>
+</channel>
+</rss>

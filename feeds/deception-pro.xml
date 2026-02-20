@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Deception.Pro Blog (Custom Feed)</title>
+  <link>https://blog.deception.pro/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:03:19 GMT</lastBuildDate>
+  <item>
+    <title>[Op Report] Hands-on-Keyboard Intrusion Abusing Multiple RMMs</title>
+    <link>https://blog.deception.pro/blog/hok-intrusion-abusing-multiple-rmms-jan2026</link>
+    <description>Proofpoint observed a hands-on-keyboard intrusion where an operator abused 
+multiple RMM platforms—including Bluetrait, Fleetdeck, Level, and MSP360
+—after initial access via a malicious PDF “missing Adobe plugin” lure. The 
+activity underscores a growing reality: attackers are increasingly using 
+legitimate IT tooling as a resilient intrusion framework.</description>
+    <pubDate>Tue, 03 Feb 2026 15:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Update] Deception.Pro Jan 2026</title>
+    <link>https://blog.deception.pro/blog/deceptionpro-platform-update-jan-2026</link>
+    <description>The January 2026 Deception.Pro update introduces industry based replica 
+browsing for Premium users, expanded and more reliable malware auto 
+detonation across common delivery formats, improved artifact handling with 
+VirusTotal linking, and broad stability enhancements, while laying the 
+groundwork for dedicated KVM infrastructure, TLS inspection, and memory 
+dump support.</description>
+    <pubDate>Mon, 19 Jan 2026 16:07:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Op Report] CastleRAT Campaign leads to Hands-on-Keyboard ATO Operations</title>
+    <link>https://blog.deception.pro/blog/castlerat-dec2025-hok-ato</link>
+    <description>This Deception.Pro operation captured a multi-stage malware intrusion 
+culminating in hands-on-keyboard (HoK) activity focused exclusively on 
+account takeover (ATO): not ransomware staging or enterprise lateral 
+movement.</description>
+    <pubDate>Wed, 07 Jan 2026 14:23:26 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Op Report] Oyster → Vidar → Supper socks shell Campaign Leads to Hands-on-Keyboard Activity</title>
+    <link>https://blog.deception.pro/blog/oyster-vidar-hok-dec2025</link>
+    <description>A recent Deception.Pro operation involving a replica victim in the travel 
+and tourism sector revealed a multi-stage infection beginning with an 
+Oyster malware dropper masquerading as a Microsoft Teams installer.</description>
+    <pubDate>Wed, 03 Dec 2025 16:13:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Update] New Features Added!</title>
+    <link>https://blog.deception.pro/blog/updated-nov4-2025</link>
+    <description>A list of recent updates and features.</description>
+    <pubDate>Tue, 04 Nov 2025 20:23:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Silverfort Blog (Custom Feed)</title>
+  <link>https://www.silverfort.com/blog/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:10:30 GMT</lastBuildDate>
+  <item>
+    <title>Delegation Part Two: (In)sensitive accounts</title>
+    <link>https://www.silverfort.com/blog/delegation-part-two-insensitive-accounts/</link>
+    <description>Identity Security research reveals that Kerberos delegation applies to computer accounts, too—not just human users.</description>
+    <pubDate>Tue, 17 Feb 2026 14:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Moltbot: When your identity keeps working after you do</title>
+    <link>https://www.silverfort.com/blog/moltbot-when-your-identity-keeps-working-after-you-do/</link>
+    <description>The open source AI agent that's exploded in popularity comes with clear Identity Security implications.</description>
+    <pubDate>Thu, 29 Jan 2026 19:53:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Identity is the new control plane: Lessons from the World Economic Forum’s Global Cybersecurity Outlook 2026</title>
+    <link>https://www.silverfort.com/blog/identity-is-the-new-control-plane-lessons-from-the-world-economic-forums-global-cybersecurity-outlook-2026/</link>
+    <description>The World Economic Forum’s Global Cybersecurity Outlook 2026 delivers a clear and uncomfortable truth: cyber risk is accelerating faster than our traditional defenses can keep up. AI-driven attacks, geopolitical volatility, supply-chain fragility, and widening cyber inequity reshape the threat landscape at a systemic level.  What stands out most, however, is not just what is changing—but where defenses are consistently failing.  Across AI misuse, ransomware, fraud, supply-chain compromise, […]</description>
+    <pubDate>Wed, 28 Jan 2026 19:06:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>How to use the IDEAL Framework to ace Identity Security in 2026</title>
+    <link>https://www.silverfort.com/blog/how-to-use-the-ideal-framework-to-ace-identity-security-in-2026/</link>
+    <description>With 91% of organizations classifying Identity Security initiatives as a priority in the next 12-24 months, and 87% planning to increase spending on workforce identity solutions, knowing what to look for in emerging Identity Security products and the outcomes they should deliver is now crucial.  Yet most organizations are still struggling to answer these vital questions:   What exactly should I expect from an Identity Security platform? […]</description>
+    <pubDate>Wed, 28 Jan 2026 16:33:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Agent hijacking &amp; lateral movement: Lessons from the ServiceNow AI vulnerability</title>
+    <link>https://www.silverfort.com/blog/agent-hijacking-lateral-movement-lessons-from-the-servicenow-ai-vulnerability/</link>
+    <description>TL;DR In December 2025, a critical ServiceNow AI vulnerability enabled user impersonation and full workflow abuse. A static credential and weak identity binding let agents act on forged identities, including agent-to-agent trust abuse. This is an identity failure at runtime, and there are important lessons to learn from it. Thanks to ServiceNow for the rapid remediation and the […]</description>
+    <pubDate>Tue, 20 Jan 2026 21:01:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>‘The Identity Underground’ community shares research on the Identity Security consolidation wave</title>
+    <link>https://www.silverfort.com/blog/the-identity-underground-community-shares-research-on-the-identity-security-consolidation-wave/</link>
+    <description>55% of organizations are implementing unified Identity Security platforms</description>
+    <pubDate>Tue, 20 Jan 2026 14:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Announcing the 2025 Identity Icons Award winners</title>
+    <link>https://www.silverfort.com/blog/identity-icons-awards-2025-winners/</link>
+    <description>Having joined Silverfort in February 2023, it’s been an incredible journey to see the growth and success of our customers. Identity security and the need to protect identities at scale impact everyone. In my time here I’ve seen our customer base grow from 250 logos to over 1,000 global companies.   From small companies that need to protect their admins and service accounts to […]</description>
+    <pubDate>Tue, 16 Dec 2025 14:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The identity layer missing from the AI kill chain</title>
+    <link>https://www.silverfort.com/blog/the-identity-layer-missing-from-the-ai-kill-chain/</link>
+    <description>Identity is quickly becoming the common thread for achieving AI governance and protecting against modern threats.</description>
+    <pubDate>Thu, 04 Dec 2025 14:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Silverfort named an Example Vendor in the 2025 Gartner® A Well-Run Active Directory Requires Strong Identity Controls</title>
+    <link>https://www.silverfort.com/blog/silverfort-named-an-example-vendor-in-gartners-2025-report-a-well-run-active-directory-requires-strong-identity-controls/</link>
+    <description>We’re excited to share that Silverfort is named as an Example Vendor in the 2025 Gartner A Well-Run Active Directory Requires Strong Identity Controls, authored by Paul Rabinovich, May 2025. Silverfort is proud to be recognized as an Example Vendor in three key areas of the report: As organizations race toward the future of the […]</description>
+    <pubDate>Fri, 21 Nov 2025 12:27:32 GMT</pubDate>
+  </item>
+</channel>
+</rss>

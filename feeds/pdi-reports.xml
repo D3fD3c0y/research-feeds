@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>PDI Technologies (Reports) (Custom Feed)</title>
+  <link>https://security.pditechnologies.com/resources/?topic=reports</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:10:28 GMT</lastBuildDate>
+  <item>
+    <title>Retail Threat Modeling Methodology: Anticipate and Neutralize Risks Across Locations</title>
+    <link>https://security.pditechnologies.com/blog/retail-threat-modeling/</link>
+    <description>Skip to Key Ideas Q and A Modern retail networks are complex ecosystems—connecting point-of-sale (POS) systems, IoT devices, guest Wi-Fi, cloud platforms, and external vendors. Without a structured approach to identifying how these systems might be exploited, retailers remain exposed to cyber threats that can jeopardize operations and customer trust. Retail threat modeling provides a practical framework to evaluate your ... Read More The post Retail Threat Modeling Methodology: Anticipate and Neutralize Risks Across Locations appeared first on PDI Security and Network Solutions .</description>
+    <pubDate>Thu, 10 Jul 2025 17:47:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>vCISO Services for Retail: Executive-Level Security Leadership Across Store Networks</title>
+    <link>https://security.pditechnologies.com/blog/vciso-services-for-retail/</link>
+    <description>Skip to Key Ideas Q and A Retailers operating across dozens or hundreds of locations face complex cybersecurity challenges. Hiring a full-time Chief Information Security Officer (CISO) is often cost-prohibitive—yet without executive guidance, you risk compliance gaps, third-party exposure, and fragmented defenses. The PDI Virtual Chief Information Security Officer (vCISO) service bridges this gap. Built for multi-location retail, it delivers ... Read More The post vCISO Services for Retail: Executive-Level Security Leadership Across Store Networks appeared first on PDI Security and Network Solutions .</description>
+    <pubDate>Thu, 10 Jul 2025 17:47:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI Security Strategy for Retail: Smarter Protection at Scale</title>
+    <link>https://security.pditechnologies.com/blog/ai-security-strategy-for-retail/</link>
+    <description>Skip to Key Ideas Q and A Retail networks span point-of-sale (POS) systems, inventory databases, IoT devices, guest Wi-Fi, and cloud services—creating a broad attack surface that strains traditional defenses. An effective AI security strategy for retail combines real-time intelligence, automation, and human oversight to keep checkout lanes open and customer data protected. Why retail needs an AI-augmented security ... Read More The post AI Security Strategy for Retail: Smarter Protection at Scale appeared first on PDI Security and Network Solutions .</description>
+    <pubDate>Thu, 10 Jul 2025 17:46:06 GMT</pubDate>
+  </item>
+  <item>
+    <title>Weekly Security Alert – July 7th, 2025</title>
+    <link>https://security.pditechnologies.com/blog/weekly-security-alert-july-7th-2025/</link>
+    <description>Skip to Key Ideas Q and A Quick Answers Q: What is the latest Google Chrome security threat? A: A zero-day vulnerability in Google Chrome (CVE-2025-6554) is under active exploitation and can lead to remote code execution. Users should update to version 138.0.7204.96 or later immediately. Q: What are the most urgent cybersecurity vulnerabilities right now? A: Critical vulnerabilities affecting ... Read More The post Weekly Security Alert – July 7th, 2025 appeared first on PDI Security and Network Solutions .</description>
+    <pubDate>Mon, 07 Jul 2025 18:58:36 GMT</pubDate>
+  </item>
+  <item>
+    <title>Managed Security Services Provider for Retail: How to Choose and Partner for Better Protection</title>
+    <link>https://security.pditechnologies.com/blog/managed-security-services-provider-for-retail/</link>
+    <description>Retailers face an overwhelming array of cybersecurity threats across Point-of-Sale (POS) terminals, inventory systems, Internet of Things (IoT) devices, guest Wi-Fi, and cloud services. With evolving compliance standards like the Payment Card Industry Data Security Standard (PCI DSS) and a shortage of skilled security professionals, many retail organizations are turning to a Managed Security Services Provider (MSSP) to fill ... Read More The post Managed Security Services Provider for Retail: How to Choose and Partner for Better Protection appeared first on PDI Security and Network Solutions .</description>
+    <pubDate>Mon, 30 Jun 2025 14:35:26 GMT</pubDate>
+  </item>
+  <item>
+    <title>Network Infrastructure Security for Multi-Location Retail</title>
+    <link>https://security.pditechnologies.com/blog/network-infrastructure-security-for-retail/</link>
+    <description>Skip to Key Ideas Q and A If your retail network spans dozens or hundreds of stores, securing infrastructure isn’t just a technical concern—it’s a business necessity. As store networks expand, so do the vulnerabilities that accompany them. Without smart network segmentation, consistent access controls, and resilient connectivity, retailers leave the door open to lateral movement, data loss, and service ... Read More The post Network Infrastructure Security for Multi-Location Retail appeared first on PDI Security and Network Solutions .</description>
+    <pubDate>Mon, 30 Jun 2025 14:30:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Network Visibility for Retail: Assess and Improve What You Can’t See</title>
+    <link>https://security.pditechnologies.com/blog/network-visibility-for-retail/</link>
+    <description>Skip to Key Ideas Q and A Without visibility, there is no control. Distributed retail networks face a growing attack surface with interconnected systems like point-of-sale (POS) terminals, Internet of Things (IoT) sensors, guest Wi-Fi, and cloud apps. Network visibility provides real-time insights into device health, traffic flows, and potential threats—all essential to reducing dwell time, improving uptime, and simplifying ... Read More The post Network Visibility for Retail: Assess and Improve What You Can’t See appeared first on PDI Security and Network Solutions .</description>
+    <pubDate>Mon, 30 Jun 2025 14:11:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Advanced Threat Detection for Retail: Identify and Stop Threats Before They Spread</title>
+    <link>https://security.pditechnologies.com/blog/advanced-threat-detection-for-retail/</link>
+    <description>Skip to Key Ideas Q and A Retail environments face nonstop threats—from ransomware campaigns targeting point-of-sale (POS) systems to stealthy exploits hidden in seasonal Internet of Things (IoT) rollouts. Many of these attacks slip past traditional tools. That’s why advanced threat detection for retail has become essential. This blog post explores how retail-specific Managed Detection and Response (MDR) services can ... Read More The post Advanced Threat Detection for Retail: Identify and Stop Threats Before They Spread appeared first on PDI Security and Network Solutions .</description>
+    <pubDate>Mon, 30 Jun 2025 14:08:56 GMT</pubDate>
+  </item>
+  <item>
+    <title>Dark Web Monitoring for Retail Operations: Get Ahead of Credential Theft and Data Leaks</title>
+    <link>https://security.pditechnologies.com/blog/dark-web-monitoring-for-retail/</link>
+    <description>Skip to Key Ideas Q and A Retailers are prime targets on the dark web. Stolen credentials, leaked loyalty data, and compromised vendor accounts often appear for sale before breaches even occur. Without visibility into these hidden threats, retail IT and security teams are left blind to attacks already in motion. Dark web monitoring for retail transforms this blind spot ... Read More The post Dark Web Monitoring for Retail Operations: Get Ahead of Credential Theft and Data Leaks appeared first on PDI Security and Network Solutions .</description>
+    <pubDate>Mon, 30 Jun 2025 14:04:49 GMT</pubDate>
+  </item>
+  <item>
+    <title>Enterprise Retail Network Architecture: Build a Scalable, Secure Foundation for Growth</title>
+    <link>https://security.pditechnologies.com/blog/enterprise-retail-network-architecture/</link>
+    <description>Skip to Key Ideas Q and A Enterprise retail networks are no longer simple chains of connected stores—they’re complex ecosystems that must span hundreds or thousands of locations while supporting secure, real-time operations. A resilient, scalable network architecture is foundational to ensuring uptime, protecting sensitive data, and enabling growth. To adapt, enterprise retailers are using best practices to build layered, ... Read More The post Enterprise Retail Network Architecture: Build a Scalable, Secure Foundation for Growth appeared first on PDI Security and Network Solutions .</description>
+    <pubDate>Mon, 30 Jun 2025 13:51:39 GMT</pubDate>
+  </item>
+</channel>
+</rss>

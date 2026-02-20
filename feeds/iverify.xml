@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>iVerify Blog (Custom Feed)</title>
+  <link>https://iverify.io/blog</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:08:40 GMT</lastBuildDate>
+  <item>
+    <title>The Attack Surface in Your Pocketâand How Scattered Spider Socially Engineers Their Way Inside</title>
+    <link>https://iverify.io/blog/the-attack-surface-in-your-pocket-and-how-scattered-spider-socially-engineers-their-way-inside</link>
+    <description>The Attack Surface in Your Pocketâand How Scattered Spider Socially Engineers Their Way Inside</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item>
+  <item>
+    <title>Feb 18, 2026With iOS 26.2 Release, Apple Reverses Course on Shutdown.logiOS 26's shutdown.log changes erased traces of Pegasus and Predator spyware, but Apple reverted the fix in 26.2.</title>
+    <link>https://iverify.io/blog/with-ios-26.2-release-apple-reverses-course-on-shutdown.log</link>
+    <description>Feb 18, 2026With iOS 26.2 Release, Apple Reverses Course on Shutdown.logiOS 26's shutdown.log changes erased traces of Pegasus and Predator spyware, but Apple reverted the fix in 26.2.</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item>
+  <item>
+    <title>Feb 10, 2026Breaking Down ZeroDayRAT - New Spyware Targeting Android and iOSZeroDayRAT is a commercial mobile spyware platform sold via Telegram that gives attackers full remote access to Android and iOS devices</title>
+    <link>https://iverify.io/blog/breaking-down-zerodayrat---new-spyware-targeting-android-and-ios</link>
+    <description>Feb 10, 2026Breaking Down ZeroDayRAT - New Spyware Targeting Android and iOSZeroDayRAT is a commercial mobile spyware platform sold via Telegram that gives attackers full remote access to Android and iOS devices</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item>
+  <item>
+    <title>Feb 4, 2026How Attackers Run Smishing Campaigns (And Why They Work)Smishing is surging. We break down how cybercriminals source phone numbers, launch spoofed SMS campaigns, and trick victims into handing over credentials</title>
+    <link>https://iverify.io/blog/how-attackers-run-smishing-campaigns-(and-why-they-work)</link>
+    <description>Feb 4, 2026How Attackers Run Smishing Campaigns (And Why They Work)Smishing is surging. We break down how cybercriminals source phone numbers, launch spoofed SMS campaigns, and trick victims into handing over credentials</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item>
+  <item>
+    <title>Jan 20, 2026iVerify Extends Cloudflare Integrations With WARPWe're bringing Cloudflare Zero Trust (WARP) to mobile devices, delivering real-time posture signals directly into Cloudflare access policies.</title>
+    <link>https://iverify.io/blog/iverify-extends-cloudflare-integrations-with-warp</link>
+    <description>Jan 20, 2026iVerify Extends Cloudflare Integrations With WARPWe're bringing Cloudflare Zero Trust (WARP) to mobile devices, delivering real-time posture signals directly into Cloudflare access policies.</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item>
+  <item>
+    <title>Jan 20, 2026Mobile Is the New Initial Access Vector for Financial InstitutionsAs banks harden endpoints, attackers are shifting to mobile. Real mobile spyware, zero-click attacks, why MDM fails, and why BYOD phones are prime targets.</title>
+    <link>https://iverify.io/blog/mobile-is-the-new-initial-access-vector-for-financial-institutions</link>
+    <description>Jan 20, 2026Mobile Is the New Initial Access Vector for Financial InstitutionsAs banks harden endpoints, attackers are shifting to mobile. Real mobile spyware, zero-click attacks, why MDM fails, and why BYOD phones are prime targets.</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item>
+  <item>
+    <title>Dec 16, 2025Meet Cellik - A New Android RAT With Play Store IntegrationDiscover how Cellik Android RAT enables full device surveillance with live screen access, keylogging, app injection, and Play Store APK wrapping.</title>
+    <link>https://iverify.io/blog/meet-cellik---a-new-android-rat-with-play-store-integration</link>
+    <description>Dec 16, 2025Meet Cellik - A New Android RAT With Play Store IntegrationDiscover how Cellik Android RAT enables full device surveillance with live screen access, keylogging, app injection, and Play Store APK wrapping.</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item>
+  <item>
+    <title>Dec 4, 2025Intellexaâs Predator Exploit Chain: New Details Emerge After Google Publishes SamplesGoogleâs new research reveals how Intellexaâs Predator spyware exploits zero-days, abuses iOS trust mechanisms, and continues evolving despite sanctions</title>
+    <link>https://iverify.io/blog/intellexa-s-predator-exploit-chain-new-details-emerge-after-google-publishes-samples</link>
+    <description>Dec 4, 2025Intellexaâs Predator Exploit Chain: New Details Emerge After Google Publishes SamplesGoogleâs new research reveals how Intellexaâs Predator spyware exploits zero-days, abuses iOS trust mechanisms, and continues evolving despite sanctions</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item>
+</channel>
+</rss>

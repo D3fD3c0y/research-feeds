@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>ENKI Blog (KR, EN) (Custom Feed)</title>
+  <link>https://www.enki.co.kr/en/media-center/blog</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:05:52 GMT</lastBuildDate>
+  <item>
+    <title>Security InsightsWhen Disclosure Becomes a Security Scorecard: Responding to the 2027 Information Security Disclosure ExpansionKim In-soonFeb 11, 2026</title>
+    <link>https://www.enki.co.kr/en/media-center/blog/when-disclosure-becomes-a-security-scorecard-responding-to-the-2027-information-security-disclosure-expansion</link>
+    <description>Security InsightsWhen Disclosure Becomes a Security Scorecard: Responding to the 2027 Information Security Disclosure ExpansionKim In-soonFeb 11, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat IntelligenceEtherRAT Targeting Windows Disguised as a Game Mod InstallerEnkiWhiteHatJan 20, 2026</title>
+    <link>https://www.enki.co.kr/en/media-center/blog/etherrat-targeting-windows-disguised-as-a-game-mod-installer</link>
+    <description>Threat IntelligenceEtherRAT Targeting Windows Disguised as a Game Mod InstallerEnkiWhiteHatJan 20, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Security InsightsHow to PrepareKim in-soonJan 20, 2026</title>
+    <link>https://www.enki.co.kr/en/media-center/blog/three-major-security-shifts-and-how-organizations-should-respond</link>
+    <description>Security InsightsHow to PrepareKim in-soonJan 20, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat IntelligenceKimsuky Distributing Malicious Mobile App via QR CodeEnkiWhiteHatDec 16, 2025</title>
+    <link>https://www.enki.co.kr/en/media-center/blog/kimsuky-distributing-malicious-mobile-app-via-qr-code</link>
+    <description>Threat IntelligenceKimsuky Distributing Malicious Mobile App via QR CodeEnkiWhiteHatDec 16, 2025</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Security InsightsWhat is the biggest fear for security practitioners now? Common Denominators and Solutions for IncidentsEnkiWhiteHatOct 30, 2025</title>
+    <link>https://www.enki.co.kr/en/media-center/blog/hidden-security-blind-spots-large-scale-security-incident-patterns-solutions</link>
+    <description>Security InsightsWhat is the biggest fear for security practitioners now? Common Denominators and Solutions for IncidentsEnkiWhiteHatOct 30, 2025</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Security InsightsAbout the Hacking Defense Competition by CTF-Operating CompanyEnkiWhiteHatSep 11, 2025</title>
+    <link>https://www.enki.co.kr/en/media-center/blog/inside-ctf-run-by-white-hat-hackers</link>
+    <description>Security InsightsAbout the Hacking Defense Competition by CTF-Operating CompanyEnkiWhiteHatSep 11, 2025</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Security InsightsThe 2026 Security Shift : Whatâs Changing and HowKim in-soonJan 20, 2026</title>
+    <link>https://www.enki.co.kr/en/media-center/blog/the-2026-security-shift-whatâs-changing-and-how</link>
+    <description>Security InsightsThe 2026 Security Shift : Whatâs Changing and HowKim in-soonJan 20, 2026</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Security InsightsThe worst security year 2025, the hacks that shook Korea and what we need to changeìí¤íì´í¸íDec 19, 2025</title>
+    <link>https://www.enki.co.kr/en/media-center/blog/2025-the-worst-year-in-cybersecurity-for-korea-â-major-breaches-and-the-changes-we-need</link>
+    <description>Security InsightsThe worst security year 2025, the hacks that shook Korea and what we need to changeìí¤íì´í¸íDec 19, 2025</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vulnerability researchComplete Analysis of the React2Shell (CVE-2025-55182) VulnerabilityEnkiWhiteHatDec 9, 2025</title>
+    <link>https://www.enki.co.kr/en/media-center/blog/complete-analysis-of-the-react2shell-cve-2025-55182-vulnerability</link>
+    <description>Vulnerability researchComplete Analysis of the React2Shell (CVE-2025-55182) VulnerabilityEnkiWhiteHatDec 9, 2025</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat IntelligenceKimsukyâs Ongoing Evolution of KimJongRAT and Expanding ThreatsEnkiWhiteHatNov 21, 2025</title>
+    <link>https://www.enki.co.kr/en/media-center/blog/kimsuky-s-ongoing-evolution-of-kimjongrat-and-expanding-threats</link>
+    <description>Threat IntelligenceKimsukyâs Ongoing Evolution of KimJongRAT and Expanding ThreatsEnkiWhiteHatNov 21, 2025</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Security InsightsRansomware Attacks Can Be Stopped by Keeping 'Basic'Kim In-soonNov 13, 2025</title>
+    <link>https://www.enki.co.kr/en/media-center/blog/ransomware-attacks-can-be-prevented-by-simply-following-the-basics</link>
+    <description>Security InsightsRansomware Attacks Can Be Stopped by Keeping 'Basic'Kim In-soonNov 13, 2025</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat IntelligenceLazarus Group targets Aerospace and Defense with new Comebacker variantìí¤íì´í¸íNov 7, 2025</title>
+    <link>https://www.enki.co.kr/en/media-center/blog/lazarus-group-targets-aerospace-and-defense-with-new-comebacker-variant</link>
+    <description>Threat IntelligenceLazarus Group targets Aerospace and Defense with new Comebacker variantìí¤íì´í¸íNov 7, 2025</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Security Insights2025 Comprehensive National Cybersecurity Strategy and InitiativesKim In-soonOct 23, 2025</title>
+    <link>https://www.enki.co.kr/en/media-center/blog/2025-comprehensive-national-cybersecurity-strategy-and-initiatives</link>
+    <description>Security Insights2025 Comprehensive National Cybersecurity Strategy and InitiativesKim In-soonOct 23, 2025</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+  </item>
+</channel>
+</rss>

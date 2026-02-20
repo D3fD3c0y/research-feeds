@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Koi AI Blog (Custom Feed)</title>
+  <link>https://www.koi.ai/blog</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:01:33 GMT</lastBuildDate>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/koi-to-join-palo-alto-networks-a-defining-moment</link>
+    <description>Untitled</description>
+    <pubDate>Tue, 17 Feb 2026 13:59:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/clawhavoc-341-malicious-clawedbot-skills-found-by-the-bot-they-were-targeting</link>
+    <description>Untitled</description>
+    <pubDate>Tue, 17 Feb 2026 08:01:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/vk-styles-500k-users-infected-by-chrome-extensions-that-hijack-vkontakte-accounts</link>
+    <description>Untitled</description>
+    <pubDate>Sun, 15 Feb 2026 09:30:37 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/agreetosteal-the-first-malicious-outlook-add-in-leads-to-4-000-stolen-credentials</link>
+    <description>Untitled</description>
+    <pubDate>Sun, 15 Feb 2026 06:41:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers</link>
+    <description>Untitled</description>
+    <pubDate>Sun, 15 Feb 2026 06:41:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/trust-wallet-binance-compromised-inside-the-code-that-stole-7m-on-christmas-eve</link>
+    <description>Untitled</description>
+    <pubDate>Wed, 04 Feb 2026 17:16:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/brew-hijack-serving-malware</link>
+    <description>Untitled</description>
+    <pubDate>Wed, 04 Feb 2026 17:16:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/packagegate-6-zero-days-in-js-package-managers-but-npm-wont-act</link>
+    <description>Untitled</description>
+    <pubDate>Mon, 02 Feb 2026 15:59:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers</link>
+    <description>Untitled</description>
+    <pubDate>Fri, 23 Jan 2026 23:19:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/owasp-agentic-ai-top-10-a-practical-security-guide</link>
+    <description>Untitled</description>
+    <pubDate>Sun, 18 Jan 2026 10:41:58 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/how-we-prevented-cursor-windsurf-google-antigravity-from-recommending-malware</link>
+    <description>Untitled</description>
+    <pubDate>Thu, 15 Jan 2026 16:34:55 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/glassworm-goes-mac-fresh-infrastructure-new-tricks</link>
+    <description>Untitled</description>
+    <pubDate>Mon, 05 Jan 2026 11:28:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/6-6-uncover-hidden-risks-cisos-guide-to-using-extensiontotal-api-for-your-organization</link>
+    <description>Untitled</description>
+    <pubDate>Sun, 04 Jan 2026 10:44:25 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages</link>
+    <description>Untitled</description>
+    <pubDate>Wed, 31 Dec 2025 00:25:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign</link>
+    <description>Untitled</description>
+    <pubDate>Tue, 30 Dec 2025 10:13:43 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/phantomraven-npm-malware-hidden-in-invisible-dependencies</link>
+    <description>Untitled</description>
+    <pubDate>Tue, 30 Dec 2025 10:13:43 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace</link>
+    <description>Untitled</description>
+    <pubDate>Tue, 30 Dec 2025 10:13:43 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/shai-hulud-npm-supply-chain-attack-crowdstrike-tinycolor</link>
+    <description>Untitled</description>
+    <pubDate>Sun, 28 Dec 2025 10:09:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/inside-ghostposter-how-a-png-icon-infected-50-000-firefox-browser-users</link>
+    <description>Untitled</description>
+    <pubDate>Mon, 22 Dec 2025 15:29:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>Untitled</title>
+    <link>https://www.koi.ai/blog/the-vs-code-malware-that-captures-your-screen</link>
+    <description>Untitled</description>
+    <pubDate>Mon, 22 Dec 2025 15:29:30 GMT</pubDate>
+  </item>
+</channel>
+</rss>

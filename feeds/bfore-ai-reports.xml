@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Bfore.ai Reports (Custom Feed)</title>
+  <link>https://bfore.ai/resources/?e-filter-63865e3-category=report</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:02:07 GMT</lastBuildDate>
+  <item>
+    <title>Romance Scams Proliferate Domain Registrations Ahead of Valentine’s Day</title>
+    <link>https://bfore.ai/report/romance-scams-proliferate-domain-registrations-valentines-day/</link>
+    <description>Analysis of 3280+ suspicious 'love/dating' domains registered before Valentine's Day for romance scams, crypto fraud, and dating app credential harvesting.</description>
+    <pubDate>Fri, 13 Feb 2026 12:00:28 GMT</pubDate>
+  </item>
+  <item>
+    <title>BforeAI Named by Gartner® for Predictive Threat Intelligence Use Cases in Preemptive Cyber Defense</title>
+    <link>https://bfore.ai/news/bforeai-gartner-predictive-threat-intelligence-use-cases-preemptive-cyber-defense/</link>
+    <description>The Gartner report identifies BforeAI for its Predictive Attack Intelligence service that "proactively alerts users to digital threats and orchestrates infrastructure takedowns."</description>
+    <pubDate>Wed, 11 Feb 2026 11:00:11 GMT</pubDate>
+  </item>
+  <item>
+    <title>Malicious Infrastructure Campaigns: How Unrest in Iran is Being Weaponized Online</title>
+    <link>https://bfore.ai/report/malicious-infrastructure-campaigns-how-iran-is-weaponized-online/</link>
+    <description>PreCrime Labs analyzes a surge of Iran-themed domain registrations weaponizing unrest for fraud, sanctions evasion, and conflict. Get preemptive security indicators.</description>
+    <pubDate>Thu, 05 Feb 2026 12:00:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>When Attackers Build Better Products Than Startups</title>
+    <link>https://bfore.ai/blog/when-attackers-build-better-products-than-startups/</link>
+    <description>Some cyber attackers build phishing campaigns with product-level UX, so polished they’d outperform many legitimate startups if used for good.</description>
+    <pubDate>Wed, 28 Jan 2026 11:00:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Advisory: Scam Activity Leveraging U.S. Actions in Venezuela in January 2026</title>
+    <link>https://bfore.ai/report/scam-activity-leveraging-united-states-actions-in-venezuela/</link>
+    <description>Threat advisory on scam campaigns exploiting U.S. actions in Venezuela, with malicious domains targeting merchandise, crypto, energy, and real estate.</description>
+    <pubDate>Thu, 22 Jan 2026 12:00:11 GMT</pubDate>
+  </item>
+  <item>
+    <title>What the f**k is a CAO and do I need one?</title>
+    <link>https://bfore.ai/blog/what-is-a-cao-and-do-i-need-one/</link>
+    <description>The CAO (Chief Automation Officer) is the "Chief Enabler." The role assesses automation feasibility, ensuring the right solution (deterministic vs. agentic) for business problems.</description>
+    <pubDate>Wed, 31 Dec 2025 11:00:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Research Advisory: Mass Fake-Shop Campaign Targeting Retail Customers</title>
+    <link>https://bfore.ai/report/mass-fake-shop-campaign/</link>
+    <description>PreCrime Labs' 2025 advisory details a mass fake-shop campaign leveraging 244 domains, Chinese infrastructure, and retail brand mimicry to facilitate fraud and malware.</description>
+    <pubDate>Wed, 17 Dec 2025 12:00:18 GMT</pubDate>
+  </item>
+  <item>
+    <title>BforeAI Named ‘Tech Innovator in Preemptive Cybersecurity’ by Gartner®</title>
+    <link>https://bfore.ai/news/bforeai-named-tech-innovator-in-preemptive-cybersecurity-by-gartner/</link>
+    <description>The Gartner report identifies BforeAI for its Predictive Attack Intelligence service that "proactively alerts users to digital threats and orchestrates infrastructure takedowns."</description>
+    <pubDate>Wed, 17 Dec 2025 11:00:58 GMT</pubDate>
+  </item>
+  <item>
+    <title>PreCrime Guarantee</title>
+    <link>https://bfore.ai/datasheet/precrime-guarantee/</link>
+    <description>BforeAI is partnering with Munich Re to provide our customers with ten times the peace of mind.</description>
+    <pubDate>Thu, 11 Dec 2025 20:43:44 GMT</pubDate>
+  </item>
+  <item>
+    <title>Harnessing Predictive Threat Intelligence for Robust Operational Technology Security</title>
+    <link>https://bfore.ai/blog/harnessing-predictive-threat-intelligence-operational-technology-security/</link>
+    <description>Predictive Threat Intelligence (PTI) shifts OT security from reactive to preemptive, using AI/ML to predict cyber threats weeks in advance by observing infrastructure behavior, leading to disruption, deterrence, and quantifiable ROI.</description>
+    <pubDate>Wed, 26 Nov 2025 13:30:27 GMT</pubDate>
+  </item>
+</channel>
+</rss>

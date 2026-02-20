@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>eversinc33 (Custom Feed)</title>
+  <link>https://eversinc33.com/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:05:59 GMT</lastBuildDate>
+  <item>
+    <title>Driver Reverse Engineering 101 - Part II: Unpacking a VMProtected Kernel Driver</title>
+    <link>https://eversinc33.com/2025/11/21/driver-reverse-engineering-101-part-ii-unpacking-a-vmprotected-kernel-driver</link>
+    <description>Driver Reverse Engineering 101 - Part II: Unpacking a VMProtected Kernel Driver</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Drivers</title>
+    <link>https://eversinc33.com/tags/Drivers/</link>
+    <description>Drivers</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Kernel</title>
+    <link>https://eversinc33.com/tags/Kernel/</link>
+    <description>Kernel</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Reverse Engineering</title>
+    <link>https://eversinc33.com/tags/Reverse-Engineering/</link>
+    <description>Reverse Engineering</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Unpacking</title>
+    <link>https://eversinc33.com/tags/Unpacking/</link>
+    <description>Unpacking</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>VMProtect</title>
+    <link>https://eversinc33.com/tags/VMProtect/</link>
+    <description>VMProtect</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Reverse Engineering</title>
+    <link>https://eversinc33.com/categories/Reverse-Engineering/</link>
+    <description>Reverse Engineering</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Windows Drivers</title>
+    <link>https://eversinc33.com/categories/Reverse-Engineering/Windows-Drivers/</link>
+    <description>Windows Drivers</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Driver Reverse Engineering 101 - Part I: Static Analysis</title>
+    <link>https://eversinc33.com/2025/08/15/driver-reverse-engineering-101</link>
+    <description>Driver Reverse Engineering 101 - Part I: Static Analysis</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Windows</title>
+    <link>https://eversinc33.com/tags/Windows/</link>
+    <description>Windows</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>(Anti-)Anti-Rootkit Techniques - Part III: Hijacking Pointers</title>
+    <link>https://eversinc33.com/2025/02/16/anti-anti-rootkit-techniques-part-iii-hijacking-pointers</link>
+    <description>(Anti-)Anti-Rootkit Techniques - Part III: Hijacking Pointers</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Anti-Rootkit</title>
+    <link>https://eversinc33.com/tags/Anti-Rootkit/</link>
+    <description>Anti-Rootkit</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Data Pointer Swap</title>
+    <link>https://eversinc33.com/tags/Data-Pointer-Swap/</link>
+    <description>Data Pointer Swap</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Rootkit</title>
+    <link>https://eversinc33.com/tags/Rootkit/</link>
+    <description>Rootkit</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Windows Kernel</title>
+    <link>https://eversinc33.com/categories/Windows-Kernel/</link>
+    <description>Windows Kernel</description>
+    <pubDate>Fri, 20 Feb 2026 17:05:59 GMT</pubDate>
+  </item>
+</channel>
+</rss>

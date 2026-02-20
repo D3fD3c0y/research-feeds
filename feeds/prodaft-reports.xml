@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>PRODAFT Reports (Custom Feed)</title>
+  <link>https://prodaft.com/reports</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:10:01 GMT</lastBuildDate>
+  <item>
+    <title>Latest Reports</title>
+    <link>https://prodaft.com/reports</link>
+    <description>Latest Reports</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:01 GMT</pubDate>
+  </item>
+</channel>
+</rss>

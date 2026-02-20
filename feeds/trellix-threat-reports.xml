@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Trellix Threat Reports (Custom Feed)</title>
+  <link>https://www.trellix.com/advanced-research-center/threat-reports/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:01:14 GMT</lastBuildDate>
+  <item>
+    <title>Trellix Threat Reports — no items discovered</title>
+    <link>https://www.trellix.com/advanced-research-center/threat-reports/</link>
+    <description>Feed builder could not detect recent posts automatically.</description>
+    <pubDate>Fri, 20 Feb 2026 17:01:14 GMT</pubDate>
+  </item>
+</channel>
+</rss>

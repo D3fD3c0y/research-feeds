@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Beazley Insights (Custom Feed)</title>
+  <link>https://beazley.security/insights</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:02:05 GMT</lastBuildDate>
+  <item>
+    <title>Quarterly Threat Report: Fourth Quarter, 2025A majority of ransomware activity resulted from three leading groups. Beazley Security Labs also identified interesting trends with infostealers, including sophisticated techniques to deliver and obfuscate the malware, along with new entrants rising to fill demand.Top Cyber RisksTop Cyber Risks</title>
+    <link>https://beazley.security/insights/quarterly-threat-report-fourth-quarter-2025</link>
+    <description>Quarterly Threat Report: Fourth Quarter, 2025A majority of ransomware activity resulted from three leading groups. Beazley Security Labs also identified interesting trends with infostealers, including sophisticated techniques to deliver and obfuscate the malware, along with new entrants rising to fill demand.Top Cyber RisksTop Cyber Risks</description>
+    <pubDate>Fri, 20 Feb 2026 17:02:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>WebinarTop Threats for 2026 (Webinar Replay)Drawing on expert insights and forward-looking analysis from our cyber specialists, we explore the trends and risks that will define 2026, and what they mean for your organization.</title>
+    <link>https://beazley.security/insights/top-threats-for-2026-webinar-replay</link>
+    <description>WebinarTop Threats for 2026 (Webinar Replay)Drawing on expert insights and forward-looking analysis from our cyber specialists, we explore the trends and risks that will define 2026, and what they mean for your organization.</description>
+    <pubDate>Fri, 20 Feb 2026 17:02:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>WebinarCyber Crisis Simulation (Webinar Replay)Tabletop simulations are one of the most effective ways to prepare before an incident strikes. In this recorded session, we cover the critical decisions that need to be made in response to an incident and best practices to reduce impact.Tips and GuidanceTips and Guidance</title>
+    <link>https://beazley.security/insights/cyber-crisis-simulation-webinar-replay</link>
+    <description>WebinarCyber Crisis Simulation (Webinar Replay)Tabletop simulations are one of the most effective ways to prepare before an incident strikes. In this recorded session, we cover the critical decisions that need to be made in response to an incident and best practices to reduce impact.Tips and GuidanceTips and Guidance</description>
+    <pubDate>Fri, 20 Feb 2026 17:02:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>ArticleGuide to AI ReadinessArtificial intelligence is transforming the way organizations operate, creating new opportunities—and new risks. We cover 5 essential pillars of building a resilient AI strategy that will help you stay ahead.</title>
+    <link>https://beazley.security/insights/guide-to-ai-readiness</link>
+    <description>ArticleGuide to AI ReadinessArtificial intelligence is transforming the way organizations operate, creating new opportunities—and new risks. We cover 5 essential pillars of building a resilient AI strategy that will help you stay ahead.</description>
+    <pubDate>Fri, 20 Feb 2026 17:02:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>The First 48 hours of a Cyber Incident (Webinar Replay)When a cyberattack strikes, every minute counts. In this expert-led webinar, we help you understand the critical decisions and coordination needed in the first 48 hours of a cyber incident.Tips and GuidanceTips and Guidance</title>
+    <link>https://beazley.security/insights/the-first-48-hours-of-a-cyber-incident-webinar-replay</link>
+    <description>The First 48 hours of a Cyber Incident (Webinar Replay)When a cyberattack strikes, every minute counts. In this expert-led webinar, we help you understand the critical decisions and coordination needed in the first 48 hours of a cyber incident.Tips and GuidanceTips and Guidance</description>
+    <pubDate>Fri, 20 Feb 2026 17:02:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>Chasing A Ghost: A PXA Stealer Story (Webinar Replay)Attackers are evolving – but so are defenders.Tips and GuidanceTips and Guidance</title>
+    <link>https://beazley.security/insights/chasing-a-ghost-a-pxa-stealer-story-webinar-replay</link>
+    <description>Chasing A Ghost: A PXA Stealer Story (Webinar Replay)Attackers are evolving – but so are defenders.Tips and GuidanceTips and Guidance</description>
+    <pubDate>Fri, 20 Feb 2026 17:02:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI Readiness: Building Resilience for What's Next (Webinar Replay)Our experts cover how your organization can securely and ethically integrate AI technologies.Tips and GuidanceTips and Guidance</title>
+    <link>https://beazley.security/insights/ai-readiness-building-resilience-for-whats-next-webinar-replay</link>
+    <description>AI Readiness: Building Resilience for What's Next (Webinar Replay)Our experts cover how your organization can securely and ethically integrate AI technologies.Tips and GuidanceTips and Guidance</description>
+    <pubDate>Fri, 20 Feb 2026 17:02:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>Microsoft 365 Security: 5 Smart Ways to Strengthen Your Cyber DefensesWhile Microsoft 365 continues to play a central role in driving productivity and collaboration across modern businesses, its extensive capabilities come with increased complexity and a broad range of configuration choices, and the default configurations may not offer the best protection for your organization.Tips and GuidanceTips and Guidance</title>
+    <link>https://beazley.security/insights/microsoft-365-security-5-smart-ways-to-strengthen-your-cyber-defenses</link>
+    <description>Microsoft 365 Security: 5 Smart Ways to Strengthen Your Cyber DefensesWhile Microsoft 365 continues to play a central role in driving productivity and collaboration across modern businesses, its extensive capabilities come with increased complexity and a broad range of configuration choices, and the default configurations may not offer the best protection for your organization.Tips and GuidanceTips and Guidance</description>
+    <pubDate>Fri, 20 Feb 2026 17:02:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>ArticleGhost in the Zip | New PXA Stealer and Its Telegram-Powered EcosystemBeazley Security Labs and SentinelLabs collaborated to investigate a complex delivery &amp; execution chain leading to PXA Stealer.RansomwareRansomware</title>
+    <link>https://beazley.security/insights/ghost-in-the-zip-new-pxa-stealer-and-its-telegram-powered-ecosystem</link>
+    <description>ArticleGhost in the Zip | New PXA Stealer and Its Telegram-Powered EcosystemBeazley Security Labs and SentinelLabs collaborated to investigate a complex delivery &amp; execution chain leading to PXA Stealer.RansomwareRansomware</description>
+    <pubDate>Fri, 20 Feb 2026 17:02:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>Protecting Corporate Data: Secure Remote Work and BYOD Access (Webinar Replay)With more employees working remotely and using personal devices, the risk to corporate data has never been higher. Learn how to get ahead.Tips and GuidanceTips and Guidance</title>
+    <link>https://beazley.security/insights/protecting-corporate-data-secure-remote-work-and-byod-access-webinar-replay</link>
+    <description>Protecting Corporate Data: Secure Remote Work and BYOD Access (Webinar Replay)With more employees working remotely and using personal devices, the risk to corporate data has never been higher. Learn how to get ahead.Tips and GuidanceTips and Guidance</description>
+    <pubDate>Fri, 20 Feb 2026 17:02:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>Quarterly Threat Report: Second Quarter, 2025In Q2 of 2025, ransomware remained a leading threat to organizations worldwide, though the overall number of ransomware incidents reported to Beazley dropped.Top Cyber RisksTop Cyber Risks</title>
+    <link>https://beazley.security/insights/quarterly-threat-report-second-quarter-2025</link>
+    <description>Quarterly Threat Report: Second Quarter, 2025In Q2 of 2025, ransomware remained a leading threat to organizations worldwide, though the overall number of ransomware incidents reported to Beazley dropped.Top Cyber RisksTop Cyber Risks</description>
+    <pubDate>Fri, 20 Feb 2026 17:02:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>Avoiding Microsoft 365 Security Issues: Top 5 Configuration Mistakes (Webinar Replay)Microsoft 365 is the backbone of collaboration and productivity for countless organizations—but it’s also a prime target for attackers. Why? Because misconfigurations are more common (and more dangerous) than you think.Tips and GuidanceTips and Guidance</title>
+    <link>https://beazley.security/insights/avoiding-microsoft-365-security-issues-top-5-configuration-mistakes-webinar-replay</link>
+    <description>Avoiding Microsoft 365 Security Issues: Top 5 Configuration Mistakes (Webinar Replay)Microsoft 365 is the backbone of collaboration and productivity for countless organizations—but it’s also a prime target for attackers. Why? Because misconfigurations are more common (and more dangerous) than you think.Tips and GuidanceTips and Guidance</description>
+    <pubDate>Fri, 20 Feb 2026 17:02:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>Ransomware Reloaded: Advanced Tactics, Real-World Threats, and How to Fight (Webinar Replay)Ransomware has evolved far beyond simple encryption schemes. We unpack the latest trends in ransomware operations, from initial access to full-scale extortion, and provide actionable strategies to strengthen your defenses.Tips and GuidanceTips and Guidance</title>
+    <link>https://beazley.security/insights/ransomware-reloaded-advanced-tactics-real-world-threats-and-how-to-fight</link>
+    <description>Ransomware Reloaded: Advanced Tactics, Real-World Threats, and How to Fight (Webinar Replay)Ransomware has evolved far beyond simple encryption schemes. We unpack the latest trends in ransomware operations, from initial access to full-scale extortion, and provide actionable strategies to strengthen your defenses.Tips and GuidanceTips and Guidance</description>
+    <pubDate>Fri, 20 Feb 2026 17:02:05 GMT</pubDate>
+  </item>
+</channel>
+</rss>

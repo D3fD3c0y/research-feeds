@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>StrikeReady Blog (Custom Feed)</title>
+  <link>https://strikeready.com/blog/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:10:59 GMT</lastBuildDate>
+  <item>
+    <title>Blog</title>
+    <link>https://strikeready.com/blog/</link>
+    <description>Blog</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Resources</title>
+    <link>https://strikeready.com/resources/</link>
+    <description>Resources</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:59 GMT</pubDate>
+  </item>
+</channel>
+</rss>

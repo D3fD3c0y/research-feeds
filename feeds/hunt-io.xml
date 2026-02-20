@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Hunt.io Blog (Custom Feed)</title>
+  <link>https://hunt.io/blog</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:08:07 GMT</lastBuildDate>
+  <item>
+    <title>Inside Chinaâs Hosting Ecosystem: 18,000+ Malware C2 Servers Mapped Across Major ISPs</title>
+    <link>https://hunt.io/blog/china-hosting-malware-c2-infrastructure</link>
+    <description>Inside Chinaâs Hosting Ecosystem: 18,000+ Malware C2 Servers Mapped Across Major ISPs</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>Fake Homebrew Typosquats Used to Deliver Cuckoo Stealer via ClickFix</title>
+    <link>https://hunt.io/blog/fake-homebrew-clickfix-cuckoo-stealer-macos</link>
+    <description>Fake Homebrew Typosquats Used to Deliver Cuckoo Stealer via ClickFix</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>Hunting OpenClaw Exposures: CVE-2026-25253 in Internet-Facing AI Agent Gateways</title>
+    <link>https://hunt.io/blog/cve-2026-25253-openclaw-ai-agent-exposure</link>
+    <description>Hunting OpenClaw Exposures: CVE-2026-25253 in Internet-Facing AI Agent Gateways</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>Exposed Open Directory Leaks a Full BYOB Deployment Across Windows, Linux, and macOS</title>
+    <link>https://hunt.io/blog/exposed-byob-c2-infrastructure-multi-stage-malware-deployment</link>
+    <description>Exposed Open Directory Leaks a Full BYOB Deployment Across Windows, Linux, and macOS</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>ClickFix Campaign Hijacks Facebook Sessions at Scale by Abusing Verification and Appeal Workflows</title>
+    <link>https://hunt.io/blog/clickfix-facebook-session-hijacking</link>
+    <description>ClickFix Campaign Hijacks Facebook Sessions at Scale by Abusing Verification and Appeal Workflows</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Complete Guide to Hunting Cobalt Strike - Part 3: Automated C2 Infrastructure Discovery</title>
+    <link>https://hunt.io/blog/guide-hunting-cobalt-strike-part-3-automated-discovery</link>
+    <description>The Complete Guide to Hunting Cobalt Strike - Part 3: Automated C2 Infrastructure Discovery</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>2025: Year in Review Key Product Updates, Guides, and Threat Research</title>
+    <link>https://hunt.io/blog/2025-year-in-review</link>
+    <description>2025: Year in Review Key Product Updates, Guides, and Threat Research</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>Announcing Hunt 2.8: Sharper IOC Hunter Workflows, Smarter Provider Visibility, and Easier C2 Filtering</title>
+    <link>https://hunt.io/blog/announcing-hunt-2-8</link>
+    <description>Announcing Hunt 2.8: Sharper IOC Hunter Workflows, Smarter Provider Visibility, and Easier C2 Filtering</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>Inside DPRK Operations: New Lazarus and Kimsuky Infrastructure Uncovered Across Global Campaigns</title>
+    <link>https://hunt.io/blog/dprk-lazarus-kimsuky-infrastructure-uncovered</link>
+    <description>Inside DPRK Operations: New Lazarus and Kimsuky Infrastructure Uncovered Across Global Campaigns</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>React2Shell (CVE-2025-55182): Dissecting a Node.js RCE Against a Production Next.js App</title>
+    <link>https://hunt.io/blog/react2shell-cve-2025-55182-nextjs-nodejs-rce</link>
+    <description>React2Shell (CVE-2025-55182): Dissecting a Node.js RCE Against a Production Next.js App</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>Malicious VSCode Extension Launches Multi-Stage Attack Chain with Anivia Loader and OctoRAT</title>
+    <link>https://hunt.io/blog/malicious-vscode-extension-anivia-octorat-attack-chain</link>
+    <description>Malicious VSCode Extension Launches Multi-Stage Attack Chain with Anivia Loader and OctoRAT</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Complete Guide to Hunting Cobalt Strike - Part 2: 10+ HuntSQL Recipes to Find Cobalt Strike</title>
+    <link>https://hunt.io/blog/guide-hunting-cobalt-strike-part-2-huntsql-recipes</link>
+    <description>The Complete Guide to Hunting Cobalt Strike - Part 2: 10+ HuntSQL Recipes to Find Cobalt Strike</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Complete Guide to Hunting Cobalt Strike - Part 1:   Detecting Cobalt Strike in Open Directories</title>
+    <link>https://hunt.io/blog/guide-hunting-cobalt-strike-part-1-open-directories</link>
+    <description>The Complete Guide to Hunting Cobalt Strike - Part 1:   Detecting Cobalt Strike in Open Directories</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>Hunt 2.7 is Here: New Domain Risk, AttackCaptureâ¢ Filters, and Threat Actor Insights</title>
+    <link>https://hunt.io/blog/announcing-hunt-2-7</link>
+    <description>Hunt 2.7 is Here: New Domain Risk, AttackCaptureâ¢ Filters, and Threat Actor Insights</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>Multilingual ZIP Phishing Campaigns Targeting Financial and Government Organizations Across Asia</title>
+    <link>https://hunt.io/blog/multilingual-zip-phishing-campaigns-asia-financial-government</link>
+    <description>Multilingual ZIP Phishing Campaigns Targeting Financial and Government Organizations Across Asia</description>
+    <pubDate>Fri, 20 Feb 2026 17:08:07 GMT</pubDate>
+  </item>
+</channel>
+</rss>

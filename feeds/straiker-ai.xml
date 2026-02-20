@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Straiker.ai Blog (Custom Feed)</title>
+  <link>https://www.straiker.ai/blog</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:10:57 GMT</lastBuildDate>
+  <item>
+    <title>From Inbox to Wipeout: Perplexity Comet’s AI Browser Quietly Erasing Google DriveNew STAR Labs research shows how Perplexity Comet executed a zero click Google Drive wipe from a single email. Learn why agentic browsers create new security risks.Read more</title>
+    <link>https://www.straiker.ai/blog/from-inbox-to-wipeout-perplexity-comets-ai-browser-quietly-erasing-google-drive</link>
+    <description>From Inbox to Wipeout: Perplexity Comet’s AI Browser Quietly Erasing Google DriveNew STAR Labs research shows how Perplexity Comet executed a zero click Google Drive wipe from a single email. Learn why agentic browsers create new security risks.Read more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>Straiker Recognized as a Fortune Cyber 60 Company for Second Consecutive YearMilestone marks Straiker's breakthrough work in protecting agentic AI applicationsRead more</title>
+    <link>https://www.straiker.ai/blog/straiker-recognized-as-a-fortune-cyber-60-company-for-second-consecutive-year</link>
+    <description>Straiker Recognized as a Fortune Cyber 60 Company for Second Consecutive YearMilestone marks Straiker's breakthrough work in protecting agentic AI applicationsRead more</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>WhitepaperFebruary 18, 2026Securing Agentic AI in Banking &amp; Financial ServicesOver 50% of financial services organizations have deployed AI agents. Most lack the security to scale them safely.</title>
+    <link>https://www.straiker.ai/blog/securing-agentic-ai-in-banking-financial-services</link>
+    <description>WhitepaperFebruary 18, 2026Securing Agentic AI in Banking &amp; Financial ServicesOver 50% of financial services organizations have deployed AI agents. Most lack the security to scale them safely.</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>BlogFebruary 17, 2026Built on ClawHub, Spread on Moltbook: The New Agent-to-Agent Attack ChainStraiker uncovered an active agent-to-agent attack chain where malicious Claude Skills on ClawHub are spread via fake AI personas, enabling crypto scams and private key theft. The research shows AI skill marketplaces are already becoming a new supply chain attack surface</title>
+    <link>https://www.straiker.ai/blog/built-on-clawhub-spread-on-moltbook-the-new-agent-to-agent-attack-chain</link>
+    <description>BlogFebruary 17, 2026Built on ClawHub, Spread on Moltbook: The New Agent-to-Agent Attack ChainStraiker uncovered an active agent-to-agent attack chain where malicious Claude Skills on ClawHub are spread via fake AI personas, enabling crypto scams and private key theft. The research shows AI skill marketplaces are already becoming a new supply chain attack surface</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>BlogFebruary 10, 2026Agent Hijacking: How Prompt Injection Leads to Full AI System CompromiseAgent hijacking moves lateral movement into agent workflows, making runtime behavior monitoring essential for securing agentic AI.</title>
+    <link>https://www.straiker.ai/blog/agent-hijacking-how-prompt-injection-leads-to-full-ai-system-compromise</link>
+    <description>BlogFebruary 10, 2026Agent Hijacking: How Prompt Injection Leads to Full AI System CompromiseAgent hijacking moves lateral movement into agent workflows, making runtime behavior monitoring essential for securing agentic AI.</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>BlogFebruary 5, 2026SmartLoader Clones Oura Ring MCP to Deploy Supply Chain AttackA sophisticated supply chain attack targeting the MCP ecosystem used fake GitHub accounts and a cloned Oura Ring server to infiltrate developer environments with credential-stealing malware.</title>
+    <link>https://www.straiker.ai/blog/smartloader-clones-oura-ring-mcp-to-deploy-supply-chain-attack</link>
+    <description>BlogFebruary 5, 2026SmartLoader Clones Oura Ring MCP to Deploy Supply Chain AttackA sophisticated supply chain attack targeting the MCP ecosystem used fake GitHub accounts and a cloned Oura Ring server to infiltrate developer environments with credential-stealing malware.</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>BlogJanuary 29, 2026How the Clawdbot/Moltbot AI Assistant Becomes a Backdoor for System TakeoverSecurity research uncovered over 4,500 exposed Clawdbot/Moltbot instances globally—concentrated in the US, Germany, Singapore, and China—with testing confirming attackers can exfiltrate API keys, service tokens, and WhatsApp session credentials for surveillance.</title>
+    <link>https://www.straiker.ai/blog/how-the-clawdbot-moltbot-ai-assistant-becomes-a-backdoor-for-system-takeover</link>
+    <description>BlogJanuary 29, 2026How the Clawdbot/Moltbot AI Assistant Becomes a Backdoor for System TakeoverSecurity research uncovered over 4,500 exposed Clawdbot/Moltbot instances globally—concentrated in the US, Germany, Singapore, and China—with testing confirming attackers can exfiltrate API keys, service tokens, and WhatsApp session credentials for surveillance.</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>BlogJanuary 22, 2026How to Secure AI Agents in High-Tech CompaniesHigh-tech companies are inventing the future of AI—and its security challenges. Learn how to secure AI-native products, MCP integrations, and novel agent vulnerabilities at competitive speed.</title>
+    <link>https://www.straiker.ai/blog/how-to-secure-ai-agents-in-high-tech-companies</link>
+    <description>BlogJanuary 22, 2026How to Secure AI Agents in High-Tech CompaniesHigh-tech companies are inventing the future of AI—and its security challenges. Learn how to secure AI-native products, MCP integrations, and novel agent vulnerabilities at competitive speed.</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>BlogJanuary 15, 2026How to Secure AI Agents in Hospitals and Healthcare SystemsHealthcare AI has the same security threats as any other industry, but because mistakes can directly harm patients, teams must test and secure agents for real-world, ambiguous patient interactions—not just obvious adversarial attacks.</title>
+    <link>https://www.straiker.ai/blog/how-to-secure-ai-agents-in-hospitals-and-healthcare-systems</link>
+    <description>BlogJanuary 15, 2026How to Secure AI Agents in Hospitals and Healthcare SystemsHealthcare AI has the same security threats as any other industry, but because mistakes can directly harm patients, teams must test and secure agents for real-world, ambiguous patient interactions—not just obvious adversarial attacks.</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>BlogJanuary 6, 2026How to Secure AI Agents in Banking and Financial CompaniesDIY guardrails, open-source tools, and cloud-native security isn't enough in banking and FSI. Here's why—and what 85% of financial institutions deploying AI need instead.</title>
+    <link>https://www.straiker.ai/blog/how-to-secure-ai-agents-in-banking-and-financial-companies</link>
+    <description>BlogJanuary 6, 2026How to Secure AI Agents in Banking and Financial CompaniesDIY guardrails, open-source tools, and cloud-native security isn't enough in banking and FSI. Here's why—and what 85% of financial institutions deploying AI need instead.</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>BlogDecember 30, 202510 Hard-Won Lessons from building an AI Security company in 2025Straiker CEO's honest reflections on what it takes to build an AI security company when chatbots become agents, acquisitions accelerate, and customers still don't know what they need.</title>
+    <link>https://www.straiker.ai/blog/10-hard-won-lessons-from-building-an-ai-security-company-in-2025</link>
+    <description>BlogDecember 30, 202510 Hard-Won Lessons from building an AI Security company in 2025Straiker CEO's honest reflections on what it takes to build an AI security company when chatbots become agents, acquisitions accelerate, and customers still don't know what they need.</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>BlogDecember 24, 2025The Agent Security Gap: Why 75% of Leaders Won't Let Security Concerns Slow Their AI DeploymentGartner predicts 40% of enterprise apps will integrate AI agents by 2026. Despite 75% of leaders citing security as their top concern, organizations are deploying anyway because waiting means falling behind.</title>
+    <link>https://www.straiker.ai/blog/the-agent-security-gap-why-75-of-leaders-wont-let-security-concerns-slow-their-ai-deployment</link>
+    <description>BlogDecember 24, 2025The Agent Security Gap: Why 75% of Leaders Won't Let Security Concerns Slow Their AI DeploymentGartner predicts 40% of enterprise apps will integrate AI agents by 2026. Despite 75% of leaders citing security as their top concern, organizations are deploying anyway because waiting means falling behind.</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>BlogDecember 18, 2025When AI Agents Ship by Default, Security Has to Run in Production — What’s New in Defend AIAI agents are shipping by default. Learn how Defend AI delivers production-grade agentic security with real-world detections, accuracy, and research-driven coverage.</title>
+    <link>https://www.straiker.ai/blog/when-ai-agents-ship-by-default-security-has-to-run-in-production----whats-new-in-defend-ai</link>
+    <description>BlogDecember 18, 2025When AI Agents Ship by Default, Security Has to Run in Production — What’s New in Defend AIAI agents are shipping by default. Learn how Defend AI delivers production-grade agentic security with real-world detections, accuracy, and research-driven coverage.</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>BlogDecember 16, 2025OWASP Just Released Its First Top 10 for Agentic AI and Here's What You Need to KnowOWASP just released its first Top 10 for Agentic AI. From goal hijacking to rogue agents, here's a plain-English breakdown of the 10 risks every security team needs to understand.</title>
+    <link>https://www.straiker.ai/blog/owasp-just-released-its-first-top-10-for-agentic-ai-and-heres-what-you-need-to-know</link>
+    <description>BlogDecember 16, 2025OWASP Just Released Its First Top 10 for Agentic AI and Here's What You Need to KnowOWASP just released its first Top 10 for Agentic AI. From goal hijacking to rogue agents, here's a plain-English breakdown of the 10 risks every security team needs to understand.</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>BlogDecember 11, 2025Why Microsoft's Agentic AI Expansion Proves Runtime Guardrails Are Now Mission-CriticalMicrosoft's Security Copilot agents mark agentic AI's shift to production. With 80% of orgs reporting risky behaviors, runtime guardrails are now essential for secure deployment.</title>
+    <link>https://www.straiker.ai/blog/why-microsofts-agentic-ai-expansion-proves-runtime-guardrails-are-now-mission-critical</link>
+    <description>BlogDecember 11, 2025Why Microsoft's Agentic AI Expansion Proves Runtime Guardrails Are Now Mission-CriticalMicrosoft's Security Copilot agents mark agentic AI's shift to production. With 80% of orgs reporting risky behaviors, runtime guardrails are now essential for secure deployment.</description>
+    <pubDate>Fri, 20 Feb 2026 17:10:57 GMT</pubDate>
+  </item>
+</channel>
+</rss>

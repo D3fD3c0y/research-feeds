@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Netwrix Blog (Custom Feed)</title>
+  <link>https://netwrix.com/en/resources/blog/</link>
+  <description>Auto-generated every 2 hours</description>
+  <lastBuildDate>Fri, 20 Feb 2026 17:09:12 GMT</lastBuildDate>
+  <item>
+    <title>Blog</title>
+    <link>https://netwrix.com/en/resources/blog/</link>
+    <description>Blog</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Essential PowerShell Commands: A Cheat Sheet for Beginners</title>
+    <link>https://netwrix.com/en/resources/blog/powershell-commands-cheat-sheet/</link>
+    <description>Essential PowerShell Commands: A Cheat Sheet for Beginners</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Download and Install PowerShell 7</title>
+    <link>https://netwrix.com/en/resources/blog/powershell-download-install-guide/</link>
+    <description>Download and Install PowerShell 7</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Common Types of Network Devices and Their Functions</title>
+    <link>https://netwrix.com/en/resources/blog/network-devices-explained/</link>
+    <description>Common Types of Network Devices and Their Functions</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>How to Install &amp; Use Active Directory Users and Computers (ADUC)?</title>
+    <link>https://netwrix.com/en/resources/blog/how-to-install-and-use-active-directory-users-and-computers/</link>
+    <description>How to Install &amp; Use Active Directory Users and Computers (ADUC)?</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>How to Run PowerShell Script from Task Scheduler</title>
+    <link>https://netwrix.com/en/resources/blog/how-to-automate-powershell-scripts-with-task-scheduler/</link>
+    <description>How to Run PowerShell Script from Task Scheduler</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Download the report</title>
+    <link>https://netwrix.com/en/resources/guides/gartner-pam-magic-quadrant-2025/</link>
+    <description>Download the report</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Resource Center</title>
+    <link>https://netwrix.com/en/resources/</link>
+    <description>Resource Center</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Events</title>
+    <link>https://netwrix.com/en/resources/events/</link>
+    <description>Events</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Freeware</title>
+    <link>https://netwrix.com/en/resources/freeware/</link>
+    <description>Freeware</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Guides</title>
+    <link>https://netwrix.com/en/resources/guides/</link>
+    <description>Guides</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>News</title>
+    <link>https://netwrix.com/en/resources/news/</link>
+    <description>News</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Podcasts</title>
+    <link>https://netwrix.com/en/resources/podcasts/</link>
+    <description>Podcasts</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Publications</title>
+    <link>https://netwrix.com/en/resources/publications/</link>
+    <description>Publications</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Research</title>
+    <link>https://netwrix.com/en/resources/research/</link>
+    <description>Research</description>
+    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+  </item>
+</channel>
+</rss>
