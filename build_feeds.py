@@ -34,8 +34,17 @@ COMMON_SUFFIXES = [
 ]
 
 # Helper: RFC2822 date
-def rfc2822(dt: datetime.datetime) -> str:
+def rfc2822(dt=None) -> str:
+    """
+    Return an RFC 2822 date string in UTC.
+    Ensures the datetime is timezone-aware (UTC), as required by email.utils.format_datetime(usegmt=True).
+    """
+    if dt is None:
+        dt = datetime.datetime.now(datetime.timezone.utc)
+    elif dt.tzinfo is None:
+        dt = dt.replace(tzinfo=datetime.timezone.utc)
     return email.utils.format_datetime(dt, usegmt=True)
+
 
 def get(url):
     return requests.get(url, headers=HEADERS, timeout=TIMEOUT)
