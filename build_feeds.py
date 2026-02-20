@@ -400,10 +400,13 @@ def write_rss(out_path: str, channel_title: str, channel_link: str, items: list[
 
 def build_index(feed_map: list[tuple[str, str]]):
     """Create a simple HTML index page listing all feeds."""
+    base = os.environ.get("PAGES_BASE", "")  # set in the GitHub Action step
     rows = []
     for name, slug in feed_map:
         rel = f"feeds/{slug}.xml"
-        rows.append(f'<li><a href="{rel}">{name}</a> — <code>{rel}</code></li>')
+        url = (base + rel) if base else rel
+        rows.append(f'<li><a href="{url}" target="_blank" rel="noopener">{name}</a> — <code>{url}</code></li>')
+
     html = f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <title>Research Feeds (auto-updated)</title>
