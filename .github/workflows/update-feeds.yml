@@ -24,6 +24,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 feedparser
 
+      - name: Set Pages base URL
+        run: echo "PAGES_BASE=https://d3fd3c0y.github.io/research-feeds/" >> $GITHUB_ENV
+
       - name: Build feeds
         run: |
           python build_feeds.py
