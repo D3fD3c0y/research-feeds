@@ -152,7 +152,7 @@ def scrape_items(page_url: str, limit: int = 15):
 def write_rss(out_path: str, channel_title: str, channel_link: str, items):
     from xml.sax.saxutils import escape
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    last_build = rfc2822(datetime.datetime.utcnow())
+    last_build = rfc2822()
 
     def item_xml(i):
         t = escape(i.get("title",""))
@@ -244,7 +244,7 @@ def main():
                     dt = datetime.datetime(*e.updated_parsed[:6], tzinfo=datetime.timezone.utc)
                     pub = rfc2822(dt)
                 else:
-                    pub = rfc2822(datetime.datetime.utcnow())
+                    pub = rfc2822()
                 desc = BeautifulSoup(e.get("summary",""), "html.parser").get_text(" ", strip=True)[:1000]
                 items.append({"title": title, "link": link, "pubDate": pub, "description": desc})
         else:
