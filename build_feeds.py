@@ -20,19 +20,6 @@ import requests
 from bs4 import BeautifulSoup
 import feedparser
 
-USER_AGENT = "Mozilla/5.0 (compatible; ResearchFeedsBot/1.0; +https://github.com)"
-TIMEOUT = 25
-
-HEADERS = {
-    "User-Agent": USER_AGENT,
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-}
-
-COMMON_SUFFIXES = [
-    "feed", "feed/", "rss", "rss.xml", "atom.xml", "index.xml", "feed.xml",
-    "?feed=rss2", "?format=feed"
-]
-
 # Helper: RFC2822 date
 import datetime
 import email.utils
@@ -49,8 +36,20 @@ def rfc2822(dt=None) -> str:
         dt = dt.replace(tzinfo=datetime.timezone.utc)
     return email.utils.format_datetime(dt, usegmt=True)
 
+USER_AGENT = "Mozilla/5.0 (compatible; ResearchFeedsBot/1.0; +https://github.com)"
+TIMEOUT = 25
 
+HEADERS = {
+    "User-Agent": USER_AGENT,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+}
 
+COMMON_SUFFIXES = [
+    "feed", "feed/", "rss", "rss.xml", "atom.xml", "index.xml", "feed.xml",
+    "?feed=rss2", "?format=feed"
+]
+
+# Helper: RFC2822 date
 def get(url):
     return requests.get(url, headers=HEADERS, timeout=TIMEOUT)
 
@@ -144,7 +143,7 @@ def scrape_items(page_url: str, limit: int = 15):
         pass
 
     # Stamp current time when we don't have pub dates
-    now = rfc2822(datetime.datetime.utcnow())
+    now = rfc2822()
     for it in items:
         it.setdefault("pubDate", now)
         it.setdefault("description", it["title"])
@@ -254,7 +253,7 @@ def main():
             items = scrape_items(page_url)
             if not items:
                 # Emergency placeholder
-                now = rfc2822(datetime.datetime.utcnow())
+                now = rfc2822()
                 items = [{
                     "title": f"{name} — no items discovered",
                     "link": page_url,
