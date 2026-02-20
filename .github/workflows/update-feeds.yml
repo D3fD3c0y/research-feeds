@@ -1,4 +1,4 @@
-name: Update Feeds (Every 2 hours UTC)
+name: Update Feeds (Every 6 hours UTC)
 
 on:
   schedule:
