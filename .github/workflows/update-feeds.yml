@@ -1,8 +1,8 @@
-name: Update Feeds (Every 6 hours UTC)
+name: Update Feeds (Every 8 hours UTC)
 
 on:
   schedule:
-    - cron: "5 */6 * * *"   # Every 6 hours (UTC)
+    - cron: "5 */8 * * *"   # Every 6 hours (UTC)
   workflow_dispatch:        # Manual trigger button
 
 jobs:
