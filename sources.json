@@ -72,7 +72,7 @@
   {"name": "PRODAFT Reports", "url": "https://prodaft.com/reports", "slug": "prodaft-reports", "mode": "scrape"},
   {"name": "Push Security Blog", "url": "https://pushsecurity.com/blog", "slug": "pushsecurity", "mode": "scrape"},
   {"name": "Profero Resources", "url": "https://profero.io/resources", "slug": "profero", "mode": "scrape"},
-  {"name": "RansomNews Blog", "url": "https://ransomnews.online/blog/", "slug": "ransomnews", "mode": "scrape"},
+  {"name": "RansomNews Blog", "url": "https://ransomnews.online/", "slug": "ransomnews", "mode": "scrape"},
   {"name": "S2W Resources (EN)", "url": "https://s2w.inc/en/resource/", "slug": "s2w", "mode": "scrape"},
   {"name": "PDI Technologies (Reports)", "url": "https://security.pditechnologies.com/resources/?topic=reports", "slug": "pdi-reports", "mode": "scrape"},
   {"name": "Sequretek Resources Hub", "url": "https://www.sequretek.com/resources-hub", "slug": "sequretek", "mode": "scrape"},
