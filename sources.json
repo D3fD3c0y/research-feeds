@@ -7,7 +7,7 @@
   {"name": "Armis Research", "url": "https://www.armis.com/blog/?cat=armis-research", "slug": "armis-research", "mode": "sitemap"},
   {"name": "Beazley Insights", "url": "https://beazley.security/insights", "slug": "beazley-insights", "mode": "scrape"},
   {"name": "Bfore.ai Reports", "url": "https://bfore.ai/resources/?e-filter-63865e3-category=report", "slug": "bfore-ai-reports", "mode": "sitemap"},
-  {"name": "BI.ZONE Blog (EN)", "url": "https://bi.zone/eng/expertise/blog/", "slug": "bizone", "mode": "sitemap"},
+  {"name": "BI.ZONE Blog (EN)", "url": "https://bi.zone/eng/expertise/blog/", "slug": "bizone", "mode": "scrape"},
   {"name": "Binary Defense ARC Labs", "url": "https://binarydefense.com/resources/arc-labs", "slug": "binarydefense-arc-labs", "mode": "scrape"},
   {"name": "Binary Defense Blog", "url": "https://binarydefense.com/resources/blog", "slug": "binarydefense-blog", "mode": "scrape"},
   {"name": "Black Kite Blog", "url": "https://blackkite.com/blog", "slug": "blackkite", "mode": "scrape"},
