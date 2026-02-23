@@ -20,6 +20,7 @@ from urllib.parse import urljoin, urlparse
 import urllib.robotparser as robotparser
 import gzip
 import io
+import xml.etree.ElementTree as ET  # built-in XML parser (no lxml dependency)
 
 import requests
 from bs4 import BeautifulSoup
@@ -170,8 +171,8 @@ def _parse_jsonld_articles(soup: BeautifulSoup, base_url: str):
                 stack.extend(obj)
     return items
 
-# ISO-ish (or URL) date guesser: YYYY/MM/DD or YYYY-MM-DD
-_DATE_URL_PAT = re.compile(r"(?P<y>20\d{2})[-/](?P<m>\d{1,2})[-/](?P<d>\d{1,2})")
+# Parse YYYY/MM/DD or YYYY-MM-DD anywhere in a string/URL
+_DATE_URL_PAT = re.compile(r"(?P<y>20\d{2})[/-](?P<m>\d{1,2})[/-](?P<d>\d{1,2})")
 
 def _guess_rfc2822_from_text(s: str | None):
     if not s:
@@ -392,24 +393,44 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
     seen_sitemaps = set()
     page_urls: list[str] = []
 
+    def _iter_local(root: ET.Element, local_name: str):
+        """Iterate elements by local tag name, ignoring XML namespace."""
+        for el in root.iter():
+            if isinstance(el.tag, str) and el.tag.rsplit('}', 1)[-1] == local_name:
+                yield el
+
+    def _first_child_local(parent: ET.Element, local_name: str):
+        """Get first child with given local name, ignoring namespace."""
+        for ch in list(parent):
+            if isinstance(ch.tag, str) and ch.tag.rsplit('}', 1)[-1] == local_name:
+                return ch
+        return None
+
     def parse_sitemap(xml_text: str, sm_url: str):
-        soup = BeautifulSoup(xml_text, "xml")
+        try:
+            root = ET.fromstring(xml_text)
+        except Exception:
+            return
+
         # urlset -> collect <url><loc>
-        for u in soup.find_all("url"):
-            loc = u.find("loc")
-            if not loc or not loc.get_text(strip=True):
+        for url_el in _iter_local(root, "url"):
+            loc_el = _first_child_local(url_el, "loc")
+            if loc_el is None:
                 continue
-            loc_url = loc.get_text(strip=True)
+            loc_text = (loc_el.text or "").strip()
+            if not loc_text:
+                continue
             # accept both apex and www, any scheme
-            if _same_site(loc_url, page_url):
-                page_urls.append(loc_url)
+            if _same_site(loc_text, page_url):
+                page_urls.append(loc_text)
+
         # sitemapindex -> follow <sitemap><loc>
-        for sm in soup.find_all("sitemap"):
-            loc = sm.find("loc")
-            if not loc or not loc.get_text(strip=True):
+        for sm_el in _iter_local(root, "sitemap"):
+            loc_el = _first_child_local(sm_el, "loc")
+            if loc_el is None:
                 continue
-            child = loc.get_text(strip=True)
-            if child in seen_sitemaps:
+            child = (loc_el.text or "").strip()
+            if not child or child in seen_sitemaps:
                 continue
             seen_sitemaps.add(child)
             xml_child = _fetch_xml(child)
