@@ -171,7 +171,7 @@ def _parse_jsonld_articles(soup: BeautifulSoup, base_url: str):
     return items
 
 # ISO-ish (or URL) date guesser: YYYY/MM/DD or YYYY-MM-DD
-_DATE_URL_PAT = re.compile(r"(?P<y>20\d{2})[/-](?P<m>\d{1,2})[/-](?P<d>\d{1,2})")
+_DATE_URL_PAT = re.compile(r"(?P<y>20\d{2})[-/](?P<m>\d{1,2})[-/](?P<d>\d{1,2})")
 
 def _guess_rfc2822_from_text(s: str | None):
     if not s:
@@ -191,7 +191,7 @@ def _extract_article_meta(article_url: str) -> dict | None:
         r = get(article_url)
         if r.status_code != 200:
             return None
-        soup = BeautifulSoup(r.text, "htmlparser") if False else BeautifulSoup(r.text, "html.parser")
+        soup = BeautifulSoup(r.text, "html.parser")
 
         # Prefer JSON-LD Article info
         items = _parse_jsonld_articles(soup, article_url)
@@ -592,7 +592,8 @@ def main():
             write_rss(out_path, f"{name} (Custom Feed)", page_url, items)
             feed_map.append((name, slug))
 
-       r let one source kill the whole run
+        except Exception as e:
+            # Hard guard: never let one source kill the whole run
             print(f"  ! Unhandled error for {name}: {e}")
             write_rss(
                 out_path,
