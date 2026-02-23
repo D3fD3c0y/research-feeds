@@ -547,6 +547,9 @@ def main():
     with open("sources.json", "r", encoding="utf-8") as f:
         sources = json.load(f)
 
+    # Skip entries explicitly marked as disabled in sources.json
+    sources = [s for s in sources if not s.get("disabled")]
+
     feed_map: list[tuple[str, str]] = []
 
     for src in sources:
@@ -624,9 +627,7 @@ def main():
                     "title": f"Error building feed for {name}",
                     "link": page_url,
                     "pubDate": rfc2822(),
-                    "description": str(e)
-                }]
-            )
+                   )
             feed_map.append((name, slug))
             continue
 
