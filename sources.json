@@ -1,6 +1,6 @@
 [
   {"name": "Abnormal Security Threat Intel Blog", "url": "https://abnormal.ai/threat-intelligence/blog", "slug": "abnormal-threat-intel", "mode": "sitemap", "disabled": false},
-  {"name": "Abstract Security Blog", "url": "https://www.abstract.security/abstract-canvas", "slug": "abstract-security", "mode": "sitemap", "disabled": false},
+  {"name": "Abstract Security Blog", "url": "https://www.abstract.security/blog/", "slug": "abstract-security", "mode": "sitemap", "disabled": false},
   {"name": "Analyst1 Blog", "url": "https://analyst1.com/category/blog/", "slug": "analyst1", "mode": "sitemap", "disabled": false},
   {"name": "Apophis133 on Medium", "url": "https://apophis133.medium.com/", "slug": "apophis133-medium", "mode": "sitemap", "disabled": false},
   {"name": "AppOmni Blog", "url": "https://appomni.com/article-type/blog/", "slug": "appomni", "mode": "scrape", "disabled": false},
