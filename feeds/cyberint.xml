@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Cyberint Blog (Custom Feed)</title>
+  <title>Cyberint Blog vulnerabilities (Custom Feed)</title>
   <link>https://cyberthint.io/category/vulnerabilities/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 14:50:46 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 15:01:20 GMT</lastBuildDate>
   <item>
     <title>https://cyberthint.io/category/vulnerabilities/ — sitemap had no items</title>
     <link>https://cyberthint.io/category/vulnerabilities/</link>
     <description>No items from sitemap.</description>
-    <pubDate>Mon, 23 Feb 2026 14:50:46 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 15:01:20 GMT</pubDate>
   </item>
 </channel>
 </rss>

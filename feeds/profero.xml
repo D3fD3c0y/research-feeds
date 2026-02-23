@@ -4,66 +4,66 @@
   <title>Profero Resources (Custom Feed)</title>
   <link>https://profero.io/resources</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 14:53:28 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 15:04:39 GMT</lastBuildDate>
   <item>
     <title>địt mẹ mày morphisec: When Malware Authors Taunt Security Researchers</title>
     <link>https://profero.io/blog/dit-me-may-morphisec-when-malware-authors-taunt-security-researchers</link>
     <description>The complete analysis of Vietnamese Stealer a Python-based info stealer using Telegram as a C2. </description>
-    <pubDate>Mon, 23 Feb 2026 14:53:26 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 15:04:37 GMT</pubDate>
   </item>
   <item>
     <title>AtomicStealer Spreading via Fake Apple Support Websites</title>
     <link>https://profero.io/blog/atomicstealer-spreading-via-fake-apple-support-websites</link>
     <description>Uncovering AtomicStealer campaign using a fake Apple Support website designed to trick users into running a malicious bash command, infecting their machine.</description>
-    <pubDate>Mon, 23 Feb 2026 14:53:26 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 15:04:37 GMT</pubDate>
   </item>
   <item>
     <title>The $5 Million Letter: When Physical Mail Becomes Digital Extortion</title>
     <link>https://profero.io/blog/the-5-million-letter-when-physical-mail-becomes-digital-extortion</link>
     <description>How sophisticated criminals are using old-school tactics and psychological warfare to extort businesses without ever touching their systems</description>
-    <pubDate>Mon, 23 Feb 2026 14:53:27 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 15:04:38 GMT</pubDate>
   </item>
   <item>
     <title>New Attack Vector - AI - Induced Destruction</title>
     <link>https://profero.io/blog/new-attack-vector--ai-induced-destruction</link>
     <description>How &amp;quot;helpful&amp;quot; AI assistants are accidentally destroying production systems - and what we&amp;#39;re doing about it. </description>
-    <pubDate>Mon, 23 Feb 2026 14:53:27 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 15:04:38 GMT</pubDate>
   </item>
   <item>
     <title>From Drone Strike to File Recovery: Outsmarting a Nation State</title>
     <link>https://profero.io/blog/from-drone-strike-to-file-recovery-outsmarting-a-nation-state</link>
     <description>Walk through our investigation workflow, cryptographic analysis, and end-to-end data-recovery strategy, proving that &amp;quot;encrypted&amp;quot; doesn&amp;#39;t mean unrecoverable</description>
-    <pubDate>Mon, 23 Feb 2026 14:53:27 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 15:04:38 GMT</pubDate>
   </item>
   <item>
     <title>The Blurring Lines Between Financially Motivated Attacks and Nation-State Cyber Operations</title>
     <link>https://profero.io/blog/the-blurring-lines-between-financially-motivated-attacks-and-nation-state-cyber-operations</link>
     <description>This approach of profit-driven attacks with state-endorsed hacking presents a dual threat scenario, unlike anything seen in the past. </description>
-    <pubDate>Mon, 23 Feb 2026 14:53:27 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 15:04:38 GMT</pubDate>
   </item>
   <item>
     <title>Live Forensic Collection from Ivanti EPMM Appliances (CVE-2025-4427 &amp;amp; CVE-2025-4428)</title>
     <link>https://profero.io/blog/ivanti-epmm-attacks</link>
     <description>Two newly discovered vulnerabilities (CVE-2025-4427 CVE-2025-4428) in Ivanti Endpoint Mobile Manager are being actively exploited leading to severe data breach</description>
-    <pubDate>Mon, 23 Feb 2026 14:53:27 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 15:04:39 GMT</pubDate>
   </item>
   <item>
     <title>Unmasking a Sophisticated Phishing Campaign: Profero IRT’s Deep Dive into a Global Microsoft Identity Attack</title>
     <link>https://profero.io/blog/unmasking-a-sophisticated-phishing-campaign-profero-irts-deep-dive-into-a-global-microsoft-identity-attack</link>
     <description>Forensic investigation into a global phishing campaign targeting Microsoft 365 identities, specifically Azure Active Directory and Office 365 accounts.</description>
-    <pubDate>Mon, 23 Feb 2026 14:53:28 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 15:04:39 GMT</pubDate>
   </item>
   <item>
     <title>Understanding Quantum Cryptography: Separating Fact from Fiction</title>
     <link>https://profero.io/blog/understanding-quantum-cryptography-separating-fact-from-fiction</link>
     <description>Explore the intriguing world of quantum cryptography</description>
-    <pubDate>Mon, 23 Feb 2026 14:53:28 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 15:04:39 GMT</pubDate>
   </item>
   <item>
     <title>A Breach Is Inevitable: Why Organizations Are Failing in Proactive Threat Detection </title>
     <link>https://profero.io/blog/a-breach-is-inevitable-why-organizations-are-failing-in-proactive-threat-detection</link>
     <description>Despite billions spent on security tools, breaches remain rampant. The post reveals cases and underscores the need for real-time monitoring and swift IR.</description>
-    <pubDate>Mon, 23 Feb 2026 14:53:28 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 15:04:39 GMT</pubDate>
   </item>
 </channel>
 </rss>
