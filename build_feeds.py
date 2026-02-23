@@ -18,6 +18,8 @@ Notes:
 import json, os, re, time, datetime, email.utils
 from urllib.parse import urljoin, urlparse
 import urllib.robotparser as robotparser
+import gzip
+import io
 
 import requests
 from bs4 import BeautifulSoup
@@ -189,7 +191,7 @@ def _extract_article_meta(article_url: str) -> dict | None:
         r = get(article_url)
         if r.status_code != 200:
             return None
-        soup = BeautifulSoup(r.text, "html.parser")
+        soup = BeautifulSoup(r.text, "htmlparser") if False else BeautifulSoup(r.text, "html.parser")
 
         # Prefer JSON-LD Article info
         items = _parse_jsonld_articles(soup, article_url)
@@ -325,31 +327,118 @@ def scrape_items(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
     return final
 
 # ---------------------------------------------------------------------
-# Sitemap fallback
+# Robust sitemap fallback (reads robots, follows index, supports .gz)
 # ---------------------------------------------------------------------
-def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
-    """Try to find recent article URLs via sitemap, then extract article metadata."""
-    parsed = urlparse(page_url)
-    bases = [
-        f"{parsed.scheme}://{parsed.netloc}/sitemap.xml",
-        f"{parsed.scheme}://{parsed.netloc}/sitemap_index.xml",
-    ]
-    urls: list[str] = []
-    for sm in bases:
-        try:
-            r = get(sm)
-            if r.status_code != 200:
-                continue
-            soup = BeautifulSoup(r.text, "xml")
-            locs = [loc.get_text() for loc in soup.find_all("loc")]
-            urls = [u for u in locs if u.startswith(f"{parsed.scheme}://{parsed.netloc}/")]
-            if urls:
-                break
-        except Exception:
-            continue
+def _normalize_host(netloc: str) -> str:
+    return netloc.lower().lstrip("[").rstrip("]").removeprefix("www.")
 
-    # Pull a handful of newest-looking URLs
-    urls = urls[: max(limit * 2, 30)]
+def _same_site(url: str, base: str) -> bool:
+    up = urlparse(url)
+    bp = urlparse(base)
+    return _normalize_host(up.netloc) == _normalize_host(bp.netloc)
+
+def _read_robots_for_sitemaps(page_url: str) -> list[str]:
+    """Parse robots.txt and return any 'Sitemap:' URLs found."""
+    try:
+        p = urlparse(page_url)
+        robots_url = f"{p.scheme}://{p.netloc}/robots.txt"
+        r = get(robots_url)
+        if r.status_code != 200 or not r.text:
+            return []
+        urls = []
+        for line in r.text.splitlines():
+            line = line.strip()
+            if not line or not line.lower().startswith("sitemap:"):
+                continue
+            sm = line.split(":", 1)[1].strip()
+            if sm:
+                urls.append(sm)
+        return urls
+    except Exception:
+        return []
+
+def _fetch_xml(url: str) -> str | None:
+    """Fetch XML (supports .gz) and return decoded XML text, or None."""
+    try:
+        r = get(url)
+        if r.status_code != 200:
+            return None
+        content = r.content
+        if url.endswith(".gz") or r.headers.get("Content-Type", "").lower().endswith("gzip"):
+            try:
+                content = gzip.decompress(content)
+            except OSError:
+                # Some servers mislabel; try stream-based
+                content = gzip.GzipFile(fileobj=io.BytesIO(r.content)).read()
+        return content.decode("utf-8", errors="replace")
+    except Exception:
+        return None
+
+def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
+    """Find recent article URLs via sitemap(s) and extract article metadata."""
+    parsed = urlparse(page_url)
+    base_root = f"{parsed.scheme}://{parsed.netloc}"
+
+    # Candidate sitemap URLs: defaults + robots.txt hints
+    candidates = [
+        f"{base_root}/sitemap.xml",
+        f"{base_root}/sitemap_index.xml",
+        f"{base_root}/sitemap.xml.gz",
+        f"{base_root}/sitemap_index.xml.gz",
+    ]
+    robots_hints = _read_robots_for_sitemaps(page_url)
+    candidates = robots_hints + [c for c in candidates if c not in robots_hints]
+
+    seen_sitemaps = set()
+    page_urls: list[str] = []
+
+    def parse_sitemap(xml_text: str, sm_url: str):
+        soup = BeautifulSoup(xml_text, "xml")
+        # urlset -> collect <url><loc>
+        for u in soup.find_all("url"):
+            loc = u.find("loc")
+            if not loc or not loc.get_text(strip=True):
+                continue
+            loc_url = loc.get_text(strip=True)
+            # accept both apex and www, any scheme
+            if _same_site(loc_url, page_url):
+                page_urls.append(loc_url)
+        # sitemapindex -> follow <sitemap><loc>
+        for sm in soup.find_all("sitemap"):
+            loc = sm.find("loc")
+            if not loc or not loc.get_text(strip=True):
+                continue
+            child = loc.get_text(strip=True)
+            if child in seen_sitemaps:
+                continue
+            seen_sitemaps.add(child)
+            xml_child = _fetch_xml(child)
+            if xml_child:
+                parse_sitemap(xml_child, child)
+
+    # Walk candidates
+    for sm_url in candidates:
+        if len(page_urls) >= max(limit * 2, 50):
+            break
+        if sm_url in seen_sitemaps:
+            continue
+        seen_sitemaps.add(sm_url)
+        xml_txt = _fetch_xml(sm_url)
+        if not xml_txt:
+            continue
+        parse_sitemap(xml_txt, sm_url)
+        if len(page_urls) >= max(limit * 2, 50):
+            break
+
+    # De-duplicate and cap
+    dedup = []
+    seen = set()
+    for u in page_urls:
+        if u not in seen:
+            seen.add(u)
+            dedup.append(u)
+    urls = dedup[: max(limit * 2, 50)]
+
     items = []
     for u in urls:
         if len(items) >= limit:
@@ -365,7 +454,7 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
             "title": f"{page_url} — sitemap had no items",
             "link": page_url,
             "pubDate": rfc2822(),
-            "description": "No items from sitemap."
+            "description": "No items were discoverable via sitemap(s) or they pointed to non-article URLs."
         }]
     return items
 
@@ -503,8 +592,7 @@ def main():
             write_rss(out_path, f"{name} (Custom Feed)", page_url, items)
             feed_map.append((name, slug))
 
-        except Exception as e:
-            # Hard guard: never let one source kill the whole run
+       r let one source kill the whole run
             print(f"  ! Unhandled error for {name}: {e}")
             write_rss(
                 out_path,
