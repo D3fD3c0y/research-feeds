@@ -4,7 +4,7 @@
   <title>DuskRise (Cluster25) Blog (IT) (Custom Feed)</title>
   <link>https://www.duskrise.com/blog-di-cluster25/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 19:15:30 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 20:22:28 GMT</lastBuildDate>
   <item>
     <title>The Bear and The Shell: New Campaign Against Russian Opposition -</title>
     <link>https://www.duskrise.com/2024/01/30/the-bear-and-the-shell-new-campaign-against-russian-opposition/</link>
@@ -12,52 +12,118 @@
     <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>The Duck is Hiring in Italy: DUCKTAIL Spread via Compromised LinkedIn Profiles -</title>
-    <link>https://www.duskrise.com/2023/10/25/the-duck-is-hiring-in-italy-ducktail-spread-via-compromised-linkedin-profiles/</link>
-    <description>Cluster25 observed a malicious campaign that employs LinkedIn messages as a vector for executing identity theft attacks. In this campaign, compromised</description>
-    <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>CVE-2023-38831 Exploited by Pro-Russia Hacking Groups in RU-UA Conflict Zone for Credential Harvesting</title>
-    <link>https://www.duskrise.com/2023/10/12/cve-2023-38831-exploited-by-pro-russia-hacking-groups-in-ru-ua-conflict-zone-for-credential-harvesting-operations/</link>
-    <description>By Cluster25 Threat Intel TeamOctober 12, 2023</description>
-    <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Fraud Gala: Exploring a Recent BEC Campaign -</title>
-    <link>https://www.duskrise.com/2023/08/25/the-fraud-gala-exploring-a-recent-bec-campaign/</link>
+    <title>Welcome -</title>
+    <link>https://www.duskrise.com/2021/02/15/welcome/</link>
     <description>By Cluster25 Threat Intel Team</description>
-    <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
+    <pubDate>Mon, 15 Feb 2021 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Back in Black: BlackByte Ransomware returns with its New Technology (NT) version -</title>
-    <link>https://www.duskrise.com/2023/05/22/back-in-black-blackbyte-ransomware-returns-with-its-new-technology-nt-version/</link>
+    <title>A not so Fancy game. Exploring the new “SkinnyBoy” Bear’s backdoor -</title>
+    <link>https://www.duskrise.com/2021/06/03/a-not-so-fancy-game-exploring-the-new-skinnyboy-bears-backdoor/</link>
     <description>By Cluster25 Threat Intel Team</description>
-    <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+    <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Cluster25 has become partner of DNS0 Project -</title>
-    <link>https://www.duskrise.com/2023/05/02/cluster25-has-become-partner-of-dns0-project/</link>
+    <title>A RattleSnake in the Navy -</title>
+    <link>https://www.duskrise.com/2021/09/10/a-rattlesnake-in-the-navy/</link>
     <description>By Cluster25 Threat Intel Team</description>
-    <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
+    <pubDate>Fri, 10 Sep 2021 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>The Cluster25 Blog - Duskrise</title>
-    <link>https://www.duskrise.com/blog-di-cluster25/2/</link>
-    <description>The Cluster25 Blog</description>
-    <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+    <title>Dharma/Crysis: Overview and Adversary Tracking -</title>
+    <link>https://www.duskrise.com/2021/09/17/dharma-crysis-overview-and-adversary-tracking/</link>
+    <description>By Cluster25 Threat Intel Team</description>
+    <pubDate>Fri, 17 Sep 2021 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>The Cluster25 Blog - Duskrise</title>
-    <link>https://www.duskrise.com/blog-di-cluster25/3/</link>
-    <description>The Cluster25 Blog</description>
-    <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+    <title>North Korean Group “KONNI” Targets the Russian Diplomatic Sector with new Versions of Malware Implants -</title>
+    <link>https://www.duskrise.com/2022/01/03/north-korean-group-konni-targets-the-russian-diplomatic-sector-with-new-versions-of-malware-implants/</link>
+    <description>By Cluster25 Threat Intel Team</description>
+    <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>The Cluster25 Blog - Duskrise</title>
-    <link>https://www.duskrise.com/blog-di-cluster25/5/</link>
-    <description>The Cluster25 Blog</description>
-    <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+    <title>2021 Ransomware Bulletin: Recent, Past and Near Future of Cyber Extortion -</title>
+    <link>https://www.duskrise.com/2022/01/12/2021-ransomware-bulletin-recent-past-and-near-future-of-cyber-extortion/</link>
+    <description>By Cluster25 Threat Intel Team</description>
+    <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Ukraine: Analysis of the new disk-wiping malware (HermeticWiper) -</title>
+    <link>https://www.duskrise.com/2022/02/24/ukraine-analysis-of-the-new-disk-wiping-malware-hermeticwiper/</link>
+    <description>By Cluster25 Threat Intel Team</description>
+    <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Conti&amp;#039;s Source Code: Deep Dive -</title>
+    <link>https://www.duskrise.com/2022/03/02/contis-source-code-deep-dive/</link>
+    <description>By Cluster25 Threat Intel Team</description>
+    <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>RuRAT used in spear-phishing attacks against media organisations in United States -</title>
+    <link>https://www.duskrise.com/2022/03/03/rurat-used-in-spear-phishing-attacks-against-media-organisations-in-united-states/</link>
+    <description>By Cluster25 Threat Intel Team</description>
+    <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Ghostwriter / UNC1151 Adopts Microbackdoor Variants in Cyber Operations Against Ukraine -</title>
+    <link>https://www.duskrise.com/2022/03/08/ghostwriter-unc1151-adopts-microbackdoor-variants-in-cyber-operations-against-ukraine/</link>
+    <description>By Cluster25 Threat Intel Team</description>
+    <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>DPRK-NEXUS Adversary Targets South Korean Individuals in a New Chapter of Kitty Phishing Operations -</title>
+    <link>https://www.duskrise.com/2022/04/11/dprk-nexus-adversary-targets-south-korean-individuals-in-a-new-chapter-of-kitty-phishing-operations/</link>
+    <description>By Cluster25 Threat Intel Team</description>
+    <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Lotus Panda is Awake Again: Analysis of the Last Strike -</title>
+    <link>https://www.duskrise.com/2022/04/29/the-lotus-panda-is-awake-again-analysis-of-the-last-strike/</link>
+    <description>By Cluster25 Threat Intel Team</description>
+    <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The strange link between a destructive malware and a ransomware-gang linked custom loader: IsaacWiper vs</title>
+    <link>https://www.duskrise.com/2022/05/03/the-strange-link-between-a-destructive-malware-and-a-ransomware-gang-linked-custom-loader-isaacwiper-vs-vatet/</link>
+    <description>By Cluster25 Threat Intel Team</description>
+    <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cozy Smuggled Into the Box: APT29 Abusing Legitimate Software for Targeted Operations in Europe -</title>
+    <link>https://www.duskrise.com/2022/05/13/cozy-smuggled-into-the-box-apt29-abusing-legitimate-software-for-targeted-operations-in-europe/</link>
+    <description>By Cluster25 Threat Intel Team</description>
+    <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cyberwarfare targeting the energy sector. Is Europe under threat? -</title>
+    <link>https://www.duskrise.com/2022/05/27/cyberwarfare-targeting-the-energy-sector-is-europe-under-threat/</link>
+    <description>By Cluster25 Threat Intel Team</description>
+    <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>LockBit 3.0: “Making the ransomware great again” -</title>
+    <link>https://www.duskrise.com/2022/07/06/lockbit-3-0-making-the-ransomware-great-again/</link>
+    <description>By Cluster25 Threat Intel Team</description>
+    <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Erbium InfoStealer Enters the Scene: Characteristics and Origins -</title>
+    <link>https://www.duskrise.com/2022/09/15/erbium-infostealer-enters-the-scene-characteristics-and-origins/</link>
+    <description>By Cluster25 Threat Intel Team</description>
+    <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>In the footsteps of the Fancy Bear: PowerPoint mouse-over event abused to deliver Graphite implants -</title>
+    <link>https://www.duskrise.com/2022/09/23/in-the-footsteps-of-the-fancy-bear-powerpoint-mouse-over-event-abused-to-deliver-graphite-implants/</link>
+    <description>By Cluster25 Threat Intel Team</description>
+    <pubDate>Fri, 23 Sep 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Sanctioned deals: the Irano-Russian connection under Ankara&amp;#039;s supervision. Analysis of the NPPD leak -</title>
+    <link>https://www.duskrise.com/2022/11/07/sanctioned-deals-the-irano-russian-connection-under-ankaras-supervision-analysis-of-the-nppd-leak/</link>
+    <description>By Cluster25 Threat Intel Team</description>
+    <pubDate>Mon, 07 Nov 2022 00:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

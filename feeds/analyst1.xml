@@ -2,14 +2,14 @@
 <rss version="2.0">
 <channel>
   <title>Analyst1 Blog (Custom Feed)</title>
-  <link>https://analyst1.com/sitemap_index.xml</link>
+  <link>https://analyst1.com/category/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 19:11:28 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 20:17:11 GMT</lastBuildDate>
   <item>
-    <title>https://analyst1.com/sitemap_index.xml — sitemap had no items</title>
-    <link>https://analyst1.com/sitemap_index.xml</link>
+    <title>https://analyst1.com/category/blog/ — sitemap had no items</title>
+    <link>https://analyst1.com/category/blog/</link>
     <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
-    <pubDate>Mon, 23 Feb 2026 19:11:28 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 20:17:11 GMT</pubDate>
   </item>
 </channel>
 </rss>

@@ -2,14 +2,14 @@
 <rss version="2.0">
 <channel>
   <title>Trellix Research Blog (Custom Feed)</title>
-  <link>https://www.trellix.com/blogs/research/</link>
+  <link>https://www.trellix.com/en-us.sitemap.xml</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 19:21:21 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 20:30:57 GMT</lastBuildDate>
   <item>
-    <title>https://www.trellix.com/blogs/research/ — sitemap had no items</title>
-    <link>https://www.trellix.com/blogs/research/</link>
+    <title>https://www.trellix.com/en-us.sitemap.xml — sitemap had no items</title>
+    <link>https://www.trellix.com/en-us.sitemap.xml</link>
     <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
-    <pubDate>Mon, 23 Feb 2026 19:21:21 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 20:30:57 GMT</pubDate>
   </item>
 </channel>
 </rss>

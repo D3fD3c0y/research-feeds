@@ -4,66 +4,126 @@
   <title>Sucuri Blog (Custom Feed)</title>
   <link>https://blog.sucuri.net/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 19:20:30 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 20:29:51 GMT</lastBuildDate>
   <item>
-    <title>Beyond Login Screens: Why Access Control Matters</title>
-    <link>https://blog.sucuri.net/2026/02/beyond-login-screens-why-access-control-matters.html</link>
-    <description>As breach costs go up and attackers focus on common web features like dashboards, admin panels, customer portals, and APIs, weak access control quickly leads to lost data, broken trust, and costly incidents. The worst part is that many failures are not rare technical flaws but simple mistakes, such</description>
-    <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+    <title>WordPress Auto-Login Backdoor Disguised as JavaScript Data File</title>
+    <link>https://blog.sucuri.net/2025/12/wordpress-auto-login-backdoor-disguised-as-javascript-data-file.html</link>
+    <description>During a recent investigation, we discovered a sophisticated WordPress backdoor hidden in what appears to be a JavaScript data file. This malware automatically logs attackers into administrator accounts without requiring any credentials. In September, we published an article showcasing another WordPress backdoor that creates admin accounts. This new variant</description>
+    <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Sucuri</title>
-    <link>https://blog.sucuri.net/author/sucuriblog</link>
-    <description>Sucuri</description>
-    <pubDate>Mon, 23 Feb 2026 19:20:27 GMT</pubDate>
+    <title>Perl.com hacked - Security archive case study</title>
+    <link>https://blog.sucuri.net/2010/03/perl-com-hacked-security-archive-case-study.html</link>
+    <description>Security Archive: Remembering security incidents to make sure we don't commit the same mistakes over and over again. Want to read more stories like this one? Follow @sucuri_security on twitter or subscribe to our RSS feed. Interested in a web site security monitoring solution? Visit sucuri.net.Jan 17th, 2008. Every</description>
+    <pubDate>Wed, 24 Mar 2010 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>What Is a 501 Error &amp; How to Fix It</title>
-    <link>https://blog.sucuri.net/2025/10/what-is-a-501-error-how-to-fix-it.html</link>
-    <description>When a website fails, your browser returns an HTTP status code that’s short, technical, and often cryptic. You’ve probably seen 404 Not Found or 500 Internal Server Error. Less common, but just as disruptive, is 501 Not Implemented. This guide explains what a 501 error actually means, how it</description>
-    <pubDate>Sat, 11 Oct 2025 00:00:00 GMT</pubDate>
+    <title>Continuing attacks at Network Solutions?</title>
+    <link>https://blog.sucuri.net/2010/05/continuing-attacks-at-network-solutions.html</link>
+    <description>Last week we reported about an attack against Network Solutions that modified the "php.ini" file on hundreds of sites to append a malicious payload to all of their pages.You can read more about it here:https://blog.sucuri.net/2010/05/new-infections-today-at-network.htmlThe problem was caused by an internal bug on Network Solutions that was supposedly fix</description>
+    <pubDate>Fri, 07 May 2010 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Kyle Knight</title>
-    <link>https://blog.sucuri.net/author/klknight</link>
-    <description>Kyle Knight</description>
-    <pubDate>Mon, 23 Feb 2026 19:20:27 GMT</pubDate>
+    <title>Lots of sites reinfected - Now using holasionweb.com</title>
+    <link>https://blog.sucuri.net/2010/05/lots-of-sites-reinfected-now-using-holasionweb-com.html</link>
+    <description>Update2: Reply from GoDaddy: https://blog.sucuri.net/2010/05/reply-from-godaddy-regarding-latest.htmlUpdate: Code used to exploit found: https://blog.sucuri.net/2010/05/found-code-used-to-inject-malware-at.htmlWe just got reports this morning of hundreds of sites getting reinfected at GoDaddy (shared servers). This is the new javascript being added to the sites:&amp;lt; script src ="http://holasionweb.com/oo.php"&gt;&amp;lt; /script&gt;The changes were all made this morning between 2am and</description>
+    <pubDate>Wed, 12 May 2010 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>WP-CLI: How to Install WordPress via SSH</title>
-    <link>https://blog.sucuri.net/2022/11/wp-cli-how-to-install-wordpress-via-ssh.html</link>
-    <description>Sure, there are tons of one-click installers floating around for WordPress. But they’re not always the most secure option — and can still be tedious to use, especially if you need to update default configurations after installation. But what if I told you there’s a simple, reliable, and standard</description>
-    <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
+    <title>Google top 1000 sites: Interesting stats about them</title>
+    <link>https://blog.sucuri.net/2010/06/google-top-1000-sites-interesting-stats-about-them.html</link>
+    <description>Google recently published a list with the top 1000 most visited web sites in the world. We found that list very interesting and decided to take a closer look at them. These are stats we took: Web servers in use Programming language in use Sites using Wordpress Sites using</description>
+    <pubDate>Tue, 01 Jun 2010 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Rianna MacLeod</title>
-    <link>https://blog.sucuri.net/author/rianna</link>
-    <description>Rianna MacLeod is Sucuri’s Marketing Manager who joined the company in 2017. Her main responsibilities include ghost-writing technical content, SEO, email, and experimentation. Rianna’s professional experience spans over 10 years of technical writing and marketing. When Rianna isn’t writing words, you might encounter her hiking in the forest or at the beach.</description>
-    <pubDate>Mon, 23 Feb 2026 19:20:28 GMT</pubDate>
+    <title>Web site security - It starts with your desktop</title>
+    <link>https://blog.sucuri.net/2010/06/web-site-security-it-starts-with-your-desktop.html</link>
+    <description>If you have a web site and you want it to be secure, the first place you have protect is your desktop. Recently (well, since 2009), a large number of sites have been infected with malware and blacklisted due to a few desktop virus (generally called Gumblar, port 8080,</description>
+    <pubDate>Wed, 02 Jun 2010 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Creating a Strong Password in 7 Easy Steps</title>
-    <link>https://blog.sucuri.net/2024/01/how-to-make-strong-password.html</link>
-    <description>Have you ever set up a new server, database, or admin account but once it came time to create a password, you struggled to come up with a strong one? Panic sets in as the security suggestions prompt you to add more numbers and unique characters. It’s hard enough</description>
-    <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+    <title>UFSC.br - Brazilian University hosting SEO SPAM</title>
+    <link>https://blog.sucuri.net/2010/06/ufsc-br-brazilian-university-hosting-seo-spam.html</link>
+    <description>UFSC.br (Brazilian Federal university in Santa Catarina), one of the biggest universities in Brazil, is hosting SEO SPAM on almost all their departamental web sites: http://www.sead.ufsc.br - Department for distant education http://cco.inf.ufsc.br/ - Computer science department (using Wordpress 2.2) http://www.lec.ufsc.br/ - Engineering department http://emc.ufsc.br - Mechanical engineering department http://www.ndi.ufsc.br/</description>
+    <pubDate>Tue, 08 Jun 2010 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Celise Davison</title>
-    <link>https://blog.sucuri.net/author/celise</link>
-    <description>Celise Davison is Sucuri’s Support Analyst who joined the company in 2015. Celise’s main responsibilities include troubleshooting and activating the various products we provide, such as the firewall and malware scanners. Celise's professional experience covers five years of sales, and customer and technical support. When Celise isn’t working, you might find her making clay sculptures, riding mopeds, or reading.</description>
-    <pubDate>Mon, 23 Feb 2026 19:20:29 GMT</pubDate>
+    <title>Attack of Wordpress blogs on Rackspace</title>
+    <link>https://blog.sucuri.net/2010/06/mass-attack-of-wordpress-blogs-on-rackspace.html</link>
+    <description>Update: It is not a "mass" attack as we described. Sorry about that. A good number of sites were affected (we don't have a clear number yet), but nothing massive or crazy as our post sounded. If you follow our blog, you probably noticed that these last few months</description>
+    <pubDate>Tue, 15 Jun 2010 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Vulnerability &amp; Patch Roundup — January 2026</title>
-    <link>https://blog.sucuri.net/2026/01/vulnerability-patch-roundup-january-2026.html</link>
-    <description>Vulnerability reports and responsible disclosures are essential for website security awareness and education. Automated attacks targeting known software vulnerabilities are one of the leading causes of website compromises. To help educate website owners about potential threats to their environments, we’ve compiled a list of important security updates and vulnerability</description>
-    <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
+    <title>Web sites hacked with malware from iopap.upperdarby26.com</title>
+    <link>https://blog.sucuri.net/2010/06/web-sites-hacked-with-malware-from-iopap-upperdarby26-com.html</link>
+    <description>We are seeing today a good number of sites hacked with malware from http://iopap.upperdarby26.com. The malicious javascript is added to the bottom of every index.php file and to the bottom of a few javascript files as well. The malware is getting loaded from a few different files, all with</description>
+    <pubDate>Tue, 22 Jun 2010 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Sucuri Malware Research Team</title>
-    <link>https://blog.sucuri.net/author/malware-research</link>
-    <description>Sucuri Malware Research Team</description>
-    <pubDate>Mon, 23 Feb 2026 19:20:30 GMT</pubDate>
+    <title>Brazilian Government Websites Hacked with Spam</title>
+    <link>https://blog.sucuri.net/2010/06/brazilian-government-websites-hacked-with-spam.html</link>
+    <description>In the last few months we've been tracking a common technique being used by attackers: They hack a web site and use that as part of their link farm to build page rank for them on search engines. We posted many articles about similar spam issues in the past.</description>
+    <pubDate>Wed, 23 Jun 2010 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Bluehost CEO blog &amp; others exploited by domainameat.cc</title>
+    <link>https://blog.sucuri.net/2010/06/bluehost-ceo-blog-and-others-exploited-by-domainameat-cc.html</link>
+    <description>We're seeing that a good number of sites hosted at Bluehost have been hacked and infected with malware from domainameat.cc. The blog of Matt Heaton, CEO of Bluehost was also exploited (mattheaton.com). After analyzing some of these sites, they were all hacked around 9/10am this morning. This is the</description>
+    <pubDate>Sun, 27 Jun 2010 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>osCommerce users, update your installations as soon as possible</title>
+    <link>https://blog.sucuri.net/2010/07/oscommerce-users-update-your-installations-as-soon-as-possible.html</link>
+    <description>If you are an osCommerce user, please make sure to update your installation (and check your sites) as soon as possible. We have been tracking multiple compromises of osCommerce installations where the attackers added this javascript malware to the affected sites: &amp;lt; script src = "http://nt02.co.in/3" &amp;gt; This code</description>
+    <pubDate>Mon, 05 Jul 2010 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Argentinean Government web sites hacked with spam</title>
+    <link>https://blog.sucuri.net/2010/07/argentinean-government-web-sites-hacked-with-spam.html</link>
+    <description>We recently blogged that many sites from the Brazilian government got hacked and were being used as part of a large blackhat SEO spam network. Well, the Brazilians are not alone and many web sites from the Argentinean government got hacked as well and are being used by spammers.</description>
+    <pubDate>Thu, 08 Jul 2010 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Israel's permanent mission in the UN web site hacked</title>
+    <link>https://blog.sucuri.net/2010/07/israels-permanent-mission-in-the-un-web-site-hacked.html</link>
+    <description>As we dig into this blackhat SEO spam network, we are finding more and more sites hacked by them. One of the sites we discovered is the http://israel-un.mfa.gov.il (Israeli permanent mission in the UN). It is probable they've been exploited due to using an old version of Joomla that</description>
+    <pubDate>Fri, 09 Jul 2010 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Nagios Community Site Hacked</title>
+    <link>https://blog.sucuri.net/2010/07/nagios-community-site-hacked.html</link>
+    <description>We just detected (via our scanner) that the Nagios community site (community.nagios.org) has been hacked and is redirecting to a Viagra site. The results vary depending on the page request. If you try to visit any page and add a "order=X" in the query you will be redirected. Example:</description>
+    <pubDate>Tue, 13 Jul 2010 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Yet another series of attacks - This time using whereisdudescars.com</title>
+    <link>https://blog.sucuri.net/2010/07/yet-another-series-of-attacks-this-time-using-whereisdudescars-com.html</link>
+    <description>Update 1: It seems that this attack is limited to only Bluehost and Dreamhost, not GoDaddy like in the previous times. Update 2: This script should fix/clean an infected site: site fix.php Update 3: Attackers are using nowisisdudescars.com and onlineisdudescars.com as well. We're tracking another series of attacks affecting</description>
+    <pubDate>Sat, 17 Jul 2010 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vulnerability in Vbulletin 3.8.6</title>
+    <link>https://blog.sucuri.net/2010/07/vulnerability-in-vbulletin-3-8-6.html</link>
+    <description>If you are running Vbulletin 3.8.6 (the latest 3.8.x version), make sure to remove the faq.php as soon as possible. A vulnerability has been found that allows anyone to retrieve the database credentials from there. The VBSEO team was quick to react and sent the following note to their</description>
+    <pubDate>Wed, 21 Jul 2010 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Yet another series of attacks (part X) - vancouvererrorsonfile.com and the hilarykneber group</title>
+    <link>https://blog.sucuri.net/2010/08/yet-another-series-of-attacks-part-x-vancouvererrorsonfile-com-and-the-hilarykneber-group.html</link>
+    <description>If you have been following our blog long, you probably heard about quite a few large scale attacks affecting many hosting companies: GoDaddy, Bluehost, Dreamhost, etc, etc. The new one that started to spread today uses a javascript file pointing to http://vancouvererrorsonfile.com/js2.php. When called, it will load www4.meowmeow4.co.cc and</description>
+    <pubDate>Thu, 05 Aug 2010 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Pharma hack and their C&amp;C (Command &amp; control) server</title>
+    <link>https://blog.sucuri.net/2010/08/pharma-hack-and-their-cc-command-control-server.html</link>
+    <description>A large portion of the sites Sucuri has been fixing in recent weeks are stemming from infections caused by the infamous Pharma Hack. We posted a detailed document explaining how to fix it and clean the attack: Understanding and cleaning the pharma hack on Wordpress One thing we've noticed</description>
+    <pubDate>Thu, 12 Aug 2010 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Gmail blacklisted by Spamhaus</title>
+    <link>https://blog.sucuri.net/2010/08/gmail-blacklisted-by-spamhaus.html</link>
+    <description>Update: Gmail not blacklisted anymore. It seems that today Spamhaus (a widely used Spam blacklist) started to blacklist the IP addresses used by gmail. We got this notification via our blacklist monitor: &amp;lt; OK: Host www.gmail.com clean. --- &amp;gt; WARN: http://www.spamhaus.org/query/bl?ip=74.125.227.21 &amp;gt; WARN: Host www.gmail.com blacklisted. Digging further: $</description>
+    <pubDate>Thu, 19 Aug 2010 00:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

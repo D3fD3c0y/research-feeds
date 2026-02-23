@@ -4,66 +4,126 @@
   <title>Obsidian Security Blog (Custom Feed)</title>
   <link>https://www.obsidiansecurity.com/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 19:18:51 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 20:26:32 GMT</lastBuildDate>
   <item>
-    <title>From SaaS Sprawl to a Knowledge Graph</title>
-    <link>https://www.obsidiansecurity.com/blog/from-saas-sprawl-to-a-knowledge-graph</link>
-    <description>Turning fragmented identity signals into a foundation for secure automation</description>
-    <pubDate>Fri, 07 Nov 2025 21:28:51 GMT</pubDate>
+    <title>Complete SaaS Security Solution - Obsidian Security</title>
+    <link>https://www.obsidiansecurity.com</link>
+    <description>Obsidian Security delivers complete SaaS security—gain control, stop threats, and ensure compliance across all your business apps.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:28 GMT</pubDate>
   </item>
   <item>
-    <title>Obsidian Security for the modern SaaS Supply Chain</title>
-    <link>https://www.obsidiansecurity.com/blog/supply-chain-security-for-modern-saas</link>
-    <description>Stop SaaS supply chain attacks. Obsidian provides visibility into OAuth integrations, detects compromised APIs, and helps secure non-human identities.</description>
-    <pubDate>Wed, 04 Feb 2026 02:30:32 GMT</pubDate>
+    <title>SaaS Identity Threat Detection &amp; Response | SaaS ITDR Solution — Obsidian Security</title>
+    <link>https://www.obsidiansecurity.com/itdr</link>
+    <description>Detect and respond to identity threats across SaaS apps with unified visibility and real-time response capabilities.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:28 GMT</pubDate>
   </item>
   <item>
-    <title>The new attack surface: OAuth Token Abuse</title>
-    <link>https://www.obsidiansecurity.com/blog/the-new-attack-surface-oauth-token-abuse</link>
-    <description>Auth token abuse allows attackers to bypass MFA and access data silently. Learn about token theft, session hijacking, and how to strengthen your OAuth token security.</description>
-    <pubDate>Wed, 21 Jan 2026 23:50:43 GMT</pubDate>
+    <title>Stop Risky SaaS Configuration Drift</title>
+    <link>https://www.obsidiansecurity.com/prevent-saas-configuration-drift</link>
+    <description>Identify and correct SaaS config drift before it creates vulnerabilities. Obsidian brings stability to your SaaS setup.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:28 GMT</pubDate>
   </item>
   <item>
-    <title>Obsidian Security Announces Integration with Microsoft Sentinel to Bolster Enterprise SaaS Security</title>
-    <link>https://www.obsidiansecurity.com/blog/obsidian-microsoft-sentinel</link>
-    <description>Obsidian integrates with Microsoft Sentinel to deliver real-time SaaS telemetry, high-fidelity threat alerts, and faster incident response with reduced false positives.</description>
-    <pubDate>Wed, 21 Jan 2026 23:50:43 GMT</pubDate>
+    <title>Secure SaaS Tokens from Misuse</title>
+    <link>https://www.obsidiansecurity.com/stop-token-compromise</link>
+    <description>Prevent stolen or abused access tokens from becoming breaches. Obsidian delivers visibility and response across SaaS.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:28 GMT</pubDate>
   </item>
   <item>
-    <title>What is Token Theft? OAuth, Session &amp;amp; API Token Attacks Explained</title>
-    <link>https://www.obsidiansecurity.com/blog/what-is-token-theft-oauth-session-api-token-attacks-explained</link>
-    <description>Token theft bypasses MFA by abusing OAuth, session, and API tokens. Learn how attackers steal tokens, evade detection, and how to stop token-based attacks.</description>
-    <pubDate>Wed, 04 Feb 2026 21:00:03 GMT</pubDate>
+    <title>Spear Phishing Protection for SaaS</title>
+    <link>https://www.obsidiansecurity.com/prevent-saas-spearphishing</link>
+    <description>Identify and block spear phishing attempts that target SaaS users with Obsidian’s behavioral detection and visibility.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:29 GMT</pubDate>
   </item>
   <item>
-    <title>What is API Security? Protecting the Hidden Layer Between SaaS Apps</title>
-    <link>https://www.obsidiansecurity.com/blog/what-is-api-security-fundamental-strategies-for-saas-integrations</link>
-    <description>Learn what API security is and why traditional tools fail to protect SaaS integrations. Discover behavioral strategies to detect compromised credentials.</description>
-    <pubDate>Wed, 04 Feb 2026 23:15:01 GMT</pubDate>
+    <title>Stop Data Exfiltration Threats Early</title>
+    <link>https://www.obsidiansecurity.com/detect-threats-pre-exfiltration</link>
+    <description>Monitor and detect threats in SaaS apps before data leaves your environment with Obsidian’s advanced analytics.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:29 GMT</pubDate>
   </item>
   <item>
-    <title>What is Webhook Security: Securing SaaS Integrations in 2026</title>
-    <link>https://www.obsidiansecurity.com/blog/what-is-webhook-security-securing-saas-integrations-2026</link>
-    <description>Learn how webhook security protects SaaS integrations from token theft, lateral movement, and supply chain attacks. Expert guide for SecOps teams.</description>
-    <pubDate>Wed, 18 Feb 2026 19:50:48 GMT</pubDate>
+    <title>Shadow SaaS Management | Obsidian Security</title>
+    <link>https://www.obsidiansecurity.com/manage-shadow-saas</link>
+    <description>Discover, manage, and control Shadow SaaS across your organization with Obsidian Security.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:29 GMT</pubDate>
   </item>
   <item>
-    <title>SaaS Attack Techniques: How Threat Actors Compromise SaaS Applications</title>
-    <link>https://www.obsidiansecurity.com/blog/saas-attack-techniques-threat-actors</link>
-    <description>Learn how attackers use OAuth tokens, session hijacking, and lateral movement to compromise SaaS applications. Expert analysis of real breaches and detection strategies.</description>
-    <pubDate>Wed, 18 Feb 2026 22:15:01 GMT</pubDate>
+    <title>Manage SaaS Data Movement Securely</title>
+    <link>https://www.obsidiansecurity.com/govern-app-to-app-data-movement</link>
+    <description>Control and monitor data flow between SaaS apps to prevent leaks and ensure secure, compliant data sharing.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:29 GMT</pubDate>
   </item>
   <item>
-    <title>What are OAuth Tokens? How It Works, and Its Vulnerabilities</title>
-    <link>https://www.obsidiansecurity.com/blog/what-are-oauth-tokens-vulnerabilities</link>
-    <description>Learn what OAuth tokens are, how they enable persistent access without MFA, and their security vulnerabilities. Discover how to protect your SaaS environment.</description>
-    <pubDate>Thu, 05 Feb 2026 01:30:02 GMT</pubDate>
+    <title>Manage Excessive Privileges in SaaS</title>
+    <link>https://www.obsidiansecurity.com/manage-excessive-privileges-in-saas</link>
+    <description>Gain visibility into user roles and permissions to enforce least privilege and protect critical SaaS data from misuse.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:30 GMT</pubDate>
   </item>
   <item>
-    <title>What is Account Takeover? ATO Attacks Explained</title>
-    <link>https://www.obsidiansecurity.com/blog/account-takeover-ato-attacks-explained</link>
-    <description>Account takeover (ATO) attacks use valid credentials to compromise accounts. Learn 8 attack methods, detection techniques, and response strategies for 2026.</description>
-    <pubDate>Wed, 18 Feb 2026 04:55:09 GMT</pubDate>
+    <title>Automate SaaS Compliance</title>
+    <link>https://www.obsidiansecurity.com/automate-saas-compliance</link>
+    <description>Streamline compliance across SaaS apps with automated monitoring, audit readiness, and continuous policy enforcement.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>SaaS Security Platform Technology</title>
+    <link>https://www.obsidiansecurity.com/technology</link>
+    <description>Learn about Obsidian’s cutting-edge platform that secures SaaS apps through continuous monitoring and identity protection.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>Obsidian Partners &amp; Alliances</title>
+    <link>https://www.obsidiansecurity.com/partners</link>
+    <description>Discover how Obsidian partners with industry leaders to deliver comprehensive SaaS security and threat detection.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>SaaS Security Resources &amp; Insights</title>
+    <link>https://www.obsidiansecurity.com/resource-center</link>
+    <description>Explore expert content and resources from Obsidian to strengthen your SaaS security knowledge and strategy.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>Latest SaaS Security News &amp; Tips</title>
+    <link>https://www.obsidiansecurity.com/blog</link>
+    <description>Get the latest updates, threat analysis, and best practices from Obsidian’s SaaS security blog.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Obsidian Security News &amp; Press Releases</title>
+    <link>https://www.obsidiansecurity.com/news-and-press</link>
+    <description>Discover recent updates, media coverage, and official press releases from Obsidian Security.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Join the Obsidian Security Team</title>
+    <link>https://www.obsidiansecurity.com/careers</link>
+    <description>Discover rewarding cybersecurity jobs and be part of a mission-driven team protecting SaaS environments.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>SaaS Security Demo | Obsidian Security</title>
+    <link>https://www.obsidiansecurity.com/get-a-demo</link>
+    <description>Book a demo with Obsidian Security to uncover SaaS blind spots, stop identity-based breaches, and protect your data with tailored insights from our experts.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>What is SaaS Security?</title>
+    <link>https://www.obsidiansecurity.com/what-is-saas-security</link>
+    <description>Discover how SaaS security works and why it’s critical for safeguarding your cloud-based applications.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Privacy Policy</title>
+    <link>https://www.obsidiansecurity.com/privacy-policy</link>
+    <description>Learn about Obsidian’s data privacy policies designed to protect your information securely and transparently.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>Responsible Disclosure Policy</title>
+    <link>https://www.obsidiansecurity.com/responsible-disclosure-policy</link>
+    <description>Guidelines for responsible reporting of security issues to keep Obsidian’s systems safe and secure.</description>
+    <pubDate>Mon, 23 Feb 2026 20:26:32 GMT</pubDate>
   </item>
 </channel>
 </rss>

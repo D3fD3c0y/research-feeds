@@ -4,12 +4,12 @@
   <title>RansomNews Blog (Custom Feed)</title>
   <link>https://ransomnews.online/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 19:19:49 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 20:29:00 GMT</lastBuildDate>
   <item>
-    <title>https://ransomnews.online/ — no items discovered</title>
+    <title>https://ransomnews.online/ — sitemap had no items</title>
     <link>https://ransomnews.online/</link>
-    <description>No posts detected.</description>
-    <pubDate>Mon, 23 Feb 2026 19:19:49 GMT</pubDate>
+    <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
+    <pubDate>Mon, 23 Feb 2026 20:29:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

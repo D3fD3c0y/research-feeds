@@ -4,66 +4,66 @@
   <title>Straiker.ai Blog (Custom Feed)</title>
   <link>https://www.straiker.ai/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 19:20:24 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 20:29:32 GMT</lastBuildDate>
   <item>
     <title>From Inbox to Wipeout: Perplexity Comet’s AI Browser Quietly Erasing Google Drive | Straiker</title>
     <link>https://www.straiker.ai/blog/from-inbox-to-wipeout-perplexity-comets-ai-browser-quietly-erasing-google-drive</link>
     <description>New STAR Labs research shows how Perplexity Comet executed a zero click Google Drive wipe from a single email. Learn why agentic browsers create new security risks.</description>
-    <pubDate>Mon, 23 Feb 2026 19:20:22 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 20:29:30 GMT</pubDate>
   </item>
   <item>
     <title>Straiker Recognized as a Fortune Cyber 60 Company for Second Consecutive Year | Straiker</title>
     <link>https://www.straiker.ai/blog/straiker-recognized-as-a-fortune-cyber-60-company-for-second-consecutive-year</link>
     <description>Milestone marks Straiker's breakthrough work in protecting agentic AI applications</description>
-    <pubDate>Mon, 23 Feb 2026 19:20:22 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 20:29:31 GMT</pubDate>
   </item>
   <item>
     <title>Securing Agentic AI in Banking &amp; Financial Services | Straiker</title>
     <link>https://www.straiker.ai/blog/securing-agentic-ai-in-banking-financial-services</link>
     <description>Over 50% of financial services organizations have deployed AI agents. Most lack the security to scale them safely.</description>
-    <pubDate>Mon, 23 Feb 2026 19:20:23 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 20:29:31 GMT</pubDate>
   </item>
   <item>
     <title>Built on ClawHub, Spread on Moltbook: The New Agent-to-Agent Attack Chain | Straiker</title>
     <link>https://www.straiker.ai/blog/built-on-clawhub-spread-on-moltbook-the-new-agent-to-agent-attack-chain</link>
     <description>Straiker uncovered an active agent-to-agent attack chain where malicious Claude Skills on ClawHub are spread via fake AI personas, enabling crypto scams and private key theft. The research shows AI skill marketplaces are already becoming a new supply chain attack surface</description>
-    <pubDate>Mon, 23 Feb 2026 19:20:23 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 20:29:31 GMT</pubDate>
   </item>
   <item>
     <title>Agent Hijacking: How Prompt Injection Leads to Full AI System Compromise | Straiker</title>
     <link>https://www.straiker.ai/blog/agent-hijacking-how-prompt-injection-leads-to-full-ai-system-compromise</link>
     <description>Agent hijacking moves lateral movement into agent workflows, making runtime behavior monitoring essential for securing agentic AI.</description>
-    <pubDate>Mon, 23 Feb 2026 19:20:23 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 20:29:31 GMT</pubDate>
   </item>
   <item>
     <title>SmartLoader Clones Oura Ring MCP to Deploy Supply Chain Attack | Straiker</title>
     <link>https://www.straiker.ai/blog/smartloader-clones-oura-ring-mcp-to-deploy-supply-chain-attack</link>
     <description>A sophisticated supply chain attack targeting the MCP ecosystem used fake GitHub accounts and a cloned Oura Ring server to infiltrate developer environments with credential-stealing malware.</description>
-    <pubDate>Mon, 23 Feb 2026 19:20:23 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 20:29:32 GMT</pubDate>
   </item>
   <item>
     <title>How the Clawdbot/Moltbot AI Assistant Becomes a Backdoor for System Takeover | Straiker</title>
     <link>https://www.straiker.ai/blog/how-the-clawdbot-moltbot-ai-assistant-becomes-a-backdoor-for-system-takeover</link>
     <description>Security research uncovered over 4,500 exposed Clawdbot/Moltbot instances globally—concentrated in the US, Germany, Singapore, and China—with testing confirming attackers can exfiltrate API keys, service tokens, and WhatsApp session credentials for surveillance.</description>
-    <pubDate>Mon, 23 Feb 2026 19:20:24 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 20:29:32 GMT</pubDate>
   </item>
   <item>
     <title>How to Secure AI Agents in High-Tech Companies | Straiker</title>
     <link>https://www.straiker.ai/blog/how-to-secure-ai-agents-in-high-tech-companies</link>
     <description>High-tech companies are inventing the future of AI—and its security challenges. Learn how to secure AI-native products, MCP integrations, and novel agent vulnerabilities at competitive speed.</description>
-    <pubDate>Mon, 23 Feb 2026 19:20:24 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 20:29:32 GMT</pubDate>
   </item>
   <item>
     <title>How to Secure AI Agents in Hospitals and Healthcare Systems | Straiker</title>
     <link>https://www.straiker.ai/blog/how-to-secure-ai-agents-in-hospitals-and-healthcare-systems</link>
     <description>Healthcare AI has the same security threats as any other industry, but because mistakes can directly harm patients, teams must test and secure agents for real-world, ambiguous patient interactions—not just obvious adversarial attacks.</description>
-    <pubDate>Mon, 23 Feb 2026 19:20:24 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 20:29:32 GMT</pubDate>
   </item>
   <item>
     <title>How to Secure AI Agents in Banking and Financial Companies | Straiker</title>
     <link>https://www.straiker.ai/blog/how-to-secure-ai-agents-in-banking-and-financial-companies</link>
     <description>DIY guardrails, open-source tools, and cloud-native security isn't enough in banking and FSI. Here's why—and what 85% of financial institutions deploying AI need instead.</description>
-    <pubDate>Mon, 23 Feb 2026 19:20:24 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 20:29:32 GMT</pubDate>
   </item>
 </channel>
 </rss>
