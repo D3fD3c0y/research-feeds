@@ -4,12 +4,12 @@
   <title>Forcepoint Blog (Custom Feed)</title>
   <link>https://www.forcepoint.com/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 16:35:25 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 17:12:56 GMT</lastBuildDate>
   <item>
-    <title>Error building feed for Forcepoint Blog</title>
+    <title>https://www.forcepoint.com/blog/ — sitemap had no items</title>
     <link>https://www.forcepoint.com/blog/</link>
-    <description>Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?</description>
-    <pubDate>Mon, 23 Feb 2026 16:35:25 GMT</pubDate>
+    <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
+    <pubDate>Mon, 23 Feb 2026 17:12:56 GMT</pubDate>
   </item>
 </channel>
 </rss>

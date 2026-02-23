@@ -4,12 +4,12 @@
   <title>Cyberxtron Blogs (Custom Feed)</title>
   <link>https://cyberxtron.com/resources/blogs</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 16:34:41 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 17:10:53 GMT</lastBuildDate>
   <item>
-    <title>Error building feed for Cyberxtron Blogs</title>
+    <title>https://cyberxtron.com/resources/blogs — sitemap had no items</title>
     <link>https://cyberxtron.com/resources/blogs</link>
-    <description>Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?</description>
-    <pubDate>Mon, 23 Feb 2026 16:34:41 GMT</pubDate>
+    <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
+    <pubDate>Mon, 23 Feb 2026 17:10:53 GMT</pubDate>
   </item>
 </channel>
 </rss>

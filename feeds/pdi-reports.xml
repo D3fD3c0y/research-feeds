@@ -4,12 +4,12 @@
   <title>PDI Technologies (Reports) (Custom Feed)</title>
   <link>https://security.pditechnologies.com/resources/?topic=reports</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 16:36:52 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 17:14:43 GMT</lastBuildDate>
   <item>
-    <title>Error building feed for PDI Technologies (Reports)</title>
+    <title>https://security.pditechnologies.com/resources/?topic=reports — sitemap had no items</title>
     <link>https://security.pditechnologies.com/resources/?topic=reports</link>
-    <description>Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?</description>
-    <pubDate>Mon, 23 Feb 2026 16:36:52 GMT</pubDate>
+    <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
+    <pubDate>Mon, 23 Feb 2026 17:14:43 GMT</pubDate>
   </item>
 </channel>
 </rss>
