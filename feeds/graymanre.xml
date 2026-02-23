@@ -4,12 +4,72 @@
   <title>Graymanre (GitHub Pages) (Custom Feed)</title>
   <link>https://graymanre.github.io/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 17:13:30 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 17:30:45 GMT</lastBuildDate>
   <item>
-    <title>https://graymanre.github.io/ — no items discovered</title>
-    <link>https://graymanre.github.io/</link>
-    <description>No posts detected.</description>
-    <pubDate>Mon, 23 Feb 2026 17:13:30 GMT</pubDate>
+    <title>GraymanRe - BTLO Bad Logic</title>
+    <link>https://graymanre.github.io/ctf/btlo_badlogic.html</link>
+    <description>Writeup for the Bad Logic challenge by Blue Team Labs Online</description>
+    <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>GraymanRe - BTLO Countdown</title>
+    <link>https://graymanre.github.io/ctf/btlo_countdown.html</link>
+    <description>Writeup for the Countdown challenge by Blue Team Labs Online</description>
+    <pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>GraymanRe - BTLO The Key</title>
+    <link>https://graymanre.github.io/ctf/btlo_thekey.html</link>
+    <description>Writeup for the The Key challenge by Blue Team Labs Online</description>
+    <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>GraymanRe - Flare-on9 Darn Mice</title>
+    <link>https://graymanre.github.io/ctf/flareon22_darnmice.html</link>
+    <description>Writeup for the Darn Mice challenge by Flare-On9</description>
+    <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>GraymanRe - Flare-on9 Magic8Ball</title>
+    <link>https://graymanre.github.io/ctf/flareon22_magic8ball.html</link>
+    <description>Writeup for the Magic8Ball challenge by Flare-On9</description>
+    <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>GraymanRe - Flare-on9 PixelPoker</title>
+    <link>https://graymanre.github.io/ctf/flareon22_pixelpoker.html</link>
+    <description>Writeup for the PixelPoker challenge by Flare-On9</description>
+    <pubDate>Sun, 11 Dec 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>GraymanRe - RokRat Loader MalOps Challenge</title>
+    <link>https://graymanre.github.io/ctf/malops_rokrat.html</link>
+    <description>Analyzing the RokRat Loader - MalOps Challenge</description>
+    <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>GraymanRe - Developing a WinDBG Extension in C++</title>
+    <link>https://graymanre.github.io/projects/windbg_dev_extension.html</link>
+    <description>Deep dive into developing a custom extension for WinDBG in C++</description>
+    <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>GraymanRe - Deploying OpenVPN on pfSense using LDAP</title>
+    <link>https://graymanre.github.io/projects/ldap_pfsense_vpn.html</link>
+    <description>Writeup for the Bad Logic challenge by Blue Team Labs Online</description>
+    <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>GraymanRe - Deploying a VLAN on a Proxmox VM using pfSense and Netgear</title>
+    <link>https://graymanre.github.io/projects/vlans_proxmox_pfsense.html</link>
+    <description>Deploying a VLAN on a Proxmox VM using pfSense and Netgear</description>
+    <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>GraymanRe - ShinySpider Ransomware MalOps Challenge</title>
+    <link>https://graymanre.github.io/ctf/malops_shinyspider.html</link>
+    <description>Analyzing the ShinySpider Ransomware - MalOps Challenge</description>
+    <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

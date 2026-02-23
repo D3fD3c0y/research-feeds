@@ -4,12 +4,126 @@
   <title>Pillar Security Blog (Custom Feed)</title>
   <link>https://www.pillar.security/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 17:14:44 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 17:33:34 GMT</lastBuildDate>
   <item>
-    <title>https://www.pillar.security/blog — no items discovered</title>
+    <title>Pillar Blog | Latest stories about AI Security</title>
     <link>https://www.pillar.security/blog</link>
-    <description>No posts detected.</description>
-    <pubDate>Mon, 23 Feb 2026 17:14:44 GMT</pubDate>
+    <description>Discover the latest research, product updates, and best practices for staying secure in the AI age.</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Assess your risk</title>
+    <link>https://www.pillar.security/risks</link>
+    <description>Get a free risk assessment for your AI app with real attack scenarios and threat modeling. Identify security gaps and protect your AI.</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Privacy Policy</title>
+    <link>https://www.pillar.security/privacy-policy</link>
+    <description>Privacy Policy</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Terms Of Use</title>
+    <link>https://www.pillar.security/terms-of-use</link>
+    <description>Terms Of Use</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>About us - Pillar Security</title>
+    <link>https://www.pillar.security/about</link>
+    <description>Pillar is building the unified AI security layer to help enterprises accelerate AI transformation</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>Coins</title>
+    <link>https://www.pillar.security/challenge-coin</link>
+    <description>Coins</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>Security for AI Buyer's Guide - How to Evaluate Solutions to Secure your AI Transformation</title>
+    <link>https://www.pillar.security/resources/buyer-guide</link>
+    <description>This Buyer’s guide is designed to help you understand how to evaluate potential AI security vendors, Including a full breakdown of features, capabilities, and requirements that your AI security tool must have.</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>The State of Attacks on GenAI  |  Analysis of Real-World Attacks</title>
+    <link>https://www.pillar.security/resources/the-state-of-attacks-on-genai</link>
+    <description>Discover the industry-first report on real GenAI attacks seen in the wild. Gain exclusive insights into AI risks, adversary objectives, jailbreak techniques, and 2025 forecasts.</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>Request a Free AI Risk Assessment</title>
+    <link>https://www.pillar.security/request-a-free-ai-risk-assessment</link>
+    <description>Request a Free AI Risk Assessment</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Webinar: AI Security - Use Cases and Challenges for 2025</title>
+    <link>https://www.pillar.security/resources/webinar-ai-security-use-cases-and-challenges-for-2025</link>
+    <description>Explore pressing AI security challenges in 2025. Learn practical strategies to protect AI throughout its lifecycle-from development to production. Gain insights into emerging agentic-related risks.</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Webinar: AI Security: Agentic Use Cases and Challenges for 2025</title>
+    <link>https://www.pillar.security/resources/webinar-ai-security-agentic-use-cases-and-challenges-for-2025-video</link>
+    <description>Webinar: AI Security: Agentic Use Cases and Challenges for 2025</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>RSAC-2025</title>
+    <link>https://www.pillar.security/events/rsac-2025</link>
+    <description>Meet Us at RSAC 2025!</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>Pillar Security | Build and Run Secure AI Systems</title>
+    <link>https://www.pillar.security</link>
+    <description>One platform to identify, assess and mitigate security risks across your entire AI lifecycle.</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>Pillar Security Platform | Securing the Entire AI Software Lifecycle</title>
+    <link>https://www.pillar.security/platform</link>
+    <description>Pillar secures the entire AI lifecycle—from development to deployment—providing unmatched visibility, robust  control, and resilient defense against emerging AI threats.</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>Get a demo</title>
+    <link>https://www.pillar.security/get-a-demo</link>
+    <description>Book a demo to see how Pillar enables teams to rapidly adopt AI with minimal risk by providing a unified AI security layer across the organization</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI Security Posture Report</title>
+    <link>https://www.pillar.security/ai-security-posture-report</link>
+    <description>Secure your AI systems with our comprehensive AI Lifecycle Security Posture Report. Discover hidden vulnerabilities, classify all AI/ML assets, and get actionable remediation priorities with clear metrics. From code to deployment, gain complete visibility into your AI security risks and ensure compliance.</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:33 GMT</pubDate>
+  </item>
+  <item>
+    <title>Use case</title>
+    <link>https://www.pillar.security/solutions</link>
+    <description>Use case</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:33 GMT</pubDate>
+  </item>
+  <item>
+    <title>SAIL Framework: A Practical Guide for AI Security</title>
+    <link>https://www.pillar.security/sail</link>
+    <description>The SAIL Framework, co-developed with industry leaders, is a process-oriented guide to build your AI security roadmap, aligned with standards like NIST, ISO &amp; OWASP.</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:33 GMT</pubDate>
+  </item>
+  <item>
+    <title>Black hat 2025</title>
+    <link>https://www.pillar.security/events/black-hat-2025</link>
+    <description>Black hat 2025</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:33 GMT</pubDate>
+  </item>
+  <item>
+    <title>Webinar: Building Your AI Security Roadmap</title>
+    <link>https://www.pillar.security/resources/webinar-building-your-ai-security-roadmap</link>
+    <description>Watch our on-demand webinar featuring a panel of leading industry experts who will share practical strategies for building your AI security roadmap.</description>
+    <pubDate>Mon, 23 Feb 2026 17:33:34 GMT</pubDate>
   </item>
 </channel>
 </rss>

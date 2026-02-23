@@ -4,12 +4,12 @@
   <title>HiddenLayer Research (Custom Feed)</title>
   <link>https://www.hiddenlayer.com/innovation-hub/research</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 17:13:42 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 17:31:02 GMT</lastBuildDate>
   <item>
     <title>One-click RCE on OpenClaw in under 2 hours with an Autonomous Hacking Agent | Ethiack — Autonomous Ethical Hacking for continuous security</title>
     <link>https://ethiack.com/news/blog/one-click-rce-moltbot</link>
     <description>Our AI pentester, Hackian, found a RCE on Openclaw by hacking it fully autonomously in under 2 hours. Learn how and read the logs in this blog.</description>
-    <pubDate>Mon, 23 Feb 2026 17:13:41 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 17:31:00 GMT</pubDate>
   </item>
   <item>
     <title>"GitHub Copilot: Remote Code Execution via Prompt Injection (CVE-2025-53773)"</title>
@@ -21,19 +21,19 @@
     <title>New Vulnerability in GitHub Copilot and Cursor: How Hackers Can Weaponize Code Agents</title>
     <link>https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents</link>
     <description>New Vulnerability in GitHub Copilot and Cursor: How Hackers Can Weaponize Code Agents</description>
-    <pubDate>Mon, 23 Feb 2026 17:13:42 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 17:31:00 GMT</pubDate>
   </item>
   <item>
     <title>The Denylist Delusion: Cursor’s Auto-Run Leaves Agentic AI Wide Open - Backslash</title>
     <link>https://www.backslash.security/blog/cursor-ai-security-flaw-autorun-denylist</link>
     <description>In the past few months, vibe coding has taken the software industry by storm. In that time, Cursor, the AI-based code editor most synonymous with the vibe coding revolution, has rushed to build-out its product and outmaneuver its competitors.</description>
-    <pubDate>Mon, 23 Feb 2026 17:13:42 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 17:31:01 GMT</pubDate>
   </item>
   <item>
     <title>Report and Guide | HiddenLayer</title>
     <link>https://www.hiddenlayer.com/innovation-hub/reports-and-guides</link>
     <description>Report and Guide | HiddenLayer</description>
-    <pubDate>Mon, 23 Feb 2026 17:13:42 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 17:31:02 GMT</pubDate>
   </item>
 </channel>
 </rss>
