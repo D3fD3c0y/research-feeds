@@ -1,6 +1,6 @@
 [
   {"name": "Abnormal Security Threat Intel Blog", "url": "https://abnormal.ai/threat-intelligence/blog", "slug": "abnormal-threat-intel", "mode": "scrape"},
-  {"name": "Abstract Security Blog", "url": "https://www.abstract.security/abstract-canvas#blog", "slug": "abstract-security", "mode": "scrape"},
+  {"name": "Abstract Security Blog", "url": "https://www.abstract.security/abstract-canvas", "slug": "abstract-security", "mode": "scrape"},
   {"name": "Analyst1 Blog", "url": "https://analyst1.com/category/blog/", "slug": "analyst1", "mode": "scrape"},
   {"name": "Apophis133 on Medium", "url": "https://apophis133.medium.com/", "slug": "apophis133-medium", "mode": "scrape"},
   {"name": "AppOmni Blog", "url": "https://appomni.com/article-type/blog/", "slug": "appomni", "mode": "scrape"},
@@ -71,7 +71,7 @@
   {"name": "Push Security Blog", "url": "https://pushsecurity.com/blog", "slug": "pushsecurity", "mode": "scrape"},
   {"name": "RansomNews Blog", "url": "https://ransomnews.online/", "slug": "ransomnews", "mode": "scrape"},
   {"name": "S2W Resources (EN)", "url": "https://s2w.inc/en/resource/", "slug": "s2w", "mode": "scrape"},
-  {"name": "SecurityScorecard Research", "url": "https://securityscorecard.com/resources/research/", "slug": "securityscorecard research", "mode": "scrape"},
+  {"name": "SecurityScorecard Research", "url": "https://securityscorecard.com/resources/research/", "slug": "securityscorecard-research", "mode": "scrape"},
   {"name": "Sequretek Resources Hub", "url": "https://www.sequretek.com/resources-hub", "slug": "sequretek", "mode": "scrape"},
   {"name": "Silverfort Blog", "url": "https://www.silverfort.com/blog/", "slug": "silverfort", "mode": "scrape"},
   {"name": "SpyCloud Blog", "url": "https://spycloud.com/blog/", "slug": "spycloud", "mode": "scrape"},
