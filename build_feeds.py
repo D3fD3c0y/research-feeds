@@ -627,7 +627,9 @@ def main():
                     "title": f"Error building feed for {name}",
                     "link": page_url,
                     "pubDate": rfc2822(),
-                   )
+                    "description": str(e)
+                }]
+            )
             feed_map.append((name, slug))
             continue
 
