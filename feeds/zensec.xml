@@ -3,85 +3,67 @@
 <channel>
   <title>ZENSEC Blog (Custom Feed)</title>
   <link>https://zensec.co.uk/blog/</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:12:46 GMT</lastBuildDate>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:14:39 GMT</lastBuildDate>
   <item>
-    <title>What UK organisations get wrong about incident response retainers</title>
+    <title>Exploiting the gaps: why edge devices are still the UK’s weakest link - Zensec</title>
+    <link>https://zensec.co.uk/blog/exploiting-the-gaps-why-edge-devices-are-still-the-uks-weakest-link/</link>
+    <description>If you are reading this because you have experienced a ransomware incident and are unsure how to deal with it, contact Zensec immediately.</description>
+    <pubDate>Mon, 23 Feb 2026 10:47:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>What UK organisations get wrong about incident response retainers - Zensec</title>
     <link>https://zensec.co.uk/blog/what-uk-organisations-get-wrong-about-incident-response-retainers/</link>
-    <description>What UK organisations get wrong about incident response retainers</description>
-    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+    <description>If your organisation has experienced a cyber incident and you’re exploring technologies to strengthen your security posture, our team at Zensec is here to help.</description>
+    <pubDate>Fri, 20 Feb 2026 11:19:43 GMT</pubDate>
   </item>
   <item>
-    <title>Ransomware without encryption: the rise of pure data extortion</title>
+    <title>Ransomware without encryption: the rise of pure data extortion - Zensec</title>
     <link>https://zensec.co.uk/blog/ransomware-without-encryption-the-rise-of-pure-data-extortion/</link>
-    <description>Ransomware without encryption: the rise of pure data extortion</description>
-    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+    <description>If you are reading this because you have experienced a ransomware incident and are unsure how to deal with it, contact Zensec immediately.</description>
+    <pubDate>Wed, 18 Feb 2026 11:13:29 GMT</pubDate>
   </item>
   <item>
-    <title>Why MFA alone isn’t stopping ransomware in 2026 (and what attackers do instead)</title>
+    <title>Why MFA alone isn’t stopping ransomware in 2026 (and what attackers do instead) - Zensec</title>
     <link>https://zensec.co.uk/blog/why-mfa-alone-isnt-stopping-ransomware-in-2026-and-what-attackers-do-instead/</link>
-    <description>Why MFA alone isn’t stopping ransomware in 2026 (and what attackers do instead)</description>
-    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+    <description>If you are reading this because you have experienced a ransomware incident and are unsure how to deal with it, contact Zensec immediately.</description>
+    <pubDate>Mon, 16 Feb 2026 11:01:28 GMT</pubDate>
   </item>
   <item>
-    <title>EDR vs XDR: what’s the difference, and which one do you actually need?</title>
+    <title>EDR vs XDR: what’s the difference, and which one do you actually need? - Zensec</title>
     <link>https://zensec.co.uk/blog/edr-vs-xdr-whats-the-difference-and-which-one-do-you-actually-need/</link>
-    <description>EDR vs XDR: what’s the difference, and which one do you actually need?</description>
-    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+    <description>If your organisation has experienced a cyber incident and you’re exploring technologies to strengthen your security posture, our team at Zensec is here to help.</description>
+    <pubDate>Fri, 13 Feb 2026 09:30:54 GMT</pubDate>
   </item>
   <item>
-    <title>SIEM vs SOAR</title>
+    <title>SIEM vs SOAR - Zensec</title>
     <link>https://zensec.co.uk/blog/siem-vs-soar/</link>
-    <description>SIEM vs SOAR</description>
-    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+    <description>If your organisation has experienced a cyber incident and you’re exploring technologies to strengthen your security posture, our team at Zensec is here to help.</description>
+    <pubDate>Wed, 11 Feb 2026 09:03:39 GMT</pubDate>
   </item>
   <item>
-    <title>Living off the land: how legitimate tools are powering modern ransomware intrusions in the UK</title>
+    <title>Living off the land: how legitimate tools are powering modern ransomware intrusions in the UK - Zensec</title>
     <link>https://zensec.co.uk/blog/living-off-the-land-how-legitimate-tools-are-powering-modern-ransomware-intrusions-in-the-uk/</link>
-    <description>Living off the land: how legitimate tools are powering modern ransomware intrusions in the UK</description>
-    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+    <description>If you require emergency incident response assistance, contact Zensec immediately. Our team uses advanced threat intelligence and network monitoring to</description>
+    <pubDate>Mon, 09 Feb 2026 11:12:13 GMT</pubDate>
   </item>
   <item>
-    <title>Cyber security regulation and global governance</title>
+    <title>Cyber security regulation and global governance - Zensec</title>
     <link>https://zensec.co.uk/blog/cyber-security-regulation-and-global-governance/</link>
-    <description>Cyber security regulation and global governance</description>
-    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+    <description>Cyber security regulation and global governance are now central to how nations manage cyber risk, protect digital assets, and strengthen public trust in the</description>
+    <pubDate>Fri, 06 Feb 2026 11:06:05 GMT</pubDate>
   </item>
   <item>
-    <title>RTO vs. RPO for disaster recovery: the critical metrics explained</title>
+    <title>RTO vs. RPO for disaster recovery: the critical metrics explained - Zensec</title>
     <link>https://zensec.co.uk/blog/rto-vs-rpo-for-disaster-recovery-the-critical-metrics-explained/</link>
-    <description>RTO vs. RPO for disaster recovery: the critical metrics explained</description>
-    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+    <description>If you require emergency incident response assistance, contact Zensec immediately. Our team uses advanced threat intelligence and network monitoring to</description>
+    <pubDate>Mon, 02 Feb 2026 09:00:12 GMT</pubDate>
   </item>
   <item>
-    <title>Incident response tabletop exercise checklist</title>
+    <title>Incident response tabletop exercise checklist - Zensec</title>
     <link>https://zensec.co.uk/blog/incident-response-tabletop-exercise-checklist/</link>
-    <description>Incident response tabletop exercise checklist</description>
-    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>3-2-1-1 backup strategy for ransomware defence</title>
-    <link>https://zensec.co.uk/blog/3-2-1-1-backup-strategy-for-ransomware-defence/</link>
-    <description>3-2-1-1 backup strategy for ransomware defence</description>
-    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>Blog</title>
-    <link>https://zensec.co.uk/blog/</link>
-    <description>Blog</description>
-    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>2</title>
-    <link>https://zensec.co.uk/blog/page/2/</link>
-    <description>2</description>
-    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>7</title>
-    <link>https://zensec.co.uk/blog/page/7/</link>
-    <description>7</description>
-    <pubDate>Fri, 20 Feb 2026 17:12:46 GMT</pubDate>
+    <description>Dealing with a ransomware attack? Our expert team can guide you through every step of the recovery process. Regain control with Zensec – trusted support when</description>
+    <pubDate>Fri, 30 Jan 2026 12:20:50 GMT</pubDate>
   </item>
 </channel>
 </rss>

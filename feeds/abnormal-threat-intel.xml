@@ -3,13 +3,13 @@
 <channel>
   <title>Abnormal Security Threat Intel Blog (Custom Feed)</title>
   <link>https://abnormal.ai/threat-intelligence/blog</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:08:37 GMT</lastBuildDate>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:13:19 GMT</lastBuildDate>
   <item>
-    <title>Abnormal Security Threat Intel Blog — no items discovered</title>
+    <title>https://abnormal.ai/threat-intelligence/blog — sitemap had no items</title>
     <link>https://abnormal.ai/threat-intelligence/blog</link>
-    <description>Feed builder could not detect recent posts automatically.</description>
-    <pubDate>Fri, 20 Feb 2026 17:08:37 GMT</pubDate>
+    <description>No items from sitemap.</description>
+    <pubDate>Mon, 23 Feb 2026 14:13:19 GMT</pubDate>
   </item>
 </channel>
 </rss>

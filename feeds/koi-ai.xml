@@ -3,127 +3,13 @@
 <channel>
   <title>Koi AI Blog (Custom Feed)</title>
   <link>https://www.koi.ai/blog</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:01:33 GMT</lastBuildDate>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:10:03 GMT</lastBuildDate>
   <item>
-    <title>Untitled</title>
+    <title>Koi to join Palo Alto Networks: A Defining Moment</title>
     <link>https://www.koi.ai/blog/koi-to-join-palo-alto-networks-a-defining-moment</link>
-    <description>Untitled</description>
-    <pubDate>Tue, 17 Feb 2026 13:59:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/clawhavoc-341-malicious-clawedbot-skills-found-by-the-bot-they-were-targeting</link>
-    <description>Untitled</description>
-    <pubDate>Tue, 17 Feb 2026 08:01:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/vk-styles-500k-users-infected-by-chrome-extensions-that-hijack-vkontakte-accounts</link>
-    <description>Untitled</description>
-    <pubDate>Sun, 15 Feb 2026 09:30:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/agreetosteal-the-first-malicious-outlook-add-in-leads-to-4-000-stolen-credentials</link>
-    <description>Untitled</description>
-    <pubDate>Sun, 15 Feb 2026 06:41:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers</link>
-    <description>Untitled</description>
-    <pubDate>Sun, 15 Feb 2026 06:41:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/trust-wallet-binance-compromised-inside-the-code-that-stole-7m-on-christmas-eve</link>
-    <description>Untitled</description>
-    <pubDate>Wed, 04 Feb 2026 17:16:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/brew-hijack-serving-malware</link>
-    <description>Untitled</description>
-    <pubDate>Wed, 04 Feb 2026 17:16:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/packagegate-6-zero-days-in-js-package-managers-but-npm-wont-act</link>
-    <description>Untitled</description>
-    <pubDate>Mon, 02 Feb 2026 15:59:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers</link>
-    <description>Untitled</description>
-    <pubDate>Fri, 23 Jan 2026 23:19:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/owasp-agentic-ai-top-10-a-practical-security-guide</link>
-    <description>Untitled</description>
-    <pubDate>Sun, 18 Jan 2026 10:41:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/how-we-prevented-cursor-windsurf-google-antigravity-from-recommending-malware</link>
-    <description>Untitled</description>
-    <pubDate>Thu, 15 Jan 2026 16:34:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/glassworm-goes-mac-fresh-infrastructure-new-tricks</link>
-    <description>Untitled</description>
-    <pubDate>Mon, 05 Jan 2026 11:28:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/6-6-uncover-hidden-risks-cisos-guide-to-using-extensiontotal-api-for-your-organization</link>
-    <description>Untitled</description>
-    <pubDate>Sun, 04 Jan 2026 10:44:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages</link>
-    <description>Untitled</description>
-    <pubDate>Wed, 31 Dec 2025 00:25:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign</link>
-    <description>Untitled</description>
-    <pubDate>Tue, 30 Dec 2025 10:13:43 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/phantomraven-npm-malware-hidden-in-invisible-dependencies</link>
-    <description>Untitled</description>
-    <pubDate>Tue, 30 Dec 2025 10:13:43 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace</link>
-    <description>Untitled</description>
-    <pubDate>Tue, 30 Dec 2025 10:13:43 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/shai-hulud-npm-supply-chain-attack-crowdstrike-tinycolor</link>
-    <description>Untitled</description>
-    <pubDate>Sun, 28 Dec 2025 10:09:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/inside-ghostposter-how-a-png-icon-infected-50-000-firefox-browser-users</link>
-    <description>Untitled</description>
-    <pubDate>Mon, 22 Dec 2025 15:29:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Untitled</title>
-    <link>https://www.koi.ai/blog/the-vs-code-malware-that-captures-your-screen</link>
-    <description>Untitled</description>
-    <pubDate>Mon, 22 Dec 2025 15:29:30 GMT</pubDate>
+    <description>Give me 2-3 sentences for meta description for this blog post: Koi to join Palo Alto Networks: A Defining Moment It’s hard to put today into words. If the past year hasn’t been crazy enough here at Koi, today, I’m incredibly proud (and deeply humbled) to share that Koi has signed a definitive agreement to be acquired by Palo Alto Networks. This marks a defining moment for Koi, and for the future of endpoint security. Excited doesn't even begin to cover how we feel today. The shared vision that Koi and Palo Alto Networks have for the future of the endpoint couldn’t be more aligned. Because the endpoint is changing. Not incrementally. Structurally. We are watching the laptop transform from a place where users run applications… into a platform where autonomous AI agents operate as persistent, privileged actors. Agents with access to the filesystem. To the shell. To credentials. To the browser. To enterprise systems. At the same time, the software running on those endpoints is going non-binary: packages, extensions, plugins, agent skills, MCP servers, model artifacts. Installed without oversight. Updated silently. Governed by no one. Over the past year, we’ve been researching, building, and defining what it means to secure this new reality. And today, announcing our intent to join Palo Alto Networks will allow us to bring that vision to the world at global scale. For our customers, I want to be clear about one thing. Our vision and product are not changing. The world we have been building toward is exactly the world Palo Alto Networks believes in as well. That alignment is precisely why this partnership makes so much sense. What will change, is our ability to execute at global scale, integrate deeply across the security stack, and deliver even more value. We are incredibly excited to continue this journey with you, and following the close of the transaction, backed by the full power of Palo Alto Networks. If you want to understand exactly why this moment matters, not just for Koi, but for the entire industry, Hadar Oren, SVP Cortex wrote a deeper piece outlining the shift we’re seeing and the security layer required to meet it. Read it here. For now, I want to pause and say thank you. To the Koi team, for an extraordinary, intense, and unforgettable year. For building something truly category defining. For pushing boundaries. For obsessing over the details. And for managing to enjoy the ride while doing it. To our customers, thank you for believing in us early, for challenging us, and for shaping the product into what it is today. Your trust and partnership are what got us to this moment. To our investors, including Picture Capital, NFX, Battery Ventures, Team8, and Cerca Partners, thank you for backing the vision and standing with us as we built it. And to our board members, Rakesh Loonkar, Gigi Levy Weiss, Barak Schoster Goihman, and Ori Barzilay, thank you for the guidance, conviction, and support that helped us grow Koi into what it is today. To Palo Alto Networks, thank you for sharing our belief in where the endpoint is headed and for your excitement in building that future together. And to Itay and Idan, what a year it has been. This is not the end of our story. It is the beginning of a much bigger one. Koi and Palo Alto Networks will be setting out to reshape endpoint security for an agentic world. We are just getting started. Stay tuned. You can read more about this announcement in the official press release here.</description>
+    <pubDate>Mon, 23 Feb 2026 14:10:03 GMT</pubDate>
   </item>
 </channel>
 </rss>

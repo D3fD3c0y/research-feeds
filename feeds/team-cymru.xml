@@ -3,13 +3,13 @@
 <channel>
   <title>Team Cymru Blog (Custom Feed)</title>
   <link>https://www.team-cymru.com/blog</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:01:11 GMT</lastBuildDate>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:10:01 GMT</lastBuildDate>
   <item>
-    <title>Team Cymru Blog — no items discovered</title>
+    <title>https://www.team-cymru.com/blog — no items discovered</title>
     <link>https://www.team-cymru.com/blog</link>
-    <description>Feed builder could not detect recent posts automatically.</description>
-    <pubDate>Fri, 20 Feb 2026 17:01:11 GMT</pubDate>
+    <description>No posts detected.</description>
+    <pubDate>Mon, 23 Feb 2026 14:10:01 GMT</pubDate>
   </item>
 </channel>
 </rss>

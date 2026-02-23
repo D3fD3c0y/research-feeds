@@ -3,13 +3,13 @@
 <channel>
   <title>TeamT5 Blog (Custom Feed)</title>
   <link>https://teamt5.org/en/blog/</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:11:50 GMT</lastBuildDate>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:14:23 GMT</lastBuildDate>
   <item>
-    <title>BLOG</title>
+    <title>https://teamt5.org/en/blog/ — sitemap had no items</title>
     <link>https://teamt5.org/en/blog/</link>
-    <description>BLOG</description>
-    <pubDate>Fri, 20 Feb 2026 17:11:50 GMT</pubDate>
+    <description>No items from sitemap.</description>
+    <pubDate>Mon, 23 Feb 2026 14:14:23 GMT</pubDate>
   </item>
 </channel>
 </rss>

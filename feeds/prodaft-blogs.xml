@@ -3,13 +3,13 @@
 <channel>
   <title>PRODAFT Blogs (Custom Feed)</title>
   <link>https://prodaft.com/blogs</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:09:48 GMT</lastBuildDate>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:13:48 GMT</lastBuildDate>
   <item>
-    <title>Latest Reports</title>
+    <title>PRODAFT â Cyber Threat Intelligence and Risk Intelligence</title>
     <link>https://prodaft.com/reports</link>
-    <description>Latest Reports</description>
-    <pubDate>Fri, 20 Feb 2026 17:09:48 GMT</pubDate>
+    <description>Explore advanced cybersecurity solutions, providing proactive defense against emerging threats. Learn more about our tailored intelligence, and cybercrime investigation solutions.</description>
+    <pubDate>Mon, 23 Feb 2026 14:13:48 GMT</pubDate>
   </item>
 </channel>
 </rss>

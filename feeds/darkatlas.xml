@@ -3,25 +3,28 @@
 <channel>
   <title>DarkAtlas Blog (Custom Feed)</title>
   <link>https://darkatlas.io/blog</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:05:35 GMT</lastBuildDate>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:12:15 GMT</lastBuildDate>
   <item>
     <title>The Ransomware Ecosystem: Roles, Tools, and How Modern RaaS Attacks Work</title>
     <link>https://darkatlas.io/blog/the-ransomware-ecosystem-roles-tools-and-how-modern-raas-attacks-work</link>
-    <description>The Ransomware Ecosystem: Roles, Tools, and How Modern RaaS Attacks Work</description>
-    <pubDate>Fri, 20 Feb 2026 17:05:35 GMT</pubDate>
+    <description>Ransomware is no longer just a malicious program deployed by a single attacker — it has evolved into a complex, profit-driven ecosystem operating much like a legitimate business model. Today’s ransomware operations involve multiple specialized actors, automated platforms, and underground services working together to maximize impact and financial gain. From Initial Access Brokers selling compromised [&amp;hellip;]
+</description>
+    <pubDate>Mon, 09 Feb 2026 08:45:05 GMT</pubDate>
   </item>
   <item>
     <title>Smishing Triad Targets Egypt’s Financial Sector and Postal Services</title>
     <link>https://darkatlas.io/blog/smishing-triad-targets-egypts-financial-sector-and-postal-services</link>
-    <description>Smishing Triad Targets Egypt’s Financial Sector and Postal Services</description>
-    <pubDate>Fri, 20 Feb 2026 17:05:35 GMT</pubDate>
+    <description>Recently, during one of our threat hunting operations, our squad identified multiple malicious domains impersonating major Egyptian service providers, including Fawry, the Egypt Post, and Careem. These domains were likely established to support fraud, phishing campaigns, and other malicious activities targeting users and organizations. Before we begin our analysis, we will provide an overview of [&amp;hellip;]
+</description>
+    <pubDate>Mon, 24 Nov 2025 14:50:17 GMT</pubDate>
   </item>
   <item>
     <title>Threat Profile: APT35 (Charming Kitten)</title>
     <link>https://darkatlas.io/blog/inside-apt35-irans-state-sponsored-cyber-espionage</link>
-    <description>Threat Profile: APT35 (Charming Kitten)</description>
-    <pubDate>Fri, 20 Feb 2026 17:05:35 GMT</pubDate>
+    <description>Executive Summary APT35, also known as Magic Hound and Charming Kitten, is an Iranian state-backed cyber espionage group active since at least 2014. The threat actor is known for strategic intelligence-gathering, data theft, and disruption operations aligned with Iran’s geopolitical and military objectives. The group’s primary targets include energy, government, defense, and technology sectors, with [&amp;hellip;]
+</description>
+    <pubDate>Fri, 17 Oct 2025 17:10:47 GMT</pubDate>
   </item>
 </channel>
 </rss>

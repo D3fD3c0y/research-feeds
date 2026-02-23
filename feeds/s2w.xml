@@ -3,13 +3,13 @@
 <channel>
   <title>S2W Resources (EN) (Custom Feed)</title>
   <link>https://s2w.inc/en/resource/</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:10:27 GMT</lastBuildDate>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:14:00 GMT</lastBuildDate>
   <item>
-    <title>S2W Resources (EN) — no items discovered</title>
+    <title>https://s2w.inc/en/resource/ — sitemap had no items</title>
     <link>https://s2w.inc/en/resource/</link>
-    <description>Feed builder could not detect recent posts automatically.</description>
-    <pubDate>Fri, 20 Feb 2026 17:10:27 GMT</pubDate>
+    <description>No items from sitemap.</description>
+    <pubDate>Mon, 23 Feb 2026 14:14:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

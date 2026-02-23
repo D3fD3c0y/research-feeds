@@ -3,19 +3,19 @@
 <channel>
   <title>StrikeReady Blog (Custom Feed)</title>
   <link>https://strikeready.com/blog/</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:10:59 GMT</lastBuildDate>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:14:11 GMT</lastBuildDate>
   <item>
-    <title>Blog</title>
+    <title>Blog | StrikeReady</title>
     <link>https://strikeready.com/blog/</link>
-    <description>Blog</description>
-    <pubDate>Fri, 20 Feb 2026 17:10:59 GMT</pubDate>
+    <description>Stay updated with the latest cybersecurity trends, and insights on StrikeReady's blog. Explore expert analysis, updates, and tips to empower cyber threats.</description>
+    <pubDate>Mon, 23 Feb 2026 14:14:11 GMT</pubDate>
   </item>
   <item>
-    <title>Resources</title>
+    <title>Expert Resources, Webinars and Insights by StrikeReady</title>
     <link>https://strikeready.com/resources/</link>
-    <description>Resources</description>
-    <pubDate>Fri, 20 Feb 2026 17:10:59 GMT</pubDate>
+    <description>Explore resources, webinars, and actionable insights with StrikeReady. Our knowledge hub empowers your SOC team and enhances your cybersecurity strategies.</description>
+    <pubDate>Mon, 23 Feb 2026 14:14:11 GMT</pubDate>
   </item>
 </channel>
 </rss>

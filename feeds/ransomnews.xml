@@ -2,14 +2,14 @@
 <rss version="2.0">
 <channel>
   <title>RansomNews Blog (Custom Feed)</title>
-  <link>https://ransomnews.online/blog/</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:10:16 GMT</lastBuildDate>
+  <link>https://ransomnews.online/</link>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:14:00 GMT</lastBuildDate>
   <item>
-    <title>RansomNews Blog — no items discovered</title>
-    <link>https://ransomnews.online/blog/</link>
-    <description>Feed builder could not detect recent posts automatically.</description>
-    <pubDate>Fri, 20 Feb 2026 17:10:16 GMT</pubDate>
+    <title>https://ransomnews.online/ — no items discovered</title>
+    <link>https://ransomnews.online/</link>
+    <description>No posts detected.</description>
+    <pubDate>Mon, 23 Feb 2026 14:14:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

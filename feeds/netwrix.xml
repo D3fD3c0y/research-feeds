@@ -3,97 +3,67 @@
 <channel>
   <title>Netwrix Blog (Custom Feed)</title>
   <link>https://netwrix.com/en/resources/blog/</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:09:12 GMT</lastBuildDate>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:13:42 GMT</lastBuildDate>
   <item>
-    <title>Blog</title>
+    <title>Explore Our Blog Articles | Netwrix</title>
     <link>https://netwrix.com/en/resources/blog/</link>
-    <description>Blog</description>
-    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+    <description>Looking for the latest in security? Explore our blog for expert insights, actionable tips, and proven strategies to strengthen your data and identity security.</description>
+    <pubDate>Mon, 23 Feb 2026 14:13:35 GMT</pubDate>
   </item>
   <item>
     <title>Essential PowerShell Commands: A Cheat Sheet for Beginners</title>
     <link>https://netwrix.com/en/resources/blog/powershell-commands-cheat-sheet/</link>
-    <description>Essential PowerShell Commands: A Cheat Sheet for Beginners</description>
-    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+    <description>PowerShell is a command-line shell and scripting language for automating Windows administration and managing systems across platforms. Beginners should master cmdlets like Get-Help, Get-ChildItem, Get-Process, Set-Location, New-Item, and Export-Csv. PowerShell supports object-based pipelines, aliases for efficiency, remote sessions, and execution policies for security. With practice, these commands form the foundation for automation, system management, and â¦ Continued</description>
+    <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
     <title>Download and Install PowerShell 7</title>
     <link>https://netwrix.com/en/resources/blog/powershell-download-install-guide/</link>
-    <description>Download and Install PowerShell 7</description>
-    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+    <description>PowerShell 7 is a cross-platform automation framework built on .NET Core, offering enhanced performance, parallel processing, and broad compatibility with Windows PowerShell modules. It runs on Windows, macOS, Linux, and containers, with flexible installation options such as package managers, MSI, ZIP, or Docker. Long-Term Support versions provide stability for enterprises, while preview builds enable early â¦ Continued</description>
+    <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Common Types of Network Devices and Their Functions</title>
-    <link>https://netwrix.com/en/resources/blog/network-devices-explained/</link>
-    <description>Common Types of Network Devices and Their Functions</description>
-    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>How to Install &amp; Use Active Directory Users and Computers (ADUC)?</title>
-    <link>https://netwrix.com/en/resources/blog/how-to-install-and-use-active-directory-users-and-computers/</link>
-    <description>How to Install &amp; Use Active Directory Users and Computers (ADUC)?</description>
-    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+    <title>PowerShell Environment Variables</title>
+    <link>https://netwrix.com/en/resources/blog/powershell-environment-variables/</link>
+    <description>PowerShell environment variables store system and user configuration as key-value pairs accessible across processes and scripts. They can be listed with Get-ChildItem Env:, accessed with $Env:&lt;Name&gt;, modified with Set-Item or [Environment]::SetEnvironmentVariable(), and removed with Remove-Item. Variables exist at process, user, or machine scope, with changes persisting only if defined at user or machine level. Best â¦ Continued</description>
+    <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
     <title>How to Run PowerShell Script from Task Scheduler</title>
     <link>https://netwrix.com/en/resources/blog/how-to-automate-powershell-scripts-with-task-scheduler/</link>
-    <description>How to Run PowerShell Script from Task Scheduler</description>
-    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+    <description>Learn how to create a PowerShell scheduled task and run PowerShell scripts from Task Scheduler.</description>
+    <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Download the report</title>
+    <title>How to Install &amp; Use Active Directory Users and Computers (ADUC)?</title>
+    <link>https://netwrix.com/en/resources/blog/how-to-install-and-use-active-directory-users-and-computers/</link>
+    <description>Learn how to install and use Active Directory Users and Computers (ADUC) to manage users, groups, OUs and AD objects in Windows with step-by-step guidance.</description>
+    <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Download the Gartner PAM Magic Quadrant 2025 Report | Netwrix</title>
     <link>https://netwrix.com/en/resources/guides/gartner-pam-magic-quadrant-2025/</link>
-    <description>Download the report</description>
-    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+    <description>Get the Gartner PAM Magic Quadrant 2025 report and see why Netwrix is recognized for its leadership in privileged access management and zero standing privilege.</description>
+    <pubDate>Mon, 23 Feb 2026 14:13:40 GMT</pubDate>
   </item>
   <item>
-    <title>Resource Center</title>
+    <title>Resource Center | Netwrix</title>
     <link>https://netwrix.com/en/resources/</link>
-    <description>Resource Center</description>
-    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+    <description>Discover expert guides, reports, training materials, and more designed to help you level up your cybersecurity knowledge. Come learn from the best!</description>
+    <pubDate>Mon, 23 Feb 2026 14:13:41 GMT</pubDate>
   </item>
   <item>
-    <title>Events</title>
+    <title>Find Security Events Near You | Netwrix</title>
     <link>https://netwrix.com/en/resources/events/</link>
-    <description>Events</description>
-    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+    <description>Meet our experts and gain valuable insights from the industryâs thought leaders. Join Netwrix at live and virtual events around the world.</description>
+    <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Freeware</title>
+    <title>Explore Our Freeware | Netwrix</title>
     <link>https://netwrix.com/en/resources/freeware/</link>
-    <description>Freeware</description>
-    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Guides</title>
-    <link>https://netwrix.com/en/resources/guides/</link>
-    <description>Guides</description>
-    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>News</title>
-    <link>https://netwrix.com/en/resources/news/</link>
-    <description>News</description>
-    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Podcasts</title>
-    <link>https://netwrix.com/en/resources/podcasts/</link>
-    <description>Podcasts</description>
-    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Publications</title>
-    <link>https://netwrix.com/en/resources/publications/</link>
-    <description>Publications</description>
-    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Research</title>
-    <link>https://netwrix.com/en/resources/research/</link>
-    <description>Research</description>
-    <pubDate>Fri, 20 Feb 2026 17:09:12 GMT</pubDate>
+    <description>Discover Netwrixâs freeware, designed to help you audit changes, strengthen security, and gain visibility, all at no cost.</description>
+    <pubDate>Mon, 23 Feb 2026 14:13:42 GMT</pubDate>
   </item>
 </channel>
 </rss>

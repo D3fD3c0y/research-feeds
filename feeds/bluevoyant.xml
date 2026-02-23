@@ -3,13 +3,13 @@
 <channel>
   <title>BlueVoyant Blog (Custom Feed)</title>
   <link>https://www.bluevoyant.com/blog</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:03:33 GMT</lastBuildDate>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:11:18 GMT</lastBuildDate>
   <item>
-    <title>BlueVoyant Blog — no items discovered</title>
+    <title>https://www.bluevoyant.com/blog — sitemap had no items</title>
     <link>https://www.bluevoyant.com/blog</link>
-    <description>Feed builder could not detect recent posts automatically.</description>
-    <pubDate>Fri, 20 Feb 2026 17:03:33 GMT</pubDate>
+    <description>No items from sitemap.</description>
+    <pubDate>Mon, 23 Feb 2026 14:11:18 GMT</pubDate>
   </item>
 </channel>
 </rss>

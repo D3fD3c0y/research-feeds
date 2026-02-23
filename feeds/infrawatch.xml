@@ -3,13 +3,13 @@
 <channel>
   <title>Infrawatch Blog (Custom Feed)</title>
   <link>https://infrawatch.com/blog</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:08:10 GMT</lastBuildDate>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:13:18 GMT</lastBuildDate>
   <item>
-    <title>Infrawatch Blog — no items discovered</title>
+    <title>https://infrawatch.com/blog — no items discovered</title>
     <link>https://infrawatch.com/blog</link>
-    <description>Feed builder could not detect recent posts automatically.</description>
-    <pubDate>Fri, 20 Feb 2026 17:08:10 GMT</pubDate>
+    <description>No posts detected.</description>
+    <pubDate>Mon, 23 Feb 2026 14:13:18 GMT</pubDate>
   </item>
 </channel>
 </rss>

@@ -3,13 +3,13 @@
 <channel>
   <title>BI.ZONE Blog (EN) (Custom Feed)</title>
   <link>https://bi.zone/eng/expertise/blog/</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:02:28 GMT</lastBuildDate>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:10:24 GMT</lastBuildDate>
   <item>
     <title>Technical articles</title>
     <link>https://bi.zone/eng/expertise/blog/</link>
-    <description>Technical articles</description>
-    <pubDate>Fri, 20 Feb 2026 17:02:28 GMT</pubDate>
+    <description>BI.ZONE expert research and practical materials on cybersecurity</description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

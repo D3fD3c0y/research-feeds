@@ -3,13 +3,13 @@
 <channel>
   <title>Foresiet Blog (Custom Feed)</title>
   <link>https://foresiet.com/resources/blog/</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:06:50 GMT</lastBuildDate>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:12:52 GMT</lastBuildDate>
   <item>
-    <title>Foresiet Blog — no items discovered</title>
+    <title>https://foresiet.com/resources/blog/ — sitemap had no items</title>
     <link>https://foresiet.com/resources/blog/</link>
-    <description>Feed builder could not detect recent posts automatically.</description>
-    <pubDate>Fri, 20 Feb 2026 17:06:50 GMT</pubDate>
+    <description>No items from sitemap.</description>
+    <pubDate>Mon, 23 Feb 2026 14:12:52 GMT</pubDate>
   </item>
 </channel>
 </rss>

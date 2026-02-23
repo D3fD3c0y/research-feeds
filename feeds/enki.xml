@@ -3,85 +3,76 @@
 <channel>
   <title>ENKI Blog (KR, EN) (Custom Feed)</title>
   <link>https://www.enki.co.kr/en/media-center/blog</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:05:52 GMT</lastBuildDate>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:12:37 GMT</lastBuildDate>
   <item>
-    <title>Security InsightsWhen Disclosure Becomes a Security Scorecard: Responding to the 2027 Information Security Disclosure ExpansionKim In-soonFeb 11, 2026</title>
+    <title>When Disclosure Becomes a Security Scorecard: Responding to the 2027 Information Security Disclosure Expansion | Enki White Hat</title>
     <link>https://www.enki.co.kr/en/media-center/blog/when-disclosure-becomes-a-security-scorecard-responding-to-the-2027-information-security-disclosure-expansion</link>
-    <description>Security InsightsWhen Disclosure Becomes a Security Scorecard: Responding to the 2027 Information Security Disclosure ExpansionKim In-soonFeb 11, 2026</description>
-    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+    <description>Recent hacking incidents are not limited to IT companies; they are occurring across all industries, including manufacturing, distribution, finance, public, education, and healthcare.
+The problem is that when an incident occurs, it doesn't end there. Trust erosion (customer attrition), transaction suspensions, and stock price/reputation shocks follow in a chain.
+
+The government has drastically revised the system so that companies are not just saying 'We are good at security,' but are required to officially disclose security activities such as investments, personnel, checks, and certifications.
+
+On January 9, the Ministry of Science and Technology announced [Partial Amendment to the Enforcement Decree of the Act on the Promotion of Information Security Industry], stating that it will expand the range of business operators subject to information security disclosure obligations and change the standards for calculating the number of users (Article 8, Paragraph 1 of the draft).
+
+We have summarized the changes based on the 'Major Amendments to the Enforcement Decree of the Information Security Industry Act'.</description>
+    <pubDate>Mon, 23 Feb 2026 14:12:34 GMT</pubDate>
   </item>
   <item>
-    <title>Threat IntelligenceEtherRAT Targeting Windows Disguised as a Game Mod InstallerEnkiWhiteHatJan 20, 2026</title>
+    <title>EtherRAT Targeting Windows Disguised as a Game Mod Installer | Enki White Hat</title>
     <link>https://www.enki.co.kr/en/media-center/blog/etherrat-targeting-windows-disguised-as-a-game-mod-installer</link>
-    <description>Threat IntelligenceEtherRAT Targeting Windows Disguised as a Game Mod InstallerEnkiWhiteHatJan 20, 2026</description>
-    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+    <description>EtherRAT Targeting Windows Disguised as a Game Mod Installer</description>
+    <pubDate>Mon, 23 Feb 2026 14:12:34 GMT</pubDate>
   </item>
   <item>
-    <title>Security InsightsHow to PrepareKim in-soonJan 20, 2026</title>
+    <title>How to Prepare | Enki White Hat</title>
     <link>https://www.enki.co.kr/en/media-center/blog/three-major-security-shifts-and-how-organizations-should-respond</link>
-    <description>Security InsightsHow to PrepareKim in-soonJan 20, 2026</description>
-    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+    <description>The three security transitions starting in 2026 are no longer a matter of choice. The mandatory information protection disclosure, the strengthening of the effectiveness of the Information Protection and Personal Information Protection Management System (ISMSÂ·ISMS-P), and the changes in the cybersecurity evaluation indicators for government and public institutions each target different subjects but all point in the same direction. 
+"Itâs about substance, not form; evidence, not words; evolving responses, not fixed standards."
+So what should organizations specifically prepare for?</description>
+    <pubDate>Mon, 23 Feb 2026 14:12:35 GMT</pubDate>
   </item>
   <item>
-    <title>Threat IntelligenceKimsuky Distributing Malicious Mobile App via QR CodeEnkiWhiteHatDec 16, 2025</title>
+    <title>Kimsuky Distributing Malicious Mobile App via QR Code | Enki White Hat</title>
     <link>https://www.enki.co.kr/en/media-center/blog/kimsuky-distributing-malicious-mobile-app-via-qr-code</link>
-    <description>Threat IntelligenceKimsuky Distributing Malicious Mobile App via QR CodeEnkiWhiteHatDec 16, 2025</description>
-    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+    <description>Kimsuky Distributing Malicious Mobile App via QR Code</description>
+    <pubDate>Mon, 23 Feb 2026 14:12:35 GMT</pubDate>
   </item>
   <item>
-    <title>Security InsightsWhat is the biggest fear for security practitioners now? Common Denominators and Solutions for IncidentsEnkiWhiteHatOct 30, 2025</title>
+    <title>What is the biggest fear for security practitioners now? Common Denominators and Solutions for Incidents | Enki White Hat</title>
     <link>https://www.enki.co.kr/en/media-center/blog/hidden-security-blind-spots-large-scale-security-incident-patterns-solutions</link>
-    <description>Security InsightsWhat is the biggest fear for security practitioners now? Common Denominators and Solutions for IncidentsEnkiWhiteHatOct 30, 2025</description>
-    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+    <description>Let's explore the 'real issues' revealed by 454 security practitioners and the 'effective response strategies' suggested by white hat hackers.</description>
+    <pubDate>Mon, 23 Feb 2026 14:12:36 GMT</pubDate>
   </item>
   <item>
-    <title>Security InsightsAbout the Hacking Defense Competition by CTF-Operating CompanyEnkiWhiteHatSep 11, 2025</title>
+    <title>About the Hacking Defense Competition by CTF-Operating Company | Enki White Hat</title>
     <link>https://www.enki.co.kr/en/media-center/blog/inside-ctf-run-by-white-hat-hackers</link>
-    <description>Security InsightsAbout the Hacking Defense Competition by CTF-Operating CompanyEnkiWhiteHatSep 11, 2025</description>
-    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+    <description>A white-hat hacking company, which has been independently running hacking defense competitions, shares its accumulated know-how and insights. We introduce the value and operational points of CTFs, which go beyond simple events to contribute to enhancing security capabilities and cultivating talent.</description>
+    <pubDate>Mon, 23 Feb 2026 14:12:36 GMT</pubDate>
   </item>
   <item>
     <title>Security InsightsThe 2026 Security Shift : Whatâs Changing and HowKim in-soonJan 20, 2026</title>
     <link>https://www.enki.co.kr/en/media-center/blog/the-2026-security-shift-whatâs-changing-and-how</link>
     <description>Security InsightsThe 2026 Security Shift : Whatâs Changing and HowKim in-soonJan 20, 2026</description>
-    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 14:12:36 GMT</pubDate>
   </item>
   <item>
     <title>Security InsightsThe worst security year 2025, the hacks that shook Korea and what we need to changeìí¤íì´í¸íDec 19, 2025</title>
     <link>https://www.enki.co.kr/en/media-center/blog/2025-the-worst-year-in-cybersecurity-for-korea-â-major-breaches-and-the-changes-we-need</link>
     <description>Security InsightsThe worst security year 2025, the hacks that shook Korea and what we need to changeìí¤íì´í¸íDec 19, 2025</description>
-    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 14:12:36 GMT</pubDate>
   </item>
   <item>
-    <title>Vulnerability researchComplete Analysis of the React2Shell (CVE-2025-55182) VulnerabilityEnkiWhiteHatDec 9, 2025</title>
+    <title>Complete Analysis of the React2Shell (CVE-2025-55182) Vulnerability | Enki White Hat</title>
     <link>https://www.enki.co.kr/en/media-center/blog/complete-analysis-of-the-react2shell-cve-2025-55182-vulnerability</link>
-    <description>Vulnerability researchComplete Analysis of the React2Shell (CVE-2025-55182) VulnerabilityEnkiWhiteHatDec 9, 2025</description>
-    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+    <description>The vulnerability known as CVE-2025-55182, called React2Shell, occurs in the React Server Components (RSC) used in the latest versions of React. Attackers can perform Remote Code Execution (RCE) without any authentication (Pre-authentication) on web services using vulnerable versions, and the attack difficulty is not high. For these reasons, this vulnerability has received the highest severity score of 10.0 in the Common Vulnerability Scoring System (CVSS).</description>
+    <pubDate>Mon, 23 Feb 2026 14:12:37 GMT</pubDate>
   </item>
   <item>
-    <title>Threat IntelligenceKimsukyâs Ongoing Evolution of KimJongRAT and Expanding ThreatsEnkiWhiteHatNov 21, 2025</title>
+    <title>Kimsukyâs Ongoing Evolution of KimJongRAT and Expanding Threats | Enki White Hat</title>
     <link>https://www.enki.co.kr/en/media-center/blog/kimsuky-s-ongoing-evolution-of-kimjongrat-and-expanding-threats</link>
-    <description>Threat IntelligenceKimsukyâs Ongoing Evolution of KimJongRAT and Expanding ThreatsEnkiWhiteHatNov 21, 2025</description>
-    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Security InsightsRansomware Attacks Can Be Stopped by Keeping 'Basic'Kim In-soonNov 13, 2025</title>
-    <link>https://www.enki.co.kr/en/media-center/blog/ransomware-attacks-can-be-prevented-by-simply-following-the-basics</link>
-    <description>Security InsightsRansomware Attacks Can Be Stopped by Keeping 'Basic'Kim In-soonNov 13, 2025</description>
-    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Threat IntelligenceLazarus Group targets Aerospace and Defense with new Comebacker variantìí¤íì´í¸íNov 7, 2025</title>
-    <link>https://www.enki.co.kr/en/media-center/blog/lazarus-group-targets-aerospace-and-defense-with-new-comebacker-variant</link>
-    <description>Threat IntelligenceLazarus Group targets Aerospace and Defense with new Comebacker variantìí¤íì´í¸íNov 7, 2025</description>
-    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Security Insights2025 Comprehensive National Cybersecurity Strategy and InitiativesKim In-soonOct 23, 2025</title>
-    <link>https://www.enki.co.kr/en/media-center/blog/2025-comprehensive-national-cybersecurity-strategy-and-initiatives</link>
-    <description>Security Insights2025 Comprehensive National Cybersecurity Strategy and InitiativesKim In-soonOct 23, 2025</description>
-    <pubDate>Fri, 20 Feb 2026 17:05:52 GMT</pubDate>
+    <description>Kimsukyâs Ongoing Evolution of KimJongRAT and Expanding Threats</description>
+    <pubDate>Mon, 23 Feb 2026 14:12:37 GMT</pubDate>
   </item>
 </channel>
 </rss>

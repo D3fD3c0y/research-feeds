@@ -3,37 +3,37 @@
 <channel>
   <title>HiddenLayer Research (Custom Feed)</title>
   <link>https://www.hiddenlayer.com/innovation-hub/research</link>
-  <description>Auto-generated every 2 hours</description>
-  <lastBuildDate>Fri, 20 Feb 2026 17:07:51 GMT</lastBuildDate>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Mon, 23 Feb 2026 14:13:10 GMT</lastBuildDate>
   <item>
-    <title>Ethiack</title>
+    <title>One-click RCE on OpenClaw in under 2 hours with an Autonomous Hacking Agent | Ethiack — Autonomous Ethical Hacking for continuous security</title>
     <link>https://ethiack.com/news/blog/one-click-rce-moltbot</link>
-    <description>Ethiack</description>
-    <pubDate>Fri, 20 Feb 2026 17:07:51 GMT</pubDate>
+    <description>Our AI pentester, Hackian, found a RCE on Openclaw by hacking it fully autonomously in under 2 hours. Learn how and read the logs in this blog.</description>
+    <pubDate>Mon, 23 Feb 2026 14:13:09 GMT</pubDate>
   </item>
   <item>
-    <title>embracethered</title>
-    <link>https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/</link>
-    <description>embracethered</description>
-    <pubDate>Fri, 20 Feb 2026 17:07:51 GMT</pubDate>
+    <title>"GitHub Copilot: Remote Code Execution via Prompt Injection (CVE-2025-53773)"</title>
+    <link>https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/"https:/embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/"</link>
+    <description>" This post is about an important, but also scary, prompt injection discovery that leads to full system compromise of the developer\u0026rsquo;s machine in GitHub …"</description>
+    <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>invisible characters in rule files</title>
+    <title>New Vulnerability in GitHub Copilot and Cursor: How Hackers Can Weaponize Code Agents</title>
     <link>https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents</link>
-    <description>invisible characters in rule files</description>
-    <pubDate>Fri, 20 Feb 2026 17:07:51 GMT</pubDate>
+    <description>New Vulnerability in GitHub Copilot and Cursor: How Hackers Can Weaponize Code Agents</description>
+    <pubDate>Mon, 23 Feb 2026 14:13:09 GMT</pubDate>
   </item>
   <item>
-    <title>BackSlash</title>
+    <title>The Denylist Delusion: Cursor’s Auto-Run Leaves Agentic AI Wide Open - Backslash</title>
     <link>https://www.backslash.security/blog/cursor-ai-security-flaw-autorun-denylist</link>
-    <description>BackSlash</description>
-    <pubDate>Fri, 20 Feb 2026 17:07:51 GMT</pubDate>
+    <description>In the past few months, vibe coding has taken the software industry by storm. In that time, Cursor, the AI-based code editor most synonymous with the vibe coding revolution, has rushed to build-out its product and outmaneuver its competitors.</description>
+    <pubDate>Mon, 23 Feb 2026 14:13:10 GMT</pubDate>
   </item>
   <item>
-    <title>Reports and Guides</title>
+    <title>Report and Guide | HiddenLayer</title>
     <link>https://www.hiddenlayer.com/innovation-hub/reports-and-guides</link>
-    <description>Reports and Guides</description>
-    <pubDate>Fri, 20 Feb 2026 17:07:51 GMT</pubDate>
+    <description>Report and Guide | HiddenLayer</description>
+    <pubDate>Mon, 23 Feb 2026 14:13:10 GMT</pubDate>
   </item>
 </channel>
 </rss>
