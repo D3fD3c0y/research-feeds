@@ -4,12 +4,12 @@
   <title>Abnormal Security Threat Intel Blog (Custom Feed)</title>
   <link>https://abnormal.ai/threat-intelligence/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 15:03:04 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 16:32:49 GMT</lastBuildDate>
   <item>
-    <title>https://abnormal.ai/threat-intelligence/blog — sitemap had no items</title>
+    <title>Error building feed for Abnormal Security Threat Intel Blog</title>
     <link>https://abnormal.ai/threat-intelligence/blog</link>
-    <description>No items from sitemap.</description>
-    <pubDate>Mon, 23 Feb 2026 15:03:04 GMT</pubDate>
+    <description>Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?</description>
+    <pubDate>Mon, 23 Feb 2026 16:32:49 GMT</pubDate>
   </item>
 </channel>
 </rss>

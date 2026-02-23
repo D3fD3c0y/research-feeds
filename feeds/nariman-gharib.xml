@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>N. Gharib Blog (EN) (Custom Feed)</title>
+  <title>N. Gharib Blog (Custom Feed)</title>
   <link>https://blog.narimangharib.com/?lang=en</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 15:00:23 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 16:36:10 GMT</lastBuildDate>
   <item>
-    <title>https://blog.narimangharib.com/?lang=en — sitemap had no items</title>
+    <title>Error building feed for N. Gharib Blog</title>
     <link>https://blog.narimangharib.com/?lang=en</link>
-    <description>No items from sitemap.</description>
-    <pubDate>Mon, 23 Feb 2026 15:00:23 GMT</pubDate>
+    <description>Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?</description>
+    <pubDate>Mon, 23 Feb 2026 16:36:10 GMT</pubDate>
   </item>
 </channel>
 </rss>

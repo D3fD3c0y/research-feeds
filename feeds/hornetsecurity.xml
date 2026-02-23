@@ -4,12 +4,12 @@
   <title>Hornetsecurity Blog (Custom Feed)</title>
   <link>https://www.hornetsecurity.com/en/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 15:02:56 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 16:35:40 GMT</lastBuildDate>
   <item>
-    <title>https://www.hornetsecurity.com/en/blog/ — sitemap had no items</title>
+    <title>Error building feed for Hornetsecurity Blog</title>
     <link>https://www.hornetsecurity.com/en/blog/</link>
-    <description>No items from sitemap.</description>
-    <pubDate>Mon, 23 Feb 2026 15:02:56 GMT</pubDate>
+    <description>Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?</description>
+    <pubDate>Mon, 23 Feb 2026 16:35:40 GMT</pubDate>
   </item>
 </channel>
 </rss>

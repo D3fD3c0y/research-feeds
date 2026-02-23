@@ -4,12 +4,12 @@
   <title>Gatewatcher | The Lab (Custom Feed)</title>
   <link>https://www.gatewatcher.com/en/the-lab/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 15:02:24 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 16:35:32 GMT</lastBuildDate>
   <item>
-    <title>https://www.gatewatcher.com/en/the-lab/ — sitemap had no items</title>
+    <title>Error building feed for Gatewatcher | The Lab</title>
     <link>https://www.gatewatcher.com/en/the-lab/</link>
-    <description>No items from sitemap.</description>
-    <pubDate>Mon, 23 Feb 2026 15:02:24 GMT</pubDate>
+    <description>Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?</description>
+    <pubDate>Mon, 23 Feb 2026 16:35:32 GMT</pubDate>
   </item>
 </channel>
 </rss>

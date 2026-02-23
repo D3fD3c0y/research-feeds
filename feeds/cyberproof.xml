@@ -4,12 +4,12 @@
   <title>CyberProof Blog (Custom Feed)</title>
   <link>https://www.cyberproof.com/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 15:01:21 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 16:34:37 GMT</lastBuildDate>
   <item>
-    <title>https://www.cyberproof.com/blog/ — sitemap had no items</title>
+    <title>Error building feed for CyberProof Blog</title>
     <link>https://www.cyberproof.com/blog/</link>
-    <description>No items from sitemap.</description>
-    <pubDate>Mon, 23 Feb 2026 15:01:21 GMT</pubDate>
+    <description>Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?</description>
+    <pubDate>Mon, 23 Feb 2026 16:34:37 GMT</pubDate>
   </item>
 </channel>
 </rss>

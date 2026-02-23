@@ -4,12 +4,12 @@
   <title>Positive Technologies PT ESC TI (Custom Feed)</title>
   <link>https://global.ptsecurity.com/en/research/pt-esc-threat-intelligence/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 15:02:27 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 16:36:54 GMT</lastBuildDate>
   <item>
-    <title>https://global.ptsecurity.com/en/research/pt-esc-threat-intelligence/ — sitemap had no items</title>
+    <title>Error building feed for Positive Technologies PT ESC TI</title>
     <link>https://global.ptsecurity.com/en/research/pt-esc-threat-intelligence/</link>
-    <description>No items from sitemap.</description>
-    <pubDate>Mon, 23 Feb 2026 15:02:27 GMT</pubDate>
+    <description>Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?</description>
+    <pubDate>Mon, 23 Feb 2026 16:36:54 GMT</pubDate>
   </item>
 </channel>
 </rss>

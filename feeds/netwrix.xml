@@ -4,12 +4,12 @@
   <title>Netwrix Blog (Custom Feed)</title>
   <link>https://netwrix.com/en/resources/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 15:04:24 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 16:36:47 GMT</lastBuildDate>
   <item>
     <title>Explore Our Blog Articles | Netwrix</title>
     <link>https://netwrix.com/en/resources/blog/</link>
     <description>Looking for the latest in security? Explore our blog for expert insights, actionable tips, and proven strategies to strengthen your data and identity security.</description>
-    <pubDate>Mon, 23 Feb 2026 15:03:53 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 16:36:11 GMT</pubDate>
   </item>
   <item>
     <title>Essential PowerShell Commands: A Cheat Sheet for Beginners</title>
@@ -45,13 +45,13 @@
     <title>Download the Gartner PAM Magic Quadrant 2025 Report | Netwrix</title>
     <link>https://netwrix.com/en/resources/guides/gartner-pam-magic-quadrant-2025/</link>
     <description>Get the Gartner PAM Magic Quadrant 2025 report and see why Netwrix is recognized for its leadership in privileged access management and zero standing privilege.</description>
-    <pubDate>Mon, 23 Feb 2026 15:04:02 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 16:36:27 GMT</pubDate>
   </item>
   <item>
     <title>Resource Center | Netwrix</title>
     <link>https://netwrix.com/en/resources/</link>
     <description>Discover expert guides, reports, training materials, and more designed to help you level up your cybersecurity knowledge. Come learn from the best!</description>
-    <pubDate>Mon, 23 Feb 2026 15:04:03 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 16:36:27 GMT</pubDate>
   </item>
   <item>
     <title>Find Security Events Near You | Netwrix</title>
@@ -60,10 +60,10 @@
     <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Freeware</title>
+    <title>Explore Our Freeware | Netwrix</title>
     <link>https://netwrix.com/en/resources/freeware/</link>
-    <description>Freeware</description>
-    <pubDate>Mon, 23 Feb 2026 15:04:24 GMT</pubDate>
+    <description>Discover Netwrixâs freeware, designed to help you audit changes, strengthen security, and gain visibility, all at no cost.</description>
+    <pubDate>Mon, 23 Feb 2026 16:36:47 GMT</pubDate>
   </item>
 </channel>
 </rss>

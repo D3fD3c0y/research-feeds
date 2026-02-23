@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Cyberint Blog (Custom Feed)</title>
-  <link>https://cyberthint.io/category/malware-analysis/</link>
+  <title>Cyberint Blog cyber-threats (Custom Feed)</title>
+  <link>https://cyberthint.io/category/cyber-threats/</link>
   <description>Auto-generated periodically</description>
   <lastBuildDate>Mon, 23 Feb 2026 16:34:35 GMT</lastBuildDate>
   <item>
-    <title>https://cyberthint.io/category/malware-analysis/ — sitemap had no items</title>
-    <link>https://cyberthint.io/category/malware-analysis/</link>
+    <title>https://cyberthint.io/category/cyber-threats/ — sitemap had no items</title>
+    <link>https://cyberthint.io/category/cyber-threats/</link>
     <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
     <pubDate>Mon, 23 Feb 2026 16:34:35 GMT</pubDate>
   </item>

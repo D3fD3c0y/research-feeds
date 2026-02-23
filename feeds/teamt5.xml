@@ -4,12 +4,12 @@
   <title>TeamT5 Blog (Custom Feed)</title>
   <link>https://teamt5.org/en/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 15:05:26 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 16:37:58 GMT</lastBuildDate>
   <item>
-    <title>https://teamt5.org/en/blog/ — sitemap had no items</title>
+    <title>Error building feed for TeamT5 Blog</title>
     <link>https://teamt5.org/en/blog/</link>
-    <description>No items from sitemap.</description>
-    <pubDate>Mon, 23 Feb 2026 15:05:26 GMT</pubDate>
+    <description>Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?</description>
+    <pubDate>Mon, 23 Feb 2026 16:37:58 GMT</pubDate>
   </item>
 </channel>
 </rss>

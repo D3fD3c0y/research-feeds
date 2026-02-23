@@ -4,12 +4,12 @@
   <title>Tarlogic Blog (Custom Feed)</title>
   <link>https://www.tarlogic.com/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 15:05:24 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 16:37:56 GMT</lastBuildDate>
   <item>
-    <title>https://www.tarlogic.com/blog/ — sitemap had no items</title>
+    <title>Error building feed for Tarlogic Blog</title>
     <link>https://www.tarlogic.com/blog/</link>
-    <description>No items from sitemap.</description>
-    <pubDate>Mon, 23 Feb 2026 15:05:24 GMT</pubDate>
+    <description>Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?</description>
+    <pubDate>Mon, 23 Feb 2026 16:37:56 GMT</pubDate>
   </item>
 </channel>
 </rss>

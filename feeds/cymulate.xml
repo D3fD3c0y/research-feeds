@@ -4,12 +4,12 @@
   <title>Cymulate Blog (Custom Feed)</title>
   <link>https://cymulate.com/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 15:01:27 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 16:34:42 GMT</lastBuildDate>
   <item>
-    <title>https://cymulate.com/blog/ — sitemap had no items</title>
+    <title>Error building feed for Cymulate Blog</title>
     <link>https://cymulate.com/blog/</link>
-    <description>No items from sitemap.</description>
-    <pubDate>Mon, 23 Feb 2026 15:01:27 GMT</pubDate>
+    <description>Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?</description>
+    <pubDate>Mon, 23 Feb 2026 16:34:42 GMT</pubDate>
   </item>
 </channel>
 </rss>

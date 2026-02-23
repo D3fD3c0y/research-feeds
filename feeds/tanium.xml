@@ -4,12 +4,12 @@
   <title>Tanium Blog (Custom Feed)</title>
   <link>https://www.tanium.com/p/tanium-blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 15:05:23 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 16:37:55 GMT</lastBuildDate>
   <item>
-    <title>https://www.tanium.com/p/tanium-blog — sitemap had no items</title>
+    <title>Error building feed for Tanium Blog</title>
     <link>https://www.tanium.com/p/tanium-blog</link>
-    <description>No items from sitemap.</description>
-    <pubDate>Mon, 23 Feb 2026 15:05:23 GMT</pubDate>
+    <description>Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?</description>
+    <pubDate>Mon, 23 Feb 2026 16:37:55 GMT</pubDate>
   </item>
 </channel>
 </rss>
