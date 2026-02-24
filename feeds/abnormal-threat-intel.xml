@@ -1,15 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-  <title>Abnormal Security Threat Intel Blog (Custom Feed)</title>
-  <link>https://abnormal.ai/sitemaps-1-section-blog-1-sitemap.xml</link>
-  <description>Auto-generated periodically</description>
-  <lastBuildDate>Tue, 24 Feb 2026 14:30:48 GMT</lastBuildDate>
-  <item>
-    <title>https://abnormal.ai/sitemaps-1-section-blog-1-sitemap.xml — sitemap had no items</title>
-    <link>https://abnormal.ai/sitemaps-1-section-blog-1-sitemap.xml</link>
-    <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
-    <pubDate>Tue, 24 Feb 2026 14:30:48 GMT</pubDate>
-  </item>
-</channel>
-</rss>
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;rss version="2.0"&gt;
+&lt;channel&gt;
+  &lt;title&gt;Abnormal Security Threat Intel Blog (Custom Feed)&lt;/title&gt;
+  &lt;link&gt;https://abnormal.ai/blog&lt;/link&gt;
+  &lt;description&gt;Auto-generated periodically&lt;/description&gt;
+  &lt;lastBuildDate&gt;Tue, 24 Feb 2026 17:15:42 GMT&lt;/lastBuildDate&gt;
+  &lt;item&gt;
+    &lt;title&gt;2026 Threat Forecast: Top Attacks to Know&lt;/title&gt;
+    &lt;link&gt;https://abnormal.ai/blog/threat-forecast-top-cyberattacks&lt;/link&gt;
+    &lt;description&gt;Attackers are exploiting trust, identity, and routine workflows. Get an in-depth look at the tactics and techniques threat actors will be refining in 2026.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 21 Jan 2026 00:00:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Attackers Steal Duo OTPs to Compromise Higher Ed Accounts&lt;/title&gt;
+    &lt;link&gt;https://abnormal.ai/blog/higher-ed-duo-otp-theft-account-compromise&lt;/link&gt;
+    &lt;description&gt;A phishing campaign targeting higher education steals credentials and Duo OTPs to compromise accounts, exfiltrate data, and launch lateral attacks.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 01 Oct 2025 00:00:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Defensive AI Meets the Inbox: The CISO Guide for the AI Arms Race&lt;/title&gt;
+    &lt;link&gt;https://abnormal.ai/blog/defensive-ai-meets-the-inbox&lt;/link&gt;
+    &lt;description&gt;As the battle between good AI and malicious AI plays out in cloud email environments, CISOs are turning to behavioral intelligence to keep pace.&lt;/description&gt;
+    &lt;pubDate&gt;Tue, 02 Sep 2025 00:00:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Introducing AI Phishing Coach: Personalized, Autonomous Security Awareness Training&lt;/title&gt;
+    &lt;link&gt;https://abnormal.ai/blog/ai-phishing-coach-security-awareness-training&lt;/link&gt;
+    &lt;description&gt;Discover how Abnormal transforms security training with personalized phishing simulations, real-time coaching, and fully autonomous program management.&lt;/description&gt;
+    &lt;pubDate&gt;Tue, 29 Apr 2025 00:00:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Breaking Down a Real Vendor Email Compromise Attack&lt;/title&gt;
+    &lt;link&gt;https://abnormal.ai/blog/vendor-email-compromise-attack-case-study&lt;/link&gt;
+    &lt;description&gt;See how a real vendor email compromise attack fooled multiple employees. Learn why VEC succeeds and how AI makes these threats more dangerous.&lt;/description&gt;
+    &lt;pubDate&gt;Tue, 17 Jun 2025 00:00:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Abnormal AI Innovation: High-Scale Aggregation Systems in Production&lt;/title&gt;
+    &lt;link&gt;https://abnormal.ai/blog/ai-innovation-high-scale-aggregation-in-production&lt;/link&gt;
+    &lt;description&gt;At Abnormal AI, detecting malicious behavior at scale means aggregating vast volumes of signals in realtime and batch. This post breaks down how we implemented the Signals DAG across both systems to achieve consistency, speed, and detection accuracy at scale.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 09 Jul 2025 00:00:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;The Mistake is the Breach: Why CISOs Can’t Ignore Misdirected Email&lt;/title&gt;
+    &lt;link&gt;https://abnormal.ai/blog/misdirected-email-prevention-ciso-guide&lt;/link&gt;
+    &lt;description&gt;Misdirected emails are one of the most overlooked sources of data loss. Learn how behavioral AI helps CISOs detect risky sends, prevent exposure, and preserve trust.&lt;/description&gt;
+    &lt;pubDate&gt;Tue, 11 Nov 2025 00:00:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Building an Effective Social Engineering Training Program&lt;/title&gt;
+    &lt;link&gt;https://abnormal.ai/blog/social-engineering-training-program&lt;/link&gt;
+    &lt;description&gt;Learn to build a comprehensive social engineering training program that reduces human-based security risk through role-based curriculum, simulations, and metrics.&lt;/description&gt;
+    &lt;pubDate&gt;Tue, 08 Jul 2025 00:00:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+&lt;/channel&gt;
+&lt;/rss&gt;
