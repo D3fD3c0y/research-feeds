@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-  <title>Abstract Security Blog (Custom Feed)</title>
-  <link>https://www.abstract.security/blog/</link>
-  <description>Auto-generated periodically</description>
-  <lastBuildDate>Tue, 24 Feb 2026 15:32:21 GMT</lastBuildDate>
-  <item>
-    <title>https://www.abstract.security/blog/ — no items discovered</title>
-    <link>https://www.abstract.security/blog/</link>
-    <description>No posts detected.</description>
-    <pubDate>Tue, 24 Feb 2026 15:32:21 GMT</pubDate>
-  </item>
-</channel>
-</rss>
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;rss version="2.0"&gt;
+&lt;channel&gt;
+  &lt;title&gt;Abstract Security Blog (Custom Feed)&lt;/title&gt;
+  &lt;link&gt;https://www.abstract.security/blog/&lt;/link&gt;
+  &lt;description&gt;Auto-generated periodically&lt;/description&gt;
+  &lt;lastBuildDate&gt;Tue, 24 Feb 2026 15:44:43 GMT&lt;/lastBuildDate&gt;
+  &lt;item&gt;
+    &lt;title&gt;https://www.abstract.security/blog/ — no items discovered&lt;/title&gt;
+    &lt;link&gt;https://www.abstract.security/blog/&lt;/link&gt;
+    &lt;description&gt;No posts detected.&lt;/description&gt;
+    &lt;pubDate&gt;Tue, 24 Feb 2026 15:44:43 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+&lt;/channel&gt;
+&lt;/rss&gt;
