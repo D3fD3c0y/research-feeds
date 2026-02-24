@@ -252,7 +252,6 @@ def _extract_article_meta(article_url: str) -> dict | None:
 # ---------------------------------------------------------------------
 def scrape_items(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
     """Scrape listing page for links; fetch article pages for rich metadata."""
-    # --- SAFE DEFAULTS so we never hit UnboundLocalError ---
     article_urls: list[tuple[str, str]] = []
     links = []
 
@@ -294,10 +293,9 @@ def scrape_items(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
             if any(x in url.lower() for x in ["#", "/tag/", "/category/", "/login", "/signup", "mailto:"]):
                 continue
             article_urls.append((title, url))
-            if len(article_urls) >= max(limit * 2, 30):  # collect a bit more; we'll cap fetches below
+            if len(article_urls) >= max(limit * 2, 30):
                 break
     except Exception as e:
-        # Keep going with empty article_urls; we'll emit a placeholder if nothing else works
         print(f"  ! scrape_items listing fetch error: {e}")
 
     # Visit up to MAX_ARTICLE_FETCHES article pages to get better metadata
@@ -316,7 +314,6 @@ def scrape_items(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
             final.append({"title": title, "link": url, "pubDate": rfc2822(), "description": title})
             fetch_count += 1
 
-    # If nothing worked, emit a placeholder so the feed stays valid
     if not final:
         now = rfc2822()
         final = [{
@@ -369,7 +366,6 @@ def _fetch_xml(url: str) -> str | None:
             try:
                 content = gzip.decompress(content)
             except OSError:
-                # Some servers mislabel; try stream-based
                 content = gzip.GzipFile(fileobj=io.BytesIO(r.content)).read()
         return content.decode("utf-8", errors="replace")
     except Exception:
@@ -420,7 +416,6 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
             loc_text = (loc_el.text or "").strip()
             if not loc_text:
                 continue
-            # accept both apex and www, any scheme
             if _same_site(loc_text, page_url):
                 page_urls.append(loc_text)
 
@@ -482,7 +477,8 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
 # ---------------------------------------------------------------------
 # RSS + index writers
 # ---------------------------------------------------------------------
-def write_rss(out_path: str, channel_title: str, channel_link: str, items: list[dict]):
+def write_rss(out_path: str, channel_title: str, channel_link: str, items: list[dict]) -> str:
+    """Write an RSS file and return the lastBuildDate string used."""
     from xml.sax.saxutils import escape
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     last_build = rfc2822()
@@ -513,27 +509,69 @@ def write_rss(out_path: str, channel_title: str, channel_link: str, items: list[
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(xml)
     print("Wrote", out_path)
+    return last_build
 
-def build_index(feed_map: list[tuple[str, str]]):
-    """Create a simple HTML index page listing all feeds."""
+def _read_existing_last_build(slug: str) -> str:
+    """Try to read <lastBuildDate> from an existing feeds/<slug>.xml. Return 'n/a' if none."""
+    path = os.path.join("feeds", f"{slug}.xml")
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            text = f.read()
+        # Try normal XML
+        m = re.search(r"<lastBuildDate>(.*?)</lastBuildDate>", text, flags=re.IGNORECASE | re.DOTALL)
+        if m:
+            return m.group(1).strip()
+        # Try HTML-escaped variant if any (defensive)
+        m = re.search(r"&lt;lastBuildDate&gt;(.*?)&lt;/lastBuildDate&gt;", text, flags=re.IGNORECASE | re.DOTALL)
+        if m:
+            return m.group(1).strip()
+    except Exception:
+        pass
+    return "n/a"
+
+def build_index(feed_map_enabled: list[tuple[str, str, str]],
+                feed_map_disabled: list[tuple[str, str, str]]):
+    """
+    Create a simple HTML index page listing all feeds.
+    - feed_map_enabled: [(name, slug, last_build)]
+    - feed_map_disabled: [(name, slug, last_build)]
+    """
     base = os.environ.get("PAGES_BASE", "")  # set in the GitHub Action step
-    rows = []
-    for name, slug in feed_map:
+
+    def row_enabled(name: str, slug: str, last_build: str) -> str:
         rel = f"feeds/{slug}.xml"
         url = (base + rel) if base else rel
-        rows.append(f'<li><a href="{url}" target="_blank" rel="noopener">{name}</a> — <code>{url}</code></li>')
+        return f'<li><a href="{url}" target="_blank" rel="noopener">{name}</a> — <code>{url}</code> — <small>Last run: {last_build}</small></li>'
+
+    def row_disabled(name: str, slug: str, last_build: str) -> str:
+        rel = f"feeds/{slug}.xml"
+        url = (base + rel) if base else rel
+        return f'<li><span>{name}</span> — <code>{url}</code> — <em>disabled</em> — <small>Last run: {last_build}</small></li>'
 
     html = f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <title>Research Feeds (auto-updated)</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>body{{font-family:system-ui,Segoe UI,Arial,sans-serif;line-height:1.5;padding:2rem;max-width:900px;margin:auto}}</style>
+<style>
+  body{{font-family:system-ui,Segoe UI,Arial,sans-serif;line-height:1.5;padding:2rem;max-width:900px;margin:auto}}
+  h2{{margin-top:2rem}}
+  code, small{{opacity:.8}}
+  li{{margin:.25rem 0}}
+</style>
 </head><body>
 <h1>Research Feeds</h1>
 <p>Updated automatically by GitHub Actions.</p>
+
+<h2>Enabled</h2>
 <ul>
-{os.linesep.join(rows)}
+{os.linesep.join(row_enabled(n, s, lb) for (n, s, lb) in feed_map_enabled)}
 </ul>
+
+<h2>Disabled</h2>
+<ul>
+{os.linesep.join(row_disabled(n, s, lb) for (n, s, lb) in feed_map_disabled)}
+</ul>
+
 </body></html>
 """
     with open("index.html", "w", encoding="utf-8") as f:
@@ -547,12 +585,22 @@ def main():
     with open("sources.json", "r", encoding="utf-8") as f:
         sources = json.load(f)
 
-    # Skip entries explicitly marked as disabled in sources.json
-    sources = [s for s in sources if not s.get("disabled")]
+    # Split sources into enabled/disabled so we can render both sections on the index
+    enabled_sources = [s for s in sources if not s.get("disabled")]
+    disabled_sources = [s for s in sources if s.get("disabled")]
 
-    feed_map: list[tuple[str, str]] = []
+    feed_map_enabled: list[tuple[str, str, str]] = []   # (name, slug, last_build)
+    feed_map_disabled: list[tuple[str, str, str]] = []  # (name, slug, last_build from existing file or 'n/a')
 
-    for src in sources:
+    # Pre-compute last build for disabled from existing XML files, if any
+    for ds in disabled_sources:
+        name = ds["name"]
+        slug = ds["slug"]
+        last_build_prev = _read_existing_last_build(slug)
+        feed_map_disabled.append((name, slug, last_build_prev))
+
+    # Process only enabled sources
+    for src in enabled_sources:
         name = src["name"]
         page_url = src["url"]
         slug = src["slug"]
@@ -613,12 +661,14 @@ def main():
                         "description": "Feed builder could not detect recent posts automatically."
                     }]
 
-            write_rss(out_path, f"{name} (Custom Feed)", page_url, items)
-            feed_map.append((name, slug))
+            # Write RSS and record this run's lastBuildDate
+            last_build = write_rss(out_path, f"{name} (Custom Feed)", page_url, items)
+            feed_map_enabled.append((name, slug, last_build))
 
         except Exception as e:
             # Hard guard: never let one source kill the whole run
             print(f"  ! Unhandled error for {name}: {e}")
+            last_build = rfc2822()
             write_rss(
                 out_path,
                 f"{name} (Custom Feed)",
@@ -626,14 +676,14 @@ def main():
                 [{
                     "title": f"Error building feed for {name}",
                     "link": page_url,
-                    "pubDate": rfc2822(),
+                    "pubDate": last_build,
                     "description": str(e)
                 }]
             )
-            feed_map.append((name, slug))
+            feed_map_enabled.append((name, slug, last_build))
             continue
 
-    build_index(feed_map)
+    build_index(feed_map_enabled, feed_map_disabled)
 
 if __name__ == "__main__":
     main()
