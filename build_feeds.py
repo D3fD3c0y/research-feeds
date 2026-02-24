@@ -33,7 +33,7 @@ USER_AGENT = "Mozilla/5.0 (compatible; ResearchFeedsBot/1.0; +https://github.com
 TIMEOUT = 20                  # per-request timeout (seconds)
 MAX_ITEMS_PER_SOURCE = 30     # number of items to emit per feed
 MAX_ARTICLE_FETCHES = 20      # cap article-page fetches per source
-RESPECT_ROBOTS = False         # honor robots.txt (recommended)
+RESPECT_ROBOTS = True         # honor robots.txt (recommended)
 
 HEADERS = {
     "User-Agent": USER_AGENT,
