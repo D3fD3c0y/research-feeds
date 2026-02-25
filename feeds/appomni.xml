@@ -1,69 +1,129 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-  <title>AppOmni Blog (Custom Feed)</title>
-  <link>https://appomni.com/article-type/blog/</link>
-  <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 20:17:21 GMT</lastBuildDate>
-  <item>
-    <title>AppOmni Is Now Available in All Major Cloud Marketplaces</title>
-    <link>https://appomni.com/blog/appomni-in-all-major-cloud-marketplaces/</link>
-    <description>Read the latest update on AppOmni being in all three major cloud marketplaces: AWS, Azure, and Google Cloud. Learn what this means for our future customers.</description>
-    <pubDate>Thu, 24 Apr 2025 13:04:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>From OAuth Abuse to Data Theft: How AppOmni + Cribl Block UNC6395-Style Attacks</title>
-    <link>https://appomni.com/partner-blogs/stop-saas-supply-chain-attacks-with-appomni-cribl/</link>
-    <description>Discover how AppOmni and Cribl can spot OAuth abuse and lateral SaaS exposure, letting teams stop UNC6395 and UNC6040 SaaS supply chain attacks before data leaks.</description>
-    <pubDate>Mon, 22 Sep 2025 15:29:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>The State of SaaS Security Report</title>
-    <link>https://appomni.com/reports/state-of-saas-security/</link>
-    <description>In AppOmni's The State of SaaS Security 2025 Report, learn about the challenges facing over 800 security practitioners from across the globe.</description>
-    <pubDate>Mon, 14 Jul 2025 21:50:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Salesforce Security Handbook</title>
-    <link>https://appomni.com/security-handbooks/salesforce-security-handbook/</link>
-    <description>Download the Salesforce Security Handbook for a comprehensive assessment of its security risks and key strategies for mitigation.</description>
-    <pubDate>Wed, 02 Oct 2024 21:04:32 GMT</pubDate>
-  </item>
-  <item>
-    <title>Why Frost &amp;amp; Sullivan named AppOmni a Growth &amp;amp; Innovation Leader in the 2025 Frost Radar™ for SSPM</title>
-    <link>https://appomni.com/blog/appomni-innovation-leads-saas-security-2025-frost-sullivan/</link>
-    <description>Frost &amp; Sullivan recognized AppOmni as a 2025 Growth &amp; Innovation Leader for redefining SaaS security with AI, Zero Trust, and deep application insight.</description>
-    <pubDate>Thu, 30 Oct 2025 13:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>AppOmni Launches New SaaS and AI Security Packages to Tackle Rising Risks</title>
-    <link>https://appomni.com/press-releases/saas-ai-security-innovation/</link>
-    <description>AppOmni’s new SaaS and AI security packages—Foundations, Advanced, Enterprise—offer full visibility, risk detection, and data governance to stop breaches.</description>
-    <pubDate>Mon, 04 Aug 2025 13:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>AppOmni at RSAC 2026: Details to Know Before You Go</title>
-    <link>https://appomni.com/blog/appomni-rsa-conference-2026/</link>
-    <description>AppOmni shares RSA Conference 2026 insights to improve SaaS and AI security.</description>
-    <pubDate>Mon, 02 Feb 2026 19:56:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>What SaaS Security ROI Looks Like in Practice</title>
-    <link>https://appomni.com/blog/roi-for-saas-security-buyers/</link>
-    <description>Security buyers need proof, not promises. Learn why AppOmni created a SaaS security ROI report and what customer insights reveal about SaaS risks, audits, and operational efficiency for customers.</description>
-    <pubDate>Wed, 21 Jan 2026 15:59:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BodySnatcher (CVE-2025-12420): A Broken Authentication and Agentic Hijacking Vulnerability in ServiceNow</title>
-    <link>https://appomni.com/ao-labs/bodysnatcher-agentic-ai-security-vulnerability-in-servicenow/</link>
-    <description>BodySnatcher (CVE-2025-12420) exposes a critical agentic AI security vulnerability in ServiceNow.</description>
-    <pubDate>Tue, 13 Jan 2026 12:57:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>ServiceNow Agentic AI: What It Means for CISOs, SOC Analysts, SaaS Admins, and Developers</title>
-    <link>https://appomni.com/blog/servicenow-agentic-ai-what-it-means-for-cisos-soc-analysts-saas-admins-developers/</link>
-    <description>Learn how agentic AI expands ServiceNow’s attack surface and impacts CISOs, InfoSec, SOC, IT, admins, and developers, making AI security a critical priority.</description>
-    <pubDate>Mon, 08 Dec 2025 20:25:08 GMT</pubDate>
-  </item>
-</channel>
-</rss>
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;rss version="2.0"&gt;
+&lt;channel&gt;
+  &lt;title&gt;AppOmni Blog (Custom Feed)&lt;/title&gt;
+  &lt;link&gt;https://appomni.com/article-type/blog/&lt;/link&gt;
+  &lt;description&gt;Auto-generated periodically&lt;/description&gt;
+  &lt;lastBuildDate&gt;Wed, 25 Feb 2026 21:38:27 GMT&lt;/lastBuildDate&gt;
+  &lt;item&gt;
+    &lt;title&gt;AppOmni Is Now Available in All Major Cloud Marketplaces&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/blog/appomni-in-all-major-cloud-marketplaces/&lt;/link&gt;
+    &lt;description&gt;Read the latest update on AppOmni being in all three major cloud marketplaces: AWS, Azure, and Google Cloud. Learn what this means for our future customers.&lt;/description&gt;
+    &lt;pubDate&gt;Thu, 24 Apr 2025 13:04:45 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;From OAuth Abuse to Data Theft: How AppOmni + Cribl Block UNC6395-Style Attacks&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/partner-blogs/stop-saas-supply-chain-attacks-with-appomni-cribl/&lt;/link&gt;
+    &lt;description&gt;Discover how AppOmni and Cribl can spot OAuth abuse and lateral SaaS exposure, letting teams stop UNC6395 and UNC6040 SaaS supply chain attacks before data leaks.&lt;/description&gt;
+    &lt;pubDate&gt;Mon, 22 Sep 2025 15:29:13 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;The State of SaaS Security Report&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/reports/state-of-saas-security/&lt;/link&gt;
+    &lt;description&gt;In AppOmni's The State of SaaS Security 2025 Report, learn about the challenges facing over 800 security practitioners from across the globe.&lt;/description&gt;
+    &lt;pubDate&gt;Mon, 14 Jul 2025 21:50:20 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Salesforce Security Handbook&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/security-handbooks/salesforce-security-handbook/&lt;/link&gt;
+    &lt;description&gt;Download the Salesforce Security Handbook for a comprehensive assessment of its security risks and key strategies for mitigation.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 02 Oct 2024 21:04:32 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Why Frost &amp;amp; Sullivan named AppOmni a Growth &amp;amp; Innovation Leader in the 2025 Frost Radar™ for SSPM&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/blog/appomni-innovation-leads-saas-security-2025-frost-sullivan/&lt;/link&gt;
+    &lt;description&gt;Frost &amp; Sullivan recognized AppOmni as a 2025 Growth &amp; Innovation Leader for redefining SaaS security with AI, Zero Trust, and deep application insight.&lt;/description&gt;
+    &lt;pubDate&gt;Thu, 30 Oct 2025 13:00:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;AppOmni Launches New SaaS and AI Security Packages to Tackle Rising Risks&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/press-releases/saas-ai-security-innovation/&lt;/link&gt;
+    &lt;description&gt;AppOmni’s new SaaS and AI security packages—Foundations, Advanced, Enterprise—offer full visibility, risk detection, and data governance to stop breaches.&lt;/description&gt;
+    &lt;pubDate&gt;Mon, 04 Aug 2025 13:00:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;AppOmni at RSAC 2026: Details to Know Before You Go&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/blog/appomni-rsa-conference-2026/&lt;/link&gt;
+    &lt;description&gt;AppOmni shares RSA Conference 2026 insights to improve SaaS and AI security.&lt;/description&gt;
+    &lt;pubDate&gt;Mon, 02 Feb 2026 19:56:27 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;What SaaS Security ROI Looks Like in Practice&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/blog/roi-for-saas-security-buyers/&lt;/link&gt;
+    &lt;description&gt;Security buyers need proof, not promises. Learn why AppOmni created a SaaS security ROI report and what customer insights reveal about SaaS risks, audits, and operational efficiency for customers.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 21 Jan 2026 15:59:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;BodySnatcher (CVE-2025-12420): A Broken Authentication and Agentic Hijacking Vulnerability in ServiceNow&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/ao-labs/bodysnatcher-agentic-ai-security-vulnerability-in-servicenow/&lt;/link&gt;
+    &lt;description&gt;BodySnatcher (CVE-2025-12420) exposes a critical agentic AI security vulnerability in ServiceNow.&lt;/description&gt;
+    &lt;pubDate&gt;Tue, 13 Jan 2026 12:57:01 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;ServiceNow Agentic AI: What It Means for CISOs, SOC Analysts, SaaS Admins, and Developers&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/blog/servicenow-agentic-ai-what-it-means-for-cisos-soc-analysts-saas-admins-developers/&lt;/link&gt;
+    &lt;description&gt;Learn how agentic AI expands ServiceNow’s attack surface and impacts CISOs, InfoSec, SOC, IT, admins, and developers, making AI security a critical priority.&lt;/description&gt;
+    &lt;pubDate&gt;Mon, 08 Dec 2025 20:25:08 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Security Advisory: Salesforce Gainsight Incident&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/blog/salesforce-gainsight-unauthorized-access-security-advisory/&lt;/link&gt;
+    &lt;description&gt;Salesforce detected suspicious activity involving Gainsight apps that could impact customer data. Read AppOmni’s recommendations for securing Salesforce-Gainsight integrations.&lt;/description&gt;
+    &lt;pubDate&gt;Thu, 20 Nov 2025 20:14:01 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;AppOmni Expands AI Security with Agentic AI Security for ServiceNow&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/blog/agentic-ai-security-appomni-agentguard-secures-servicenow/&lt;/link&gt;
+    &lt;description&gt;Defend your ServiceNow AI environment with AppOmni AgentGuard. Stop prompt attacks, prevent data exfiltration, and gain real-time control against emerging AI agent threats.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 19 Nov 2025 14:00:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;When AI Turns on Its Team: Exploiting Agent-to-Agent Discovery via Prompt Injection&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/ao-labs/ai-agent-to-agent-discovery-prompt-injection/&lt;/link&gt;
+    &lt;description&gt;See how prompt injection attacks work in ServiceNow to perform unauthorized actions, and how to defend against it with AppOmni AgentGuard.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 19 Nov 2025 10:00:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;How To Handle Increased Account Takeover Risks from Recent Credential Dumps&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/blog/synthient-credential-stuffing-fuels-saas-account-takeovers/&lt;/link&gt;
+    &lt;description&gt;Credential-stuffing attacks are surging as billions of stolen logins resurface in Synthient’s data, putting SaaS and IdP accounts at higher risk of takeover.&lt;/description&gt;
+    &lt;pubDate&gt;Fri, 14 Nov 2025 17:45:54 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;AppOmni Awarded the 2025 Frost &amp;amp; Sullivan Technology Innovation Leadership Recognition&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/blog/appomni-frost-sullivan-technology-innovation-leadership-award-2025/&lt;/link&gt;
+    &lt;description&gt;Frost &amp; Sullivan honors AppOmni with its 2025 Technology Innovation Leadership Award for excellence in SaaS Security Posture Management. Learn how AppOmni leads the SSPM market.&lt;/description&gt;
+    &lt;pubDate&gt;Thu, 30 Oct 2025 13:00:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;SaaS Security Blog&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/article-type/blog/&lt;/link&gt;
+    &lt;description&gt;The AppOmni Blog publishes advanced threat research, cybersecurity intelligence and insights, and breaking SaaS data breach news.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:38:24 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;SaaS Security Blog&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/article-type/blog/page/2/&lt;/link&gt;
+    &lt;description&gt;The AppOmni Blog publishes advanced threat research, cybersecurity intelligence and insights, and breaking SaaS data breach news.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:38:25 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;SaaS Security Blog&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/article-type/blog/page/3/&lt;/link&gt;
+    &lt;description&gt;The AppOmni Blog publishes advanced threat research, cybersecurity intelligence and insights, and breaking SaaS data breach news.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:38:25 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;SaaS Security Blog&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/article-type/blog/page/15/&lt;/link&gt;
+    &lt;description&gt;The AppOmni Blog publishes advanced threat research, cybersecurity intelligence and insights, and breaking SaaS data breach news.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:38:26 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Resources&lt;/title&gt;
+    &lt;link&gt;https://appomni.com/resources/&lt;/link&gt;
+    &lt;description&gt;Explore our diverse collection of resources covering SaaS security, AI security, compliance, and best practices.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:38:27 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+&lt;/channel&gt;
+&lt;/rss&gt;

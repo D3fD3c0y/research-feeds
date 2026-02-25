@@ -1,81 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-  <title>Infrawatch Blog (Custom Feed)</title>
-  <link>https://infrawatch.com/blog</link>
-  <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 20:24:11 GMT</lastBuildDate>
-  <item>
-    <title>Infrawatch - Real Time Internet Intelligence</title>
-    <link>https://infrawatch.com/</link>
-    <description>Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.</description>
-    <pubDate>Mon, 23 Feb 2026 20:24:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Infrawatch - Sales</title>
-    <link>https://infrawatch.com/company/careers</link>
-    <description>Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.</description>
-    <pubDate>Mon, 23 Feb 2026 20:24:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Infrawatch - Partner</title>
-    <link>https://infrawatch.com/company/partner</link>
-    <description>Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.</description>
-    <pubDate>Mon, 23 Feb 2026 20:24:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Infrawatch - About Us</title>
-    <link>https://infrawatch.com/company/about</link>
-    <description>Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.</description>
-    <pubDate>Mon, 23 Feb 2026 20:24:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Infrawatch - About Us</title>
-    <link>https://infrawatch.com/company/media-kit</link>
-    <description>Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.</description>
-    <pubDate>Mon, 23 Feb 2026 20:24:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Infrawatch - Contact Us</title>
-    <link>https://infrawatch.com/company/support</link>
-    <description>Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.</description>
-    <pubDate>Mon, 23 Feb 2026 20:24:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Infrawatch - Sales</title>
-    <link>https://infrawatch.com/company/sales</link>
-    <description>Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.</description>
-    <pubDate>Mon, 23 Feb 2026 20:24:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Beta Access - Infrawatch</title>
-    <link>https://infrawatch.com/beta-access</link>
-    <description>Weâre excited to invite you to try the beta version of Infrawatch. Be the first to use our new features!</description>
-    <pubDate>Mon, 23 Feb 2026 20:24:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Infrawatch - Real Time Internet Intelligence</title>
-    <link>https://infrawatch.com/blog</link>
-    <description>Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.</description>
-    <pubDate>Mon, 23 Feb 2026 20:24:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Executive Operations - Infrawatch - Real Time Internet Intelligence</title>
-    <link>https://infrawatch.com/company/careers/executive-operations</link>
-    <description>Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.</description>
-    <pubDate>Mon, 23 Feb 2026 20:24:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>GhostSocks - Lumma's Partner In Proxy - Codexa â Premium Developer Automation Template</title>
-    <link>https://infrawatch.com/blog/ghostsocks-lummas-partner-in-proxy</link>
-    <description>This analysis explores GhostSocks, a Golang-based SOCKS5 proxy malware, detailing its integration with LummaC2 and its command-and-control infrastructure. We highlight its use of obfuscation and relay-based C2 communication, emphasising the threat it poses to financial institutions and other high-value targets.</description>
-    <pubDate>Mon, 23 Feb 2026 20:24:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Belarus-Linked DSLRoot Proxy Network Deploys Hardware in U.S. Residences, Including Military Homes - Codexa â Premium Developer Automation Template</title>
-    <link>https://infrawatch.com/blog/dslroot-us-proxy-investigation</link>
-    <description>Detailed analysis of DSLRoot, a residential proxy network deploying hardware across U.S. homes, operated by a Belarusian national. Includes technical overview, network footprint, and operator attribution.</description>
-    <pubDate>Mon, 23 Feb 2026 20:24:11 GMT</pubDate>
-  </item>
-</channel>
-</rss>
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;rss version="2.0"&gt;
+&lt;channel&gt;
+  &lt;title&gt;Infrawatch Blog (Custom Feed)&lt;/title&gt;
+  &lt;link&gt;https://infrawatch.com/blog&lt;/link&gt;
+  &lt;description&gt;Auto-generated periodically&lt;/description&gt;
+  &lt;lastBuildDate&gt;Wed, 25 Feb 2026 21:40:01 GMT&lt;/lastBuildDate&gt;
+  &lt;item&gt;
+    &lt;title&gt;Infrawatch - Real Time Internet Intelligence&lt;/title&gt;
+    &lt;link&gt;https://infrawatch.com/blog&lt;/link&gt;
+    &lt;description&gt;Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:39:57 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;GhostSocks - Lumma's Partner In Proxy - Codexa â Premium Developer Automation Template&lt;/title&gt;
+    &lt;link&gt;https://infrawatch.com/blog/ghostsocks-lummas-partner-in-proxy&lt;/link&gt;
+    &lt;description&gt;This analysis explores GhostSocks, a Golang-based SOCKS5 proxy malware, detailing its integration with LummaC2 and its command-and-control infrastructure. We highlight its use of obfuscation and relay-based C2 communication, emphasising the threat it poses to financial institutions and other high-value targets.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:39:57 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Belarus-Linked DSLRoot Proxy Network Deploys Hardware in U.S. Residences, Including Military Homes - Codexa â Premium Developer Automation Template&lt;/title&gt;
+    &lt;link&gt;https://infrawatch.com/blog/dslroot-us-proxy-investigation&lt;/link&gt;
+    &lt;description&gt;Detailed analysis of DSLRoot, a residential proxy network deploying hardware across U.S. homes, operated by a Belarusian national. Includes technical overview, network footprint, and operator attribution.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:39:58 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Infrawatch - Real Time Internet Intelligence&lt;/title&gt;
+    &lt;link&gt;https://infrawatch.com/&lt;/link&gt;
+    &lt;description&gt;Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:39:58 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Infrawatch - Sales&lt;/title&gt;
+    &lt;link&gt;https://infrawatch.com/company/careers&lt;/link&gt;
+    &lt;description&gt;Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:39:59 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Infrawatch - Partner&lt;/title&gt;
+    &lt;link&gt;https://infrawatch.com/company/partner&lt;/link&gt;
+    &lt;description&gt;Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:39:59 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Infrawatch - About Us&lt;/title&gt;
+    &lt;link&gt;https://infrawatch.com/company/about&lt;/link&gt;
+    &lt;description&gt;Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:39:59 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Infrawatch - About Us&lt;/title&gt;
+    &lt;link&gt;https://infrawatch.com/company/media-kit&lt;/link&gt;
+    &lt;description&gt;Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:40:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Infrawatch - Contact Us&lt;/title&gt;
+    &lt;link&gt;https://infrawatch.com/company/support&lt;/link&gt;
+    &lt;description&gt;Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:40:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Infrawatch - Sales&lt;/title&gt;
+    &lt;link&gt;https://infrawatch.com/company/sales&lt;/link&gt;
+    &lt;description&gt;Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:40:00 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Beta Access - Infrawatch&lt;/title&gt;
+    &lt;link&gt;https://infrawatch.com/beta-access&lt;/link&gt;
+    &lt;description&gt;Weâre excited to invite you to try the beta version of Infrawatch. Be the first to use our new features!&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:40:01 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Executive Operations - Infrawatch - Real Time Internet Intelligence&lt;/title&gt;
+    &lt;link&gt;https://infrawatch.com/company/careers/executive-operations&lt;/link&gt;
+    &lt;description&gt;Real-time visibility into the infrastructure behind threats. Track proxies, VPNs, and hostile networks with high-fidelity internet signals, built for investigations, fraud prevention, and security operations.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:40:01 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+&lt;/channel&gt;
+&lt;/rss&gt;

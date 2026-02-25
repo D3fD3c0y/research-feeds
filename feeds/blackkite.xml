@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-  <title>Black Kite Blog (Custom Feed)</title>
-  <link>https://blackkite.com/blog</link>
-  <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 23 Feb 2026 20:19:08 GMT</lastBuildDate>
-  <item>
-    <title>Black Kite | 2025 Black Kite Third Party Breach Report</title>
-    <link>https://blackkite.com/reports/black-kite-third-party-breach-report-2025</link>
-    <description>Discover how third-party breaches became 2024's top cyber threat. Get key insights and strategies from Black Kite’s 2025 Third-Party Breach Report.</description>
-    <pubDate>Mon, 23 Feb 2026 20:19:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Black Kite | Black Kite 2025 Ransomware Report</title>
-    <link>https://blackkite.com/reports/2025-ransomware-report</link>
-    <description>Get the latest ransomware data. The 2025 Ransomware Report analyzes a 24% surge in attacks, SMB targets, and the growing risk to third-party vendor ecosystems.</description>
-    <pubDate>Mon, 23 Feb 2026 20:19:08 GMT</pubDate>
-  </item>
-</channel>
-</rss>
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;rss version="2.0"&gt;
+&lt;channel&gt;
+  &lt;title&gt;Black Kite Blog (Custom Feed)&lt;/title&gt;
+  &lt;link&gt;https://blackkite.com/blog&lt;/link&gt;
+  &lt;description&gt;Auto-generated periodically&lt;/description&gt;
+  &lt;lastBuildDate&gt;Wed, 25 Feb 2026 21:38:29 GMT&lt;/lastBuildDate&gt;
+  &lt;item&gt;
+    &lt;title&gt;Black Kite | 2025 Black Kite Third Party Breach Report&lt;/title&gt;
+    &lt;link&gt;https://blackkite.com/reports/black-kite-third-party-breach-report-2025&lt;/link&gt;
+    &lt;description&gt;Discover how third-party breaches became 2024's top cyber threat. Get key insights and strategies from Black Kite’s 2025 Third-Party Breach Report.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:38:29 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+  &lt;item&gt;
+    &lt;title&gt;Black Kite | Black Kite 2025 Ransomware Report&lt;/title&gt;
+    &lt;link&gt;https://blackkite.com/reports/2025-ransomware-report&lt;/link&gt;
+    &lt;description&gt;Get the latest ransomware data. The 2025 Ransomware Report analyzes a 24% surge in attacks, SMB targets, and the growing risk to third-party vendor ecosystems.&lt;/description&gt;
+    &lt;pubDate&gt;Wed, 25 Feb 2026 21:38:29 GMT&lt;/pubDate&gt;
+  &lt;/item&gt;
+&lt;/channel&gt;
+&lt;/rss&gt;
