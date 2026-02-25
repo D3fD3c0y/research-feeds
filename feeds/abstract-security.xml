@@ -4,7 +4,7 @@
   &lt;title&gt;Abstract Security Blog (Custom Feed)&lt;/title&gt;
   &lt;link&gt;https://www.abstract.security/blog/&lt;/link&gt;
   &lt;description&gt;Auto-generated periodically&lt;/description&gt;
-  &lt;lastBuildDate&gt;Tue, 24 Feb 2026 20:20:26 GMT&lt;/lastBuildDate&gt;
+  &lt;lastBuildDate&gt;Wed, 25 Feb 2026 03:13:00 GMT&lt;/lastBuildDate&gt;
   &lt;item&gt;
     &lt;title&gt;10 Cybersecurity Focus Areas That Actually Move the Needle&lt;/title&gt;
     &lt;link&gt;https://www.abstract.security/blog/10-cybersecurity-focus-areas-that-actually-move-the-needle&lt;/link&gt;
@@ -135,7 +135,7 @@
     &lt;title&gt;Contagious Interview: Tracking the VS Code Tasks Infection Vector&lt;/title&gt;
     &lt;link&gt;https://www.abstract.security/blog/contagious-interview-tracking-the-vs-code-tasks-infection-vector&lt;/link&gt;
     &lt;description&gt;An in-depth analysis of the DPRK-linked Contagious Interview campaign, revealing how malicious VS Code tasks enable silent code execution, payload delivery, and developer compromise via GitHub repos.&lt;/description&gt;
-    &lt;pubDate&gt;Tue, 24 Feb 2026 18:30:35 GMT&lt;/pubDate&gt;
+    &lt;pubDate&gt;Tue, 24 Feb 2026 22:16:44 GMT&lt;/pubDate&gt;
   &lt;/item&gt;
   &lt;item&gt;
     &lt;title&gt;Critical Apache Tika Vulnerability: CVE-2025-66516 Enables XXE Injection&lt;/title&gt;
