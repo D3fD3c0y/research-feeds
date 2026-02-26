@@ -51,7 +51,7 @@ COMMON_SUFFIXES = [
 def rfc2822(dt: datetime.datetime | None = None) -> str:
     """
     Return an RFC 2822 date string in UTC (tz-aware).
-    Required by email.utils.format_datetime(..., usegmt=True) in Python 3.11+.
+    Required by email.utils.format_datetime(..., usegmt=True).
     """
     if dt is None:
         dt = datetime.datetime.now(datetime.timezone.utc)
@@ -455,14 +455,14 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
             dedup.append(u)
     urls = dedup[: max(limit * 2, 50)]
 
-    # --- NEW: Prefer URLs that share the same leading path as provided page_url ---
+    # --- Prefer URLs that share the same leading path as provided page_url ---
     # Example: if page_url is https://www.example.com/blog/, prioritize /blog/... URLs first.
     hint_path = urlparse(page_url).path.rstrip("/")
     if hint_path and hint_path != "/":
         blog_first = [u for u in urls if urlparse(u).path.startswith(hint_path)]
         others     = [u for u in urls if not urlparse(u).path.startswith(hint_path)]
         urls = blog_first + others
-    # --- END NEW ---
+    # --- End path-hint ---
 
     items = []
     for u in urls:
@@ -497,23 +497,23 @@ def write_rss(out_path: str, channel_title: str, channel_link: str, items: list[
         l = escape(i.get("link", ""))
         d = escape(i.get("description", "") or i.get("summary", "") or t)
         pd = i.get("pubDate") or last_build
-        return f"""  &lt;item&gt;
-    &lt;title&gt;{t}&lt;/title&gt;
-    &lt;link&gt;{l}&lt;/link&gt;
-    &lt;description&gt;{d}&lt;/description&gt;
-    &lt;pubDate&gt;{pd}&lt;/pubDate&gt;
-  &lt;/item&gt;"""
+        return f"""  <item>
+    <title>{t}</title>
+    <link>{l}</link>
+    <description>{d}</description>
+    <pubDate>{pd}</pubDate>
+  </item>"""
 
-    xml = f"""&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;rss version="2.0"&gt;
-&lt;channel&gt;
-  &lt;title&gt;{escape(channel_title)}&lt;/title&gt;
-  &lt;link&gt;{escape(channel_link)}&lt;/link&gt;
-  &lt;description&gt;Auto-generated periodically&lt;/description&gt;
-  &lt;lastBuildDate&gt;{last_build}&lt;/lastBuildDate&gt;
+    xml = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>{escape(channel_title)}</title>
+  <link>{escape(channel_link)}</link>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>{last_build}</lastBuildDate>
 {os.linesep.join(item_xml(i) for i in items)}
-&lt;/channel&gt;
-&lt;/rss&gt;
+</channel>
+</rss>
 """
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(xml)
@@ -526,11 +526,11 @@ def _read_existing_last_build(slug: str) -> str:
     try:
         with open(path, "r", encoding="utf-8") as f:
             text = f.read()
-        # Try normal XML
+        # Prefer normal XML pattern
         m = re.search(r"<lastBuildDate>(.*?)</lastBuildDate>", text, flags=re.IGNORECASE | re.DOTALL)
         if m:
             return m.group(1).strip()
-        # Try HTML-escaped variant if any (defensive)
+        # Fallback: some previous runs may have written escaped forms
         m = re.search(r"&lt;lastBuildDate&gt;(.*?)&lt;/lastBuildDate&gt;", text, flags=re.IGNORECASE | re.DOTALL)
         if m:
             return m.group(1).strip()
@@ -692,7 +692,4 @@ def main():
             feed_map_enabled.append((name, slug, last_build))
             continue
 
-    build_index(feed_map_enabled, feed_map_disabled)
-
-if __name__ == "__main__":
-    main()
+    build_index(feed_map_enabled, feed
