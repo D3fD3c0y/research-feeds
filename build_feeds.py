@@ -530,7 +530,7 @@ def _read_existing_last_build(slug: str) -> str:
         m = re.search(r"<lastBuildDate>(.*?)</lastBuildDate>", text, flags=re.IGNORECASE | re.DOTALL)
         if m:
             return m.group(1).strip()
-        # Fallback: some previous runs may have written escaped forms
+        # Fallback: in case a past run emitted escaped tags
         m = re.search(r"&lt;lastBuildDate&gt;(.*?)&lt;/lastBuildDate&gt;", text, flags=re.IGNORECASE | re.DOTALL)
         if m:
             return m.group(1).strip()
@@ -588,6 +588,23 @@ def build_index(feed_map_enabled: list[tuple[str, str, str]],
     print("Wrote index.html")
 
 # ---------------------------------------------------------------------
+# Per-source robots override
+# ---------------------------------------------------------------------
+def _respect_robots_for_source(src: dict) -> bool:
+    """
+    Decide whether to respect robots.txt for this source.
+    Priority:
+      1) if "ignore_robots": true  -> return False
+      2) if "respect_robots" is explicitly true/false -> return that
+      3) default to the global RESPECT_ROBOTS
+    """
+    if src.get("ignore_robots") is True:
+        return False
+    if "respect_robots" in src:
+        return bool(src.get("respect_robots"))
+    return RESPECT_ROBOTS
+
+# ---------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------
 def main():
@@ -614,9 +631,17 @@ def main():
         page_url = src["url"]
         slug = src["slug"]
         out_path = os.path.join("feeds", f"{slug}.xml")
+
+        # --- per-source robots override ---
+        global RESPECT_ROBOTS
+        _prev_respect = RESPECT_ROBOTS
+        RESPECT_ROBOTS = _respect_robots_for_source(src)
+        # ----------------------------------
+
         try:
             mode = src.get("mode", "auto").lower()  # auto|scrape|sitemap
             print(f"\n=== Processing: {name} ({page_url}) -> {out_path}")
+            print(f"    robots.txt respected: {RESPECT_ROBOTS}")
 
             feed = None
             if mode == "auto":
@@ -691,5 +716,11 @@ def main():
             )
             feed_map_enabled.append((name, slug, last_build))
             continue
+        finally:
+            # restore global after processing this source
+            RESPECT_ROBOTS = _prev_respect
 
-    build_index(feed_map_enabled, feed
+    build_index(feed_map_enabled, feed_map_disabled)
+
+if __name__ == "__main__":
+    main()
