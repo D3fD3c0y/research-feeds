@@ -35,6 +35,9 @@ jobs:
         run: |
           git config user.email "actions@github.com"
           git config user.name "github-actions"
-          git add index.html feeds/*.xml
+          # Stage all changes (safe even if feeds/*.xml does not exist yet)
+          git add -A
+          # Commit without failing when there is nothing to commit
           git commit -m "Auto-update feeds" || echo "No changes"
+          # Push to the current branch
           git push
