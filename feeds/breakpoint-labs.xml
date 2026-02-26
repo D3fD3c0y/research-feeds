@@ -1,111 +1,111 @@
-&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;rss version="2.0"&gt;
-&lt;channel&gt;
-  &lt;title&gt;Breakpoint Labs Blog (Custom Feed)&lt;/title&gt;
-  &lt;link&gt;https://breakpoint-labs.com/blog/&lt;/link&gt;
-  &lt;description&gt;Auto-generated periodically&lt;/description&gt;
-  &lt;lastBuildDate&gt;Thu, 26 Feb 2026 17:14:05 GMT&lt;/lastBuildDate&gt;
-  &lt;item&gt;
-    &lt;title&gt;Hospital Security Beyond Patching: Testing Workflow and Identity Risk&lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/hospital-security-beyond-patching-testing-workflow-and-identity-risk/&lt;/link&gt;
-    &lt;description&gt;Hospital penetration testing isn’t just about patching. Learn how workflow, identity, and Active Directory risks create real breach paths in healthcare environments.&lt;/description&gt;
-    &lt;pubDate&gt;Tue, 24 Feb 2026 11:21:08 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-  &lt;item&gt;
-    &lt;title&gt;PCI Compliance in Higher Education: Why Your Campus Payment Systems Need Annual Penetration Testing&lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/pci-compliance-in-higher-education-why-your-campus-payment-systems-need-annual-penetration-testing/&lt;/link&gt;
-    &lt;description&gt;Campuses operate like small, decentralized cities, with numerous departments and subject areas generating millions in annual revenue from tuition, bookstore sales, dining hall purchases, and stadium concessions. While this diverse ecosystem enriches campus life, the fragmentation creates a massive and complex attack surface that is highly vulnerable to hackers. While higher education institutions generally maintain […]&lt;/description&gt;
-    &lt;pubDate&gt;Fri, 13 Feb 2026 12:10:35 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-  &lt;item&gt;
-    &lt;title&gt;AD-RECON Part II: Analyzing Attack Paths and Transitive Rights&lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/ad-recon-part-ii-analyzing-attack-paths-and-transitive-rights/&lt;/link&gt;
-    &lt;description&gt;Uncover hidden BloodHound attack paths without manual graph analysis. Learn how AD-RECON's advanced pathing and transitive queries reveal routes to Domain Admin.&lt;/description&gt;
-    &lt;pubDate&gt;Mon, 02 Feb 2026 12:32:34 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-  &lt;item&gt;
-    &lt;title&gt;Smarter Content Discovery Using Burp Suite&lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/smarter-content-discovery-using-burp-suite/&lt;/link&gt;
-    &lt;description&gt;Context discovery is a critical part of an in-depth application testing methodology. This is an area where loads of risk can be uncovered that web application scanners and past security assessments might have missed. At BreakPoint Labs (BPL), we place a strong focus on application content discovery. This blog post will share our approach to […]&lt;/description&gt;
-    &lt;pubDate&gt;Tue, 20 Jan 2026 15:25:02 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-  &lt;item&gt;
-    &lt;title&gt;How to Triage BloodHound Data Faster: The AD-RECON Guide&lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/streamlining-bloodhound-analysis-a-technical-guide-to-ad-recon/&lt;/link&gt;
-    &lt;description&gt;Streamline your BloodHound analysis with AD-RECON. Learn how to automate Neo4j queries to quickly triage AD escalation paths and find quick wins. Watch now.&lt;/description&gt;
-    &lt;pubDate&gt;Tue, 23 Dec 2025 11:05:34 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-  &lt;item&gt;
-    &lt;title&gt;The Attacker&amp;#8217;s Playbook, Part 4: The Maze Within&lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/the-attackers-playbook-part-4-the-maze-within/&lt;/link&gt;
-    &lt;description&gt;Automated scanners can't see the complex web of Active Directory trust. Learn how attackers exploit "GenericAll" permissions and the "Domain Users" group to escalate privileges in this guide to securing internal networks.&lt;/description&gt;
-    &lt;pubDate&gt;Fri, 12 Dec 2025 19:25:52 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-  &lt;item&gt;
-    &lt;title&gt;The Attacker&amp;#8217;s Playbook, Part 3: The Keys to the Kingdom&lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/the-attackers-playbook-part-3-the-keys-to-the-kingdom/&lt;/link&gt;
-    &lt;description&gt;Learn how default credentials and misplaced PHI expose healthcare networks. Part 3 of The Attacker's Playbook covers Active Directory security, gMSA implementation, and data governance strategies to lock down the "keys to the kingdom."&lt;/description&gt;
-    &lt;pubDate&gt;Fri, 12 Dec 2025 19:24:04 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-  &lt;item&gt;
-    &lt;title&gt;The Attacker&amp;#8217;s Playbook, Part 2: The Unlocked Door&lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/the-attackers-playbook-part-2-the-unlocked-door/&lt;/link&gt;
-    &lt;description&gt;Your digital defense is only as strong as your physical security. From malicious USB devices in patient rooms to exposed pager apps, discover how attackers exploit the "forgotten front door" in healthcare.&lt;/description&gt;
-    &lt;pubDate&gt;Fri, 12 Dec 2025 19:23:12 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-  &lt;item&gt;
-    &lt;title&gt;The Attacker&amp;#8217;s Playbook, Part 1: The Human Element is the Attacker&amp;#8217;s Greatest Advantage&lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/the-attackers-playbook-part-1-the-human-element-is-the-attackers-greatest-advantage/&lt;/link&gt;
-    &lt;description&gt;It wasn't a zero-day exploit—it was a simple text file. Discover how human error can compromise an entire healthcare network in Part 1 of "The Attacker's Playbook."&lt;/description&gt;
-    &lt;pubDate&gt;Mon, 01 Dec 2025 19:18:26 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-  &lt;item&gt;
-    &lt;title&gt;Closing Critical Cybersecurity Gaps in Healthcare: Lessons from an HHS-OIG Audit&lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/closing-critical-cybersecurity-gaps-in-healthcare-lessons-from-an-hhs-oig-audit/&lt;/link&gt;
-    &lt;description&gt;In July 2025, HHS-OIG released a cybersecurity audit of a major hospital, with technical testing by BreakPoint Labs. We break down the findings—from weak authentication to web app flaws—and provide a 30/60/90-day action plan for healthcare leaders.&lt;/description&gt;
-    &lt;pubDate&gt;Thu, 23 Oct 2025 19:14:00 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-  &lt;item&gt;
-    &lt;title&gt;Hunting for Escalation Paths in AD: AdminCount &lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/hunting-for-escalation-paths-in-ad-admincount/&lt;/link&gt;
-    &lt;description&gt;A guide to finding Active Directory privilege escalation paths using AdminCount analysis. We explore how to use BloodHound and Python to identify unprotected accounts (AdminCount: False) that expose the domain to takeover.&lt;/description&gt;
-    &lt;pubDate&gt;Fri, 17 Oct 2025 13:04:37 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-  &lt;item&gt;
-    &lt;title&gt;AI Red Teaming Part 3 &amp;#8211; Attacking Claude Code using PyRIT&lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/ai-red-teaming-part-3-attacking-claude-code-using-pyrit/&lt;/link&gt;
-    &lt;description&gt;Learn how to automate image prompt injection attacks against Claude Code using PyRIT. We explore how malicious instructions hidden in git repository images can trigger unauthorized command execution in Anthropic's CLI tool.&lt;/description&gt;
-    &lt;pubDate&gt;Wed, 24 Sep 2025 13:17:49 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-  &lt;item&gt;
-    &lt;title&gt;Blog - BreakPoint Labs&lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/blog/&lt;/link&gt;
-    &lt;description&gt;Blog - BreakPoint Labs&lt;/description&gt;
-    &lt;pubDate&gt;Thu, 26 Feb 2026 17:14:01 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-  &lt;item&gt;
-    &lt;title&gt;Blog - Page 2 of 11 - BreakPoint Labs&lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/blog/page/2/&lt;/link&gt;
-    &lt;description&gt;Blog - Page 2 of 11 - BreakPoint Labs&lt;/description&gt;
-    &lt;pubDate&gt;Thu, 26 Feb 2026 17:14:02 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-  &lt;item&gt;
-    &lt;title&gt;Blog - Page 3 of 11 - BreakPoint Labs&lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/blog/page/3/&lt;/link&gt;
-    &lt;description&gt;Blog - Page 3 of 11 - BreakPoint Labs&lt;/description&gt;
-    &lt;pubDate&gt;Thu, 26 Feb 2026 17:14:03 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-  &lt;item&gt;
-    &lt;title&gt;Blog - Page 9 of 11 - BreakPoint Labs&lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/blog/page/9/&lt;/link&gt;
-    &lt;description&gt;Blog - Page 9 of 11 - BreakPoint Labs&lt;/description&gt;
-    &lt;pubDate&gt;Thu, 26 Feb 2026 17:14:04 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-  &lt;item&gt;
-    &lt;title&gt;22&lt;/title&gt;
-    &lt;link&gt;https://breakpoint-labs.com/blog/page/22/&lt;/link&gt;
-    &lt;description&gt;22&lt;/description&gt;
-    &lt;pubDate&gt;Thu, 26 Feb 2026 17:14:05 GMT&lt;/pubDate&gt;
-  &lt;/item&gt;
-&lt;/channel&gt;
-&lt;/rss&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Breakpoint Labs Blog (Custom Feed)</title>
+  <link>https://breakpoint-labs.com/blog/</link>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Thu, 26 Feb 2026 21:02:41 GMT</lastBuildDate>
+  <item>
+    <title>Hospital Security Beyond Patching: Testing Workflow and Identity Risk</title>
+    <link>https://breakpoint-labs.com/hospital-security-beyond-patching-testing-workflow-and-identity-risk/</link>
+    <description>Hospital penetration testing isn’t just about patching. Learn how workflow, identity, and Active Directory risks create real breach paths in healthcare environments.</description>
+    <pubDate>Tue, 24 Feb 2026 11:21:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>PCI Compliance in Higher Education: Why Your Campus Payment Systems Need Annual Penetration Testing</title>
+    <link>https://breakpoint-labs.com/pci-compliance-in-higher-education-why-your-campus-payment-systems-need-annual-penetration-testing/</link>
+    <description>Campuses operate like small, decentralized cities, with numerous departments and subject areas generating millions in annual revenue from tuition, bookstore sales, dining hall purchases, and stadium concessions. While this diverse ecosystem enriches campus life, the fragmentation creates a massive and complex attack surface that is highly vulnerable to hackers. While higher education institutions generally maintain […]</description>
+    <pubDate>Fri, 13 Feb 2026 12:10:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>AD-RECON Part II: Analyzing Attack Paths and Transitive Rights</title>
+    <link>https://breakpoint-labs.com/ad-recon-part-ii-analyzing-attack-paths-and-transitive-rights/</link>
+    <description>Uncover hidden BloodHound attack paths without manual graph analysis. Learn how AD-RECON's advanced pathing and transitive queries reveal routes to Domain Admin.</description>
+    <pubDate>Mon, 02 Feb 2026 12:32:34 GMT</pubDate>
+  </item>
+  <item>
+    <title>Smarter Content Discovery Using Burp Suite</title>
+    <link>https://breakpoint-labs.com/smarter-content-discovery-using-burp-suite/</link>
+    <description>Context discovery is a critical part of an in-depth application testing methodology. This is an area where loads of risk can be uncovered that web application scanners and past security assessments might have missed. At BreakPoint Labs (BPL), we place a strong focus on application content discovery. This blog post will share our approach to […]</description>
+    <pubDate>Tue, 20 Jan 2026 15:25:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>How to Triage BloodHound Data Faster: The AD-RECON Guide</title>
+    <link>https://breakpoint-labs.com/streamlining-bloodhound-analysis-a-technical-guide-to-ad-recon/</link>
+    <description>Streamline your BloodHound analysis with AD-RECON. Learn how to automate Neo4j queries to quickly triage AD escalation paths and find quick wins. Watch now.</description>
+    <pubDate>Tue, 23 Dec 2025 11:05:34 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Attacker&amp;#8217;s Playbook, Part 4: The Maze Within</title>
+    <link>https://breakpoint-labs.com/the-attackers-playbook-part-4-the-maze-within/</link>
+    <description>Automated scanners can't see the complex web of Active Directory trust. Learn how attackers exploit "GenericAll" permissions and the "Domain Users" group to escalate privileges in this guide to securing internal networks.</description>
+    <pubDate>Fri, 12 Dec 2025 19:25:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Attacker&amp;#8217;s Playbook, Part 3: The Keys to the Kingdom</title>
+    <link>https://breakpoint-labs.com/the-attackers-playbook-part-3-the-keys-to-the-kingdom/</link>
+    <description>Learn how default credentials and misplaced PHI expose healthcare networks. Part 3 of The Attacker's Playbook covers Active Directory security, gMSA implementation, and data governance strategies to lock down the "keys to the kingdom."</description>
+    <pubDate>Fri, 12 Dec 2025 19:24:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Attacker&amp;#8217;s Playbook, Part 2: The Unlocked Door</title>
+    <link>https://breakpoint-labs.com/the-attackers-playbook-part-2-the-unlocked-door/</link>
+    <description>Your digital defense is only as strong as your physical security. From malicious USB devices in patient rooms to exposed pager apps, discover how attackers exploit the "forgotten front door" in healthcare.</description>
+    <pubDate>Fri, 12 Dec 2025 19:23:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Attacker&amp;#8217;s Playbook, Part 1: The Human Element is the Attacker&amp;#8217;s Greatest Advantage</title>
+    <link>https://breakpoint-labs.com/the-attackers-playbook-part-1-the-human-element-is-the-attackers-greatest-advantage/</link>
+    <description>It wasn't a zero-day exploit—it was a simple text file. Discover how human error can compromise an entire healthcare network in Part 1 of "The Attacker's Playbook."</description>
+    <pubDate>Mon, 01 Dec 2025 19:18:26 GMT</pubDate>
+  </item>
+  <item>
+    <title>Closing Critical Cybersecurity Gaps in Healthcare: Lessons from an HHS-OIG Audit</title>
+    <link>https://breakpoint-labs.com/closing-critical-cybersecurity-gaps-in-healthcare-lessons-from-an-hhs-oig-audit/</link>
+    <description>In July 2025, HHS-OIG released a cybersecurity audit of a major hospital, with technical testing by BreakPoint Labs. We break down the findings—from weak authentication to web app flaws—and provide a 30/60/90-day action plan for healthcare leaders.</description>
+    <pubDate>Thu, 23 Oct 2025 19:14:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Hunting for Escalation Paths in AD: AdminCount </title>
+    <link>https://breakpoint-labs.com/hunting-for-escalation-paths-in-ad-admincount/</link>
+    <description>A guide to finding Active Directory privilege escalation paths using AdminCount analysis. We explore how to use BloodHound and Python to identify unprotected accounts (AdminCount: False) that expose the domain to takeover.</description>
+    <pubDate>Fri, 17 Oct 2025 13:04:37 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI Red Teaming Part 3 &amp;#8211; Attacking Claude Code using PyRIT</title>
+    <link>https://breakpoint-labs.com/ai-red-teaming-part-3-attacking-claude-code-using-pyrit/</link>
+    <description>Learn how to automate image prompt injection attacks against Claude Code using PyRIT. We explore how malicious instructions hidden in git repository images can trigger unauthorized command execution in Anthropic's CLI tool.</description>
+    <pubDate>Wed, 24 Sep 2025 13:17:49 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blog - BreakPoint Labs</title>
+    <link>https://breakpoint-labs.com/blog/</link>
+    <description>Blog - BreakPoint Labs</description>
+    <pubDate>Thu, 26 Feb 2026 21:02:38 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blog - Page 2 of 11 - BreakPoint Labs</title>
+    <link>https://breakpoint-labs.com/blog/page/2/</link>
+    <description>Blog - Page 2 of 11 - BreakPoint Labs</description>
+    <pubDate>Thu, 26 Feb 2026 21:02:39 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blog - Page 3 of 11 - BreakPoint Labs</title>
+    <link>https://breakpoint-labs.com/blog/page/3/</link>
+    <description>Blog - Page 3 of 11 - BreakPoint Labs</description>
+    <pubDate>Thu, 26 Feb 2026 21:02:39 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blog - Page 9 of 11 - BreakPoint Labs</title>
+    <link>https://breakpoint-labs.com/blog/page/9/</link>
+    <description>Blog - Page 9 of 11 - BreakPoint Labs</description>
+    <pubDate>Thu, 26 Feb 2026 21:02:40 GMT</pubDate>
+  </item>
+  <item>
+    <title>22</title>
+    <link>https://breakpoint-labs.com/blog/page/22/</link>
+    <description>22</description>
+    <pubDate>Thu, 26 Feb 2026 21:02:41 GMT</pubDate>
+  </item>
+</channel>
+</rss>
