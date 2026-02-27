@@ -93,7 +93,7 @@
   {"name": "The Sequence", "url": "https://the-sequence.com/", "slug": "the-sequence", "mode": "sitemap", "disabled": true, "respect_robots": true},
   {"name": "ThreatSpike Blog", "url": "https://www.threatspike.com/blog/", "slug": "threatspike", "mode": "sitemap", "disabled": true, "respect_robots": true},
   {"name": "Todyl Blog", "url": "https://www.todyl.com/blog", "slug": "todyl", "mode": "sitemap", "disabled": true, "respect_robots": true},
-  {"name": "Trellix Research Blog", "url": "https://www.trellix.com/en-us.sitemap.xml", "slug": "trellix-research", "mode": "sitemap", "disabled": true},
+  {"name": "Trellix Research Blog", "url": "https://www.trellix.com/en-us.sitemap.xml", "slug": "trellix-research", "mode": "sitemap", "disabled": true, "respect_robots": true},
   {"name": "Trellix Threat Reports", "url": "https://www.trellix.com/en-us.sitemap.xml", "slug": "trellix-threat-reports", "mode": "scrape", "disabled": true, "respect_robots": true},
   {"name": "WithSecure Labs Publications", "url": "https://labs.withsecure.com/publications", "slug": "withsecure-labs", "mode": "sitemap", "disabled": true, "respect_robots": true},
   {"name": "ZENSEC Blog", "url": "https://zensec.co.uk/blog/", "slug": "zensec", "mode": "scrape", "disabled": true, "respect_robots": true}
