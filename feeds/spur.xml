@@ -4,90 +4,90 @@
   <title>Spur Blog (Custom Feed)</title>
   <link>https://spur.us/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sat, 28 Feb 2026 08:45:24 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 28 Feb 2026 16:42:29 GMT</lastBuildDate>
   <item>
     <title>How Residential Proxies Enable Lateral Movement Risk</title>
     <link>https://spur.us/blog/residential-proxy-lateral-movement-risk</link>
     <description>Learn how residential proxy software enables lateral movement inside enterprise networks and creates hidden risk. See how to detect and mitigate proxy-driven exposure.</description>
-    <pubDate>Sat, 28 Feb 2026 08:45:19 GMT</pubDate>
+    <pubDate>Sat, 28 Feb 2026 16:42:26 GMT</pubDate>
   </item>
   <item>
     <title>IP Intelligence Predictions for 2026: AI, Proxies &amp; Risk</title>
     <link>https://spur.us/blog/ip-intelligence-predictions-2026</link>
     <description>Explore IP intelligence predictions for 2026, from agentic AI traffic and residential proxies to passive security signals and real-time geo-verification.</description>
-    <pubDate>Sat, 28 Feb 2026 08:45:20 GMT</pubDate>
+    <pubDate>Sat, 28 Feb 2026 16:42:26 GMT</pubDate>
   </item>
   <item>
     <title>Federal Student Aid Fraud Enabled by VPNs and Proxies</title>
     <link>https://spur.us/blog/federal-student-aid-fraud-vpn-proxy-detection</link>
     <description>How fraudsters use VPNs and residential proxies to steal U.S. federal student aid and how advanced IP intelligence helps schools detect ghost student schemes.</description>
-    <pubDate>Sat, 28 Feb 2026 08:45:21 GMT</pubDate>
+    <pubDate>Sat, 28 Feb 2026 16:42:26 GMT</pubDate>
   </item>
   <item>
     <title>MITRE D3FEND: IP Intelligence for Proxy Attacks</title>
     <link>https://spur.us/blog/mitre-d3fend-proxy-attacks-ip-intelligence</link>
     <description>Learn how IP and session intelligence map to MITRE D3FEND controls to detect residential proxies, anonymized traffic, and proxy-based attacks.</description>
-    <pubDate>Sat, 28 Feb 2026 08:45:21 GMT</pubDate>
+    <pubDate>Sat, 28 Feb 2026 16:42:27 GMT</pubDate>
   </item>
   <item>
     <title>What Is a Residential Proxy? Definition, Risks &amp; Detection</title>
     <link>https://spur.us/blog/what-is-a-residential-proxy</link>
     <description>Learn what residential proxies are, how they work, and why they’re used for both legitimate testing and malicious evasion. Explore risks, detection signals, and defenses.</description>
-    <pubDate>Sat, 28 Feb 2026 08:45:21 GMT</pubDate>
+    <pubDate>Sat, 28 Feb 2026 16:42:27 GMT</pubDate>
   </item>
   <item>
     <title>IP Intelligence: The Anatomy of an IP Address</title>
     <link>https://spur.us/blog/ip-address-intelligence-anatomy</link>
     <description>Explore the anatomy of an IP address and learn how IP intelligence reveals hidden risks, VPN use, and anonymized traffic behind online connections.</description>
-    <pubDate>Sat, 28 Feb 2026 08:45:21 GMT</pubDate>
+    <pubDate>Sat, 28 Feb 2026 16:42:27 GMT</pubDate>
   </item>
   <item>
     <title>Spur IP Geo: Next-Gen IP Geolocation for Security and Compliance</title>
     <link>https://spur.us/blog/ip-geolocation-security-compliance</link>
     <description>Spur IP Geo grounds IP geolocation intelligence in technical analysis and verified data, eliminating dependence on crowdsourced corrections.</description>
-    <pubDate>Sat, 28 Feb 2026 08:45:22 GMT</pubDate>
+    <pubDate>Sat, 28 Feb 2026 16:42:28 GMT</pubDate>
   </item>
   <item>
     <title>Anonymized Traffic, VPN, and Proxy Compliance</title>
     <link>https://spur.us/blog/vpn-proxy-anonymized-traffic-compliance</link>
     <description>Learn what NIST, ISO, PCI DSS, GDPR, and other frameworks say about anonymized traffic, VPNs, and proxy compliance — and how to stay secure and compliant.</description>
-    <pubDate>Sat, 28 Feb 2026 08:45:22 GMT</pubDate>
+    <pubDate>Sat, 28 Feb 2026 16:42:28 GMT</pubDate>
   </item>
   <item>
     <title>5 Essential IP Enrichment Use Cases for Security, Fraud, and Threat Hunting</title>
     <link>https://spur.us/blog/ip-enrichment-5-use-cases-for-security-and-fraud-prevention</link>
     <description>Discover how IP enrichment adds critical context to IP addresses, helping security and fraud teams detect anomalies, stop bots, and prevent account takeover.</description>
-    <pubDate>Sat, 28 Feb 2026 08:45:22 GMT</pubDate>
+    <pubDate>Sat, 28 Feb 2026 16:42:28 GMT</pubDate>
   </item>
   <item>
     <title>Uncovering the Chinese Proxy Service Used in APT Campaigns</title>
     <link>https://spur.us/blog/how-spur-uncovered-a-chinese-proxy-and-vpn-service-used-in-an-apt-campaign</link>
     <description>Spur uncovers WgetCloud, a Chinese proxy/VPN service leveraged in an APT campaign. Learn how Trojan nodes and IP intelligence reveal hidden infrastructure.</description>
-    <pubDate>Sat, 28 Feb 2026 08:45:22 GMT</pubDate>
+    <pubDate>Sat, 28 Feb 2026 16:42:28 GMT</pubDate>
   </item>
   <item>
     <title>Introducing Next Generation IP Geolocation</title>
     <link>https://spur.us/blog/introducing-next-generation-ip-geolocation-for-enhanced-security-insights</link>
     <description>Next Generation IP Geo, a new product currently in beta, specifically designed to provide security professionals with the precise and actionable location intelligence they need.</description>
-    <pubDate>Sat, 28 Feb 2026 08:45:23 GMT</pubDate>
+    <pubDate>Sat, 28 Feb 2026 16:42:28 GMT</pubDate>
   </item>
   <item>
     <title>Astrill VPN and Remote Worker Fraud Detection</title>
     <link>https://spur.us/blog/astrill-vpn-and-dprk-remote-worker-fraud</link>
     <description>Learn how Astrill VPN is used in remote worker fraud and how IP intelligence helps security teams detect anonymized access and reduce risk.</description>
-    <pubDate>Sat, 28 Feb 2026 08:45:23 GMT</pubDate>
+    <pubDate>Sat, 28 Feb 2026 16:42:29 GMT</pubDate>
   </item>
   <item>
     <title>Why Residential Proxies Are a Security Risk | White Paper</title>
     <link>https://spur.us/resources/residential-proxy-security-risk-white-paper</link>
     <description>Learn how residential proxies enable fraud, ATO, and scraping — and get a practical framework to detect and mitigate obscured traffic. Download the white paper.</description>
-    <pubDate>Sat, 28 Feb 2026 08:45:24 GMT</pubDate>
+    <pubDate>Sat, 28 Feb 2026 16:42:29 GMT</pubDate>
   </item>
   <item>
     <title>How to Reduce the Risk of Account Takeovers | White Paper</title>
     <link>https://spur.us/resources/account-takeover-ato-white-paper</link>
     <description>Explore how account takeover attacks work, why they’re increasing, and the detection strategies security and fraud teams use to prevent ATO at scale.</description>
-    <pubDate>Sat, 28 Feb 2026 08:45:24 GMT</pubDate>
+    <pubDate>Sat, 28 Feb 2026 16:42:29 GMT</pubDate>
   </item>
 </channel>
 </rss>
