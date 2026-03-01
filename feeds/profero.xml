@@ -4,126 +4,126 @@
   <title>Profero Resources (Custom Feed)</title>
   <link>https://profero.io/resources</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sat, 28 Feb 2026 16:42:25 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 01 Mar 2026 03:25:30 GMT</lastBuildDate>
   <item>
     <title>địt mẹ mày morphisec: When Malware Authors Taunt Security Researchers</title>
     <link>https://profero.io/blog/dit-me-may-morphisec-when-malware-authors-taunt-security-researchers</link>
     <description>The complete analysis of Vietnamese Stealer a Python-based info stealer using Telegram as a C2. </description>
-    <pubDate>Sat, 28 Feb 2026 16:42:20 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:27 GMT</pubDate>
   </item>
   <item>
     <title>AtomicStealer Spreading via Fake Apple Support Websites</title>
     <link>https://profero.io/blog/atomicstealer-spreading-via-fake-apple-support-websites</link>
     <description>Uncovering AtomicStealer campaign using a fake Apple Support website designed to trick users into running a malicious bash command, infecting their machine.</description>
-    <pubDate>Sat, 28 Feb 2026 16:42:20 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:27 GMT</pubDate>
   </item>
   <item>
     <title>The $5 Million Letter: When Physical Mail Becomes Digital Extortion</title>
     <link>https://profero.io/blog/the-5-million-letter-when-physical-mail-becomes-digital-extortion</link>
     <description>How sophisticated criminals are using old-school tactics and psychological warfare to extort businesses without ever touching their systems</description>
-    <pubDate>Sat, 28 Feb 2026 16:42:21 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:27 GMT</pubDate>
   </item>
   <item>
     <title>New Attack Vector - AI - Induced Destruction</title>
     <link>https://profero.io/blog/new-attack-vector--ai-induced-destruction</link>
     <description>How &amp;quot;helpful&amp;quot; AI assistants are accidentally destroying production systems - and what we&amp;#39;re doing about it. </description>
-    <pubDate>Sat, 28 Feb 2026 16:42:22 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:27 GMT</pubDate>
   </item>
   <item>
     <title>From Drone Strike to File Recovery: Outsmarting a Nation State</title>
     <link>https://profero.io/blog/from-drone-strike-to-file-recovery-outsmarting-a-nation-state</link>
     <description>Walk through our investigation workflow, cryptographic analysis, and end-to-end data-recovery strategy, proving that &amp;quot;encrypted&amp;quot; doesn&amp;#39;t mean unrecoverable</description>
-    <pubDate>Sat, 28 Feb 2026 16:42:22 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:27 GMT</pubDate>
   </item>
   <item>
     <title>The Blurring Lines Between Financially Motivated Attacks and Nation-State Cyber Operations</title>
     <link>https://profero.io/blog/the-blurring-lines-between-financially-motivated-attacks-and-nation-state-cyber-operations</link>
     <description>This approach of profit-driven attacks with state-endorsed hacking presents a dual threat scenario, unlike anything seen in the past. </description>
-    <pubDate>Sat, 28 Feb 2026 16:42:23 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:28 GMT</pubDate>
   </item>
   <item>
     <title>Live Forensic Collection from Ivanti EPMM Appliances (CVE-2025-4427 &amp;amp; CVE-2025-4428)</title>
     <link>https://profero.io/blog/ivanti-epmm-attacks</link>
     <description>Two newly discovered vulnerabilities (CVE-2025-4427 CVE-2025-4428) in Ivanti Endpoint Mobile Manager are being actively exploited leading to severe data breach</description>
-    <pubDate>Sat, 28 Feb 2026 16:42:23 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:28 GMT</pubDate>
   </item>
   <item>
     <title>Unmasking a Sophisticated Phishing Campaign: Profero IRT’s Deep Dive into a Global Microsoft Identity Attack</title>
     <link>https://profero.io/blog/unmasking-a-sophisticated-phishing-campaign-profero-irts-deep-dive-into-a-global-microsoft-identity-attack</link>
     <description>Forensic investigation into a global phishing campaign targeting Microsoft 365 identities, specifically Azure Active Directory and Office 365 accounts.</description>
-    <pubDate>Sat, 28 Feb 2026 16:42:23 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:28 GMT</pubDate>
   </item>
   <item>
     <title>Understanding Quantum Cryptography: Separating Fact from Fiction</title>
     <link>https://profero.io/blog/understanding-quantum-cryptography-separating-fact-from-fiction</link>
     <description>Explore the intriguing world of quantum cryptography</description>
-    <pubDate>Sat, 28 Feb 2026 16:42:23 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:28 GMT</pubDate>
   </item>
   <item>
     <title>A Breach Is Inevitable: Why Organizations Are Failing in Proactive Threat Detection </title>
     <link>https://profero.io/blog/a-breach-is-inevitable-why-organizations-are-failing-in-proactive-threat-detection</link>
     <description>Despite billions spent on security tools, breaches remain rampant. The post reveals cases and underscores the need for real-time monitoring and swift IR.</description>
-    <pubDate>Sat, 28 Feb 2026 16:42:23 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:28 GMT</pubDate>
   </item>
   <item>
     <title>Behind the Scenes: How Pager Apps Power 24/7 Incident Response Operations </title>
     <link>https://profero.io/blog/behind-the-scenes-how-pager-apps-power-24-7-incident-response-operations</link>
     <description>Join us for a behind-the-scenes look at how pager apps are transforming 24/7 incident response operations. In this blog post, we explore the critical roles of p</description>
-    <pubDate>Sat, 28 Feb 2026 16:42:24 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:28 GMT</pubDate>
   </item>
   <item>
     <title>MITRE ATT&amp;amp;CK: A Guidebook for the Cyber Jungle</title>
     <link>https://profero.io/blog/mitre-att-ck-a-guidebook-for-the-cyber-jungle</link>
     <description>Discover how the MITRE ATT&amp;amp;CK framework acts as a vital tool for navigating cyber threats. </description>
-    <pubDate>Sat, 28 Feb 2026 16:42:24 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:29 GMT</pubDate>
   </item>
   <item>
     <title>Secrets leakage – A rising threat. Development Practices to Safeguard Your Secrets</title>
     <link>https://profero.io/blog/secrets-leakage-rising-threat-development-practices-to-safeguard-your-secrets</link>
     <description>Insights from the Profero incident response team on threats and strategies in managing secrets avoiding secret leakage</description>
-    <pubDate>Sat, 28 Feb 2026 16:42:24 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:29 GMT</pubDate>
   </item>
   <item>
     <title>Why Cyberattacks Spike During Holidays and How to be IR Ready</title>
     <link>https://profero.io/blog/why-cyberattacks-spike-during-holidays-and-how-to-be-ir-ready</link>
     <description>Insights from the Profero incident response team on why cyberattacks spike during holidays</description>
-    <pubDate>Sat, 28 Feb 2026 16:42:24 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:29 GMT</pubDate>
   </item>
   <item>
     <title>Cloud Security Alliance Conference: Attacker Perspective Panel Overview</title>
     <link>https://profero.io/blog/cloud-security-alliance-conference-attacker-perspective-panel-overview</link>
     <description>Insights from the Cloud Security Alliance Conference panel on cloud security threats and defense strategies featuring experts from Profero</description>
-    <pubDate>Sat, 28 Feb 2026 16:42:24 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:29 GMT</pubDate>
   </item>
   <item>
     <title>Microsoft Windows Endpoint Forensics Readiness Booster</title>
     <link>https://profero.io/blog/microsoft-windows-endpoint-forensics-readiness-booster</link>
     <description>Enhance Windows forensics with our guide. Configure built-in logs for better incident response and breach detection using built-in tools, no extra software need</description>
-    <pubDate>Sat, 28 Feb 2026 16:42:24 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:29 GMT</pubDate>
   </item>
   <item>
     <title>Profero is now Certified for SOC 2 (type 2) and ISO 27001</title>
     <link>https://profero.io/blog/profero-is-now-certified-for-soc-2-and-iso-27001</link>
     <description>Profero is now Certified for SOC 2 (type 2) and ISO 27001</description>
-    <pubDate>Sat, 28 Feb 2026 16:42:24 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:29 GMT</pubDate>
   </item>
   <item>
     <title>The 10.0 Rated CVE in xz-utils Jeopardizing SSH Security</title>
     <link>https://profero.io/blog/the-10-0-rated-cve-in-xz-utils-jeopardizing-ssh-security</link>
     <description>The 10.0 Rated CVE in xz-utils Jeopardizing SSH Security</description>
-    <pubDate>Sat, 28 Feb 2026 16:42:25 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:30 GMT</pubDate>
   </item>
   <item>
     <title>SysAid On-Prem Vulnerability Disclosure</title>
     <link>https://profero.io/blog/sysaid-on-prem-vulnerability-disclosure</link>
     <description>SysAid On-Prem Vulnerability Disclosure</description>
-    <pubDate>Sat, 28 Feb 2026 16:42:25 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:30 GMT</pubDate>
   </item>
   <item>
     <title>CyberWeek RedAlert 2023 Focus Shift: Parallels between Europe and Israel&amp;#39;s Cyber Incident Response Preparedness</title>
     <link>https://profero.io/blog/redalert2023</link>
     <description>With cyber-attacks happening in Europe at an alarming rate, discover what lessons can be learned from Israel’s incident response preparedness that can help Euro</description>
-    <pubDate>Sat, 28 Feb 2026 16:42:25 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:25:30 GMT</pubDate>
   </item>
 </channel>
 </rss>
