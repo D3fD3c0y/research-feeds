@@ -4,42 +4,42 @@
   <title>LEXFO Blog (Custom Feed)</title>
   <link>https://blog.lexfo.fr/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sun, 01 Mar 2026 03:25:19 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 01 Mar 2026 08:49:41 GMT</lastBuildDate>
   <item>
     <title>Pwning Supercomputers - A 20yo vulnerability in Munge</title>
     <link>https://blog.lexfo.fr/munge-heap-buffer-overflow.html</link>
     <description>&lt;p&gt;Exploiting Heap Buffer Overflow in the authentication daemon used by most High Performance Computer.&lt;/p&gt;</description>
-    <pubDate>Sun, 01 Mar 2026 03:25:13 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 08:49:35 GMT</pubDate>
   </item>
   <item>
     <title>Attacking WSO2 Products</title>
     <link>https://blog.lexfo.fr/wso2.html</link>
     <description>&lt;p&gt;Uncovering bypasses, RCE, SSRF, CSRF, and account-takeover vulnerabilities in WSO2 products.&lt;/p&gt;</description>
-    <pubDate>Sun, 01 Mar 2026 03:25:14 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 08:49:36 GMT</pubDate>
   </item>
   <item>
     <title>Sniffing established BLE connections with HackRF One</title>
     <link>https://blog.lexfo.fr/sniffing-ble-sdr.html</link>
     <description>&lt;p&gt;Tracking already-established BLE connections using SDR has its own challenges. With custom firmware and multi-channel listening, the presented approach quickly deduces the hidden hopping parameters needed to follow the connection.&lt;/p&gt;</description>
-    <pubDate>Sun, 01 Mar 2026 03:25:15 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 08:49:38 GMT</pubDate>
   </item>
   <item>
     <title>Analysis of Secp0 Ransomware</title>
     <link>https://blog.lexfo.fr/analysis-of-secp0-ransomware.html</link>
     <description>&lt;p&gt;The article analyzes the Secp0 ransomware, which emerged in early 2025 and operates as conventional double-extortion ransomware, encrypting data while threatening public disclosure, targeting Linux systems.&lt;/p&gt;</description>
-    <pubDate>Sun, 01 Mar 2026 03:25:17 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 08:49:39 GMT</pubDate>
   </item>
   <item>
     <title>World Leaks: An Extortion Platform</title>
     <link>https://blog.lexfo.fr/world-leaks-an-extortion-platform.html</link>
     <description>&lt;p&gt;This article provides an analysis of World Leaks, a new extortion platform that emerged in early 2025, detailing its origins, operational challenges, and collaborations with other threat actors.&lt;/p&gt;</description>
-    <pubDate>Sun, 01 Mar 2026 03:25:18 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 08:49:40 GMT</pubDate>
   </item>
   <item>
     <title>Pre-authentication SQL injection to RCE in GLPI (CVE-2025-24799/CVE-2025-24801)</title>
     <link>https://blog.lexfo.fr/glpi-sql-to-rce.html</link>
     <description>&lt;p&gt;Exploitation of multiple vulnerabilities in GLPI to gain remote code execution from unauthenticated privileges.&lt;/p&gt;</description>
-    <pubDate>Sun, 01 Mar 2026 03:25:19 GMT</pubDate>
+    <pubDate>Sun, 01 Mar 2026 08:49:41 GMT</pubDate>
   </item>
 </channel>
 </rss>
