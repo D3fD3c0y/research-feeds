@@ -377,17 +377,21 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
     base_root = f"{parsed.scheme}://{parsed.netloc}"
 
     # Candidate sitemap URLs: defaults + robots.txt hints
-    candidates = [
+    # NEW: If caller passed a sitemap XML directly, try it first
+    candidates = []
+    if "sitemap" in page_url.lower() and page_url.lower().endswith((".xml", ".xml.gz")):
+        candidates.append(page_url)
+
+    # Existing defaults
+    candidates += [
         f"{base_root}/sitemap.xml",
         f"{base_root}/sitemap_index.xml",
         f"{base_root}/sitemap.xml.gz",
         f"{base_root}/sitemap_index.xml.gz",
     ]
+
     robots_hints = _read_robots_for_sitemaps(page_url)
     candidates = robots_hints + [c for c in candidates if c not in robots_hints]
-
-    seen_sitemaps = set()
-    page_urls: list[str] = []
 
     def _iter_local(root: ET.Element, local_name: str):
         """Iterate elements by local tag name, ignoring XML namespace."""
