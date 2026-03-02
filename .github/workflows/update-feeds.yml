@@ -29,7 +29,13 @@ jobs:
 
       - name: Build feeds
         run: |
-          python build_feeds.py
+          python build_feeds.py | tee run.log
+
+      - name: Upload run log
+        uses: actions/upload-artifact@v4
+        with:
+          name: feed-run-log
+          path: run.log
 
       - name: Commit & push changes
         run: |
