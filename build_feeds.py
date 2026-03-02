@@ -30,14 +30,21 @@ TIMEOUT = 20  # per-request timeout (seconds)
 MAX_ITEMS_PER_SOURCE = 30  # number of items to emit per feed
 MAX_ARTICLE_FETCHES = 20  # cap article-page fetches per source
 RESPECT_ROBOTS = True  # honor robots.txt (recommended)
+
 HEADERS = {
     "User-Agent": USER_AGENT,
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
+
 COMMON_SUFFIXES = [
     "feed", "feed/", "rss", "rss.xml", "atom.xml", "index.xml", "feed.xml",
     "?feed=rss2", "?format=feed"
 ]
+
+# ---------------------------------------------------------------------
+# Option 1: HTTP debug logging
+# ---------------------------------------------------------------------
+DEBUG_HTTP = True  # Set to False once things work (keeps logs smaller)
 
 # ---------------------------------------------------------------------
 # Time helpers
@@ -56,8 +63,31 @@ def rfc2822(dt: datetime.datetime | None = None) -> str:
 # ---------------------------------------------------------------------
 # HTTP + robots
 # ---------------------------------------------------------------------
-def get(url: str):
-    return requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+def get(url: str, label: str = ""):
+    """
+    HTTP GET with optional debug logging.
+    Prints status code, final URL after redirects, and content-type.
+    For non-200 responses, prints a small response-body snippet when DEBUG_HTTP is True.
+    """
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=TIMEOUT, allow_redirects=True)
+        ct = r.headers.get("Content-Type", "")
+
+        # Print for every request when debugging; otherwise only for non-200
+        if DEBUG_HTTP:
+            print(f" [HTTP] {label} GET {url} -> {r.status_code} (final: {r.url}) CT={ct}")
+        elif r.status_code != 200:
+            print(f" [HTTP] {label} GET {url} -> {r.status_code} (final: {r.url}) CT={ct}")
+
+        # If blocked / throttled / challenge page, show a tiny hint of body
+        if DEBUG_HTTP and r.status_code != 200:
+            snippet = (r.text or "")[:200].replace("\n", " ").replace("\r", " ")
+            print(f" [HTTP] {label} body snippet: {snippet}")
+
+        return r
+    except Exception as e:
+        print(f" [HTTP] {label} GET {url} -> EXCEPTION: {e}")
+        raise
 
 def robots_allows(page_url: str, agent: str = "ResearchFeedsBot") -> bool:
     if not RESPECT_ROBOTS:
@@ -80,7 +110,7 @@ def discover_feed_urls(page_url: str):
     """Return a list of candidate feed URLs discovered from the page plus common patterns."""
     cands: list[str] = []
     try:
-        resp = get(page_url)
+        resp = get(page_url, "discover")
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
         for link in soup.select('link[rel="alternate"]'):
@@ -183,7 +213,7 @@ def _guess_rfc2822_from_text(s: str | None):
 def _extract_article_meta(article_url: str) -> dict | None:
     """Fetch article page and extract title/date/description best-effort."""
     try:
-        r = get(article_url)
+        r = get(article_url, "article")
         if r.status_code != 200:
             return None
         soup = BeautifulSoup(r.text, "html.parser")
@@ -234,10 +264,8 @@ def _extract_article_meta(article_url: str) -> dict | None:
         md = soup.find("meta", attrs={"name": "description"}) or soup.find("meta", attrs={"property": "og:description"})
         if md and md.get("content"):
             desc = md["content"].strip()
-
         if not title:
             title = article_url
-
         return {"title": title, "link": article_url, "pubDate": pub, "description": desc or title}
     except Exception:
         # Any parsing/fetch error on the article page => let caller fall back gracefully
@@ -251,7 +279,7 @@ def scrape_items(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
     article_urls: list[tuple[str, str]] = []
     links = []
     try:
-        resp = get(page_url)
+        resp = get(page_url, "scrape-listing")
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
 
@@ -295,7 +323,6 @@ def scrape_items(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
 
             if not href:
                 continue
-
             url = urljoin(page_url, href)
             if url in seen:
                 continue
@@ -353,7 +380,7 @@ def _read_robots_for_sitemaps(page_url: str) -> list[str]:
     try:
         p = urlparse(page_url)
         robots_url = f"{p.scheme}://{p.netloc}/robots.txt"
-        r = get(robots_url)
+        r = get(robots_url, "robots")
         if r.status_code != 200 or not r.text:
             return []
         urls = []
@@ -371,7 +398,7 @@ def _read_robots_for_sitemaps(page_url: str) -> list[str]:
 def _fetch_xml(url: str) -> str | None:
     """Fetch XML (supports .gz) and return decoded XML text, or None."""
     try:
-        r = get(url)
+        r = get(url, "sitemap")
         if r.status_code != 200:
             return None
         content = r.content
@@ -411,13 +438,13 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
     def _iter_local(root: ET.Element, local_name: str):
         """Iterate elements by local tag name, ignoring XML namespace."""
         for el in root.iter():
-            if isinstance(el.tag, str) and el.tag.rsplit('}', 1)[-1] == local_name:
+            if isinstance(el.tag, str) and el.tag.rsplit("}", 1)[-1] == local_name:
                 yield el
 
     def _first_child_local(parent: ET.Element, local_name: str):
         """Get first child with given local name, ignoring namespace."""
         for ch in list(parent):
-            if isinstance(ch.tag, str) and ch.tag.rsplit('}', 1)[-1] == local_name:
+            if isinstance(ch.tag, str) and ch.tag.rsplit("}", 1)[-1] == local_name:
                 return ch
         return None
 
@@ -558,7 +585,7 @@ def _read_existing_last_build(slug: str) -> str:
     return "n/a"
 
 def build_index(feed_map_enabled: list[tuple[str, str, str]],
-               feed_map_disabled: list[tuple[str, str, str]]):
+                feed_map_disabled: list[tuple[str, str, str]]):
     """
     Create a simple HTML index page listing all feeds.
     - feed_map_enabled: [(name, slug, last_build)]
@@ -631,7 +658,7 @@ def main():
     enabled_sources = [s for s in sources if not s.get("disabled")]
     disabled_sources = [s for s in sources if s.get("disabled")]
 
-    feed_map_enabled: list[tuple[str, str, str]] = []   # (name, slug, last_build)
+    feed_map_enabled: list[tuple[str, str, str]] = []  # (name, slug, last_build)
     feed_map_disabled: list[tuple[str, str, str]] = []  # (name, slug, last_build from existing file or 'n/a')
 
     # Pre-compute last build for disabled from existing XML files, if any
