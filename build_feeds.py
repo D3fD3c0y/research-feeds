@@ -3,25 +3,21 @@
 # -*- coding: utf-8 -*-
 """
 Generates one RSS feed per source in sources.json.
-
 Modes per source:
-  - "auto"    -> try to discover an official feed via <link rel="alternate"...>,
-                 then try common suffixes, else scrape.
-  - "scrape"  -> skip feed discovery and scrape directly.
-  - "sitemap" -> read sitemap(s) to discover recent URLs, then extract metadata.
-
+ - "auto" -> try to discover an official feed via <link rel="alternate"...>,
+   then try common suffixes, else scrape.
+ - "scrape" -> skip feed discovery and scrape directly.
+ - "sitemap" -> read sitemap(s) to discover recent URLs, then extract metadata.
 Notes:
 - Designed for GitHub Actions on a schedule (UTC).
 - Writes feeds to feeds/<slug>.xml and an index.html listing.
 """
-
 import json, os, re, time, datetime, email.utils
 from urllib.parse import urljoin, urlparse
 import urllib.robotparser as robotparser
 import gzip
 import io
 import xml.etree.ElementTree as ET  # built-in XML parser (no lxml dependency)
-
 import requests
 from bs4 import BeautifulSoup
 import feedparser
@@ -30,16 +26,14 @@ import feedparser
 # Configuration
 # ---------------------------------------------------------------------
 USER_AGENT = "Mozilla/5.0 (compatible; ResearchFeedsBot/1.0; +https://github.com)"
-TIMEOUT = 20                  # per-request timeout (seconds)
-MAX_ITEMS_PER_SOURCE = 30     # number of items to emit per feed
-MAX_ARTICLE_FETCHES = 20      # cap article-page fetches per source
-RESPECT_ROBOTS = True         # honor robots.txt (recommended)
-
+TIMEOUT = 20  # per-request timeout (seconds)
+MAX_ITEMS_PER_SOURCE = 30  # number of items to emit per feed
+MAX_ARTICLE_FETCHES = 20  # cap article-page fetches per source
+RESPECT_ROBOTS = True  # honor robots.txt (recommended)
 HEADERS = {
     "User-Agent": USER_AGENT,
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
-
 COMMON_SUFFIXES = [
     "feed", "feed/", "rss", "rss.xml", "atom.xml", "index.xml", "feed.xml",
     "?feed=rss2", "?format=feed"
@@ -155,9 +149,9 @@ def _parse_jsonld_articles(soup: BeautifulSoup, base_url: str):
                     t = ",".join(t)
                 if any(x in str(t) for x in ["Article", "BlogPosting", "NewsArticle"]):
                     title = obj.get("headline") or obj.get("name") or ""
-                    link  = obj.get("url") or base_url
-                    date  = obj.get("datePublished") or obj.get("dateModified") or ""
-                    desc  = obj.get("description") or ""
+                    link = obj.get("url") or base_url
+                    date = obj.get("datePublished") or obj.get("dateModified") or ""
+                    desc = obj.get("description") or ""
                     if title:
                         items.append({
                             "title": title,
@@ -226,6 +220,7 @@ def _extract_article_meta(article_url: str) -> dict | None:
             og = soup.find("meta", attrs={"property": "article:published_time"})
             if og and og.get("content"):
                 iso_dt = og["content"].strip()
+
         if iso_dt:
             try:
                 dt = datetime.datetime.fromisoformat(iso_dt.replace("Z", "+00:00"))
@@ -239,10 +234,11 @@ def _extract_article_meta(article_url: str) -> dict | None:
         md = soup.find("meta", attrs={"name": "description"}) or soup.find("meta", attrs={"property": "og:description"})
         if md and md.get("content"):
             desc = md["content"].strip()
+
         if not title:
             title = article_url
-        return {"title": title, "link": article_url, "pubDate": pub, "description": desc or title}
 
+        return {"title": title, "link": article_url, "pubDate": pub, "description": desc or title}
     except Exception:
         # Any parsing/fetch error on the article page => let caller fall back gracefully
         return None
@@ -254,7 +250,6 @@ def scrape_items(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
     """Scrape listing page for links; fetch article pages for rich metadata."""
     article_urls: list[tuple[str, str]] = []
     links = []
-
     try:
         resp = get(page_url)
         resp.raise_for_status()
@@ -282,21 +277,39 @@ def scrape_items(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
         seen = set()
         for a in links:
             href = a.get("href")
+
+            # ----------------------------
+            # Title fallback patch (Section 4)
+            # ----------------------------
             title = (a.get_text(strip=True) or "").strip()
-            if not href or not title:
+            if not title:
+                title = (a.get("aria-label") or a.get("title") or "").strip()
+            if not title:
+                img = a.find("img", alt=True)
+                if img and img.get("alt"):
+                    title = img["alt"].strip()
+            if not title:
+                # last-resort: keep the link instead of dropping it
+                title = "Post"
+            # ----------------------------
+
+            if not href:
                 continue
+
             url = urljoin(page_url, href)
             if url in seen:
                 continue
             seen.add(url)
+
             # Filter out navigation/junk
             if any(x in url.lower() for x in ["#", "/tag/", "/category/", "/login", "/signup", "mailto:"]):
                 continue
+
             article_urls.append((title, url))
             if len(article_urls) >= max(limit * 2, 30):
                 break
     except Exception as e:
-        print(f"  ! scrape_items listing fetch error: {e}")
+        print(f" ! scrape_items listing fetch error: {e}")
 
     # Visit up to MAX_ARTICLE_FETCHES article pages to get better metadata
     final: list[dict] = []
@@ -389,9 +402,11 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
         f"{base_root}/sitemap.xml.gz",
         f"{base_root}/sitemap_index.xml.gz",
     ]
-
     robots_hints = _read_robots_for_sitemaps(page_url)
     candidates = robots_hints + [c for c in candidates if c not in robots_hints]
+
+    seen_sitemaps = set()
+    page_urls: list[str] = []
 
     def _iter_local(root: ET.Element, local_name: str):
         """Iterate elements by local tag name, ignoring XML namespace."""
@@ -464,7 +479,7 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
     hint_path = urlparse(page_url).path.rstrip("/")
     if hint_path and hint_path != "/":
         blog_first = [u for u in urls if urlparse(u).path.startswith(hint_path)]
-        others     = [u for u in urls if not urlparse(u).path.startswith(hint_path)]
+        others = [u for u in urls if not urlparse(u).path.startswith(hint_path)]
         urls = blog_first + others
     # --- End path-hint ---
 
@@ -501,20 +516,20 @@ def write_rss(out_path: str, channel_title: str, channel_link: str, items: list[
         l = escape(i.get("link", ""))
         d = escape(i.get("description", "") or i.get("summary", "") or t)
         pd = i.get("pubDate") or last_build
-        return f"""  <item>
-    <title>{t}</title>
-    <link>{l}</link>
-    <description>{d}</description>
-    <pubDate>{pd}</pubDate>
-  </item>"""
+        return f""" <item>
+ <title>{t}</title>
+ <link>{l}</link>
+ <description>{d}</description>
+ <pubDate>{pd}</pubDate>
+ </item>"""
 
     xml = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>{escape(channel_title)}</title>
-  <link>{escape(channel_link)}</link>
-  <description>Auto-generated periodically</description>
-  <lastBuildDate>{last_build}</lastBuildDate>
+ <title>{escape(channel_title)}</title>
+ <link>{escape(channel_link)}</link>
+ <description>Auto-generated periodically</description>
+ <lastBuildDate>{last_build}</lastBuildDate>
 {os.linesep.join(item_xml(i) for i in items)}
 </channel>
 </rss>
@@ -535,7 +550,7 @@ def _read_existing_last_build(slug: str) -> str:
         if m:
             return m.group(1).strip()
         # Fallback: in case a past run emitted escaped tags
-        m = re.search(r"&lt;lastBuildDate&gt;(.*?)&lt;/lastBuildDate&gt;", text, flags=re.IGNORECASE | re.DOTALL)
+        m = re.search(r"<lastBuildDate>(.*?)</lastBuildDate>", text, flags=re.IGNORECASE | re.DOTALL)
         if m:
             return m.group(1).strip()
     except Exception:
@@ -543,7 +558,7 @@ def _read_existing_last_build(slug: str) -> str:
     return "n/a"
 
 def build_index(feed_map_enabled: list[tuple[str, str, str]],
-                feed_map_disabled: list[tuple[str, str, str]]):
+               feed_map_disabled: list[tuple[str, str, str]]):
     """
     Create a simple HTML index page listing all feeds.
     - feed_map_enabled: [(name, slug, last_build)]
@@ -566,25 +581,22 @@ def build_index(feed_map_enabled: list[tuple[str, str, str]],
 <title>Research Feeds (auto-updated)</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-  body{{font-family:system-ui,Segoe UI,Arial,sans-serif;line-height:1.5;padding:2rem;max-width:900px;margin:auto}}
-  h2{{margin-top:2rem}}
-  code, small{{opacity:.8}}
-  li{{margin:.25rem 0}}
+ body{{font-family:system-ui,Segoe UI,Arial,sans-serif;line-height:1.5;padding:2rem;max-width:900px;margin:auto}}
+ h2{{margin-top:2rem}}
+ code, small{{opacity:.8}}
+ li{{margin:.25rem 0}}
 </style>
 </head><body>
 <h1>Research Feeds</h1>
 <p>Updated automatically by GitHub Actions.</p>
-
 <h2>Enabled</h2>
 <ul>
 {os.linesep.join(row_enabled(n, s, lb) for (n, s, lb) in feed_map_enabled)}
 </ul>
-
 <h2>Disabled</h2>
 <ul>
 {os.linesep.join(row_disabled(n, s, lb) for (n, s, lb) in feed_map_disabled)}
 </ul>
-
 </body></html>
 """
     with open("index.html", "w", encoding="utf-8") as f:
@@ -598,9 +610,9 @@ def _respect_robots_for_source(src: dict) -> bool:
     """
     Decide whether to respect robots.txt for this source.
     Priority:
-      1) if "ignore_robots": true  -> return False
-      2) if "respect_robots" is explicitly true/false -> return that
-      3) default to the global RESPECT_ROBOTS
+    1) if "ignore_robots": true -> return False
+    2) if "respect_robots" is explicitly true/false -> return that
+    3) default to the global RESPECT_ROBOTS
     """
     if src.get("ignore_robots") is True:
         return False
@@ -641,11 +653,10 @@ def main():
         _prev_respect = RESPECT_ROBOTS
         RESPECT_ROBOTS = _respect_robots_for_source(src)
         # ----------------------------------
-
         try:
-            mode = src.get("mode", "auto").lower()  # auto|scrape|sitemap
+            mode = src.get("mode", "auto").lower()  # auto/scrape/sitemap
             print(f"\n=== Processing: {name} ({page_url}) -> {out_path}")
-            print(f"    robots.txt respected: {RESPECT_ROBOTS}")
+            print(f" robots.txt respected: {RESPECT_ROBOTS}")
 
             feed = None
             if mode == "auto":
@@ -655,7 +666,7 @@ def main():
                         d = validate_feed(cand)
                         if d and d.entries:
                             feed = d
-                            print("  + Found feed:", cand)
+                            print(" + Found feed:", cand)
                             break
                     except Exception:
                         continue
@@ -663,14 +674,16 @@ def main():
             items: list[dict] = []
             if mode == "scrape":
                 if RESPECT_ROBOTS and not robots_allows(page_url):
-                    print("  ! robots.txt disallows scraping listing; trying sitemap fallback …")
+                    print(" ! robots.txt disallows scraping listing; trying sitemap fallback …")
                     items = scrape_from_sitemap(page_url)
                 else:
-                    print("  • scraping listing page …")
+                    print(" • scraping listing page …")
                     items = scrape_items(page_url)
+
             elif mode == "sitemap":
-                print("  • using sitemap fallback …")
+                print(" • using sitemap fallback …")
                 items = scrape_from_sitemap(page_url)
+
             elif feed:
                 # Convert feedparser entries to our minimal RSS items
                 for e in feed.entries[:MAX_ITEMS_PER_SOURCE]:
@@ -688,16 +701,17 @@ def main():
                     items.append({"title": title, "link": link, "pubDate": pub, "description": desc})
             else:
                 # Fallback scrape (auto mode, but no valid feed found)
-                print("  ! No official feed found; scraping recent links …")
+                print(" ! No official feed found; scraping recent links …")
                 items = scrape_items(page_url)
-                if not items:
-                    now = rfc2822()
-                    items = [{
-                        "title": f"{name} — no items discovered",
-                        "link": page_url,
-                        "pubDate": now,
-                        "description": "Feed builder could not detect recent posts automatically."
-                    }]
+
+            if not items:
+                now = rfc2822()
+                items = [{
+                    "title": f"{name} — no items discovered",
+                    "link": page_url,
+                    "pubDate": now,
+                    "description": "Feed builder could not detect recent posts automatically."
+                }]
 
             # Write RSS and record this run's lastBuildDate
             last_build = write_rss(out_path, f"{name} (Custom Feed)", page_url, items)
@@ -705,7 +719,7 @@ def main():
 
         except Exception as e:
             # Hard guard: never let one source kill the whole run
-            print(f"  ! Unhandled error for {name}: {e}")
+            print(f" ! Unhandled error for {name}: {e}")
             last_build = rfc2822()
             write_rss(
                 out_path,
@@ -720,6 +734,7 @@ def main():
             )
             feed_map_enabled.append((name, slug, last_build))
             continue
+
         finally:
             # restore global after processing this source
             RESPECT_ROBOTS = _prev_respect
