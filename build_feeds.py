@@ -8,6 +8,7 @@ Modes per source:
    then try common suffixes, else scrape.
  - "scrape" -> skip feed discovery and scrape directly.
  - "sitemap" -> read sitemap(s) to discover recent URLs, then extract metadata.
+
 Notes:
 - Designed for GitHub Actions on a schedule (UTC).
 - Writes feeds to feeds/<slug>.xml and an index.html listing.
@@ -44,7 +45,7 @@ COMMON_SUFFIXES = [
 # ---------------------------------------------------------------------
 # Option 1: HTTP debug logging
 # ---------------------------------------------------------------------
-DEBUG_HTTP = True  # Set to False once things work (keeps logs smaller)
+DEBUG_HTTP = True  # set False once stable (reduces noise)
 
 # ---------------------------------------------------------------------
 # Time helpers
@@ -72,18 +73,14 @@ def get(url: str, label: str = ""):
     try:
         r = requests.get(url, headers=HEADERS, timeout=TIMEOUT, allow_redirects=True)
         ct = r.headers.get("Content-Type", "")
-
-        # Print for every request when debugging; otherwise only for non-200
         if DEBUG_HTTP:
             print(f" [HTTP] {label} GET {url} -> {r.status_code} (final: {r.url}) CT={ct}")
         elif r.status_code != 200:
             print(f" [HTTP] {label} GET {url} -> {r.status_code} (final: {r.url}) CT={ct}")
 
-        # If blocked / throttled / challenge page, show a tiny hint of body
         if DEBUG_HTTP and r.status_code != 200:
             snippet = (r.text or "")[:200].replace("\n", " ").replace("\r", " ")
             print(f" [HTTP] {label} body snippet: {snippet}")
-
         return r
     except Exception as e:
         print(f" [HTTP] {label} GET {url} -> EXCEPTION: {e}")
@@ -232,6 +229,7 @@ def _extract_article_meta(article_url: str) -> dict | None:
                     item["pubDate"] = guess or rfc2822()
             else:
                 item["pubDate"] = rfc2822()
+
             if not item.get("description"):
                 md = soup.find("meta", attrs={"name": "description"}) or soup.find("meta", attrs={"property": "og:description"})
                 if md and md.get("content"):
@@ -264,8 +262,10 @@ def _extract_article_meta(article_url: str) -> dict | None:
         md = soup.find("meta", attrs={"name": "description"}) or soup.find("meta", attrs={"property": "og:description"})
         if md and md.get("content"):
             desc = md["content"].strip()
+
         if not title:
             title = article_url
+
         return {"title": title, "link": article_url, "pubDate": pub, "description": desc or title}
     except Exception:
         # Any parsing/fetch error on the article page => let caller fall back gracefully
@@ -323,6 +323,7 @@ def scrape_items(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
 
             if not href:
                 continue
+
             url = urljoin(page_url, href)
             if url in seen:
                 continue
@@ -411,14 +412,23 @@ def _fetch_xml(url: str) -> str | None:
     except Exception:
         return None
 
-def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
-    """Find recent article URLs via sitemap(s) and extract article metadata."""
+def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE, sitemap_url: str | None = None):
+    """
+    Find recent article URLs via sitemap(s) and extract article metadata.
+
+    Option B: If sitemap_url is provided (from sources.json), it is tried first.
+    """
     parsed = urlparse(page_url)
     base_root = f"{parsed.scheme}://{parsed.netloc}"
 
-    # Candidate sitemap URLs: defaults + robots.txt hints
-    # NEW: If caller passed a sitemap XML directly, try it first
-    candidates = []
+    # Candidate sitemap URLs: explicit sitemap_url first + robots hints + defaults
+    candidates: list[str] = []
+
+    # NEW (Option B): use explicit sitemap_url from sources.json when provided
+    if sitemap_url:
+        candidates.append(sitemap_url)
+
+    # Existing behavior: if the page_url itself looks like a sitemap XML, try it too
     if "sitemap" in page_url.lower() and page_url.lower().endswith((".xml", ".xml.gz")):
         candidates.append(page_url)
 
@@ -429,8 +439,18 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
         f"{base_root}/sitemap.xml.gz",
         f"{base_root}/sitemap_index.xml.gz",
     ]
+
     robots_hints = _read_robots_for_sitemaps(page_url)
     candidates = robots_hints + [c for c in candidates if c not in robots_hints]
+
+    # De-duplicate candidates (preserve order)
+    seen_cands = set()
+    dedup_cands = []
+    for c in candidates:
+        if c and c not in seen_cands:
+            seen_cands.add(c)
+            dedup_cands.append(c)
+    candidates = dedup_cands
 
     seen_sitemaps = set()
     page_urls: list[str] = []
@@ -438,13 +458,13 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
     def _iter_local(root: ET.Element, local_name: str):
         """Iterate elements by local tag name, ignoring XML namespace."""
         for el in root.iter():
-            if isinstance(el.tag, str) and el.tag.rsplit("}", 1)[-1] == local_name:
+            if isinstance(el.tag, str) and el.tag.rsplit('}', 1)[-1] == local_name:
                 yield el
 
     def _first_child_local(parent: ET.Element, local_name: str):
         """Get first child with given local name, ignoring namespace."""
         for ch in list(parent):
-            if isinstance(ch.tag, str) and ch.tag.rsplit("}", 1)[-1] == local_name:
+            if isinstance(ch.tag, str) and ch.tag.rsplit('}', 1)[-1] == local_name:
                 return ch
         return None
 
@@ -492,7 +512,7 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
         if len(page_urls) >= max(limit * 2, 50):
             break
 
-    # De-duplicate and cap
+    # De-duplicate and cap URLs
     dedup = []
     seen = set()
     for u in page_urls:
@@ -501,14 +521,12 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE):
             dedup.append(u)
     urls = dedup[: max(limit * 2, 50)]
 
-    # --- Prefer URLs that share the same leading path as provided page_url ---
-    # Example: if page_url is https://www.example.com/blog/, prioritize /blog/... URLs first.
+    # Prefer URLs that share the same leading path as provided page_url
     hint_path = urlparse(page_url).path.rstrip("/")
     if hint_path and hint_path != "/":
         blog_first = [u for u in urls if urlparse(u).path.startswith(hint_path)]
         others = [u for u in urls if not urlparse(u).path.startswith(hint_path)]
         urls = blog_first + others
-    # --- End path-hint ---
 
     items = []
     for u in urls:
@@ -576,7 +594,7 @@ def _read_existing_last_build(slug: str) -> str:
         m = re.search(r"<lastBuildDate>(.*?)</lastBuildDate>", text, flags=re.IGNORECASE | re.DOTALL)
         if m:
             return m.group(1).strip()
-        # Fallback: in case a past run emitted escaped tags
+        # Fallback (kept as-is)
         m = re.search(r"<lastBuildDate>(.*?)</lastBuildDate>", text, flags=re.IGNORECASE | re.DOTALL)
         if m:
             return m.group(1).strip()
@@ -658,7 +676,7 @@ def main():
     enabled_sources = [s for s in sources if not s.get("disabled")]
     disabled_sources = [s for s in sources if s.get("disabled")]
 
-    feed_map_enabled: list[tuple[str, str, str]] = []  # (name, slug, last_build)
+    feed_map_enabled: list[tuple[str, str, str]] = []   # (name, slug, last_build)
     feed_map_disabled: list[tuple[str, str, str]] = []  # (name, slug, last_build from existing file or 'n/a')
 
     # Pre-compute last build for disabled from existing XML files, if any
@@ -702,14 +720,14 @@ def main():
             if mode == "scrape":
                 if RESPECT_ROBOTS and not robots_allows(page_url):
                     print(" ! robots.txt disallows scraping listing; trying sitemap fallback …")
-                    items = scrape_from_sitemap(page_url)
+                    items = scrape_from_sitemap(page_url, sitemap_url=src.get("sitemap_url"))
                 else:
                     print(" • scraping listing page …")
                     items = scrape_items(page_url)
 
             elif mode == "sitemap":
                 print(" • using sitemap fallback …")
-                items = scrape_from_sitemap(page_url)
+                items = scrape_from_sitemap(page_url, sitemap_url=src.get("sitemap_url"))
 
             elif feed:
                 # Convert feedparser entries to our minimal RSS items
@@ -763,6 +781,7 @@ def main():
             continue
 
         finally:
+
             # restore global after processing this source
             RESPECT_ROBOTS = _prev_respect
 
