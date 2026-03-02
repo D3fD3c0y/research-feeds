@@ -4,7 +4,7 @@
   <title>Abstract Security Blog (Custom Feed)</title>
   <link>https://www.abstract.security/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 02 Mar 2026 08:58:42 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Mar 2026 17:03:51 GMT</lastBuildDate>
   <item>
     <title>10 Cybersecurity Focus Areas That Actually Move the Needle</title>
     <link>https://www.abstract.security/blog/10-cybersecurity-focus-areas-that-actually-move-the-needle</link>
@@ -135,7 +135,7 @@
     <title>Contagious Interview: Evolution of VS Code and Cursor Tasks Infection Chains - Part 1</title>
     <link>https://www.abstract.security/blog/contagious-interview-evolution-of-vscode-and-cursor-tasks-infection-chains</link>
     <description>ASTRO tracks fresh Contagious Interview evolutions: shortened URLs masking Vercel infrastructure, NVIDIA-impersonating GitHub Gists, and Google Drive payload delivery with a virus-scan bypass. Original research with detection queries and IOCs.</description>
-    <pubDate>Sat, 28 Feb 2026 21:44:19 GMT</pubDate>
+    <pubDate>Mon, 02 Mar 2026 16:59:33 GMT</pubDate>
   </item>
   <item>
     <title>Contagious Interview: Tracking the VS Code Tasks Infection Vector</title>
