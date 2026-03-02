@@ -1,189 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Abstract Security Blog (Custom Feed)</title>
-  <link>https://www.abstract.security/blog/</link>
-  <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 02 Mar 2026 19:57:35 GMT</lastBuildDate>
-  <item>
-    <title>10 Cybersecurity Focus Areas That Actually Move the Needle</title>
-    <link>https://www.abstract.security/blog/10-cybersecurity-focus-areas-that-actually-move-the-needle</link>
-    <description>10 Cybersecurity Focus Areas That Actually Move the Needle</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Abstract Security Named in SACR’s 2025 SDPP Market Guide: The Rise of Security Data Pipelines</title>
-    <link>https://www.abstract.security/blog/2025-security-data-pipeline-platforms-market-guide</link>
-    <description>Abstract Security Named in SACR’s 2025 SDPP Market Guide: The Rise of Security Data Pipelines</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>90% of Your Splunk Data Is Helping Attackers, Not Analysts</title>
-    <link>https://www.abstract.security/blog/90-of-your-splunk-data-is-helping-attackers-not-analysts</link>
-    <description>Most Splunk environments contain 90%+ data that&amp;#39;s never read—driving up costs and creating noise that obscures real threats. Our free app analyzes your indexes and sourcetypes to show you where the waste is and what you can safely cut.</description>
-    <pubDate>Thu, 19 Feb 2026 14:55:31 GMT</pubDate>
-  </item>
-  <item>
-    <title>Abstract and Chris Camacho: Threat intelligence - the next evolution</title>
-    <link>https://www.abstract.security/blog/abstract-and-chris-camacho-threat-intelligence-the-next-evolution</link>
-    <description>Abstract and Chris Camacho: Threat intelligence - the next evolution</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Abstract Joins Torq AMP Alliance Program to Accelerate Agentic SecOps</title>
-    <link>https://www.abstract.security/blog/abstract-joins-torq-amp-alliance-program-to-accelerate-agentic-secops</link>
-    <description>Abstract joins the Torq AMP Alliance to accelerate agentic SecOps by combining pipeline-first detection engineering with AI-driven SOC automation.</description>
-    <pubDate>Mon, 16 Feb 2026 20:42:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Abstract Security + Amazon Security Lake + OCSF = Upgraded Security Data Management!</title>
-    <link>https://www.abstract.security/blog/abstract-security-amazon-security-lake-ocsf-upgraded-security-data-management</link>
-    <description>Abstract Security + Amazon Security Lake + OCSF = Upgraded Security Data Management!</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Abstract Security Joins Forces with Analytica42 to Supercharge Integration Delivery to Google SecOps and More</title>
-    <link>https://www.abstract.security/blog/abstract-security-joins-forces-with-analytica42-to-supercharge-integration-delivery-to-google-secops-and-more</link>
-    <description>Abstract Security Joins Forces with Analytica42 to Supercharge Integration Delivery to Google SecOps and More</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Abstract Security Partners with Netskope to turn Security Data into Real-Time Decisions</title>
-    <link>https://www.abstract.security/blog/abstract-security-partners-with-netskope-to-turn-security-data-into-real-time-decisions</link>
-    <description>Abstract Security, the leader in streaming-first security data operations, today announced a partnership with Netskope to provide joint customers the ability to bring detection directly into the data stream.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Abstract Security Welcomes OmegaBlack To Growing Roster of New Customers</title>
-    <link>https://www.abstract.security/blog/abstract-security-welcomes-omegablack-to-growing-roster-of-new-customers</link>
-    <description>Abstract Security, building the future of AI enabled security operations, today announced it has added threat intelligence expert OmegaBlack along with several new MSSP customers over the past two months.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>AI Agents and Automated SOCs: Centering End-to-End Workflows for Real Impact</title>
-    <link>https://www.abstract.security/blog/ai-agents-and-automated-socs-centering-end-to-end-workflows-for-real-impact</link>
-    <description>AI agents can streamline security operations—but only when built on clean data and end-to-end workflows. Learn how automation reduces noise and strengthens the modern SOC.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Automating macOS Incident Response: DFIR-as-Code in Action Against AppleProcessHub</title>
-    <link>https://www.abstract.security/blog/automating-macos-incident-response-dfir-as-code-in-action-against-appleprocesshub</link>
-    <description>Learn how DFIR-as-Code transforms MacOS incident response by automating forensic processes, enhancing efficiency, and reducing human error.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Breaking the SIEM Mold: Security Data Operations &amp;amp; What’s Next | Live at Black Hat</title>
-    <link>https://www.abstract.security/blog/breaking-the-siem-mold-security-data-operations-whats-next-live-at-black-hat</link>
-    <description>Breaking the SIEM Mold: Security Data Operations &amp;amp;amp; What’s Next | Live at Black Hat</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: Achieving Fortune 50 Security With a SMB Budget</title>
-    <link>https://www.abstract.security/blog/c2-corner-achieving-fortune-50-security-with-a-smb-budget</link>
-    <description>C2 Corner: Achieving Fortune 50 Security With a SMB Budget</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: Detection Doesn’t Fail First: Data Does</title>
-    <link>https://www.abstract.security/blog/c2-corner-detection-doesnt-fail-first-data-does</link>
-    <description>Detection doesn’t fail because teams lack skill. It fails when telemetry, data pipelines, and security engineering aren’t built for modern detection.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: How I Mentor</title>
-    <link>https://www.abstract.security/blog/c2-corner-how-i-mentor</link>
-    <description>Jim Routh shares the mentoring principles and habits he’s relied on for decades to help CISOs and security leaders grow through ambiguity, responsibility, and trust.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: Rebooting Security Operations: Mission First, People Always</title>
-    <link>https://www.abstract.security/blog/c2-corner-rebooting-security-operations-mission-first-people-always</link>
-    <description>Reboot SecOps with integrated tooling, realistic training, AI as a force multiplier, and people-first leadership built for a modern SOC.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: State of Enterprise Detection Engineering for a Modern SOC</title>
-    <link>https://www.abstract.security/blog/c2-corner-state-of-enterprise-detection-engineering-for-a-modern-soc</link>
-    <description>Explore 2025’s enterprise SOC evolution—data pipelines reshape SIEM economics, CTI drives TTP-based detections, and fundamentals still win the day.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: Stop Automating the SOC. Start Automating Remediation.</title>
-    <link>https://www.abstract.security/blog/c2-corner-stop-automating-the-soc-start-automating-remediation</link>
-    <description>SOC automation often stops at detection while real fixes lag. Learn how to cut noise, align IT &amp;amp; security, and automate remediation to reduce risk.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: The Tactician and the Strategist in Cyber Threat Intelligence</title>
-    <link>https://www.abstract.security/blog/c2-corner-the-tactician-and-the-strategist-in-cyber-threat-intelligence</link>
-    <description>In Cyber Threat Intel, AI is the Tactician. Humans are the Strategists.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: Why I Mentor</title>
-    <link>https://www.abstract.security/blog/c2-corner-why-i-mentor</link>
-    <description>A reflection from Jim Routh on mentorship, leadership, and paying it forward—sharing lived experience from decades as a CISO and mentor in cybersecurity.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: Climbing the Mountain Again and Again</title>
-    <link>https://www.abstract.security/blog/climbing-the-mountain-again-and-again</link>
-    <description>Cybersecurity careers are rarely linear. Explore how structure and perseverance help professionals navigate industry resets and long-term growth.</description>
-    <pubDate>Wed, 18 Feb 2026 23:32:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>Contagious Interview: Evolution of VS Code and Cursor Tasks Infection Chains - Part 1</title>
-    <link>https://www.abstract.security/blog/contagious-interview-evolution-of-vscode-and-cursor-tasks-infection-chains</link>
-    <description>ASTRO tracks fresh Contagious Interview evolutions: shortened URLs masking Vercel infrastructure, NVIDIA-impersonating GitHub Gists, and Google Drive payload delivery with a virus-scan bypass. Original research with detection queries and IOCs.</description>
-    <pubDate>Mon, 02 Mar 2026 16:59:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Contagious Interview: Tracking the VS Code Tasks Infection Vector</title>
-    <link>https://www.abstract.security/blog/contagious-interview-tracking-the-vs-code-tasks-infection-vector</link>
-    <description>An in-depth analysis of the DPRK-linked Contagious Interview campaign, revealing how malicious VS Code tasks enable silent code execution, payload delivery, and developer compromise via GitHub repos.</description>
-    <pubDate>Tue, 24 Feb 2026 22:16:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Critical Apache Tika Vulnerability: CVE-2025-66516 Enables XXE Injection</title>
-    <link>https://www.abstract.security/blog/critical-apache-tika-vulnerability-cve-2025-66516-enables-xxe-injection</link>
-    <description>A critical XXE flaw in Apache Tika (CVE-2025-66516) allows file reads, SSRF, and DoS via malicious PDFs. Learn affected versions, IoCs, and required patches.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Critical Ivanti EPMM Vulnerabilities: CVE-2026-1281 &amp;amp; CVE-2026-1340</title>
-    <link>https://www.abstract.security/blog/critical-ivanti-epmm-vulnerabilities-cve-2026-1281-cve-2026-1340</link>
-    <description>CISA has added two critical Ivanti EPMM vulnerabilities to the KEV catalog. Learn how CVE-2026-1281 and CVE-2026-1340 are exploited, how to detect attacks via Apache logs, and what to do now.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Critical MongoDB Vulnerability: CVE-2025-14847 (MongoBleed)</title>
-    <link>https://www.abstract.security/blog/critical-mongodb-vulnerability-cve-2025-14847-mongobleed</link>
-    <description>CVE-2025-14847 (MongoBleed) is a critical MongoDB vulnerability enabling unauthenticated memory disclosure. Learn impact, affected versions, and detection steps.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Critical React Server Components RCE (CVE-2025-55182): What You Need to Patch Now</title>
-    <link>https://www.abstract.security/blog/critical-react-server-components-rce-cve-2025-55182-what-you-need-to-patch-now</link>
-    <description>CVE-2025-55182 exposes a deserialization flaw in React Server Components enabling unauthenticated RCE. Review affected versions, IoCs, and mitigation steps.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>DFIR-as-Code: Scaled and Repeatable Incident Response</title>
-    <link>https://www.abstract.security/blog/dfir-as-code-scaled-and-repeatable-incident-response</link>
-    <description>DFIR-as-Code: Scaled and Repeatable Incident Response</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Dune Security and Abstract Security Partner to Deliver Real-Time Detection and Automated Risk Reduction</title>
-    <link>https://www.abstract.security/blog/dune-security-and-abstract-security-partner-to-deliver-real-time-detection-and-automated-risk-reduction</link>
-    <description>Dune Security and Abstract Security Partner to Deliver Real-Time Detection and Automated Risk Reduction</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Enabling the MongoDB Logging Firehose</title>
-    <link>https://www.abstract.security/blog/enabling-the-mongodb-logging-firehose</link>
-    <description>MongoBleed exposed how quickly MongoDB logging can explode under attack. Learn which logs matter, how verbosity impacts volume, and how to preserve security signal without overwhelming your pipeline.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
+ <title>Abstract Security Blog (Custom Feed)</title>
+ <link>https://www.abstract.security/blog/</link>
+ <description>Auto-generated periodically</description>
+ <lastBuildDate>Mon, 02 Mar 2026 21:12:12 GMT</lastBuildDate>
+ <item>
+ <title>10 Cybersecurity Focus Areas That Actually Move the Needle</title>
+ <link>https://www.abstract.security/blog/10-cybersecurity-focus-areas-that-actually-move-the-needle</link>
+ <description>10 Cybersecurity Focus Areas That Actually Move the Needle</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>Abstract Security Named in SACR’s 2025 SDPP Market Guide: The Rise of Security Data Pipelines</title>
+ <link>https://www.abstract.security/blog/2025-security-data-pipeline-platforms-market-guide</link>
+ <description>Abstract Security Named in SACR’s 2025 SDPP Market Guide: The Rise of Security Data Pipelines</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>90% of Your Splunk Data Is Helping Attackers, Not Analysts</title>
+ <link>https://www.abstract.security/blog/90-of-your-splunk-data-is-helping-attackers-not-analysts</link>
+ <description>Most Splunk environments contain 90%+ data that&amp;#39;s never read—driving up costs and creating noise that obscures real threats. Our free app analyzes your indexes and sourcetypes to show you where the waste is and what you can safely cut.</description>
+ <pubDate>Thu, 19 Feb 2026 14:55:31 GMT</pubDate>
+ </item>
+ <item>
+ <title>Abstract and Chris Camacho: Threat intelligence - the next evolution</title>
+ <link>https://www.abstract.security/blog/abstract-and-chris-camacho-threat-intelligence-the-next-evolution</link>
+ <description>Abstract and Chris Camacho: Threat intelligence - the next evolution</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>Abstract Joins Torq AMP Alliance Program to Accelerate Agentic SecOps</title>
+ <link>https://www.abstract.security/blog/abstract-joins-torq-amp-alliance-program-to-accelerate-agentic-secops</link>
+ <description>Abstract joins the Torq AMP Alliance to accelerate agentic SecOps by combining pipeline-first detection engineering with AI-driven SOC automation.</description>
+ <pubDate>Mon, 16 Feb 2026 20:42:25 GMT</pubDate>
+ </item>
+ <item>
+ <title>Abstract Security + Amazon Security Lake + OCSF = Upgraded Security Data Management!</title>
+ <link>https://www.abstract.security/blog/abstract-security-amazon-security-lake-ocsf-upgraded-security-data-management</link>
+ <description>Abstract Security + Amazon Security Lake + OCSF = Upgraded Security Data Management!</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>Abstract Security Joins Forces with Analytica42 to Supercharge Integration Delivery to Google SecOps and More</title>
+ <link>https://www.abstract.security/blog/abstract-security-joins-forces-with-analytica42-to-supercharge-integration-delivery-to-google-secops-and-more</link>
+ <description>Abstract Security Joins Forces with Analytica42 to Supercharge Integration Delivery to Google SecOps and More</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>Abstract Security Partners with Netskope to turn Security Data into Real-Time Decisions</title>
+ <link>https://www.abstract.security/blog/abstract-security-partners-with-netskope-to-turn-security-data-into-real-time-decisions</link>
+ <description>Abstract Security, the leader in streaming-first security data operations, today announced a partnership with Netskope to provide joint customers the ability to bring detection directly into the data stream.</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>Abstract Security Welcomes OmegaBlack To Growing Roster of New Customers</title>
+ <link>https://www.abstract.security/blog/abstract-security-welcomes-omegablack-to-growing-roster-of-new-customers</link>
+ <description>Abstract Security, building the future of AI enabled security operations, today announced it has added threat intelligence expert OmegaBlack along with several new MSSP customers over the past two months.</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>AI Agents and Automated SOCs: Centering End-to-End Workflows for Real Impact</title>
+ <link>https://www.abstract.security/blog/ai-agents-and-automated-socs-centering-end-to-end-workflows-for-real-impact</link>
+ <description>AI agents can streamline security operations—but only when built on clean data and end-to-end workflows. Learn how automation reduces noise and strengthens the modern SOC.</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>Automating macOS Incident Response: DFIR-as-Code in Action Against AppleProcessHub</title>
+ <link>https://www.abstract.security/blog/automating-macos-incident-response-dfir-as-code-in-action-against-appleprocesshub</link>
+ <description>Learn how DFIR-as-Code transforms MacOS incident response by automating forensic processes, enhancing efficiency, and reducing human error.</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>Breaking the SIEM Mold: Security Data Operations &amp;amp; What’s Next | Live at Black Hat</title>
+ <link>https://www.abstract.security/blog/breaking-the-siem-mold-security-data-operations-whats-next-live-at-black-hat</link>
+ <description>Breaking the SIEM Mold: Security Data Operations &amp;amp;amp; What’s Next | Live at Black Hat</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>C2 Corner: Achieving Fortune 50 Security With a SMB Budget</title>
+ <link>https://www.abstract.security/blog/c2-corner-achieving-fortune-50-security-with-a-smb-budget</link>
+ <description>C2 Corner: Achieving Fortune 50 Security With a SMB Budget</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>C2 Corner: Detection Doesn’t Fail First: Data Does</title>
+ <link>https://www.abstract.security/blog/c2-corner-detection-doesnt-fail-first-data-does</link>
+ <description>Detection doesn’t fail because teams lack skill. It fails when telemetry, data pipelines, and security engineering aren’t built for modern detection.</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>C2 Corner: How I Mentor</title>
+ <link>https://www.abstract.security/blog/c2-corner-how-i-mentor</link>
+ <description>Jim Routh shares the mentoring principles and habits he’s relied on for decades to help CISOs and security leaders grow through ambiguity, responsibility, and trust.</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>C2 Corner: Rebooting Security Operations: Mission First, People Always</title>
+ <link>https://www.abstract.security/blog/c2-corner-rebooting-security-operations-mission-first-people-always</link>
+ <description>Reboot SecOps with integrated tooling, realistic training, AI as a force multiplier, and people-first leadership built for a modern SOC.</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>C2 Corner: State of Enterprise Detection Engineering for a Modern SOC</title>
+ <link>https://www.abstract.security/blog/c2-corner-state-of-enterprise-detection-engineering-for-a-modern-soc</link>
+ <description>Explore 2025’s enterprise SOC evolution—data pipelines reshape SIEM economics, CTI drives TTP-based detections, and fundamentals still win the day.</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>C2 Corner: Stop Automating the SOC. Start Automating Remediation.</title>
+ <link>https://www.abstract.security/blog/c2-corner-stop-automating-the-soc-start-automating-remediation</link>
+ <description>SOC automation often stops at detection while real fixes lag. Learn how to cut noise, align IT &amp;amp; security, and automate remediation to reduce risk.</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>C2 Corner: The Tactician and the Strategist in Cyber Threat Intelligence</title>
+ <link>https://www.abstract.security/blog/c2-corner-the-tactician-and-the-strategist-in-cyber-threat-intelligence</link>
+ <description>In Cyber Threat Intel, AI is the Tactician. Humans are the Strategists.</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>C2 Corner: Why I Mentor</title>
+ <link>https://www.abstract.security/blog/c2-corner-why-i-mentor</link>
+ <description>A reflection from Jim Routh on mentorship, leadership, and paying it forward—sharing lived experience from decades as a CISO and mentor in cybersecurity.</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>C2 Corner: Climbing the Mountain Again and Again</title>
+ <link>https://www.abstract.security/blog/climbing-the-mountain-again-and-again</link>
+ <description>Cybersecurity careers are rarely linear. Explore how structure and perseverance help professionals navigate industry resets and long-term growth.</description>
+ <pubDate>Wed, 18 Feb 2026 23:32:47 GMT</pubDate>
+ </item>
+ <item>
+ <title>Contagious Interview: Evolution of VS Code and Cursor Tasks Infection Chains - Part 1</title>
+ <link>https://www.abstract.security/blog/contagious-interview-evolution-of-vscode-and-cursor-tasks-infection-chains</link>
+ <description>ASTRO tracks fresh Contagious Interview evolutions: shortened URLs masking Vercel infrastructure, NVIDIA-impersonating GitHub Gists, and Google Drive payload delivery with a virus-scan bypass. Original research with detection queries and IOCs.</description>
+ <pubDate>Mon, 02 Mar 2026 16:59:33 GMT</pubDate>
+ </item>
+ <item>
+ <title>Contagious Interview: Tracking the VS Code Tasks Infection Vector</title>
+ <link>https://www.abstract.security/blog/contagious-interview-tracking-the-vs-code-tasks-infection-vector</link>
+ <description>An in-depth analysis of the DPRK-linked Contagious Interview campaign, revealing how malicious VS Code tasks enable silent code execution, payload delivery, and developer compromise via GitHub repos.</description>
+ <pubDate>Tue, 24 Feb 2026 22:16:44 GMT</pubDate>
+ </item>
+ <item>
+ <title>Critical Apache Tika Vulnerability: CVE-2025-66516 Enables XXE Injection</title>
+ <link>https://www.abstract.security/blog/critical-apache-tika-vulnerability-cve-2025-66516-enables-xxe-injection</link>
+ <description>A critical XXE flaw in Apache Tika (CVE-2025-66516) allows file reads, SSRF, and DoS via malicious PDFs. Learn affected versions, IoCs, and required patches.</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>Critical Ivanti EPMM Vulnerabilities: CVE-2026-1281 &amp;amp; CVE-2026-1340</title>
+ <link>https://www.abstract.security/blog/critical-ivanti-epmm-vulnerabilities-cve-2026-1281-cve-2026-1340</link>
+ <description>CISA has added two critical Ivanti EPMM vulnerabilities to the KEV catalog. Learn how CVE-2026-1281 and CVE-2026-1340 are exploited, how to detect attacks via Apache logs, and what to do now.</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>Critical MongoDB Vulnerability: CVE-2025-14847 (MongoBleed)</title>
+ <link>https://www.abstract.security/blog/critical-mongodb-vulnerability-cve-2025-14847-mongobleed</link>
+ <description>CVE-2025-14847 (MongoBleed) is a critical MongoDB vulnerability enabling unauthenticated memory disclosure. Learn impact, affected versions, and detection steps.</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>Critical React Server Components RCE (CVE-2025-55182): What You Need to Patch Now</title>
+ <link>https://www.abstract.security/blog/critical-react-server-components-rce-cve-2025-55182-what-you-need-to-patch-now</link>
+ <description>CVE-2025-55182 exposes a deserialization flaw in React Server Components enabling unauthenticated RCE. Review affected versions, IoCs, and mitigation steps.</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>DFIR-as-Code: Scaled and Repeatable Incident Response</title>
+ <link>https://www.abstract.security/blog/dfir-as-code-scaled-and-repeatable-incident-response</link>
+ <description>DFIR-as-Code: Scaled and Repeatable Incident Response</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>Dune Security and Abstract Security Partner to Deliver Real-Time Detection and Automated Risk Reduction</title>
+ <link>https://www.abstract.security/blog/dune-security-and-abstract-security-partner-to-deliver-real-time-detection-and-automated-risk-reduction</link>
+ <description>Dune Security and Abstract Security Partner to Deliver Real-Time Detection and Automated Risk Reduction</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
+ <item>
+ <title>Enabling the MongoDB Logging Firehose</title>
+ <link>https://www.abstract.security/blog/enabling-the-mongodb-logging-firehose</link>
+ <description>MongoBleed exposed how quickly MongoDB logging can explode under attack. Learn which logs matter, how verbosity impacts volume, and how to preserve security signal without overwhelming your pipeline.</description>
+ <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+ </item>
 </channel>
 </rss>

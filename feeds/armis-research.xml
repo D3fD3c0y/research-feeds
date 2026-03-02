@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Armis Research (Custom Feed)</title>
-  <link>https://www.armis.com/blog/?cat=armis-research</link>
-  <description>Auto-generated periodically</description>
-  <lastBuildDate>Tue, 24 Feb 2026 09:02:34 GMT</lastBuildDate>
-  <item>
-    <title>https://www.armis.com/blog/?cat=armis-research — sitemap had no items</title>
-    <link>https://www.armis.com/blog/?cat=armis-research</link>
-    <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
-    <pubDate>Tue, 24 Feb 2026 09:02:34 GMT</pubDate>
-  </item>
+ <title>Armis Research (Custom Feed)</title>
+ <link>https://www.armis.com/blog/?cat=armis-research</link>
+ <description>Auto-generated periodically</description>
+ <lastBuildDate>Mon, 02 Mar 2026 21:12:54 GMT</lastBuildDate>
+ <item>
+ <title>https://www.armis.com/blog/?cat=armis-research — sitemap had no items</title>
+ <link>https://www.armis.com/blog/?cat=armis-research</link>
+ <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
+ <pubDate>Mon, 02 Mar 2026 21:12:54 GMT</pubDate>
+ </item>
 </channel>
 </rss>
