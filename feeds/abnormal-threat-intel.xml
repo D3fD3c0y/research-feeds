@@ -4,114 +4,12 @@
  <title>Abnormal Security Threat Intel Blog (Custom Feed)</title>
  <link>https://abnormal.ai/blog/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Mon, 02 Mar 2026 21:38:47 GMT</lastBuildDate>
+ <lastBuildDate>Mon, 02 Mar 2026 21:47:12 GMT</lastBuildDate>
  <item>
- <title>What Is the Weakest Link in Cybersecurity?</title>
- <link>https://abnormal.ai/blog/weakest-link-in-cyber-security</link>
- <description>Discover what is the weakest link in cybersecurity and why fixing systems, not blaming users, is the key to reducing human risk.</description>
- <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>How to Detect and Prevent Corporate Espionage Attacks</title>
- <link>https://abnormal.ai/blog/ai-corporate-espionage</link>
- <description>Learn how corporate espionage exploits email to steal trade secrets and IP. Discover behavioral AI detection methods that catch what legacy tools miss.</description>
- <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>Healthcare Fraud and Cybersecurity: Stopping BEC and Invoice Fraud</title>
- <link>https://abnormal.ai/blog/healthcare-fraud-cybersecurity</link>
- <description>Healthcare fraud and cybersecurity intersect at BEC, invoice fraud, and identity compromise. Learn how behavioral AI detects financial attacks others miss.</description>
- <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>Cybersecurity Attacks in Healthcare: How Threat Actors Strike</title>
- <link>https://abnormal.ai/blog/cybersecurity-attacks-in-healthcare</link>
- <description>Cybersecurity attacks in healthcare are escalating through identity compromise and supply chain exploitation. Learn how security leaders are fighting back.</description>
- <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>Healthcare Cloud Security: Protecting Patient Data in the Cloud</title>
- <link>https://abnormal.ai/blog/healthcare-cloud-security</link>
- <description>Healthcare cloud security starts with identity-first controls. Learn how to protect patient data across hybrid environments without disrupting care delivery.</description>
- <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>Top 5 Microsoft 365 Security Gaps Exposed by Abnormal (and How to Close Them)</title>
- <link>https://abnormal.ai/blog/top-microsoft-365-security-posture-gaps</link>
- <description>Discover the top Microsoft 365 security gaps identified across Abnormal deployments and how Security Posture Management helps close them.</description>
- <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>KI‑basierte E‑Mail‑Angriffe: Einfach gestartet, kaum zu stoppen</title>
- <link>https://abnormal.ai/blog/ki-gestuetzte-email-angriffe-dach</link>
- <description>Abnormal AI provides advanced cloud email security to prevent credential phishing, business email compromise, account takeover, and more.</description>
- <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>Microsoft Exchange Online Protection: What EOP Covers</title>
- <link>https://abnormal.ai/blog/microsoft-exchange-online-protection</link>
- <description>Discover what Microsoft Exchange Online Protection defends against, where it falls short, and how to close the gaps attackers exploit.</description>
- <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>Phishing Sense of Urgency: Why the Brain Falls for It</title>
- <link>https://abnormal.ai/blog/phishing-sense-of-urgency</link>
- <description>Learn why phishing sense of urgency bypasses rational thinking and how to train teams to pause, verify, and stop clicking malicious links.</description>
- <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>AI Governance Responsibilities for Security Leaders</title>
- <link>https://abnormal.ai/blog/ai-governance-responsibilities</link>
- <description>Learn how to assign AI governance responsibilities across security, legal, and leadership functions to meet emerging compliance requirements.</description>
- <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>Microsoft 365 Email Security: Built-In Protection Guide</title>
- <link>https://abnormal.ai/blog/microsoft-office-365-security-solutions</link>
- <description>Learn how Microsoft 365 email security works, where native protections fall short, and how behavioral AI closes gaps SEGs and Defender miss.</description>
- <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>Email Security Without the Configuration Tax</title>
- <link>https://abnormal.ai/blog/building-explainable-email-security</link>
- <description>Why transparency in email security shouldn’t require ongoing rule maintenance.</description>
- <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>Deciphering Identity Threats: New Tools to Track, Search, and Classify Account Takeovers</title>
- <link>https://abnormal.ai/blog/identity-threats-account-takeover-tracking-tools</link>
- <description>Abnormal expands Email Account Takeover Protection with centralized visibility into organizational trends, suspicious user activity, and attacker access paths.</description>
- <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>15 Top Cybersecurity Automation Tools for Enterprise in 2026</title>
- <link>https://abnormal.ai/blog/cybersecurity-automation-tools-for-enterprise</link>
- <description>Compare cybersecurity automation tools for enterprise SOCs across SIEM, SOAR, XDR, and email security. Evaluation frameworks and implementation tips included.</description>
- <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>Cybersecurity Career Paths: Entry-Level to CISO Roadmap</title>
- <link>https://abnormal.ai/blog/cybersecurity-career-paths</link>
- <description>Explore cybersecurity career paths from SOC analyst to CISO. Learn which skills hiring managers value most and how to accelerate your security career.</description>
- <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>Reduce SOC Workload with AI: 7 Automation Strategies</title>
- <link>https://abnormal.ai/blog/reduce-soc-workload-with-ai</link>
- <description>Discover 7 proven strategies to reduce SOC workload with AI. Cut alert fatigue, automate low-value tasks, and free analysts for meaningful security work.</description>
- <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>Identity Governance Best Practices for Hybrid Workforces</title>
- <link>https://abnormal.ai/blog/identity-governance-best-practices</link>
- <description>Identity governance best practices for hybrid work. Learn how to manage access, prevent privilege creep, and strengthen security posture.</description>
- <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
- </item>
- <item>
- <title>Exposure Management Programs: Key Elements for Success</title>
- <link>https://abnormal.ai/blog/exposure-management-programs</link>
- <description>Build an effective exposure management program. Learn key elements for long-term success and how to address gaps traditional tools miss.</description>
- <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
+ <title>https://abnormal.ai/blog/ — sitemap had no items</title>
+ <link>https://abnormal.ai/blog/</link>
+ <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
+ <pubDate>Mon, 02 Mar 2026 21:47:12 GMT</pubDate>
  </item>
 </channel>
 </rss>

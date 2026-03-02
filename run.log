@@ -6,26 +6,6 @@
  [HTTP] sitemap GET https://abnormal.ai/sitemap_index.xml -> 404 (final: https://abnormal.ai/sitemap_index.xml) CT=text/html; charset=utf-8
  [HTTP] sitemap body snippet: <!DOCTYPE html><html><head><meta charSet="utf-8" data-next-head=""/><meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0" data-next-head=""/><m
  [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-blog-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-blog-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/weakest-link-in-cyber-security -> 200 (final: https://abnormal.ai/blog/weakest-link-in-cyber-security) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/ai-corporate-espionage -> 200 (final: https://abnormal.ai/blog/ai-corporate-espionage) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/healthcare-fraud-cybersecurity -> 200 (final: https://abnormal.ai/blog/healthcare-fraud-cybersecurity) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/cybersecurity-attacks-in-healthcare -> 200 (final: https://abnormal.ai/blog/cybersecurity-attacks-in-healthcare) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/healthcare-cloud-security -> 200 (final: https://abnormal.ai/blog/healthcare-cloud-security) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/top-microsoft-365-security-posture-gaps -> 200 (final: https://abnormal.ai/blog/top-microsoft-365-security-posture-gaps) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/ki-gestuetzte-email-angriffe-dach -> 200 (final: https://abnormal.ai/blog/ki-gestuetzte-email-angriffe-dach) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/m365-direct-send-abuse -> 500 (final: https://abnormal.ai/blog/m365-direct-send-abuse) CT=text/html; charset=utf-8
- [HTTP] article body snippet: <!doctype html><html lang=en><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=theme-color content=#000><title>500: INTERNAL_SERVER_ERROR</title><style>ht
- [HTTP] article GET https://abnormal.ai/blog/microsoft-exchange-online-protection -> 200 (final: https://abnormal.ai/blog/microsoft-exchange-online-protection) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/phishing-sense-of-urgency -> 200 (final: https://abnormal.ai/blog/phishing-sense-of-urgency) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/ai-governance-responsibilities -> 200 (final: https://abnormal.ai/blog/ai-governance-responsibilities) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/microsoft-office-365-security-solutions -> 200 (final: https://abnormal.ai/blog/microsoft-office-365-security-solutions) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/building-explainable-email-security -> 200 (final: https://abnormal.ai/blog/building-explainable-email-security) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/identity-threats-account-takeover-tracking-tools -> 200 (final: https://abnormal.ai/blog/identity-threats-account-takeover-tracking-tools) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/cybersecurity-automation-tools-for-enterprise -> 200 (final: https://abnormal.ai/blog/cybersecurity-automation-tools-for-enterprise) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/cybersecurity-career-paths -> 200 (final: https://abnormal.ai/blog/cybersecurity-career-paths) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/reduce-soc-workload-with-ai -> 200 (final: https://abnormal.ai/blog/reduce-soc-workload-with-ai) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/identity-governance-best-practices -> 200 (final: https://abnormal.ai/blog/identity-governance-best-practices) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/exposure-management-programs -> 200 (final: https://abnormal.ai/blog/exposure-management-programs) CT=text/html; charset=utf-8
 Wrote feeds/abnormal-threat-intel.xml
 
 === Processing: Abstract Security Blog (https://www.abstract.security/blog/) -> feeds/abstract-security.xml
@@ -466,7 +446,7 @@ Wrote feeds/infrawatch.xml
  [HTTP] article GET https://iverify.io/blog/the-attack-surface-in-your-pocket-and-how-scattered-spider-socially-engineers-their-way-inside -> 200 (final: https://iverify.io/blog/the-attack-surface-in-your-pocket-and-how-scattered-spider-socially-engineers-their-way-inside) CT=text/html
  [HTTP] article GET https://iverify.io/blog/oblivion-rat-android-spyware-analysis -> 200 (final: https://iverify.io/blog/oblivion-rat-android-spyware-analysis) CT=text/html
  [HTTP] article GET https://iverify.io/blog/with-ios-26.2-release-apple-reverses-course-on-shutdown.log -> 200 (final: https://iverify.io/blog/with-ios-26.2-release-apple-reverses-course-on-shutdown.log) CT=text/html
- [HTTP] article GET https://iverify.io/blog/breaking-down-zerodayrat---new-spyware-targeting-android-and-ios -> EXCEPTION: HTTPSConnectionPool(host='iverify.io', port=443): Read timed out. (read timeout=20)
+ [HTTP] article GET https://iverify.io/blog/breaking-down-zerodayrat---new-spyware-targeting-android-and-ios -> 200 (final: https://iverify.io/blog/breaking-down-zerodayrat---new-spyware-targeting-android-and-ios) CT=text/html
  [HTTP] article GET https://iverify.io/blog/iverify-extends-cloudflare-integrations-with-warp -> 200 (final: https://iverify.io/blog/iverify-extends-cloudflare-integrations-with-warp) CT=text/html
  [HTTP] article GET https://iverify.io/blog/mobile-is-the-new-initial-access-vector-for-financial-institutions -> 200 (final: https://iverify.io/blog/mobile-is-the-new-initial-access-vector-for-financial-institutions) CT=text/html
  [HTTP] article GET https://iverify.io/blog/meet-cellik---a-new-android-rat-with-play-store-integration -> 200 (final: https://iverify.io/blog/meet-cellik---a-new-android-rat-with-play-store-integration) CT=text/html
