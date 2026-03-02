@@ -4,126 +4,126 @@
  <title>CyberArmor Blog (Custom Feed)</title>
  <link>https://cyberarmor.tech/blog</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Mon, 02 Mar 2026 21:13:40 GMT</lastBuildDate>
+ <lastBuildDate>Mon, 02 Mar 2026 21:19:59 GMT</lastBuildDate>
  <item>
  <title>Autumn Dragon: China-nexus APT Group Targets South East Asia</title>
  <link>https://cyberarmor.tech/blog/autumn-dragon-china-nexus-apt-group-targets-south-east-asia</link>
  <description>In this report, we describe how we tracked for several months a sustained espionage campaign against the government, media, and news sectors in several countries including Laos, Cambodia, Singapore, the Philippines and Indonesia</description>
- <pubDate>Mon, 02 Mar 2026 21:13:34 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:55 GMT</pubDate>
  </item>
  <item>
  <title>Global Phishing Targeting Meta Business Accounts</title>
  <link>https://cyberarmor.tech/blog/global-phishing-targeting-meta-business-accounts</link>
  <description>Our threat intelligence team investigated a phishing campaign impersonating Meta Business and Ads Manager support, using fake “policy violation” and “trademark rights” alerts to steal credentials, hijack ad accounts, and launch fraudulent campaigns</description>
- <pubDate>Mon, 02 Mar 2026 21:13:35 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:55 GMT</pubDate>
  </item>
  <item>
  <title>TG-VoIP-001: Cryptocurrency-Based VoIP Infrastructure Promoted via Telegram</title>
  <link>https://cyberarmor.tech/blog/tg-voip-001-cryptocurrency-based-voip-infrastructure-promoted-via-telegram</link>
  <description>Our threat hunting team uncovered a suspicious VoIP/SIP infrastructure tied to malicious activity on Telegram’s marketplace. This network advertises IP telephony for call centers but exhibits hallmarks of gray-market operations using cryptocurrency</description>
- <pubDate>Mon, 02 Mar 2026 21:13:35 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:55 GMT</pubDate>
  </item>
  <item>
  <title>How a Nigerian Hacker Uses AI to Build Cybercrime Tools and Launch Phishing Attacks</title>
  <link>https://cyberarmor.tech/blog/how-a-nigerian-hacker-uses-ai-to-build-cybercrime-tools-and-launch-phishing-attacks</link>
  <description>Our platform collected and analyzed over 3,000 screenshots from a Nigerian-based cybercriminal, giving a special behind-the-scenes look into the daily operations of a modern threat actor, revealing how campaigns are built with the help of AI.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:35 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:55 GMT</pubDate>
  </item>
  <item>
  <title>Phishing Attack Targets Canadian Infrastructure on Canada Day</title>
  <link>https://cyberarmor.tech/blog/phishing-attack-targets-canadian-infrastructure-on-canada-day</link>
  <description>Our systems detected a coordinated phishing campaign leveraging PDF-themed lures to harvest user email credentials. The attackers used socially engineered emails that mimicked service notifications, account updates, and login requests.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:36 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:56 GMT</pubDate>
  </item>
  <item>
  <title>Threat Insight: Cybercriminals Abusing Vercel to Deliver Remote Access Malware</title>
  <link>https://cyberarmor.tech/blog/threat-insight-cybercriminals-abusing-vercel-to-deliver-remote-access-malware</link>
  <description>CyberArmor has identified a phishing campaign leveraging Vercel, a legitimate frontend hosting platform, to distribute a malicious version of LogMeIn, a legitimate remote access tool, by cybercriminals to gain full control over victims’ machines.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:36 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:56 GMT</pubDate>
  </item>
  <item>
  <title>Hacker Exploits Social Security Statement Theme to Target Over 2,000 Victims with Malware</title>
  <link>https://cyberarmor.tech/blog/hacker-exploit-social-security-statement-theme-to-target-over-2-000-victims-with-malware</link>
  <description>In a recent campaign uncovered by CyberArmor analysts, cybercriminals exploited the official them of the Social Security Administration (SSA) in a convincing phishing lure that deceived over 2,000 individuals into downloading malware.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:36 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:56 GMT</pubDate>
  </item>
  <item>
  <title>Uncovered: How Cybercriminals Scam Each Other Using Fake USDT Sender Software</title>
  <link>https://cyberarmor.tech/blog/uncovered-how-cybercriminals-scam-each-other-using-fake-usdt-sender-software-copy-feature</link>
  <description>See how cybercriminals weaponized "FLASH USDT Sender" software. Our analysis reveals it's a sophisticated dropper that installs a suite of malware—including a stealer, clipper, and RDP grabber—for complete system control.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:36 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:56 GMT</pubDate>
  </item>
  <item>
  <title>Inside a Malware Campaign: A Nigerian Hacker’s Perspective</title>
  <link>https://cyberarmor.tech/blog/inside-a-malware-campaign-a-nigerian-hackers-perspective</link>
  <description>On 02/07/2025, our platform obtained various screenshots taken from a malware stealer (infostealer) showing a cybercriminal, whom we believe to be from Nigeria (based on his IP address), performing various activities in a malware campaign.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:37 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:56 GMT</pubDate>
  </item>
  <item>
  <title>Investment Scam: The Operations</title>
  <link>https://cyberarmor.tech/blog/investment-scam-the-operations</link>
  <description>An analysis of an active investment scam targeting individuals through online platforms. The scheme is disguised as either a job opportunity or a high-yield investment and uses sophisticated social engineering and cryptocurrency transactions.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:37 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:57 GMT</pubDate>
  </item>
  <item>
  <title>Understanding Coinbase Account Checking</title>
  <link>https://cyberarmor.tech/blog/understanding-coinbase-account-checking</link>
  <description>Account checking, also known as credential stuffing or account validation, is a tactic used by cybercriminals to verify whether certain accounts exist on a platform, typically depending on automated scripts and software.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:37 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:57 GMT</pubDate>
  </item>
  <item>
  <title>White Snake: Latest Campaign With Multi-Stage Malware Dropper</title>
  <link>https://cyberarmor.tech/blog/white-snake-latest-campaign-with-multi-stage-malware-dropper</link>
  <description>Threat actors are constantly developing sophisticated methods to compromise systems. One of the latest threats is the Tax Invoice-themed campaign, which employs a multi-stage malware dropper to deliver the WhiteSnake malware stealer.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:38 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:57 GMT</pubDate>
  </item>
  <item>
  <title>New North Korean-Based Backdoor</title>
  <link>https://cyberarmor.tech/blog/new-north-korean-based-backdoor</link>
  <description>In this paper we analyze a new threat campaign which is specifically focused on Aerospace and Defense companies: sectors appealing to multiple threat actors, but of particular interest to North Korean threat groups in other recent campaigns.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:38 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:58 GMT</pubDate>
  </item>
  <item>
  <title>Account Takeover Through OTP Bots: The Latest Cyber Threat</title>
  <link>https://cyberarmor.tech/blog/account-takeover-through-otp-bots-the-latest-cyber-threat</link>
  <description>Threats have evolved at an alarming rate, with attackers constantly finding new ways to exploit vulnerabilities and compromise user accounts. One is account takeover through OTP bots, posing a significant risk to individuals and businesses alike.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:38 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:58 GMT</pubDate>
  </item>
  <item>
  <title>Exploring the Evolution of Online Criminal Activity: A Dive into Modern Cybercrime</title>
  <link>https://cyberarmor.tech/blog/exploring-the-evolution-of-online-criminal-activity-a-dive-into-modern-cybercrime</link>
  <description>Cybercrime has evolved from isolated individuals to international networks. In this paper we delves into this evolution, highlighting the complexities of modern cybercriminal operations and the challenges they pose to law enforcement.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:38 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:58 GMT</pubDate>
  </item>
  <item>
  <title>The Rise of a New Dark Web Market</title>
  <link>https://cyberarmor.tech/blog/the-rise-of-a-new-darkweb-market</link>
  <description>The darkweb marketplace landscape underwent a significant shift several years ago. The advent of secure chat services such as Telegram, Discord, and WhatsApp introduced a new dynamic. As a result, marketplaces operated by fraudsters began to emerge.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:39 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:59 GMT</pubDate>
  </item>
  <item>
  <title>Cyber Fraud Fusion Operation: The Rise of Next-Gen Security Operations Centers (SOCs)</title>
  <link>https://cyberarmor.tech/blog/cyber-fraud-fusion-operation-the-rise-of-next-gen-security-operations-centers-socs</link>
  <description>Welcome to the new era of fraud detection and prevention, where Next-Gen SOCs seamlessly integrate with the Fraud team, collectively serving as the frontline defenders against an increasingly sophisticated array of cyber threats and frauds.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:39 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:59 GMT</pubDate>
  </item>
  <item>
  <title>Trademark Scams: Application Approval Scams Using Caller ID Spoofing</title>
  <link>https://cyberarmor.tech/blog/trademark-scams-application-approval-scams-using-caller-id-spoofing</link>
  <description>We deep dive into trademark application scams where the scammers impersonates the USPTO (United States Patent and Trademark Office) and spoofs their phone number to lure an applicant to pay additional fees to the scammer.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:39 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:59 GMT</pubDate>
  </item>
  <item>
  <title>Unveiling the Latest Microsoft Teams Phishing Campaign Targeting Small Businesses</title>
  <link>https://cyberarmor.tech/blog/unveiling-the-latest-microsoft-teams-phishing-campaign-targeting-small-businesses</link>
  <description>In this blog post, we will delve into the details of the latest Microsoft Teams phishing campaign, exploring its tactics, techniques, and procedures, and providing crucial insights to help small businesses stay vigilant.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:40 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:59 GMT</pubDate>
  </item>
  <item>
  <title>BidenCash Dump 1.9M Compromised Debit/Credit Cards</title>
  <link>https://cyberarmor.tech/blog/bidencash-dump-1-9m-compromised-debit-credit-cards</link>
  <description>On December 20th, 2023, BidenCash, a card shop, uploaded and shared 1.9 million stolen debit/credit cards on the XSS dark web forum. The data dump consisted of compromised card numbers, expiration dates, and CVV numbers.</description>
- <pubDate>Mon, 02 Mar 2026 21:13:40 GMT</pubDate>
+ <pubDate>Mon, 02 Mar 2026 21:19:59 GMT</pubDate>
  </item>
 </channel>
 </rss>
