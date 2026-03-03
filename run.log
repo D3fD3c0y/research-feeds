@@ -135,115 +135,110 @@ Wrote feeds/abnormal-threat-intel.xml
  [HTTP] article GET https://www.abstract.security/blog/enabling-the-mongodb-logging-firehose -> 200 (final: https://www.abstract.security/blog/enabling-the-mongodb-logging-firehose) CT=text/html; charset=utf-8
 Wrote feeds/abstract-security.xml
 
-=== Processing: Analyst1 Blog (https://analyst1.com/category/blog/) -> feeds/analyst1.xml
- robots.txt respected: True
- [HTTP] robots-check GET https://analyst1.com/robots.txt -> 200 (final: https://analyst1.com/robots.txt) CT=text/plain; charset=utf-8
- • scraping listing page …
- [HTTP] scrape-listing GET https://analyst1.com/category/blog/ -> 403 (final: https://analyst1.com/category/blog/) CT=text/html; charset=UTF-8
- [HTTP] scrape-listing body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- ! scrape_items listing fetch error: 403 Client Error: Forbidden for url: https://analyst1.com/category/blog/
-Wrote feeds/analyst1.xml
-
-=== Processing: AppOmni Blog (https://appomni.com/article-type/blog/) -> feeds/appomni.xml
+=== Processing: Apophis133 on Medium (https://apophis133.medium.com/) -> feeds/apophis133-medium.xml
  robots.txt respected: True
  • using sitemap fallback …
- [HTTP] robots GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] sitemap GET https://appomni.com/sitemap_index.xml -> 200 (final: https://appomni.com/sitemap_index.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/post-sitemap.xml -> 200 (final: https://appomni.com/post-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/page-sitemap.xml -> 200 (final: https://appomni.com/page-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/learn_hub-sitemap.xml -> 200 (final: https://appomni.com/learn_hub-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/webinars-sitemap.xml -> 200 (final: https://appomni.com/webinars-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/common_app-sitemap.xml -> 200 (final: https://appomni.com/common_app-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/event-sitemap.xml -> 200 (final: https://appomni.com/event-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/glossary-sitemap.xml -> 200 (final: https://appomni.com/glossary-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/workshop-sitemap.xml -> 200 (final: https://appomni.com/workshop-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/hub_article-sitemap.xml -> 200 (final: https://appomni.com/hub_article-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/category-sitemap.xml -> 200 (final: https://appomni.com/category-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/post_tag-sitemap.xml -> 200 (final: https://appomni.com/post_tag-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/featured-article-sitemap.xml -> 200 (final: https://appomni.com/featured-article-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/app_category-sitemap.xml -> 200 (final: https://appomni.com/app_category-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/article_type-sitemap.xml -> 200 (final: https://appomni.com/article_type-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/industry-sitemap.xml -> 200 (final: https://appomni.com/industry-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/integration-sitemap.xml -> 200 (final: https://appomni.com/integration-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/region-sitemap.xml -> 200 (final: https://appomni.com/region-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/workshop-type-sitemap.xml -> 200 (final: https://appomni.com/workshop-type-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://appomni.com/author-sitemap.xml -> 200 (final: https://appomni.com/author-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/resources/ -> 200 (final: https://appomni.com/resources/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/accenture-partners-with-appomni-to-enhance-salesforce-security-and-tackle-saas-misconfiguration-risk/ -> 200 (final: https://appomni.com/blog/accenture-partners-with-appomni-to-enhance-salesforce-security-and-tackle-saas-misconfiguration-risk/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/navigating-the-complexities-of-saas-threat-detection/ -> 200 (final: https://appomni.com/blog/navigating-the-complexities-of-saas-threat-detection/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/elevate-saas-security-with-closed-loop-zero-trust/ -> 200 (final: https://appomni.com/blog/elevate-saas-security-with-closed-loop-zero-trust/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/introducing-zero-trust-posture-management-ztpm/ -> 200 (final: https://appomni.com/blog/introducing-zero-trust-posture-management-ztpm/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/2024-saas-security-forecast-and-predictions/ -> 200 (final: https://appomni.com/blog/2024-saas-security-forecast-and-predictions/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/qlik-attack-why-sspm-is-a-must-have-for-cisos/ -> 200 (final: https://appomni.com/blog/qlik-attack-why-sspm-is-a-must-have-for-cisos/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/okta-breach-threat-intel-advisory/ -> 200 (final: https://appomni.com/blog/okta-breach-threat-intel-advisory/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/handling-saas-data-exposure-risks-due-to-potential-servicenow-misconfigurations/ -> 200 (final: https://appomni.com/blog/handling-saas-data-exposure-risks-due-to-potential-servicenow-misconfigurations/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/detecting-and-preventing-okta-compromises-with-sspm/ -> 200 (final: https://appomni.com/blog/detecting-and-preventing-okta-compromises-with-sspm/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/appomni-saas-event-maturity-matrix/ -> 200 (final: https://appomni.com/blog/appomni-saas-event-maturity-matrix/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/lessons-learned-from-blackhat2023-on-saas-identities-ai/ -> 200 (final: https://appomni.com/blog/lessons-learned-from-blackhat2023-on-saas-identities-ai/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/how-identity-fabric-secures-saas-identities-and-access/ -> 200 (final: https://appomni.com/blog/how-identity-fabric-secures-saas-identities-and-access/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/follow-ncsc-cloud-security-guidance-for-saas-with-appomni/ -> 200 (final: https://appomni.com/blog/follow-ncsc-cloud-security-guidance-for-saas-with-appomni/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/technologyone-breach-highlights-the-need-for-saas-security/ -> 200 (final: https://appomni.com/blog/technologyone-breach-highlights-the-need-for-saas-security/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/how-to-comply-with-cyber-essentials-requirements-uk/ -> 200 (final: https://appomni.com/blog/how-to-comply-with-cyber-essentials-requirements-uk/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/salesforce-security-community-cloud-scanner/ -> 200 (final: https://appomni.com/risk-assessment/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/how-cisos-make-saas-security-priority-for-business-leaders/ -> 200 (final: https://appomni.com/blog/how-cisos-make-saas-security-priority-for-business-leaders/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/employee-spotlight-sarah-osburn-senior-technical-account-manager-at-appomni/ -> 200 (final: https://appomni.com/blog/employee-spotlight-sarah-osburn-senior-technical-account-manager-at-appomni/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/employee-spotlight-nick-crouch-international-channel-director-appomni/ -> 200 (final: https://appomni.com/blog/employee-spotlight-nick-crouch-international-channel-director-appomni/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/employee-spotlight-josh-rickard-senior-software-engineer-at-appomni/ -> 200 (final: https://appomni.com/blog/employee-spotlight-josh-rickard-senior-software-engineer-at-appomni/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/ao-labs/unpacking-preventing-circleci-data-breach/ -> 200 (final: https://appomni.com/ao-labs/unpacking-preventing-circleci-data-breach/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/lastpass-and-okta-breaches-security-steps-to-take-right-now/ -> 200 (final: https://appomni.com/blog/lastpass-and-okta-breaches-security-steps-to-take-right-now/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/how-saas-vendors-are-handling-the-openssl-critical-flaw/ -> 200 (final: https://appomni.com/blog/how-saas-vendors-are-handling-the-openssl-critical-flaw/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/the-need-for-privileged-identity-management-pim/ -> 200 (final: https://appomni.com/blog/the-need-for-privileged-identity-management-pim/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/ao-labs/okta-passbleed-risks/ -> 200 (final: https://appomni.com/ao-labs/okta-passbleed-risks/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/continuous-monitoring-and-automated-threat-testing-for-saas/ -> 200 (final: https://appomni.com/blog/continuous-monitoring-and-automated-threat-testing-for-saas/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/payroll-fraud-threat-hunting-detection/ -> 200 (final: https://appomni.com/blog/payroll-fraud-threat-hunting-detection/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/what-is-0ktapus-breach/ -> 200 (final: https://appomni.com/learn/advanced-saas-security/what-is-0ktapus-breach/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/appomni-raises-70-million-series-c-led-by-thoma-bravo/ -> 200 (final: https://appomni.com/blog/appomni-raises-70-million-series-c-led-by-thoma-bravo/) CT=text/html; charset=UTF-8
-Wrote feeds/appomni.xml
-
-=== Processing: Armis Research (https://www.armis.com/blog/?cat=armis-research) -> feeds/armis-research.xml
- robots.txt respected: True
- • using sitemap fallback …
- [HTTP] robots GET https://www.armis.com/robots.txt -> 403 (final: https://www.armis.com/robots.txt) CT=text/html; charset=UTF-8
+ [HTTP] robots GET https://apophis133.medium.com/robots.txt -> 403 (final: https://apophis133.medium.com/robots.txt) CT=text/html; charset=UTF-8
  [HTTP] robots body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] sitemap GET https://www.armis.com/sitemap_index.xml -> 403 (final: https://www.armis.com/sitemap_index.xml) CT=text/html; charset=UTF-8
+ [HTTP] sitemap GET https://apophis133.medium.com/sitemap/sitemap.xml -> 403 (final: https://apophis133.medium.com/sitemap/sitemap.xml) CT=text/html; charset=UTF-8
  [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] sitemap GET https://www.armis.com/sitemap.xml -> 403 (final: https://www.armis.com/sitemap.xml) CT=text/html; charset=UTF-8
+ [HTTP] sitemap GET https://apophis133.medium.com/sitemap.xml -> 403 (final: https://apophis133.medium.com/sitemap.xml) CT=text/html; charset=UTF-8
  [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] sitemap GET https://www.armis.com/sitemap.xml.gz -> 403 (final: https://www.armis.com/sitemap.xml.gz) CT=text/html; charset=UTF-8
+ [HTTP] sitemap GET https://apophis133.medium.com/sitemap_index.xml -> 403 (final: https://apophis133.medium.com/sitemap_index.xml) CT=text/html; charset=UTF-8
  [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] sitemap GET https://www.armis.com/sitemap_index.xml.gz -> 403 (final: https://www.armis.com/sitemap_index.xml.gz) CT=text/html; charset=UTF-8
+ [HTTP] sitemap GET https://apophis133.medium.com/sitemap.xml.gz -> 403 (final: https://apophis133.medium.com/sitemap.xml.gz) CT=text/html; charset=UTF-8
  [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
-Wrote feeds/armis-research.xml
+ [HTTP] sitemap GET https://apophis133.medium.com/sitemap_index.xml.gz -> 403 (final: https://apophis133.medium.com/sitemap_index.xml.gz) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+Wrote feeds/apophis133-medium.xml
+
+=== Processing: Bfore.ai Reports (https://bfore.ai/resources/?e-filter-63865e3-category=report) -> feeds/bfore-ai-reports.xml
+ robots.txt respected: True
+ • using sitemap fallback …
+ [HTTP] robots GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] sitemap GET https://bfore.ai/sitemap_index.xml -> 200 (final: https://bfore.ai/sitemap_index.xml) CT=text/xml; charset=UTF-8
+ [HTTP] sitemap GET https://bfore.ai/post-sitemap.xml -> 200 (final: https://bfore.ai/post-sitemap.xml) CT=text/xml; charset=UTF-8
+ [HTTP] sitemap GET https://bfore.ai/page-sitemap.xml -> 200 (final: https://bfore.ai/page-sitemap.xml) CT=text/xml; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/nft-giveaway-scams-brand-impersonation/ -> 200 (final: https://bfore.ai/blog/nft-giveaway-scams-brand-impersonation/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/e-book/the-king-the-knight-the-snowball/ -> 200 (final: https://bfore.ai/e-book/the-king-the-knight-the-snowball/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/scam-alert-banco-ciudad/ -> 200 (final: https://bfore.ai/blog/scam-alert-banco-ciudad/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/brand-impersonation-interactive-brokers/ -> 200 (final: https://bfore.ai/blog/brand-impersonation-interactive-brokers/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/ai-in-brand-impersonation/ -> 200 (final: https://bfore.ai/blog/ai-in-brand-impersonation/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/brand-impersonation-bank-of-ireland/ -> 200 (final: https://bfore.ai/blog/brand-impersonation-bank-of-ireland/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/brand-impersonation-citizens-bank/ -> 200 (final: https://bfore.ai/blog/brand-impersonation-citizens-bank/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/brand-impersonated-search-engine-advertisements/ -> 200 (final: https://bfore.ai/blog/brand-impersonated-search-engine-advertisements/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/how-to-prevent-online-brand-impersonation-scams/ -> 200 (final: https://bfore.ai/blog/how-to-prevent-online-brand-impersonation-scams/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/toll-tag-malicious-infrastructure-alert-advisory/ -> 200 (final: https://bfore.ai/blog/toll-tag-malicious-infrastructure-alert-advisory/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/job-recruitment-impersonation-scams/ -> 200 (final: https://bfore.ai/blog/job-recruitment-impersonation-scams/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/dont-fall-for-the-trap-protect-yourself-from-malicious-domains-and-brand-attacks/ -> 200 (final: https://bfore.ai/blog/dont-fall-for-the-trap-protect-yourself-from-malicious-domains-and-brand-attacks/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/news/quad9-and-bforeai-expand-strategic-partnership-to-supercharge-preemptive-threat-intelligence/ -> 200 (final: https://bfore.ai/news/quad9-and-bforeai-expand-strategic-partnership-to-supercharge-preemptive-threat-intelligence/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/news/bforeai-named-tech-innovator-in-preemptive-cybersecurity-by-gartner/ -> 200 (final: https://bfore.ai/news/bforeai-named-tech-innovator-in-preemptive-cybersecurity-by-gartner/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/news/bforeai-named-2025-technology-pioneer-world-economic-forum/ -> 200 (final: https://bfore.ai/news/bforeai-named-2025-technology-pioneer-world-economic-forum/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/news/bforeai-gartner-predictive-threat-intelligence-use-cases-preemptive-cyber-defense/ -> 200 (final: https://bfore.ai/news/bforeai-gartner-predictive-threat-intelligence-use-cases-preemptive-cyber-defense/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/case-study/how-a-leading-investment-firm-stopped-an-attack-in-under-seven-minutes/ -> 200 (final: https://bfore.ai/case-study/how-a-leading-investment-firm-stopped-an-attack-in-under-seven-minutes/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/how-to-quantify-value-of-preemptive-security/ -> 200 (final: https://bfore.ai/blog/how-to-quantify-value-of-preemptive-security/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/how-to-find-malicious-domains/ -> 200 (final: https://bfore.ai/blog/how-to-find-malicious-domains/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/news/bforeai-named-in-four-2023-gartner-reports/ -> 200 (final: https://bfore.ai/news/bforeai-named-in-four-2023-gartner-reports/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/news/bforeai-announces-general-availability-of-all-precrime-solutions/ -> 200 (final: https://bfore.ai/news/bforeai-announces-general-availability-of-all-precrime-solutions/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/whos-behind-the-screen-a-comprehensive-guide-to-cyber-threat-actors/ -> 200 (final: https://bfore.ai/blog/whos-behind-the-screen-a-comprehensive-guide-to-cyber-threat-actors/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/report/imported-risk-cybercriminals-exploit-tariff-uncertainty/ -> 200 (final: https://bfore.ai/report/imported-risk-cybercriminals-exploit-tariff-uncertainty/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/datasheet/precrime-intelligence-for-microsoft-sentinel/ -> 200 (final: https://bfore.ai/datasheet/precrime-intelligence-for-microsoft-sentinel/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/datasheet/precrime-brand-for-impersonation/ -> 200 (final: https://bfore.ai/datasheet/precrime-brand-for-impersonation/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/report/commercial-airline-industry-scam-impersonation-activity-2026/ -> 200 (final: https://bfore.ai/report/commercial-airline-industry-scam-impersonation-activity-2026/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/beyond-typosquatting-why-financial-institutions-need-precrime-not-just-domain-monitoring/ -> 200 (final: https://bfore.ai/blog/beyond-typosquatting-why-financial-institutions-need-precrime-not-just-domain-monitoring/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/threat-actors-who-is-attacking-us/ -> 200 (final: https://bfore.ai/blog/threat-actors-who-is-attacking-us/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/news/bforeai-secures-series-b-funding-to-preempt-malicious-attacks-through-precrime-ai/ -> 200 (final: https://bfore.ai/news/bforeai-secures-series-b-funding-to-preempt-malicious-attacks-through-precrime-ai/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/report/bybit-opportunists-malicious-infrastructure-attacks-report/ -> 200 (final: https://bfore.ai/report/bybit-opportunists-malicious-infrastructure-attacks-report/) CT=text/html; charset=UTF-8
+Wrote feeds/bfore-ai-reports.xml
+
+=== Processing: BI.ZONE Blog (EN) (https://bi.zone/eng/expertise/blog/) -> feeds/bizone.xml
+ robots.txt respected: False
+ • scraping listing page …
+ [HTTP] scrape-listing GET https://bi.zone/eng/expertise/blog/ -> 200 (final: https://bi.zone/eng/expertise/blog/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/expertise/blog/ -> 200 (final: https://bi.zone/expertise/blog/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/expertise/blog/narushit-plany-atakuyushchikh-kak-primenyat-znaniya-ob-ikh-infrastrukture-v-svoyu-polzu/ -> 200 (final: https://bi.zone/eng/expertise/blog/narushit-plany-atakuyushchikh-kak-primenyat-znaniya-ob-ikh-infrastrukture-v-svoyu-polzu/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/expertise/blog/ -> 200 (final: https://bi.zone/eng/expertise/blog/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://habr.com/ru/company/bizone/blog/ -> 200 (final: https://habr.com/ru/companies/bizone/articles/) CT=text/html; charset=utf-8
+ [HTTP] article GET https://bi.zone/eng/expertise/blog/nadvigayushchiysya-tsiklon-vortex-werewolf-atakuet-rossiyu/ -> 200 (final: https://bi.zone/eng/expertise/blog/nadvigayushchiysya-tsiklon-vortex-werewolf-atakuet-rossiyu/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/expertise/blog/zloumyshlenniki-ekspluatiruyut-uyazvimost-cve-2025-55182-v-atakakh-na-rossiyskie-kompanii/ -> 200 (final: https://bi.zone/eng/expertise/blog/zloumyshlenniki-ekspluatiruyut-uyazvimost-cve-2025-55182-v-atakakh-na-rossiyskie-kompanii/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/expertise/blog/arcane-werewolf-vernulsya-s-obnovlennym-implantom-loki/ -> 200 (final: https://bi.zone/eng/expertise/blog/arcane-werewolf-vernulsya-s-obnovlennym-implantom-loki/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/expertise/blog/kak-ispolzovat-dannye-s-tenevykh-resursov-dlya-predskazaniya-kiberatak/ -> 200 (final: https://bi.zone/eng/expertise/blog/kak-ispolzovat-dannye-s-tenevykh-resursov-dlya-predskazaniya-kiberatak/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/expertise/blog/landshaft-kiberugroz-organizatsii-kak-opredelit-i-kak-ispolzovat-dlya-prognozirovaniya-atak/ -> 200 (final: https://bi.zone/eng/expertise/blog/landshaft-kiberugroz-organizatsii-kak-opredelit-i-kak-ispolzovat-dlya-prognozirovaniya-atak/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/expertise/blog/kak-ugrozotsentrichnyy-podkhod-pozvolyaet-izbezhat-ushcherba-ot-kiberatak/ -> 200 (final: https://bi.zone/eng/expertise/blog/kak-ugrozotsentrichnyy-podkhod-pozvolyaet-izbezhat-ushcherba-ot-kiberatak/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2025-62592-v-oracle-virtualbox-dlya-macos/ -> 200 (final: https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2025-62592-v-oracle-virtualbox-dlya-macos/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/expertise/blog/cavalry-werewolf-atakuet-rossiyu-cherez-doveritelnye-otnosheniya-mezhdu-gosudarstvami/ -> 200 (final: https://bi.zone/eng/expertise/blog/cavalry-werewolf-atakuet-rossiyu-cherez-doveritelnye-otnosheniya-mezhdu-gosudarstvami/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/expertise/blog/?PAGEN_1=2 -> 200 (final: https://bi.zone/eng/expertise/blog/?PAGEN_1=2) CT=text/html; charset=UTF-8
+Wrote feeds/bizone.xml
 
 === Processing: Pillar Security Blog (https://www.pillar.security/blog) -> feeds/pillar-security.xml
  robots.txt respected: True
@@ -314,17 +309,17 @@ Wrote feeds/pillar-security.xml
 
 === Processing: Trellix Research Blog (https://www.trellix.com/blogs/research/) -> feeds/trellix-research.xml
  robots.txt respected: True
- [HTTP] robots-check GET https://www.trellix.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=20)
+ [HTTP] robots-check GET https://www.trellix.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='www.trellix.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=60)"))
  • scraping listing page …
- [HTTP] scrape-listing GET https://www.trellix.com/blogs/research/ -> EXCEPTION: HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=20)
- ! scrape_items listing fetch error: HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=20)
+ [HTTP] scrape-listing GET https://www.trellix.com/blogs/research/ -> EXCEPTION: HTTPSConnectionPool(host='www.trellix.com', port=443): Max retries exceeded with url: /blogs/research/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=60)"))
+ ! scrape_items listing fetch error: HTTPSConnectionPool(host='www.trellix.com', port=443): Max retries exceeded with url: /blogs/research/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=60)"))
 Wrote feeds/trellix-research.xml
 
 === Processing: Trellix Threat Reports (https://www.trellix.com/advanced-research-center/threat-reports/) -> feeds/trellix-threat-reports.xml
  robots.txt respected: True
- [HTTP] robots-check GET https://www.trellix.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=20)
+ [HTTP] robots-check GET https://www.trellix.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='www.trellix.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=60)"))
  • scraping listing page …
- [HTTP] scrape-listing GET https://www.trellix.com/advanced-research-center/threat-reports/ -> EXCEPTION: HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=20)
- ! scrape_items listing fetch error: HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=20)
+ [HTTP] scrape-listing GET https://www.trellix.com/advanced-research-center/threat-reports/ -> EXCEPTION: HTTPSConnectionPool(host='www.trellix.com', port=443): Max retries exceeded with url: /advanced-research-center/threat-reports/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=60)"))
+ ! scrape_items listing fetch error: HTTPSConnectionPool(host='www.trellix.com', port=443): Max retries exceeded with url: /advanced-research-center/threat-reports/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=60)"))
 Wrote feeds/trellix-threat-reports.xml
 Wrote index.html

@@ -4,10 +4,82 @@
   <title>BI.ZONE Blog (EN) (Custom Feed)</title>
   <link>https://bi.zone/eng/expertise/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Tue, 24 Feb 2026 09:02:44 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Mar 2026 21:58:05 GMT</lastBuildDate>
+  <item>
+    <title>Технические статьи</title>
+    <link>https://bi.zone/expertise/blog/</link>
+    <description>Исследования экспертов BI.ZONE и практические материалы о кибербезопасности</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Utilizing adversary infrastructure insights to derail attacks</title>
+    <link>https://bi.zone/eng/expertise/blog/narushit-plany-atakuyushchikh-kak-primenyat-znaniya-ob-ikh-infrastrukture-v-svoyu-polzu/</link>
+    <description>This article explains how blocking threat actors' infrastructure can disrupt their control over malware and prevent further impact</description>
+    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
   <item>
     <title>Technical articles</title>
     <link>https://bi.zone/eng/expertise/blog/</link>
+    <description>BI.ZONE expert research and practical materials on cybersecurity</description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE, Москва / Статьи</title>
+    <link>https://habr.com/ru/company/bizone/blog/</link>
+    <description>105 статей от авторов компании BI.ZONE</description>
+    <pubDate>Fri, 27 Feb 2026 07:00:43 GMT</pubDate>
+  </item>
+  <item>
+    <title>Approaching cyclone: Vortex Werewolf attacks Russia</title>
+    <link>https://bi.zone/eng/expertise/blog/nadvigayushchiysya-tsiklon-vortex-werewolf-atakuet-rossiyu/</link>
+    <description>A new threat actor leverages phishing to spread malware. In this article, we examine a Vortex Werewolf attack that employs webpages mimicking file downloads in Telegram</description>
+    <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Adversaries exploit CVE-2025-55182 to attack Russian companies</title>
+    <link>https://bi.zone/eng/expertise/blog/zloumyshlenniki-ekspluatiruyut-uyazvimost-cve-2025-55182-v-atakakh-na-rossiyskie-kompanii/</link>
+    <description>In most cases, the attacks aim to deploy the XMRig miner. However, threat actors also deliver implants, botnets, and other malware</description>
+    <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Arcane Werewolf revamps its arsenal with Loki 2.1 implant</title>
+    <link>https://bi.zone/eng/expertise/blog/arcane-werewolf-vernulsya-s-obnovlennym-implantom-loki/</link>
+    <description>The cluster targets Russian manufacturing companies</description>
+    <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Leveraging darknet to predict attacks</title>
+    <link>https://bi.zone/eng/expertise/blog/kak-ispolzovat-dannye-s-tenevykh-resursov-dlya-predskazaniya-kiberatak/</link>
+    <description>In the third article of our cycle of publications on actionable threat intelligence, we delve into the insights that can be derived from darknet ads</description>
+    <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mapping and leveraging cyber threat landscape to&amp;nbsp;predict attacks</title>
+    <link>https://bi.zone/eng/expertise/blog/landshaft-kiberugroz-organizatsii-kak-opredelit-i-kak-ispolzovat-dlya-prognozirovaniya-atak/</link>
+    <description>This is the second article in our series on using cyber intelligence insights. This time, BI.ZONE Threat Intelligence explores how knowing and understanding adversaries, their methods and tools help build stronger IT infrastructure defenses</description>
+    <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Embracing adversary-centric approach to avoid impact</title>
+    <link>https://bi.zone/eng/expertise/blog/kak-ugrozotsentrichnyy-podkhod-pozvolyaet-izbezhat-ushcherba-ot-kiberatak/</link>
+    <description>This is an introductory article in our series on leveraging cyber intelligence insights in everyday practice. BI.ZONE Threat Intelligence explores a cybersecurity approach that allows organizations to prioritize the most relevant threats</description>
+    <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Digging into CVE-2025-62592 in Oracle VirtualBox for macOS</title>
+    <link>https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2025-62592-v-oracle-virtualbox-dlya-macos/</link>
+    <description>We uncover a virtualization software vulnerability causing an ASLR leak</description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cavalry Werewolf raids Russia's public sector with trusted relationship attacks</title>
+    <link>https://bi.zone/eng/expertise/blog/cavalry-werewolf-atakuet-rossiyu-cherez-doveritelnye-otnosheniya-mezhdu-gosudarstvami/</link>
+    <description>The malicious actors pose as government officials and utilize own crafted malware in their attacks</description>
+    <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Technical articles</title>
+    <link>https://bi.zone/eng/expertise/blog/?PAGEN_1=2</link>
     <description>BI.ZONE expert research and practical materials on cybersecurity</description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
   </item>
