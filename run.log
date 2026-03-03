@@ -205,9 +205,9 @@ Wrote feeds/cleafy-labs.xml
  robots.txt respected: True
  • scraping listing page …
  [HTTP] scrape-listing GET https://www.cyjax.com/resources?0402ca75_category_equal=Blog -> 200 (final: https://www.cyjax.com/resources?0402ca75_category_equal=Blog) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.cyjax.com/resources/blog/how-to-save-time-by-using-validated-iocs-so-your-analysts-dont-have-to -> 200 (final: https://www.cyjax.com/resources/blog/how-to-save-time-by-using-validated-iocs-so-your-analysts-dont-have-to) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.cyjax.com/resources/blog/scaling-threat-intelligence-building-threat-intelligence-capabilities-without-expanding-headcount -> 200 (final: https://www.cyjax.com/resources/blog/scaling-threat-intelligence-building-threat-intelligence-capabilities-without-expanding-headcount) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.cyjax.com/resources/blog/ocrfix-botnet-trojan-delivered-through-clickfix-and-etherhiding -> 200 (final: https://www.cyjax.com/resources/blog/ocrfix-botnet-trojan-delivered-through-clickfix-and-etherhiding) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.cyjax.com/resources/blog/cyjax-in-2025-a-year-in-retrospect -> 200 (final: https://www.cyjax.com/resources/blog/cyjax-in-2025-a-year-in-retrospect) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.cyjax.com/resources/blog/ai-is-fast-but-humans-are-smarter-why-analyst-insight-still-wins-in-cybersecurity -> 200 (final: https://www.cyjax.com/resources/blog/ai-is-fast-but-humans-are-smarter-why-analyst-insight-still-wins-in-cybersecurity) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.cyjax.com/resources/blog/cyjax-vs-soc-radar-different-approaches-to-cyber-threat-intelligence -> 200 (final: https://www.cyjax.com/resources/blog/cyjax-vs-soc-radar-different-approaches-to-cyber-threat-intelligence) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.cyjax.com/resources/blog/cyber-threat-intelligence-trends-financial-institutions-cant-ignore-in-2026 -> 200 (final: https://www.cyjax.com/resources/blog/cyber-threat-intelligence-trends-financial-institutions-cant-ignore-in-2026) CT=text/html; charset=utf-8
@@ -341,6 +341,7 @@ Wrote feeds/hiddenlayer.xml
  • scraping listing page …
  [HTTP] scrape-listing GET https://hunt.io/blog -> 200 (final: https://hunt.io/blog) CT=text/html
  [HTTP] article GET https://hunt.io/blog/china-hosting-malware-c2-infrastructure -> 200 (final: https://hunt.io/blog/china-hosting-malware-c2-infrastructure) CT=text/html
+ [HTTP] article GET https://hunt.io/blog/guide-hunting-cobalt-strike-part-4-c2-feeds-api -> 200 (final: https://hunt.io/blog/guide-hunting-cobalt-strike-part-4-c2-feeds-api) CT=text/html
  [HTTP] article GET https://hunt.io/blog/reimagining-huntio -> 200 (final: https://hunt.io/blog/reimagining-huntio) CT=text/html
  [HTTP] article GET https://hunt.io/blog/fake-homebrew-clickfix-cuckoo-stealer-macos -> 200 (final: https://hunt.io/blog/fake-homebrew-clickfix-cuckoo-stealer-macos) CT=text/html
  [HTTP] article GET https://hunt.io/blog/cve-2026-25253-openclaw-ai-agent-exposure -> 200 (final: https://hunt.io/blog/cve-2026-25253-openclaw-ai-agent-exposure) CT=text/html
@@ -359,7 +360,6 @@ Wrote feeds/hiddenlayer.xml
  [HTTP] article GET https://hunt.io/blog/interview-joseph-harrison-threat-detection -> 200 (final: https://hunt.io/blog/interview-joseph-harrison-threat-detection) CT=text/html
  [HTTP] article GET https://hunt.io/blog/introducing-hunt-2-6 -> 200 (final: https://hunt.io/blog/introducing-hunt-2-6) CT=text/html
  [HTTP] article GET https://hunt.io/blog/macos-odyssey-amos-malware-campaign -> 200 (final: https://hunt.io/blog/macos-odyssey-amos-malware-campaign) CT=text/html
- [HTTP] article GET https://hunt.io/blog/adaptixc2-uncovered-capabilities-tactics-hunting -> 200 (final: https://hunt.io/blog/adaptixc2-uncovered-capabilities-tactics-hunting) CT=text/html
 Wrote feeds/hunt-io.xml
 
 === Processing: IBM X-Force (https://www.ibm.com/think/x-force) -> feeds/ibm-x-force.xml
@@ -517,6 +517,7 @@ Wrote feeds/koi-ai.xml
  [HTTP] sitemap GET https://learn.kroll.com/en/sitemap.xml -> 200 (final: https://learn.kroll.com/en/sitemap.xml) CT=text/xml;charset=utf-8
  [HTTP] article GET https://www.kroll.com/en -> 200 (final: https://www.kroll.com/en) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.kroll.com/en/about-us -> 200 (final: https://www.kroll.com/en/about-us) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.kroll.com/en/consultant-privacy-notice -> 200 (final: https://www.kroll.com/en/consultant-privacy-notice) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.kroll.com/en/golf -> 200 (final: https://www.kroll.com/en/golf) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.kroll.com/en/kroll-third-party-global-privacy-policy -> 200 (final: https://www.kroll.com/en/kroll-third-party-global-privacy-policy) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.kroll.com/en/publications -> 200 (final: https://www.kroll.com/en/publications) CT=text/html; charset=utf-8
@@ -544,7 +545,6 @@ Wrote feeds/koi-ai.xml
  [HTTP] article GET https://www.kroll.com/en/employee-privacy-policy -> 200 (final: https://www.kroll.com/en/employee-privacy-policy) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.kroll.com/en/end-user-license-agreement -> 200 (final: https://www.kroll.com/en/end-user-license-agreement) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.kroll.com/en/european-court-of-justice-decision-statement-july-2020 -> 200 (final: https://www.kroll.com/en/european-court-of-justice-decision-statement-july-2020) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.kroll.com/en/events -> 200 (final: https://www.kroll.com/en/events) CT=text/html; charset=utf-8
 Wrote feeds/kroll-cyber.xml
 
 === Processing: LEXFO Blog (https://blog.lexfo.fr/) -> feeds/lexfo.xml
@@ -596,17 +596,17 @@ Wrote feeds/malwation.xml
  [HTTP] article GET https://www.pillar.security/blog/ask-gordon-meet-the-attacker-prompt-injection-in-dockers-built-in-ai-assistant -> 200 (final: https://www.pillar.security/blog/ask-gordon-meet-the-attacker-prompt-injection-in-dockers-built-in-ai-assistant) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/best-practices-for-securely-deploying-ai-systems-insights-from-nsas-latest-report -> 200 (final: https://www.pillar.security/blog/best-practices-for-securely-deploying-ai-systems-insights-from-nsas-latest-report) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/beyond-devsecops-pillars-approach-for-securing-agentic-ai -> 200 (final: https://www.pillar.security/blog/beyond-devsecops-pillars-approach-for-securing-agentic-ai) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/building-ai-powered-software-prepare-to-answer-these-11-security-questions -> 200 (final: https://www.pillar.security/blog/building-ai-powered-software-prepare-to-answer-these-11-security-questions) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/building-secure-and-reliable-ai-agents-a-new-development-life-cycle -> 200 (final: https://www.pillar.security/blog/building-secure-and-reliable-ai-agents-a-new-development-life-cycle) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/building-your-ai-security-roadmap -> 200 (final: https://www.pillar.security/blog/building-your-ai-security-roadmap) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/californias-sb-1047-a-landmark-bill-for-safe-and-responsible-ai-innovation -> 200 (final: https://www.pillar.security/blog/californias-sb-1047-a-landmark-bill-for-safe-and-responsible-ai-innovation) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/caught-in-the-wild-real-attack-traffic-targeting-exposed-clawdbot-gateways -> 200 (final: https://www.pillar.security/blog/caught-in-the-wild-real-attack-traffic-targeting-exposed-clawdbot-gateways) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.pillar.security/risks -> 200 (final: https://www.pillar.security/risks) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.pillar.security/privacy-policy -> 200 (final: https://www.pillar.security/privacy-policy) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.pillar.security/terms-of-use -> 200 (final: https://www.pillar.security/terms-of-use) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.pillar.security/about -> 200 (final: https://www.pillar.security/about) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.pillar.security/challenge-coin -> 200 (final: https://www.pillar.security/challenge-coin) CT=text/html; charset=utf-8
  [HTTP] article GET https://www.pillar.security/resources/buyer-guide -> 200 (final: https://www.pillar.security/resources/buyer-guide) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/resources/the-state-of-attacks-on-genai -> 200 (final: https://www.pillar.security/resources/the-state-of-attacks-on-genai) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/request-a-free-ai-risk-assessment -> 200 (final: https://www.pillar.security/request-a-free-ai-risk-assessment) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/resources/webinar-ai-security-use-cases-and-challenges-for-2025 -> 200 (final: https://www.pillar.security/resources/webinar-ai-security-use-cases-and-challenges-for-2025) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/resources/webinar-ai-security-agentic-use-cases-and-challenges-for-2025-video -> 200 (final: https://www.pillar.security/resources/webinar-ai-security-agentic-use-cases-and-challenges-for-2025-video) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/events/rsac-2025 -> 200 (final: https://www.pillar.security/events/rsac-2025) CT=text/html; charset=utf-8
 Wrote feeds/pillar-security.xml
 
 === Processing: Profero Resources (https://profero.io/resources) -> feeds/profero.xml
