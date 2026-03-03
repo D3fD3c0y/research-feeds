@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Trellix Threat Reports (Custom Feed)</title>
-  <link>https://www.trellix.com/en-us.sitemap.xml</link>
-  <description>Auto-generated periodically</description>
-  <lastBuildDate>Tue, 24 Feb 2026 09:11:07 GMT</lastBuildDate>
-  <item>
-    <title>https://www.trellix.com/en-us.sitemap.xml — no items discovered</title>
-    <link>https://www.trellix.com/en-us.sitemap.xml</link>
-    <description>No posts detected.</description>
-    <pubDate>Tue, 24 Feb 2026 09:11:07 GMT</pubDate>
-  </item>
+ <title>Trellix Threat Reports (Custom Feed)</title>
+ <link>https://www.trellix.com/advanced-research-center/threat-reports/</link>
+ <description>Auto-generated periodically</description>
+ <lastBuildDate>Tue, 03 Mar 2026 19:17:44 GMT</lastBuildDate>
+ <item>
+ <title>https://www.trellix.com/advanced-research-center/threat-reports/ — no items discovered</title>
+ <link>https://www.trellix.com/advanced-research-center/threat-reports/</link>
+ <description>No posts detected.</description>
+ <pubDate>Tue, 03 Mar 2026 19:17:44 GMT</pubDate>
+ </item>
 </channel>
 </rss>
