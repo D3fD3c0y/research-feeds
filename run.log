@@ -6,6 +6,66 @@
  [HTTP] sitemap GET https://abnormal.ai/sitemap_index.xml -> 404 (final: https://abnormal.ai/sitemap_index.xml) CT=text/html; charset=utf-8
  [HTTP] sitemap body snippet: <!DOCTYPE html><html><head><meta charSet="utf-8" data-next-head=""/><meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0" data-next-head=""/><m
  [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-blog-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-blog-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/crowdstrike-email-security-partnership -> 200 (final: https://abnormal.ai/blog/crowdstrike-email-security-partnership) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/user-and-entity-behavior-analytics -> 200 (final: https://abnormal.ai/blog/user-and-entity-behavior-analytics) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/security-frameworks -> 200 (final: https://abnormal.ai/blog/security-frameworks) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/identity-protection-strategies -> 200 (final: https://abnormal.ai/blog/identity-protection-strategies) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/human-risk-management-behavioral-ai -> 200 (final: https://abnormal.ai/blog/human-risk-management-behavioral-ai) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/managed-cybersecurity-services-vs-in-house-soc -> 200 (final: https://abnormal.ai/blog/managed-cybersecurity-services-vs-in-house-soc) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/ai-security-awareness-training-guide -> 200 (final: https://abnormal.ai/blog/ai-security-awareness-training-guide) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/cfo-phishing-protection -> 200 (final: https://abnormal.ai/blog/cfo-phishing-protection) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/role-based-phishing-defense -> 200 (final: https://abnormal.ai/blog/role-based-phishing-defense) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/invoice-redirection-fraud-detection -> 200 (final: https://abnormal.ai/blog/invoice-redirection-fraud-detection) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/targeted-phishing-defense -> 200 (final: https://abnormal.ai/blog/targeted-phishing-defense) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/weakest-link-in-cyber-security -> 200 (final: https://abnormal.ai/blog/weakest-link-in-cyber-security) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/tech-consolidation-security-strategy -> 200 (final: https://abnormal.ai/blog/tech-consolidation-security-strategy) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/vendor-security-evaluation-guide -> 200 (final: https://abnormal.ai/blog/vendor-security-evaluation-guide) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/email-authentication-setup-prevent-spoofing -> 200 (final: https://abnormal.ai/blog/email-authentication-setup-prevent-spoofing) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/cybersecurity-skills-gap-solutions -> 200 (final: https://abnormal.ai/blog/cybersecurity-skills-gap-solutions) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/email-fraud-wire-transfer-prevention -> 200 (final: https://abnormal.ai/blog/email-fraud-wire-transfer-prevention) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/threat-prevention-for-cloud -> 200 (final: https://abnormal.ai/blog/threat-prevention-for-cloud) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/ai-cybersecurity-threats -> 200 (final: https://abnormal.ai/blog/ai-cybersecurity-threats) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/security-awareness-to-human-risk-management -> 200 (final: https://abnormal.ai/blog/security-awareness-to-human-risk-management) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/types-of-email-scams -> 200 (final: https://abnormal.ai/blog/types-of-email-scams) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/stephen-harrison-vp-product-ai-native-security -> 200 (final: https://abnormal.ai/blog/stephen-harrison-vp-product-ai-native-security) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/email-to-microsoft-teams-attacks -> 200 (final: https://abnormal.ai/blog/email-to-microsoft-teams-attacks) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/ai-corporate-espionage -> 200 (final: https://abnormal.ai/blog/ai-corporate-espionage) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/pretexting-scams-c-suite-executives -> 200 (final: https://abnormal.ai/blog/pretexting-scams-c-suite-executives) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/types-of-vendor-fraud -> 200 (final: https://abnormal.ai/blog/types-of-vendor-fraud) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/importance-of-cybersecurity-in-healthcare -> 200 (final: https://abnormal.ai/blog/importance-of-cybersecurity-in-healthcare) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/healthcare-fraud-cybersecurity -> 200 (final: https://abnormal.ai/blog/healthcare-fraud-cybersecurity) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/healthcare-cybersecurity-best-practices -> 200 (final: https://abnormal.ai/blog/healthcare-cybersecurity-best-practices) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://abnormal.ai/blog/cybersecurity-attacks-in-healthcare -> 200 (final: https://abnormal.ai/blog/cybersecurity-attacks-in-healthcare) CT=text/html; charset=utf-8
 Wrote feeds/abnormal-threat-intel.xml
 
 === Processing: Abstract Security Blog (https://www.abstract.security/blog/) -> feeds/abstract-security.xml
@@ -13,50 +73,75 @@ Wrote feeds/abnormal-threat-intel.xml
  • using sitemap fallback …
  [HTTP] robots GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] sitemap GET https://www.abstract.security/sitemap.xml -> 200 (final: https://www.abstract.security/sitemap.xml) CT=application/rss+xml; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/10-cybersecurity-focus-areas-that-actually-move-the-needle -> 200 (final: https://www.abstract.security/blog/10-cybersecurity-focus-areas-that-actually-move-the-needle) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/2025-security-data-pipeline-platforms-market-guide -> 200 (final: https://www.abstract.security/blog/2025-security-data-pipeline-platforms-market-guide) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/90-of-your-splunk-data-is-helping-attackers-not-analysts -> 200 (final: https://www.abstract.security/blog/90-of-your-splunk-data-is-helping-attackers-not-analysts) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/abstract-and-chris-camacho-threat-intelligence-the-next-evolution -> 200 (final: https://www.abstract.security/blog/abstract-and-chris-camacho-threat-intelligence-the-next-evolution) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/abstract-joins-torq-amp-alliance-program-to-accelerate-agentic-secops -> 200 (final: https://www.abstract.security/blog/abstract-joins-torq-amp-alliance-program-to-accelerate-agentic-secops) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/abstract-security-amazon-security-lake-ocsf-upgraded-security-data-management -> 200 (final: https://www.abstract.security/blog/abstract-security-amazon-security-lake-ocsf-upgraded-security-data-management) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/abstract-security-joins-forces-with-analytica42-to-supercharge-integration-delivery-to-google-secops-and-more -> 200 (final: https://www.abstract.security/blog/abstract-security-joins-forces-with-analytica42-to-supercharge-integration-delivery-to-google-secops-and-more) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/abstract-security-partners-with-netskope-to-turn-security-data-into-real-time-decisions -> 200 (final: https://www.abstract.security/blog/abstract-security-partners-with-netskope-to-turn-security-data-into-real-time-decisions) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/abstract-security-welcomes-omegablack-to-growing-roster-of-new-customers -> 200 (final: https://www.abstract.security/blog/abstract-security-welcomes-omegablack-to-growing-roster-of-new-customers) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/ai-agents-and-automated-socs-centering-end-to-end-workflows-for-real-impact -> 200 (final: https://www.abstract.security/blog/ai-agents-and-automated-socs-centering-end-to-end-workflows-for-real-impact) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/automating-macos-incident-response-dfir-as-code-in-action-against-appleprocesshub -> 200 (final: https://www.abstract.security/blog/automating-macos-incident-response-dfir-as-code-in-action-against-appleprocesshub) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/breaking-the-siem-mold-security-data-operations-whats-next-live-at-black-hat -> 200 (final: https://www.abstract.security/blog/breaking-the-siem-mold-security-data-operations-whats-next-live-at-black-hat) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/c2-corner-achieving-fortune-50-security-with-a-smb-budget -> 200 (final: https://www.abstract.security/blog/c2-corner-achieving-fortune-50-security-with-a-smb-budget) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/c2-corner-detection-doesnt-fail-first-data-does -> 200 (final: https://www.abstract.security/blog/c2-corner-detection-doesnt-fail-first-data-does) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/c2-corner-how-i-mentor -> 200 (final: https://www.abstract.security/blog/c2-corner-how-i-mentor) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/c2-corner-rebooting-security-operations-mission-first-people-always -> 200 (final: https://www.abstract.security/blog/c2-corner-rebooting-security-operations-mission-first-people-always) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/c2-corner-state-of-enterprise-detection-engineering-for-a-modern-soc -> 200 (final: https://www.abstract.security/blog/c2-corner-state-of-enterprise-detection-engineering-for-a-modern-soc) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/c2-corner-stop-automating-the-soc-start-automating-remediation -> 200 (final: https://www.abstract.security/blog/c2-corner-stop-automating-the-soc-start-automating-remediation) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/c2-corner-the-tactician-and-the-strategist-in-cyber-threat-intelligence -> 200 (final: https://www.abstract.security/blog/c2-corner-the-tactician-and-the-strategist-in-cyber-threat-intelligence) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/c2-corner-why-i-mentor -> 200 (final: https://www.abstract.security/blog/c2-corner-why-i-mentor) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/climbing-the-mountain-again-and-again -> 200 (final: https://www.abstract.security/blog/climbing-the-mountain-again-and-again) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/contagious-interview-evolution-of-vscode-and-cursor-tasks-infection-chains -> 200 (final: https://www.abstract.security/blog/contagious-interview-evolution-of-vscode-and-cursor-tasks-infection-chains) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/contagious-interview-tracking-the-vs-code-tasks-infection-vector -> 200 (final: https://www.abstract.security/blog/contagious-interview-tracking-the-vs-code-tasks-infection-vector) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/critical-apache-tika-vulnerability-cve-2025-66516-enables-xxe-injection -> 200 (final: https://www.abstract.security/blog/critical-apache-tika-vulnerability-cve-2025-66516-enables-xxe-injection) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/critical-ivanti-epmm-vulnerabilities-cve-2026-1281-cve-2026-1340 -> 200 (final: https://www.abstract.security/blog/critical-ivanti-epmm-vulnerabilities-cve-2026-1281-cve-2026-1340) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/critical-mongodb-vulnerability-cve-2025-14847-mongobleed -> 200 (final: https://www.abstract.security/blog/critical-mongodb-vulnerability-cve-2025-14847-mongobleed) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/critical-react-server-components-rce-cve-2025-55182-what-you-need-to-patch-now -> 200 (final: https://www.abstract.security/blog/critical-react-server-components-rce-cve-2025-55182-what-you-need-to-patch-now) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/dfir-as-code-scaled-and-repeatable-incident-response -> 200 (final: https://www.abstract.security/blog/dfir-as-code-scaled-and-repeatable-incident-response) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/dune-security-and-abstract-security-partner-to-deliver-real-time-detection-and-automated-risk-reduction -> 200 (final: https://www.abstract.security/blog/dune-security-and-abstract-security-partner-to-deliver-real-time-detection-and-automated-risk-reduction) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.abstract.security/blog/enabling-the-mongodb-logging-firehose -> 200 (final: https://www.abstract.security/blog/enabling-the-mongodb-logging-firehose) CT=text/html; charset=utf-8
 Wrote feeds/abstract-security.xml
 
 === Processing: Analyst1 Blog (https://analyst1.com/category/blog/) -> feeds/analyst1.xml
  robots.txt respected: True
- • using sitemap fallback …
- [HTTP] robots GET https://analyst1.com/robots.txt -> 200 (final: https://analyst1.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] sitemap GET https://analyst1.com/sitemap_index.xml -> 403 (final: https://analyst1.com/sitemap_index.xml) CT=text/html; charset=UTF-8
- [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] sitemap GET https://analyst1.com/sitemap.xml -> 403 (final: https://analyst1.com/sitemap.xml) CT=text/html; charset=UTF-8
- [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] sitemap GET https://analyst1.com/sitemap.xml.gz -> 403 (final: https://analyst1.com/sitemap.xml.gz) CT=text/html; charset=UTF-8
- [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] sitemap GET https://analyst1.com/sitemap_index.xml.gz -> 403 (final: https://analyst1.com/sitemap_index.xml.gz) CT=text/html; charset=UTF-8
- [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] robots-check GET https://analyst1.com/robots.txt -> 200 (final: https://analyst1.com/robots.txt) CT=text/plain; charset=utf-8
+ • scraping listing page …
+ [HTTP] scrape-listing GET https://analyst1.com/category/blog/ -> 403 (final: https://analyst1.com/category/blog/) CT=text/html; charset=UTF-8
+ [HTTP] scrape-listing body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ ! scrape_items listing fetch error: 403 Client Error: Forbidden for url: https://analyst1.com/category/blog/
 Wrote feeds/analyst1.xml
 
 === Processing: AppOmni Blog (https://appomni.com/article-type/blog/) -> feeds/appomni.xml
@@ -83,35 +168,65 @@ Wrote feeds/analyst1.xml
  [HTTP] sitemap GET https://appomni.com/region-sitemap.xml -> 200 (final: https://appomni.com/region-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] sitemap GET https://appomni.com/workshop-type-sitemap.xml -> 200 (final: https://appomni.com/workshop-type-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] sitemap GET https://appomni.com/author-sitemap.xml -> 200 (final: https://appomni.com/author-sitemap.xml) CT=text/xml; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/resources/ -> 200 (final: https://appomni.com/resources/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/accenture-partners-with-appomni-to-enhance-salesforce-security-and-tackle-saas-misconfiguration-risk/ -> 200 (final: https://appomni.com/blog/accenture-partners-with-appomni-to-enhance-salesforce-security-and-tackle-saas-misconfiguration-risk/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/navigating-the-complexities-of-saas-threat-detection/ -> 200 (final: https://appomni.com/blog/navigating-the-complexities-of-saas-threat-detection/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/elevate-saas-security-with-closed-loop-zero-trust/ -> 200 (final: https://appomni.com/blog/elevate-saas-security-with-closed-loop-zero-trust/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/introducing-zero-trust-posture-management-ztpm/ -> 200 (final: https://appomni.com/blog/introducing-zero-trust-posture-management-ztpm/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/2024-saas-security-forecast-and-predictions/ -> 200 (final: https://appomni.com/blog/2024-saas-security-forecast-and-predictions/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/qlik-attack-why-sspm-is-a-must-have-for-cisos/ -> 200 (final: https://appomni.com/blog/qlik-attack-why-sspm-is-a-must-have-for-cisos/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/okta-breach-threat-intel-advisory/ -> 200 (final: https://appomni.com/blog/okta-breach-threat-intel-advisory/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/handling-saas-data-exposure-risks-due-to-potential-servicenow-misconfigurations/ -> 200 (final: https://appomni.com/blog/handling-saas-data-exposure-risks-due-to-potential-servicenow-misconfigurations/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/detecting-and-preventing-okta-compromises-with-sspm/ -> 200 (final: https://appomni.com/blog/detecting-and-preventing-okta-compromises-with-sspm/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/appomni-saas-event-maturity-matrix/ -> 200 (final: https://appomni.com/blog/appomni-saas-event-maturity-matrix/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/lessons-learned-from-blackhat2023-on-saas-identities-ai/ -> 200 (final: https://appomni.com/blog/lessons-learned-from-blackhat2023-on-saas-identities-ai/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/how-identity-fabric-secures-saas-identities-and-access/ -> 200 (final: https://appomni.com/blog/how-identity-fabric-secures-saas-identities-and-access/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/follow-ncsc-cloud-security-guidance-for-saas-with-appomni/ -> 200 (final: https://appomni.com/blog/follow-ncsc-cloud-security-guidance-for-saas-with-appomni/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/technologyone-breach-highlights-the-need-for-saas-security/ -> 200 (final: https://appomni.com/blog/technologyone-breach-highlights-the-need-for-saas-security/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/how-to-comply-with-cyber-essentials-requirements-uk/ -> 200 (final: https://appomni.com/blog/how-to-comply-with-cyber-essentials-requirements-uk/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/salesforce-security-community-cloud-scanner/ -> 200 (final: https://appomni.com/risk-assessment/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/how-cisos-make-saas-security-priority-for-business-leaders/ -> 200 (final: https://appomni.com/blog/how-cisos-make-saas-security-priority-for-business-leaders/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/employee-spotlight-sarah-osburn-senior-technical-account-manager-at-appomni/ -> 200 (final: https://appomni.com/blog/employee-spotlight-sarah-osburn-senior-technical-account-manager-at-appomni/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/employee-spotlight-nick-crouch-international-channel-director-appomni/ -> 200 (final: https://appomni.com/blog/employee-spotlight-nick-crouch-international-channel-director-appomni/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/employee-spotlight-josh-rickard-senior-software-engineer-at-appomni/ -> 200 (final: https://appomni.com/blog/employee-spotlight-josh-rickard-senior-software-engineer-at-appomni/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/ao-labs/unpacking-preventing-circleci-data-breach/ -> 200 (final: https://appomni.com/ao-labs/unpacking-preventing-circleci-data-breach/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/lastpass-and-okta-breaches-security-steps-to-take-right-now/ -> 200 (final: https://appomni.com/blog/lastpass-and-okta-breaches-security-steps-to-take-right-now/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/how-saas-vendors-are-handling-the-openssl-critical-flaw/ -> 200 (final: https://appomni.com/blog/how-saas-vendors-are-handling-the-openssl-critical-flaw/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/the-need-for-privileged-identity-management-pim/ -> 200 (final: https://appomni.com/blog/the-need-for-privileged-identity-management-pim/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/ao-labs/okta-passbleed-risks/ -> 200 (final: https://appomni.com/ao-labs/okta-passbleed-risks/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/continuous-monitoring-and-automated-threat-testing-for-saas/ -> 200 (final: https://appomni.com/blog/continuous-monitoring-and-automated-threat-testing-for-saas/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/payroll-fraud-threat-hunting-detection/ -> 200 (final: https://appomni.com/blog/payroll-fraud-threat-hunting-detection/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/what-is-0ktapus-breach/ -> 200 (final: https://appomni.com/learn/advanced-saas-security/what-is-0ktapus-breach/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
  [HTTP] article GET https://appomni.com/blog/appomni-raises-70-million-series-c-led-by-thoma-bravo/ -> 200 (final: https://appomni.com/blog/appomni-raises-70-million-series-c-led-by-thoma-bravo/) CT=text/html; charset=UTF-8
 Wrote feeds/appomni.xml
 
@@ -135,53 +250,81 @@ Wrote feeds/armis-research.xml
  • using sitemap fallback …
  [HTTP] robots GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] sitemap GET https://www.pillar.security/sitemap.xml -> 200 (final: https://www.pillar.security/sitemap.xml) CT=application/rss+xml; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog -> 200 (final: https://www.pillar.security/blog) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/10-best-ai-newsletters-you-must-subscribe-to -> 200 (final: https://www.pillar.security/blog/10-best-ai-newsletters-you-must-subscribe-to) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/90-of-successful-attacks-seen-in-the-wild-resulted-in-leaked-sensitive-data -> 200 (final: https://www.pillar.security/blog/90-of-successful-attacks-seen-in-the-wild-resulted-in-leaked-sensitive-data) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/a-deep-dive-into-llm-jailbreaking-techniques-and-their-implications -> 200 (final: https://www.pillar.security/blog/a-deep-dive-into-llm-jailbreaking-techniques-and-their-implications) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/a-milestone-for-pillar-honored-as-frost-sullivans-2025-competitive-strategy-leader-for-ai-security -> 200 (final: https://www.pillar.security/blog/a-milestone-for-pillar-honored-as-frost-sullivans-2025-competitive-strategy-leader-for-ai-security) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/addressing-vertical-agentic-risks-with-taint-analysis -> 200 (final: https://www.pillar.security/blog/addressing-vertical-agentic-risks-with-taint-analysis) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/agentic-use-cases-and-challenges-for-2025 -> 200 (final: https://www.pillar.security/blog/agentic-use-cases-and-challenges-for-2025) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/ai-agents-in-the-workforce-the-future-of-team-collaboration-and-efficiency -> 200 (final: https://www.pillar.security/blog/ai-agents-in-the-workforce-the-future-of-team-collaboration-and-efficiency) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/ai-asset-inventory-the-foundation-of-ai-governance-and-security -> 200 (final: https://www.pillar.security/blog/ai-asset-inventory-the-foundation-of-ai-governance-and-security) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/ai-red-teaming-ensuring-safe-and-secure-ai-systems -> 200 (final: https://www.pillar.security/blog/ai-red-teaming-ensuring-safe-and-secure-ai-systems) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/ai-red-teaming-playbook -> 200 (final: https://www.pillar.security/blog/ai-red-teaming-playbook) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/ai-red-teaming-regulations-and-standards -> 200 (final: https://www.pillar.security/blog/ai-red-teaming-regulations-and-standards) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/ai-security-trends-to-watch-in-2025 -> 200 (final: https://www.pillar.security/blog/ai-security-trends-to-watch-in-2025) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/ai-systems-must-be-secured-by-design -> 200 (final: https://www.pillar.security/blog/ai-systems-must-be-secured-by-design) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/analyzing-the-amazon-q-incident-using-the-sail-framework -> 200 (final: https://www.pillar.security/blog/analyzing-the-amazon-q-incident-using-the-sail-framework) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/anatomy-of-an-indirect-prompt-injection -> 200 (final: https://www.pillar.security/blog/anatomy-of-an-indirect-prompt-injection) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/ask-gordon-meet-the-attacker-prompt-injection-in-dockers-built-in-ai-assistant -> 200 (final: https://www.pillar.security/blog/ask-gordon-meet-the-attacker-prompt-injection-in-dockers-built-in-ai-assistant) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/best-practices-for-securely-deploying-ai-systems-insights-from-nsas-latest-report -> 200 (final: https://www.pillar.security/blog/best-practices-for-securely-deploying-ai-systems-insights-from-nsas-latest-report) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/blog/beyond-devsecops-pillars-approach-for-securing-agentic-ai -> 200 (final: https://www.pillar.security/blog/beyond-devsecops-pillars-approach-for-securing-agentic-ai) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/risks -> 200 (final: https://www.pillar.security/risks) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/privacy-policy -> 200 (final: https://www.pillar.security/privacy-policy) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/terms-of-use -> 200 (final: https://www.pillar.security/terms-of-use) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/about -> 200 (final: https://www.pillar.security/about) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/challenge-coin -> 200 (final: https://www.pillar.security/challenge-coin) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/resources/buyer-guide -> 200 (final: https://www.pillar.security/resources/buyer-guide) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/resources/the-state-of-attacks-on-genai -> 200 (final: https://www.pillar.security/resources/the-state-of-attacks-on-genai) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/request-a-free-ai-risk-assessment -> 200 (final: https://www.pillar.security/request-a-free-ai-risk-assessment) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/resources/webinar-ai-security-use-cases-and-challenges-for-2025 -> 200 (final: https://www.pillar.security/resources/webinar-ai-security-use-cases-and-challenges-for-2025) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/resources/webinar-ai-security-agentic-use-cases-and-challenges-for-2025-video -> 200 (final: https://www.pillar.security/resources/webinar-ai-security-agentic-use-cases-and-challenges-for-2025-video) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://www.pillar.security/events/rsac-2025 -> 200 (final: https://www.pillar.security/events/rsac-2025) CT=text/html; charset=utf-8
 Wrote feeds/pillar-security.xml
 
 === Processing: Trellix Research Blog (https://www.trellix.com/blogs/research/) -> feeds/trellix-research.xml
  robots.txt respected: True
- • using sitemap fallback …
- [HTTP] robots GET https://www.trellix.com/robots.txt -> 200 (final: https://www.trellix.com/robots.txt) CT=text/plain;charset=iso-8859-1
- [HTTP] sitemap GET https://www.trellix.com/en-us.sitemap.xml -> 200 (final: https://www.trellix.com/en-us.sitemap.xml) CT=text/html
- [HTTP] sitemap GET https://www.trellix.com/en-us.assets.sitemap.xml -> 200 (final: https://www.trellix.com/en-us.assets.sitemap.xml) CT=text/html
- [HTTP] sitemap GET https://www.trellix.com/sitemap.xml -> 200 (final: https://www.trellix.com/sitemap.xml) CT=text/html
- [HTTP] sitemap GET https://www.trellix.com/sitemap_index.xml -> 200 (final: https://www.trellix.com/sitemap_index.xml) CT=text/html
- [HTTP] sitemap GET https://www.trellix.com/sitemap.xml.gz -> 200 (final: https://www.trellix.com/sitemap.xml.gz) CT=text/html
- [HTTP] sitemap GET https://www.trellix.com/sitemap_index.xml.gz -> 200 (final: https://www.trellix.com/sitemap_index.xml.gz) CT=text/html
+ [HTTP] robots-check GET https://www.trellix.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=20)
+ • scraping listing page …
+ [HTTP] scrape-listing GET https://www.trellix.com/blogs/research/ -> EXCEPTION: HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=20)
+ ! scrape_items listing fetch error: HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=20)
 Wrote feeds/trellix-research.xml
 
 === Processing: Trellix Threat Reports (https://www.trellix.com/advanced-research-center/threat-reports/) -> feeds/trellix-threat-reports.xml
  robots.txt respected: True
+ [HTTP] robots-check GET https://www.trellix.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=20)
  • scraping listing page …
- [HTTP] scrape-listing GET https://www.trellix.com/advanced-research-center/threat-reports/ -> 200 (final: https://www.trellix.com/advanced-research-center/threat-reports/) CT=text/html
+ [HTTP] scrape-listing GET https://www.trellix.com/advanced-research-center/threat-reports/ -> EXCEPTION: HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=20)
+ ! scrape_items listing fetch error: HTTPSConnectionPool(host='www.trellix.com', port=443): Read timed out. (read timeout=20)
 Wrote feeds/trellix-threat-reports.xml
 Wrote index.html

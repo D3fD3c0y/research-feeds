@@ -1,189 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
- <title>AppOmni Blog (Custom Feed)</title>
- <link>https://appomni.com/article-type/blog/</link>
- <description>Auto-generated periodically</description>
- <lastBuildDate>Tue, 03 Mar 2026 19:17:37 GMT</lastBuildDate>
- <item>
- <title>Resources</title>
- <link>https://appomni.com/resources/</link>
- <description>Explore our diverse collection of resources covering SaaS security, AI security, compliance, and best practices.</description>
- <pubDate>Tue, 03 Mar 2026 19:17:09 GMT</pubDate>
- </item>
- <item>
- <title>Accenture Partners with AppOmni to Enhance Salesforce Security and Tackle SaaS Misconfiguration Risk</title>
- <link>https://appomni.com/blog/accenture-partners-with-appomni-to-enhance-salesforce-security-and-tackle-saas-misconfiguration-risk/</link>
- <description>Hear from Rex Thexton and Andrew Triplett on how Accenture and AppOmni team up to tackle SaaS misconfiguration risks.</description>
- <pubDate>Fri, 09 Jul 2021 13:01:00 GMT</pubDate>
- </item>
- <item>
- <title>Navigating the Complexities of SaaS Threat Detection</title>
- <link>https://appomni.com/blog/navigating-the-complexities-of-saas-threat-detection/</link>
- <description>Learn how to navigate the complexities of SaaS threat detection and see what AppOmni does to help tackle threat detection for SaaS applications.</description>
- <pubDate>Mon, 05 Aug 2024 12:55:24 GMT</pubDate>
- </item>
- <item>
- <title>Elevate SaaS Security With Closed Loop Zero Trust</title>
- <link>https://appomni.com/blog/elevate-saas-security-with-closed-loop-zero-trust/</link>
- <description>Learn about Closed Loop Zero Trust (ZT) and how AppOmni’s patent-pending Zero Trust technology provides an end-to-end Zero Trust solution.</description>
- <pubDate>Tue, 14 May 2024 15:55:00 GMT</pubDate>
- </item>
- <item>
- <title>Introducing Zero Trust Posture Management (ZTPM): Extending Zero Trust Beyond Network Access</title>
- <link>https://appomni.com/blog/introducing-zero-trust-posture-management-ztpm/</link>
- <description>Get an introduction to Zero Trust Posture Management (ZTPM). Learn how it extends Zero Trust principles and helps enterprises establish Zero Trust architectures.</description>
- <pubDate>Tue, 07 May 2024 01:00:00 GMT</pubDate>
- </item>
- <item>
- <title>2024 SaaS Security Forecast</title>
- <link>https://appomni.com/blog/2024-saas-security-forecast-and-predictions/</link>
- <description>Read the 2024 SaaS security predictions from 5 cybersecurity thought leaders around disclosures, AI-provoked breaches, third-party attacks, and misconfigurations.</description>
- <pubDate>Sun, 03 Dec 2023 19:10:22 GMT</pubDate>
- </item>
- <item>
- <title>The Qlik Cyber Attack: Why SSPM Is a Must Have for CISOs</title>
- <link>https://appomni.com/blog/qlik-attack-why-sspm-is-a-must-have-for-cisos/</link>
- <description>Learn more about the cyberattack against internet-facing Qlik Sense and see how AppOmni secured their own environment from Qlik’s potential impact with SSPM.</description>
- <pubDate>Fri, 01 Dec 2023 22:53:00 GMT</pubDate>
- </item>
- <item>
- <title>Okta Breach Threat Intel Advisory</title>
- <link>https://appomni.com/blog/okta-breach-threat-intel-advisory/</link>
- <description>Learn more about recent IdP attacks, like the Okta compromises that impacted many Okta customers, and how AppOmni helps secure SaaS identities.</description>
- <pubDate>Thu, 02 Nov 2023 15:04:00 GMT</pubDate>
- </item>
- <item>
- <title>Handling SaaS Data Exposure Risks Due to Potential ServiceNow Misconfigurations</title>
- <link>https://appomni.com/blog/handling-saas-data-exposure-risks-due-to-potential-servicenow-misconfigurations/</link>
- <description>See the impact of customer-side SaaS app misconfigurations, like those recently reported on ServiceNow, and how a robust SSPM solution can mitigate possible risk.</description>
- <pubDate>Tue, 24 Oct 2023 20:03:22 GMT</pubDate>
- </item>
- <item>
- <title>Detecting and Preventing Okta Compromises with SSPM</title>
- <link>https://appomni.com/blog/detecting-and-preventing-okta-compromises-with-sspm/</link>
- <description>Learn how the identity-centric attack occurred on Okta admin accounts and why an SSPM solution can detect and prevent sophisticated tactics which attackers are attempting.</description>
- <pubDate>Tue, 24 Oct 2023 18:16:05 GMT</pubDate>
- </item>
- <item>
- <title>Introducing the SaaS Event Maturity Matrix (EMM)</title>
- <link>https://appomni.com/blog/appomni-saas-event-maturity-matrix/</link>
- <description>Learn about the Threat Detection framework for assessing SaaS audit logging from different SaaS platforms commonly used by enterprises.</description>
- <pubDate>Mon, 09 Oct 2023 21:19:03 GMT</pubDate>
- </item>
- <item>
- <title>Perceptions, SaaS Identities and AI</title>
- <link>https://appomni.com/blog/lessons-learned-from-blackhat2023-on-saas-identities-ai/</link>
- <description>Cybersecurity perceptions, SaaS identities, and securing AI and LLMs: 3 key takeaways from Black Hat 2023</description>
- <pubDate>Sat, 26 Aug 2023 00:10:00 GMT</pubDate>
- </item>
- <item>
- <title>Introducing the AppOmni SaaS Identity Fabric</title>
- <link>https://appomni.com/blog/how-identity-fabric-secures-saas-identities-and-access/</link>
- <description>Learn from Chief Product Officer Harold Byun how AppOmni Identity Fabric secures and manages end-users, entitlements, and threat-based activity for all of SaaS.</description>
- <pubDate>Wed, 21 Jun 2023 20:18:08 GMT</pubDate>
- </item>
- <item>
- <title>How to Follow NCSC’s Cloud Security Guidance for SaaS</title>
- <link>https://appomni.com/blog/follow-ncsc-cloud-security-guidance-for-saas-with-appomni/</link>
- <description>Learn how NCSC’s new Cloud Security Guidance on SaaS matches up with AppOmni’s key SaaS security capabilities.</description>
- <pubDate>Thu, 15 Jun 2023 19:56:02 GMT</pubDate>
- </item>
- <item>
- <title>TechnologyOne Breach Highlights the Need for SaaS Security</title>
- <link>https://appomni.com/blog/technologyone-breach-highlights-the-need-for-saas-security/</link>
- <description>See how the TechnologyOne breach underscores the importance of a proactive SaaS Security strategy to safeguard your valuable data.</description>
- <pubDate>Thu, 18 May 2023 22:46:28 GMT</pubDate>
- </item>
- <item>
- <title>How SSPM Can Help Organizations Meet Cyber Essentials UK Requirements</title>
- <link>https://appomni.com/blog/how-to-comply-with-cyber-essentials-requirements-uk/</link>
- <description>Learn how a robust SSPM solution — like AppOmni — can help UK-based organizations to properly comply with the latest Cyber Essentials guidelines.</description>
- <pubDate>Tue, 02 May 2023 21:01:00 GMT</pubDate>
- </item>
- <item>
- <title>Risk Assessment</title>
- <link>https://appomni.com/blog/salesforce-security-community-cloud-scanner/</link>
- <description>Assess and mitigate risks effectively with AppOmni's comprehensive risk assessment services.</description>
- <pubDate>Tue, 03 Mar 2026 19:17:25 GMT</pubDate>
- </item>
- <item>
- <title>How Great CISOs Make SaaS Security a Priority for Business Leaders</title>
- <link>https://appomni.com/blog/how-cisos-make-saas-security-priority-for-business-leaders/</link>
- <description>IT and security reviews alone fall hopelessly short of securing the SaaS estate. See how smart CISOs run effective SaaS security programs.</description>
- <pubDate>Wed, 06 Mar 2024 21:14:44 GMT</pubDate>
- </item>
- <item>
- <title>Employee Spotlight: Sarah Osburn, Sr. Technical Account Manager @ AppOmni</title>
- <link>https://appomni.com/blog/employee-spotlight-sarah-osburn-senior-technical-account-manager-at-appomni/</link>
- <description>Meet Sarah Osburn, a Senior Technical Account Manager at AppOmni in our ‘Employee Spotlight’ series where we highlight our talented employees.</description>
- <pubDate>Mon, 04 Mar 2024 20:46:11 GMT</pubDate>
- </item>
- <item>
- <title>Employee Spotlight: Nick Crouch, International Channel Director @ AppOmni</title>
- <link>https://appomni.com/blog/employee-spotlight-nick-crouch-international-channel-director-appomni/</link>
- <description>Meet Nick Crouch, an International Channel Director at AppOmni in our ‘Employee Spotlight’ series where we highlight our talented employees.</description>
- <pubDate>Fri, 01 Mar 2024 20:41:50 GMT</pubDate>
- </item>
- <item>
- <title>Employee Spotlight: Josh Rickard, Senior Software Engineer @ AppOmni</title>
- <link>https://appomni.com/blog/employee-spotlight-josh-rickard-senior-software-engineer-at-appomni/</link>
- <description>Meet Josh Rickard, a Senior Software Engineer on AppOmni’s Threat Detection team in our employee spotlight series where we highlight AppOmni talent.</description>
- <pubDate>Thu, 29 Feb 2024 20:37:12 GMT</pubDate>
- </item>
- <item>
- <title>Unpacking (and Preventing) the CircleCI Data Breach</title>
- <link>https://appomni.com/ao-labs/unpacking-preventing-circleci-data-breach/</link>
- <description>See how one compromised employee laptop spawned the CircleCI data breach — and the measures you can take to secure your SaaS data and platforms.</description>
- <pubDate>Mon, 23 Jan 2023 22:32:00 GMT</pubDate>
- </item>
- <item>
- <title>LastPass and Okta Breaches: Security Steps to Take Right Now</title>
- <link>https://appomni.com/blog/lastpass-and-okta-breaches-security-steps-to-take-right-now/</link>
- <description>See what the attacks against SaaS identity and credential providers LastPass and Okta mean — and what steps your company should take.</description>
- <pubDate>Fri, 23 Dec 2022 21:59:00 GMT</pubDate>
- </item>
- <item>
- <title>How SaaS Vendors Are Handling the OpenSSL Critical Flaw</title>
- <link>https://appomni.com/blog/how-saas-vendors-are-handling-the-openssl-critical-flaw/</link>
- <description>Learn the different steps SaaS vendors are taking to handle the OpenSSL critical flaw, along with additional resources you can access.</description>
- <pubDate>Tue, 01 Nov 2022 21:27:00 GMT</pubDate>
- </item>
- <item>
- <title>Privileged Identity Management (PIM)</title>
- <link>https://appomni.com/blog/the-need-for-privileged-identity-management-pim/</link>
- <description>Learn how to ensure the bare minimum of privileged access is granted to the right people, at the right time, and for as long as that access is appropriate.</description>
- <pubDate>Fri, 14 Oct 2022 23:35:00 GMT</pubDate>
- </item>
- <item>
- <title>Okta PassBleed Risks &amp;#8211; A Technical Overview</title>
- <link>https://appomni.com/ao-labs/okta-passbleed-risks/</link>
- <description>A detailed and technical look at the Okta PassBleed risks related to password stealing and user impersonation.</description>
- <pubDate>Wed, 21 Sep 2022 03:58:00 GMT</pubDate>
- </item>
- <item>
- <title>Importance of Continuous Monitoring and Automated Threat Testing for SaaS</title>
- <link>https://appomni.com/blog/continuous-monitoring-and-automated-threat-testing-for-saas/</link>
- <description>Discover the unique challenges of SaaS security and learn why organizations need continuous monitoring and automated threat testing to protect their SaaS data.</description>
- <pubDate>Tue, 20 Sep 2022 22:36:16 GMT</pubDate>
- </item>
- <item>
- <title>Payroll Fraud: Analyzing the Attack Lifecycle of a Direct Deposit Scam</title>
- <link>https://appomni.com/blog/payroll-fraud-threat-hunting-detection/</link>
- <description>Learn how direct deposit payroll fraud occurs and how to identify the signals available in audit logs to support threat hunting &amp; detection.</description>
- <pubDate>Tue, 20 Sep 2022 16:46:00 GMT</pubDate>
- </item>
- <item>
- <title>What is the 0ktapus Breach? Key Lessons for SaaS Security Teams</title>
- <link>https://appomni.com/blog/what-is-0ktapus-breach/</link>
- <description>What the 0ktapus breach reveals about SaaS security risks and how you can prevent attacks with continuous SSPM and threat detection.</description>
- <pubDate>Tue, 03 Mar 2026 19:17:36 GMT</pubDate>
- </item>
- <item>
- <title>AppOmni Raises $70 Million Series C Led by Thoma Bravo</title>
- <link>https://appomni.com/blog/appomni-raises-70-million-series-c-led-by-thoma-bravo/</link>
- <description>Today we announced our $70 million Series C. The new funding will enable us to continue our momentum in SaaS security and to cement our leadership position in the space.</description>
- <pubDate>Mon, 06 Jun 2022 20:52:45 GMT</pubDate>
- </item>
+  <title>AppOmni Blog (Custom Feed)</title>
+  <link>https://appomni.com/article-type/blog/</link>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Tue, 03 Mar 2026 20:09:33 GMT</lastBuildDate>
+  <item>
+    <title>Resources</title>
+    <link>https://appomni.com/resources/</link>
+    <description>Explore our diverse collection of resources covering SaaS security, AI security, compliance, and best practices.</description>
+    <pubDate>Tue, 03 Mar 2026 20:09:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>Accenture Partners with AppOmni to Enhance Salesforce Security and Tackle SaaS Misconfiguration Risk</title>
+    <link>https://appomni.com/blog/accenture-partners-with-appomni-to-enhance-salesforce-security-and-tackle-saas-misconfiguration-risk/</link>
+    <description>Hear from Rex Thexton and Andrew Triplett on how Accenture and AppOmni team up to tackle SaaS misconfiguration risks.</description>
+    <pubDate>Fri, 09 Jul 2021 13:01:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Navigating the Complexities of SaaS Threat Detection</title>
+    <link>https://appomni.com/blog/navigating-the-complexities-of-saas-threat-detection/</link>
+    <description>Learn how to navigate the complexities of SaaS threat detection and see what AppOmni does to help tackle threat detection for SaaS applications.</description>
+    <pubDate>Mon, 05 Aug 2024 12:55:24 GMT</pubDate>
+  </item>
+  <item>
+    <title>Elevate SaaS Security With Closed Loop Zero Trust</title>
+    <link>https://appomni.com/blog/elevate-saas-security-with-closed-loop-zero-trust/</link>
+    <description>Learn about Closed Loop Zero Trust (ZT) and how AppOmni’s patent-pending Zero Trust technology provides an end-to-end Zero Trust solution.</description>
+    <pubDate>Tue, 14 May 2024 15:55:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Introducing Zero Trust Posture Management (ZTPM): Extending Zero Trust Beyond Network Access</title>
+    <link>https://appomni.com/blog/introducing-zero-trust-posture-management-ztpm/</link>
+    <description>Get an introduction to Zero Trust Posture Management (ZTPM). Learn how it extends Zero Trust principles and helps enterprises establish Zero Trust architectures.</description>
+    <pubDate>Tue, 07 May 2024 01:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>2024 SaaS Security Forecast</title>
+    <link>https://appomni.com/blog/2024-saas-security-forecast-and-predictions/</link>
+    <description>Read the 2024 SaaS security predictions from 5 cybersecurity thought leaders around disclosures, AI-provoked breaches, third-party attacks, and misconfigurations.</description>
+    <pubDate>Sun, 03 Dec 2023 19:10:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Qlik Cyber Attack: Why SSPM Is a Must Have for CISOs</title>
+    <link>https://appomni.com/blog/qlik-attack-why-sspm-is-a-must-have-for-cisos/</link>
+    <description>Learn more about the cyberattack against internet-facing Qlik Sense and see how AppOmni secured their own environment from Qlik’s potential impact with SSPM.</description>
+    <pubDate>Fri, 01 Dec 2023 22:53:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Okta Breach Threat Intel Advisory</title>
+    <link>https://appomni.com/blog/okta-breach-threat-intel-advisory/</link>
+    <description>Learn more about recent IdP attacks, like the Okta compromises that impacted many Okta customers, and how AppOmni helps secure SaaS identities.</description>
+    <pubDate>Thu, 02 Nov 2023 15:04:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Handling SaaS Data Exposure Risks Due to Potential ServiceNow Misconfigurations</title>
+    <link>https://appomni.com/blog/handling-saas-data-exposure-risks-due-to-potential-servicenow-misconfigurations/</link>
+    <description>See the impact of customer-side SaaS app misconfigurations, like those recently reported on ServiceNow, and how a robust SSPM solution can mitigate possible risk.</description>
+    <pubDate>Tue, 24 Oct 2023 20:03:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>Detecting and Preventing Okta Compromises with SSPM</title>
+    <link>https://appomni.com/blog/detecting-and-preventing-okta-compromises-with-sspm/</link>
+    <description>Learn how the identity-centric attack occurred on Okta admin accounts and why an SSPM solution can detect and prevent sophisticated tactics which attackers are attempting.</description>
+    <pubDate>Tue, 24 Oct 2023 18:16:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>Introducing the SaaS Event Maturity Matrix (EMM)</title>
+    <link>https://appomni.com/blog/appomni-saas-event-maturity-matrix/</link>
+    <description>Learn about the Threat Detection framework for assessing SaaS audit logging from different SaaS platforms commonly used by enterprises.</description>
+    <pubDate>Mon, 09 Oct 2023 21:19:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>Perceptions, SaaS Identities and AI</title>
+    <link>https://appomni.com/blog/lessons-learned-from-blackhat2023-on-saas-identities-ai/</link>
+    <description>Cybersecurity perceptions, SaaS identities, and securing AI and LLMs: 3 key takeaways from Black Hat 2023</description>
+    <pubDate>Sat, 26 Aug 2023 00:10:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Introducing the AppOmni SaaS Identity Fabric</title>
+    <link>https://appomni.com/blog/how-identity-fabric-secures-saas-identities-and-access/</link>
+    <description>Learn from Chief Product Officer Harold Byun how AppOmni Identity Fabric secures and manages end-users, entitlements, and threat-based activity for all of SaaS.</description>
+    <pubDate>Wed, 21 Jun 2023 20:18:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>How to Follow NCSC’s Cloud Security Guidance for SaaS</title>
+    <link>https://appomni.com/blog/follow-ncsc-cloud-security-guidance-for-saas-with-appomni/</link>
+    <description>Learn how NCSC’s new Cloud Security Guidance on SaaS matches up with AppOmni’s key SaaS security capabilities.</description>
+    <pubDate>Thu, 15 Jun 2023 19:56:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>TechnologyOne Breach Highlights the Need for SaaS Security</title>
+    <link>https://appomni.com/blog/technologyone-breach-highlights-the-need-for-saas-security/</link>
+    <description>See how the TechnologyOne breach underscores the importance of a proactive SaaS Security strategy to safeguard your valuable data.</description>
+    <pubDate>Thu, 18 May 2023 22:46:28 GMT</pubDate>
+  </item>
+  <item>
+    <title>How SSPM Can Help Organizations Meet Cyber Essentials UK Requirements</title>
+    <link>https://appomni.com/blog/how-to-comply-with-cyber-essentials-requirements-uk/</link>
+    <description>Learn how a robust SSPM solution — like AppOmni — can help UK-based organizations to properly comply with the latest Cyber Essentials guidelines.</description>
+    <pubDate>Tue, 02 May 2023 21:01:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Risk Assessment</title>
+    <link>https://appomni.com/blog/salesforce-security-community-cloud-scanner/</link>
+    <description>Assess and mitigate risks effectively with AppOmni's comprehensive risk assessment services.</description>
+    <pubDate>Tue, 03 Mar 2026 20:09:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>How Great CISOs Make SaaS Security a Priority for Business Leaders</title>
+    <link>https://appomni.com/blog/how-cisos-make-saas-security-priority-for-business-leaders/</link>
+    <description>IT and security reviews alone fall hopelessly short of securing the SaaS estate. See how smart CISOs run effective SaaS security programs.</description>
+    <pubDate>Wed, 06 Mar 2024 21:14:44 GMT</pubDate>
+  </item>
+  <item>
+    <title>Employee Spotlight: Sarah Osburn, Sr. Technical Account Manager @ AppOmni</title>
+    <link>https://appomni.com/blog/employee-spotlight-sarah-osburn-senior-technical-account-manager-at-appomni/</link>
+    <description>Meet Sarah Osburn, a Senior Technical Account Manager at AppOmni in our ‘Employee Spotlight’ series where we highlight our talented employees.</description>
+    <pubDate>Mon, 04 Mar 2024 20:46:11 GMT</pubDate>
+  </item>
+  <item>
+    <title>Employee Spotlight: Nick Crouch, International Channel Director @ AppOmni</title>
+    <link>https://appomni.com/blog/employee-spotlight-nick-crouch-international-channel-director-appomni/</link>
+    <description>Meet Nick Crouch, an International Channel Director at AppOmni in our ‘Employee Spotlight’ series where we highlight our talented employees.</description>
+    <pubDate>Fri, 01 Mar 2024 20:41:50 GMT</pubDate>
+  </item>
+  <item>
+    <title>Employee Spotlight: Josh Rickard, Senior Software Engineer @ AppOmni</title>
+    <link>https://appomni.com/blog/employee-spotlight-josh-rickard-senior-software-engineer-at-appomni/</link>
+    <description>Meet Josh Rickard, a Senior Software Engineer on AppOmni’s Threat Detection team in our employee spotlight series where we highlight AppOmni talent.</description>
+    <pubDate>Thu, 29 Feb 2024 20:37:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Unpacking (and Preventing) the CircleCI Data Breach</title>
+    <link>https://appomni.com/ao-labs/unpacking-preventing-circleci-data-breach/</link>
+    <description>See how one compromised employee laptop spawned the CircleCI data breach — and the measures you can take to secure your SaaS data and platforms.</description>
+    <pubDate>Mon, 23 Jan 2023 22:32:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>LastPass and Okta Breaches: Security Steps to Take Right Now</title>
+    <link>https://appomni.com/blog/lastpass-and-okta-breaches-security-steps-to-take-right-now/</link>
+    <description>See what the attacks against SaaS identity and credential providers LastPass and Okta mean — and what steps your company should take.</description>
+    <pubDate>Fri, 23 Dec 2022 21:59:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How SaaS Vendors Are Handling the OpenSSL Critical Flaw</title>
+    <link>https://appomni.com/blog/how-saas-vendors-are-handling-the-openssl-critical-flaw/</link>
+    <description>Learn the different steps SaaS vendors are taking to handle the OpenSSL critical flaw, along with additional resources you can access.</description>
+    <pubDate>Tue, 01 Nov 2022 21:27:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Privileged Identity Management (PIM)</title>
+    <link>https://appomni.com/blog/the-need-for-privileged-identity-management-pim/</link>
+    <description>Learn how to ensure the bare minimum of privileged access is granted to the right people, at the right time, and for as long as that access is appropriate.</description>
+    <pubDate>Fri, 14 Oct 2022 23:35:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Okta PassBleed Risks &amp;#8211; A Technical Overview</title>
+    <link>https://appomni.com/ao-labs/okta-passbleed-risks/</link>
+    <description>A detailed and technical look at the Okta PassBleed risks related to password stealing and user impersonation.</description>
+    <pubDate>Wed, 21 Sep 2022 03:58:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Importance of Continuous Monitoring and Automated Threat Testing for SaaS</title>
+    <link>https://appomni.com/blog/continuous-monitoring-and-automated-threat-testing-for-saas/</link>
+    <description>Discover the unique challenges of SaaS security and learn why organizations need continuous monitoring and automated threat testing to protect their SaaS data.</description>
+    <pubDate>Tue, 20 Sep 2022 22:36:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>Payroll Fraud: Analyzing the Attack Lifecycle of a Direct Deposit Scam</title>
+    <link>https://appomni.com/blog/payroll-fraud-threat-hunting-detection/</link>
+    <description>Learn how direct deposit payroll fraud occurs and how to identify the signals available in audit logs to support threat hunting &amp; detection.</description>
+    <pubDate>Tue, 20 Sep 2022 16:46:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>What is the 0ktapus Breach? Key Lessons for SaaS Security Teams</title>
+    <link>https://appomni.com/blog/what-is-0ktapus-breach/</link>
+    <description>What the 0ktapus breach reveals about SaaS security risks and how you can prevent attacks with continuous SSPM and threat detection.</description>
+    <pubDate>Tue, 03 Mar 2026 20:09:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>AppOmni Raises $70 Million Series C Led by Thoma Bravo</title>
+    <link>https://appomni.com/blog/appomni-raises-70-million-series-c-led-by-thoma-bravo/</link>
+    <description>Today we announced our $70 million Series C. The new funding will enable us to continue our momentum in SaaS security and to cement our leadership position in the space.</description>
+    <pubDate>Mon, 06 Jun 2022 20:52:45 GMT</pubDate>
+  </item>
 </channel>
 </rss>
