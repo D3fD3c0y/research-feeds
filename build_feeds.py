@@ -86,18 +86,34 @@ def get(url: str, label: str = ""):
         print(f" [HTTP] {label} GET {url} -> EXCEPTION: {e}")
         raise
 
+
 def robots_allows(page_url: str, agent: str = "ResearchFeedsBot") -> bool:
     if not RESPECT_ROBOTS:
         return True
     try:
         parsed = urlparse(page_url)
         robots_url = f"{parsed.scheme}://{parsed.netloc}/robots.txt"
-        rp = robotparser.RobotFileParser()
-        rp.set_url(robots_url)
-        rp.read()
-        return rp.can_fetch(agent, page_url)
+
+        # Fetch robots.txt using our headers (not urllib)
+        r = get(robots_url, "robots-check")
+        if r.status_code == 200 and r.text:
+            rp = robotparser.RobotFileParser()
+            rp.set_url(robots_url)
+            rp.parse(r.text.splitlines())
+            return rp.can_fetch(agent, page_url)
+
+        # If robots.txt doesn't exist, allow (common behavior)
+        if r.status_code == 404:
+            return True
+
+        # If blocked from reading robots.txt, be conservative
+        if r.status_code in (401, 403):
+            return False
+
+        # Other statuses: default allow (keeps your pipeline running)
+        return True
     except Exception:
-        # If robots can't be read, allow; we'll still gracefully handle 403/429 downstream
+        # If anything unexpected happens, allow (your current behavior)
         return True
 
 # ---------------------------------------------------------------------
