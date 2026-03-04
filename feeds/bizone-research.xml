@@ -4,7 +4,55 @@
   <title>BI.ZONE Research (Custom Feed)</title>
   <link>https://bi.zone/eng/expertise/research/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Wed, 04 Mar 2026 14:32:32 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Mar 2026 16:46:25 GMT</lastBuildDate>
+  <item>
+    <title>Materials</title>
+    <link>https://bi.zone/eng/expertise/research/</link>
+    <description>BI.ZONE in-house and partner research: from cyber risk to business continuity strategies</description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Zone 2025</title>
+    <link>https://bi.zone/eng/expertise/research/threat-zone-2025/</link>
+    <description>Research of the cyber threat landscape in Russia and other CIS countries (2025)</description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Zone GCC 2024</title>
+    <link>https://bi.zone/eng/expertise/research/threat-zone-gcc-2024/</link>
+    <description>Cyber threat overview for the GCC countries in 2024</description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Zone 2024</title>
+    <link>https://bi.zone/eng/expertise/research/threat-zone-2024/</link>
+    <description>Research of the cyber threat landscape in Russian and other CIS countries (2024)</description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The seven faces of darkness</title>
+    <link>https://bi.zone/eng/expertise/research/7-faces-of-darkness/</link>
+    <description>A look into the seven popular malware families that have been or continue to be sold as a service on the darknet, and how they are used to attack Russian organizations</description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>A research into three cybercriminal groups that use leaked ransomware to attack Russian organizations</title>
+    <link>https://bi.zone/eng/expertise/research/ransomware-source-code-and-builders-used-in-attacks-against-russian-organizations/</link>
+    <description>The BI.ZONE Cyber Threat Intelligence team takes a look at how malware leaks influence the Russian threat landscape. The experts also review the attacks of the three most prominent hacker groups</description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Zone 2020: Not waiting for thunder</title>
+    <link>https://bi.zone/eng/expertise/research/threat_zone_2020/</link>
+    <description>Threat Zone is a large-scale analytical research that highlights the key trends in cyberattacks and their impact on the global economy and business</description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The path to digital leadership. Practical guide on incident management</title>
+    <link>https://bi.zone/eng/expertise/research/path-to-digital-leadership/</link>
+    <description>A manual to ensure business continuity and quick response to incidents in the digital environment</description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
   <item>
     <title>BI.ZONE — компания по управлению цифровыми рисками</title>
     <link>https://bi.zone/</link>
@@ -135,54 +183,6 @@
     <title>BI.ZONE Endpoint Detection and Response</title>
     <link>https://bi.zone/catalog/products/edr/</link>
     <description>Решение для защиты конечных точек от сложных угроз</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE ZTNA | Zero Trust Network Access</title>
-    <link>https://bi.zone/catalog/products/ztna/</link>
-    <description>Организация защищенного удаленного доступа к корпоративной сети по модели нулевого доверия</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE SOAR | Security Orchestration, Automation, and Response</title>
-    <link>https://bi.zone/catalog/products/soar/</link>
-    <description>Платформа для автоматизации и координации реагирования на киберинциденты</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Антифрод-решение BI.ZONE AntiFraud — система противодействия мошенничеству</title>
-    <link>https://bi.zone/catalog/products/antifraud/</link>
-    <description>BI.ZONE AntiFraud – антифрод решение с адаптивной кросс-канальной системой противодействия мошенничеству</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE CPT</title>
-    <link>https://bi.zone/catalog/products/continuous-penetration-testing/</link>
-    <description>Решение для управления поверхностью атаки и непрерывного мониторинга IT-активов</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE WAF</title>
-    <link>https://bi.zone/catalog/products/waf/</link>
-    <description>Защита веб-приложений под управлением экспертов</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE Digital Risk Protection</title>
-    <link>https://bi.zone/catalog/products/digital-risk-protection/</link>
-    <description>Платформа для предотвращения фишинга, отслеживания утечек и поиска инфоатак</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE Mail Security</title>
-    <link>https://bi.zone/catalog/products/mail-security/</link>
-    <description>Интеллектуальная защита пользователей корпоративной почты</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE Secure DNS — сервис для защиты от атак на DNS</title>
-    <link>https://bi.zone/catalog/products/secure-dns/</link>
-    <description>Защита бизнеса от атак, использующих DNS</description>
     <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
   </item>
 </channel>

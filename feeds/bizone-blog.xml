@@ -4,186 +4,186 @@
   <title>BI.ZONE Blog (Custom Feed)</title>
   <link>https://bi.zone/eng/expertise/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Wed, 04 Mar 2026 14:32:02 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Mar 2026 16:45:48 GMT</lastBuildDate>
   <item>
-    <title>BI.ZONE — компания по управлению цифровыми рисками</title>
-    <link>https://bi.zone/</link>
-    <description>От корпорации до стартапа, мы помогаем организациям по всему миру безопасно развивать бизнес в цифровую эпоху</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE: expert in digital risks management</title>
-    <link>https://bi.zone/eng/</link>
-    <description>BI.ZONE is an expert in digital risks management. We protect hundreds of organizations from cyber threats</description>
+    <title>Technical articles</title>
+    <link>https://bi.zone/eng/expertise/blog/</link>
+    <description>BI.ZONE expert research and practical materials on cybersecurity</description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Продукты и услуги</title>
-    <link>https://bi.zone/catalog/</link>
-    <description>Каталог продуктов и услуг по кибербезопасности для бизнеса</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Digging into CVE-2025-62592 in Oracle VirtualBox for macOS</title>
+    <link>https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2025-62592-v-oracle-virtualbox-dlya-macos/</link>
+    <description>We uncover a virtualization software vulnerability causing an ASLR leak</description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE DFIR</title>
-    <link>https://bi.zone/catalog/services/incident-response/</link>
-    <description>Оперативно нейтрализуем угрозы и проводим расследования</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>UnFortune 500: most often hacked in Russia and CIS</title>
+    <link>https://bi.zone/eng/expertise/blog/unfortune-500-most-often-hacked-in-russia-and-cis/</link>
+    <description>Examining current threats and vulnerabilities in public-facing applications and explaining how to minimize risks and quickly respond to attacks</description>
+    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE TDR (SOC/MDR)</title>
-    <link>https://bi.zone/catalog/services/threat-detection-and-response/</link>
-    <description>Выявление, реагирование и предупреждение киберугроз под управлением экспертов</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Cavalry Werewolf raids Russia's public sector with trusted relationship attacks</title>
+    <link>https://bi.zone/eng/expertise/blog/cavalry-werewolf-atakuet-rossiyu-cherez-doveritelnye-otnosheniya-mezhdu-gosudarstvami/</link>
+    <description>The malicious actors pose as government officials and utilize own crafted malware in their attacks</description>
+    <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE AntiDDoS</title>
-    <link>https://bi.zone/catalog/services/antiddos/</link>
-    <description>Доверьте управление безопасностью экспертам BI.ZONE с многолетним опытом защиты крупнейших критических информационных инфраструктур от DDoS-атак</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Deep dive into CVE-2025-29824 in Windows</title>
+    <link>https://bi.zone/eng/expertise/blog/podrobnyy-razbor-uyazvimosti-cve-2025-29824-v-os-windows/</link>
+    <description>We look into the clfs.sys driver vulnerability that allows attackers to escalate privileges within the operating system</description>
+    <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Тестирование на проникновение</title>
-    <link>https://bi.zone/catalog/services/penetration-testing/</link>
-    <description>Тестирование на проникновение позволяет объективно оценить, насколько компания устойчива к киберугрозам, помогает повысить эффективность мер ее защиты</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Paper Werewolf targets Russia with WinRAR zero-day vulnerability</title>
+    <link>https://bi.zone/eng/expertise/blog/paper-werewolf-atakuet-rossiyu-s-ispolzovaniem-uyazvimosti-nulevogo-dnya-v-winrar/</link>
+    <description>The cluster continues its campaign against Russian organizations—this time exploiting WinRAR flaws</description>
+    <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Анализ защищенности приложений</title>
-    <link>https://bi.zone/catalog/services/application-security-assessment/</link>
-    <description>Анализ защищенности позволяет заранее узнать о слабых местах в безопасности приложения и принять меры для защиты бизнеса от киберугроз</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Rainbow Hyena strikes again: new backdoor and shift in tactics</title>
+    <link>https://bi.zone/eng/expertise/blog/rainbow-hyena-snova-atakuet-novyy-bekdor-i-smena-taktik/</link>
+    <description>A new phishing campaign targeted healthcare and IT organizations. The hacktivists were using polyglot and LNK files mimicking legitimate documents to evade detection</description>
+    <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Consulting</title>
-    <link>https://bi.zone/catalog/services/consulting/</link>
-    <description>Обеспечиваем комплексный подход: от аудита и соответствия требованиям до построения полноценной системы киберзащиты и непрерывности бизнеса</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>ClickFix makes its way into Russia</title>
+    <link>https://bi.zone/eng/expertise/blog/proydite-proverku-i-poluchite-vpo-clickfix-dobralas-do-rossii/</link>
+    <description>How adversaries leverage fake CAPTCHAs to deploy Octowave Loader and a previously unknown RAT</description>
+    <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Compromise Assessment</title>
-    <link>https://bi.zone/catalog/services/compromise-assessment/</link>
-    <description>Проверяем IT-инфраструктуру на компрометацию, не оставляя слепые зоны</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Malware or LLM? Silent Werewolf employs new loaders to attack Russian and Moldovan organizations</title>
+    <link>https://bi.zone/eng/expertise/blog/silent-werewolf-ispolzuet-novye-zagruzchiki-v-atakakh-na-rossiyskie-i-moldavskie-organizatsii/</link>
+    <description>The threat actor hinders payload retrieval, making it harder for researchers to trace the malware and analyze the cluster</description>
+    <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Embedded Systems Security Assessment</title>
-    <link>https://bi.zone/catalog/services/essa/</link>
-    <description>Исследовательская лаборатория BI.ZONE анализирует безопасность программно-аппаратных комплексов (ПАК) со всех сторон</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Exploring CVE-2025-24364 and CVE-2025-24365 in Vaultwarden</title>
+    <link>https://bi.zone/eng/expertise/blog/analiz-uyazvimostey-v-vaultwarden-cve-2025-24364-i-cve-2025-24365/</link>
+    <description>We analyze two vulnerabilities: one stems from improper access control while the other allows the attacker to remotely execute code</description>
+    <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Нагрузочное тестирование и анализ средств защиты</title>
-    <link>https://bi.zone/catalog/services/security-solutions-testing-and-assessment/</link>
-    <description>Исследуем работу средств защиты информации (CЗИ), телекоммуникационных сетей и сетевого оборудования, веб-приложений</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Sapphire Werewolf refines Amethyst stealer to attack energy companies</title>
+    <link>https://bi.zone/eng/expertise/blog/kamen-ogranennyy-sapphire-werewolf-ispolzuet-novuyu-versiyu-amethyst-stealer-dlya-atak-na-tek/</link>
+    <description>The Sapphire Werewolf cluster continues to enhance its toolkit, now leveraging a new version of the Amethyst stealer. The threat actor distributes the malware through phishing emails</description>
+    <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE SOC Consulting</title>
-    <link>https://bi.zone/catalog/services/soc-consulting/</link>
-    <description>Создадим SOC либо оценим его зрелость и усовершенствуем, используя лучшие практики и собственный экспертный опыт</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Squid Werewolf cyber spies masquerade as recruiters</title>
+    <link>https://bi.zone/eng/expertise/blog/sotni-tysyach-rubley-za-vashi-sekrety-kibershpiony-squid-werewolf-maskiruyutsya-pod-rekruterov/</link>
+    <description>The adversaries impersonated a legitimate company, emailing fake job descriptions to employees of targeted organizations</description>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Комплексная оценка кибербезопасности</title>
-    <link>https://bi.zone/catalog/services/comprehensive-cybersecurity-assessment/</link>
-    <description>Проведем аудит, проверим на соответствие требованиям законодательства и стандартам, сформируем план по повышению зрелости процессов кибербезопасности</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Bloody Wolf evolution: new targets, new tools</title>
+    <link>https://bi.zone/eng/expertise/blog/evolyutsiya-bloody-wolf-novye-tseli-novye-sredstva-ataki/</link>
+    <description>The notorious cluster changes its toolkit by switching from malware to a legitimate remote administration tool</description>
+    <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Управление рисками кибербезопасности и непрерывностью бизнеса</title>
-    <link>https://bi.zone/catalog/services/cyber-risks-and-business-continuity-management/</link>
-    <description>Повысим киберзрелость компании, а также минимизируем возможный ущерб бизнес-деятельности, применяя BIA и рискориентированный подход</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>NOVA: blast from the past</title>
+    <link>https://bi.zone/eng/expertise/blog/nova-khorosho-zabytoe-staroe/</link>
+    <description>Attackers use a fork of a popular stealer to target Russian companies</description>
+    <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Соответствие нормативным требованиям кибербезопасности</title>
-    <link>https://bi.zone/catalog/services/cybersecurity-compliance/</link>
-    <description>Помогаем обеспечить безопасность информации и соблюдать законодательство</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Espionage cluster Paper Werewolf engages in destructive behavior</title>
+    <link>https://bi.zone/eng/expertise/blog/paper-werewolf-sovmeshchaet-kibershpionazh-s-destruktivnymi-deystviyami/</link>
+    <description>The adversaries employ PowerShell and their own crafted malware to penetrate the infrastructures of Russian organizations</description>
+    <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE vCISO</title>
-    <link>https://bi.zone/catalog/services/vciso/</link>
-    <description>Выделенный эксперт для управления корпоративной кибербезопасностью</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Venture Wolf attempts to disrupt Russian businesses with MetaStealer</title>
+    <link>https://bi.zone/eng/expertise/blog/venture-wolf-ispolzuet-metastealer-v-atakakh-na-rossiyskie-kompanii/</link>
+    <description>Facts about a newly detected threat actor and how to spot its attacks</description>
+    <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Аудит кибербезопасности инфраструктуры</title>
-    <link>https://bi.zone/catalog/services/infrastructure-cybersecurity-audit/</link>
-    <description>Проведем комплексный аудит технического обеспечения, конфигураций решений, архитектуры IT и кибербезопасности</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Exploring CVE-2024-38227 vulnerability in Microsoft SharePoint</title>
+    <link>https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2024-38227-v-microsoft-sharepoint/</link>
+    <description>We investigated third-party code execution in the corporate portal solution and also analyzed its architecture</description>
+    <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Cubi</title>
-    <link>https://bi.zone/catalog/products/cubi/</link>
-    <description>AI-помощник для автономной кибербезопасности</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Core Werewolf hones its arsenal against Russia's government organizations</title>
+    <link>https://bi.zone/eng/expertise/blog/ne-budi-likho-core-werewolf-sovershenstvuet-ataki-na-rossiyskie-gosorganizatsii/</link>
+    <description>Adversaries experiment with new tools and malware delivery methods</description>
+    <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Secure SD-WAN</title>
-    <link>https://bi.zone/catalog/products/secure-sd-wan/</link>
-    <description>Платформа для построения и защиты распределенных сетей</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Wreaking havoc in cyberspace: threat actors experiment with pentest tools</title>
+    <link>https://bi.zone/eng/expertise/blog/khaos-v-kiberprostranstve-gruppirovki-eksperimentiruyut-s-instrumentami/</link>
+    <description>A new research by BI.ZONE Threat Intelligence reveals how adversaries attempt to bypass cybersecurity systems </description>
+    <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE PAM | Privileged Access Management</title>
-    <link>https://bi.zone/catalog/products/privileged-access-management/</link>
-    <description>Управление привилегированным доступом по модели нулевого доверия</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Zooming in on CVE-2024-7965</title>
+    <link>https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2024-7965/</link>
+    <description>We have analyzed the CVE-2024-7965 vulnerability that allows adversaries to execute arbitrary code in the Google Chrome renderer</description>
+    <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Endpoint Detection and Response</title>
-    <link>https://bi.zone/catalog/products/edr/</link>
-    <description>Решение для защиты конечных точек от сложных угроз</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Stone Wolf employs Meduza Stealer to hack Russian companies</title>
+    <link>https://bi.zone/eng/expertise/blog/stone-wolf-atakuet-rossiyskie-kompanii-stilerom-meduza/</link>
+    <description>A new cluster of activity abuses a legitimate brand to spearphish for credentials and system data</description>
+    <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE ZTNA | Zero Trust Network Access</title>
-    <link>https://bi.zone/catalog/products/ztna/</link>
-    <description>Организация защищенного удаленного доступа к корпоративной сети по модели нулевого доверия</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Breaking down Windows critical vulnerability CVE-2024-38063</title>
+    <link>https://bi.zone/eng/expertise/blog/analiz-kriticheskoy-uyazvimosti-windows-cve-2024-38063/</link>
+    <description>We take a closer look at the Windows TCP/IP network stack flaw that could potentially lead to a full system compromise without any action on the part of the user</description>
+    <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE SOAR | Security Orchestration, Automation, and Response</title>
-    <link>https://bi.zone/catalog/products/soar/</link>
-    <description>Платформа для автоматизации и координации реагирования на киберинциденты</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Bloody Wolf strikes organizations in Kazakhstan with STRRAT commercial malware</title>
+    <link>https://bi.zone/eng/expertise/blog/bloody-wolf-primenyaet-kommercheskoe-vpo-strrat-protiv-organizatsiy-v-kazakhstane/</link>
+    <description>The program selling for as little as $80 on underground resources allows the adversaries to take control of corporate computers and hijack restricted data</description>
+    <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Антифрод-решение BI.ZONE AntiFraud — система противодействия мошенничеству</title>
-    <link>https://bi.zone/catalog/products/antifraud/</link>
-    <description>BI.ZONE AntiFraud – антифрод решение с адаптивной кросс-канальной системой противодействия мошенничеству</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Sapphire Werewolf polishes Amethyst stealer to attack over 300 companies</title>
+    <link>https://bi.zone/eng/expertise/blog/sapphire-werewolf-ottachivaet-izvestnyy-stiler-dlya-novykh-atak/</link>
+    <description>The adversaries use the open-source SapphireStealer to create their own malware for collecting employee authentication data from Russian companies</description>
+    <pubDate>Mon, 27 May 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE CPT</title>
-    <link>https://bi.zone/catalog/products/continuous-penetration-testing/</link>
-    <description>Решение для управления поверхностью атаки и непрерывного мониторинга IT-активов</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Scaly Wolf's new loader: the right tool for the wrong job</title>
+    <link>https://bi.zone/eng/expertise/blog/novyy-zagruzchik-scaly-wolf-okazalsya-neprigodnym-dlya-atak/</link>
+    <description>The BI.ZONE Threat Intelligence team has uncovered a fresh campaign by the group targeting Russian and Belarusian organizations</description>
+    <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE WAF</title>
-    <link>https://bi.zone/catalog/products/waf/</link>
-    <description>Защита веб-приложений под управлением экспертов</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Cloud Werewolf spearphishes for government employees in Russia and Belarus with fake spa vouchers and federal decrees</title>
+    <link>https://bi.zone/eng/expertise/blog/cloud-werewolf-atakuet-gossluzhashchikh-rossii-i-belarusi-putevkami-na-lechenie-i-prikazami-sluzhb/</link>
+    <description>The attackers use phishing emails with seemingly legitimate documents and evade defenses by hosting the malicious payload on a remote server and limiting its downloads</description>
+    <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Digital Risk Protection</title>
-    <link>https://bi.zone/catalog/products/digital-risk-protection/</link>
-    <description>Платформа для предотвращения фишинга, отслеживания утечек и поиска инфоатак</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Fluffy Wolf sends out reconciliation reports to sneak into corporate infrastructures</title>
+    <link>https://bi.zone/eng/expertise/blog/davayte-sverimsya-kak-fluffy-wolf-ispolzuet-akty-sverki-v-atakakh/</link>
+    <description>The group has adopted a simple yet effective approach to gain initial access: phishing emails with an executable attachment. This way, Fluffy Wolf establishes remote access, steals credentials, or exploits the compromised infrastructure for mining</description>
+    <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Mail Security</title>
-    <link>https://bi.zone/catalog/products/mail-security/</link>
-    <description>Интеллектуальная защита пользователей корпоративной почты</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Mysterious Werewolf hits defense industry with new RingSpy backdoor</title>
+    <link>https://bi.zone/eng/expertise/blog/mysterious-werewolf-atakuet-vpk-s-pomoshchyu-novogo-bekdora-ringspy/</link>
+    <description>The criminal group gains initial access through phishing emails with a compressed executable that unleashes RingSpy, an original remote access backdoor</description>
+    <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Secure DNS — сервис для защиты от атак на DNS</title>
-    <link>https://bi.zone/catalog/products/secure-dns/</link>
-    <description>Защита бизнеса от атак, использующих DNS</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Scaly Wolf uses White Snake stealer against Russian industry</title>
+    <link>https://bi.zone/eng/expertise/blog/scaly-wolf-primenyaet-stiler-white-snake-protiv-rossiyskoy-promyshlennosti/</link>
+    <description>The group has been on the radar since the summer of 2023, conducted several phishing campaigns, using Russian state body and law enforcement identities</description>
+    <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>A striking resemblance: Gambling Hyena and Twelfth Hyena clusters compared</title>
+    <link>https://bi.zone/eng/expertise/blog/gambling-hyena-i-twelfth-hyena-u-dvukh-khishchnikov-odin-khozyain/</link>
+    <description>What is common between two hacktivist groups attacking the Russian government sector</description>
+    <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

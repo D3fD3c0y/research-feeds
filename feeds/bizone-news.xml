@@ -4,186 +4,186 @@
   <title>BI.ZONE News (Custom Feed)</title>
   <link>https://bi.zone/eng/news/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Wed, 04 Mar 2026 14:31:31 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Mar 2026 16:45:00 GMT</lastBuildDate>
   <item>
-    <title>BI.ZONE — компания по управлению цифровыми рисками</title>
-    <link>https://bi.zone/</link>
-    <description>От корпорации до стартапа, мы помогаем организациям по всему миру безопасно развивать бизнес в цифровую эпоху</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE: expert in digital risks management</title>
-    <link>https://bi.zone/eng/</link>
-    <description>BI.ZONE is an expert in digital risks management. We protect hundreds of organizations from cyber threats</description>
+    <title>News</title>
+    <link>https://bi.zone/eng/news/</link>
+    <description>Stay up to date on new cybersecurity solutions, as well as BI.ZONE news and events</description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Продукты и услуги</title>
-    <link>https://bi.zone/catalog/</link>
-    <description>Каталог продуктов и услуг по кибербезопасности для бизнеса</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>We uncover vulnerability chain in&amp;nbsp;Oracle VirtualBox</title>
+    <link>https://bi.zone/eng/news/my-obnaruzhili-tsepochku-uyazvimostey-v-oracle-virtualbox/</link>
+    <description>CVE-2025-62592 and CVE-2025-61760 rated 6.0 and 7.5 (CVSS 3.1), accordingly</description>
+    <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE DFIR</title>
-    <link>https://bi.zone/catalog/services/incident-response/</link>
-    <description>Оперативно нейтрализуем угрозы и проводим расследования</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Espionage clusters disguise themselves as Kyrgyz state officials</title>
+    <link>https://bi.zone/eng/news/kibershpiony-stali-pritvoryatsya-gossluzhashchimi-kyrgyzstana/</link>
+    <description>In some cases the adversaries compromise real official emails to use them in attacks on companies</description>
+    <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE TDR (SOC/MDR)</title>
-    <link>https://bi.zone/catalog/services/threat-detection-and-response/</link>
-    <description>Выявление, реагирование и предупреждение киберугроз под управлением экспертов</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>BI.ZONE EDR&amp;nbsp;1.38 boasts AI&amp;nbsp;assistant</title>
+    <link>https://bi.zone/eng/news/vyshla-versiya-bi-zone-edr-1-38-s-ai-assistentom/</link>
+    <description>New capabilities include vulnerability detection via the Threat Prediction module, operational technology protection via the ICS/OT module, and Linux self-protection</description>
+    <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE AntiDDoS</title>
-    <link>https://bi.zone/catalog/services/antiddos/</link>
-    <description>Доверьте управление безопасностью экспертам BI.ZONE с многолетним опытом защиты крупнейших критических информационных инфраструктур от DDoS-атак</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Paper Werewolf cyber spies exploit WinRAR vulnerabilities</title>
+    <link>https://bi.zone/eng/news/kibershpiony-paper-werewolf-ispolzuyut-dlya-atak-uyazvimosti-v-winrar/</link>
+    <description>WinRAR archiver is used by nearly 80% of Russian companies and virtually all employees whose corporate devices run on Windows</description>
+    <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Тестирование на проникновение</title>
-    <link>https://bi.zone/catalog/services/penetration-testing/</link>
-    <description>Тестирование на проникновение позволяет объективно оценить, насколько компания устойчива к киберугрозам, помогает повысить эффективность мер ее защиты</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>The magical comeback: new PipeMagic activity in Saudi Arabia and Brazil</title>
+    <link>https://bi.zone/eng/news/vozvrashchenie-pipemagic-novaya-aktivnost-bekdora-v-saudovskoy-aravii-i-brazilii/</link>
+    <description>Kaspersky and BI.ZONE experts have investigated the PipeMagic backdoor. Kaspersky identified changes in the operators' tactics. BI.ZONE conducted a technical analysis of the vulnerability exploited in the wild</description>
+    <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Анализ защищенности приложений</title>
-    <link>https://bi.zone/catalog/services/application-security-assessment/</link>
-    <description>Анализ защищенности позволяет заранее узнать о слабых местах в безопасности приложения и принять меры для защиты бизнеса от киберугроз</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Hacktivist attacks surge as motives grow murkier</title>
+    <link>https://bi.zone/eng/news/khaktivisty-stali-sovershat-bolshe-atak-no-ikh-motivatsiya-stanovitsya-neodnoznachnoy/</link>
+    <description>Hacktivist clusters are behind one in five cyberattacks on Russian companies. Financial motives are becoming more prominent, and adversaries are actively adopting new tools and techniques</description>
+    <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Consulting</title>
-    <link>https://bi.zone/catalog/services/consulting/</link>
-    <description>Обеспечиваем комплексный подход: от аудита и соответствия требованиям до построения полноценной системы киберзащиты и непрерывности бизнеса</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Fake CAPTCHAs used in new attacks on Russian companies</title>
+    <link>https://bi.zone/eng/news/podtverdite-chto-vy-ne-robot-dlya-atak-na-rossiyskie-kompanii-stali-ispolzovat-feykovuyu-captcha/</link>
+    <description>Close to 30 Russian companies were attacked in May and early June. The attacks utilized the ClickFix technique which tricked users into running malicious scripts. Previously, such attacks had only been recorded outside Russia</description>
+    <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Compromise Assessment</title>
-    <link>https://bi.zone/catalog/services/compromise-assessment/</link>
-    <description>Проверяем IT-инфраструктуру на компрометацию, не оставляя слепые зоны</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Thousand-faced spy: Silent Werewolf evolves its arsenal to stay undetected</title>
+    <link>https://bi.zone/eng/news/tysyachelikiy-shpion-silent-werewolf-menyaet-podkhody-i-instrumenty-chtoby-ostavatsya-neuznannym/</link>
+    <description>This spring, the cluster leveraged new versions of its malware. The threat actor also introduced another tactic to obstruct incident reconstruction: instead of retrieving a malicious payload, it loaded a language model file. So far, Silent Werewolf's recent campaigns were limited to a few dozen organizations</description>
+    <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Embedded Systems Security Assessment</title>
-    <link>https://bi.zone/catalog/services/essa/</link>
-    <description>Исследовательская лаборатория BI.ZONE анализирует безопасность программно-аппаратных комплексов (ПАК) со всех сторон</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>BI.ZONE discovers two high‑impact vulnerabilities in Vaultwarden</title>
+    <link>https://bi.zone/eng/news/my-obnaruzhili-uyazvimosti-vysokogo-urovnya-opasnosti-v-vaultwarden/</link>
+    <description>Both have been assigned CVE identifiers</description>
+    <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Нагрузочное тестирование и анализ средств защиты</title>
-    <link>https://bi.zone/catalog/services/security-solutions-testing-and-assessment/</link>
-    <description>Исследуем работу средств защиты информации (CЗИ), телекоммуникационных сетей и сетевого оборудования, веб-приложений</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>BI.ZONE Threat Intelligence upgraded to enable attack prediction and mitigate data breach impacts</title>
+    <link>https://bi.zone/eng/news/novaya-funktsionalnost-bi-zone-threat-intelligence-pomozhet-kompaniyam-predskazyvat-kiberataki/</link>
+    <description>The Underground resources tool is now available on the Threat Intelligence portal</description>
+    <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE SOC Consulting</title>
-    <link>https://bi.zone/catalog/services/soc-consulting/</link>
-    <description>Создадим SOC либо оценим его зрелость и усовершенствуем, используя лучшие практики и собственный экспертный опыт</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Half of all threat actors targeting Russia’s energy sector are cyber spies</title>
+    <link>https://bi.zone/eng/news/polovina-kibergruppirovok-atakuyushchikh-rossiyskuyu-energetiku-natselena-na-shpionazh/</link>
+    <description>Sapphire Werewolf is the second espionage cluster in the last few months to have disguised phishing attempts as recruiter emails. This time, the adversaries focused on energy companies</description>
+    <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Комплексная оценка кибербезопасности</title>
-    <link>https://bi.zone/catalog/services/comprehensive-cybersecurity-assessment/</link>
-    <description>Проведем аудит, проверим на соответствие требованиям законодательства и стандартам, сформируем план по повышению зрелости процессов кибербезопасности</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>BI.ZONE EDR 1.37 streamlines telemetry storage</title>
+    <link>https://bi.zone/eng/news/bi-zone-edr-1-37-oblegchaet-polzovatelyam-rabotu-s-khranilishchem-sobytiy/</link>
+    <description>The new capability simplifies and speeds up querying. Also, the macOS agent is now compatible with the Podman container engine and has new telemetry and enhanced autonomous response capabilities</description>
+    <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Управление рисками кибербезопасности и непрерывностью бизнеса</title>
-    <link>https://bi.zone/catalog/services/cyber-risks-and-business-continuity-management/</link>
-    <description>Повысим киберзрелость компании, а также минимизируем возможный ущерб бизнес-деятельности, применяя BIA и рискориентированный подход</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Never play squid game with werewolves</title>
+    <link>https://bi.zone/eng/news/ne-igrayte-v-kalmara-s-oborotnyami/</link>
+    <description>Squid Werewolf emails attractive job offers</description>
+    <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Соответствие нормативным требованиям кибербезопасности</title>
-    <link>https://bi.zone/catalog/services/cybersecurity-compliance/</link>
-    <description>Помогаем обеспечить безопасность информации и соблюдать законодательство</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>BI.ZONE EDR updated for better threat detection</title>
+    <link>https://bi.zone/eng/news/v-novoy-versii-bi-zone-edr-uluchsheny-mekhanizmy-vyyavleniya-ugroz/</link>
+    <description>The new BI.ZONE EDR version enhances the detection of complex threats for Windows. The Linux agent now monitors operations with inventory objects and is compatible with the Podman containerized environments. The users of BI.ZONE EDR can also set up task schedules to automate their routine processes</description>
+    <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE vCISO</title>
-    <link>https://bi.zone/catalog/services/vciso/</link>
-    <description>Выделенный эксперт для управления корпоративной кибербезопасностью</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>OFFZONE 2025: dates and venue confirmed</title>
+    <link>https://bi.zone/eng/news/obyavlyaem-daty-i-mesto-provedeniya-offzone-2025/</link>
+    <description>The sixth international conference on practical cybersecurity OFFZONE will run on August 21–22 in Moscow's GOELRO</description>
+    <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Аудит кибербезопасности инфраструктуры</title>
-    <link>https://bi.zone/catalog/services/infrastructure-cybersecurity-audit/</link>
-    <description>Проведем комплексный аудит технического обеспечения, конфигураций решений, архитектуры IT и кибербезопасности</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Matter of trust: 400 companies breached through a legitimate tool</title>
+    <link>https://bi.zone/eng/news/klyuch-k-uspekhu-legitimnyy-instrument-otkryl-zloumyshlennikam-dostup-k-dannym-400-kompaniy/</link>
+    <description>The adversaries compromised at least 400 organizations in Russia and other CIS countries through the legitimate remote administration tool NetSupport</description>
+    <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Cubi</title>
-    <link>https://bi.zone/catalog/products/cubi/</link>
-    <description>AI-помощник для автономной кибербезопасности</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>New year, new stealer: January starts with a large‑scale campaign targeting Russian companies</title>
+    <link>https://bi.zone/eng/news/v-novyy-god-s-novym-stilerom-yanvar-nachalsya-s-masshtabnoy-volny-atak-na-rossiyskie-kompanii/</link>
+    <description>Adversaries employ NOVA stealer, a modified variant of SnakeLogger. The extracted credentials can be used by any cluster for targeted attacks against the compromised companies</description>
+    <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Secure SD-WAN</title>
-    <link>https://bi.zone/catalog/products/secure-sd-wan/</link>
-    <description>Платформа для построения и защиты распределенных сетей</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Nearly impossible to detect: GuLoader weaponized against Russian organizations</title>
+    <link>https://bi.zone/eng/news/zloumyshlenniki-atakuyut-rossiyskie-kompanii-s-pomoshchyu-zagruzchika-pochti-nevidimogo-dlya-sredstv/</link>
+    <description>The loader ingeniously bypasses security solutions and execution environments, including virtual machines and sandboxes</description>
+    <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE PAM | Privileged Access Management</title>
-    <link>https://bi.zone/catalog/products/privileged-access-management/</link>
-    <description>Управление привилегированным доступом по модели нулевого доверия</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Over 65% of host vulnerabilities stem from misconfigurations</title>
+    <link>https://bi.zone/eng/news/dve-treti-khostov-uyazvimy-dlya-kiberatak-iz-za-nepravilnykh-nastroek/</link>
+    <description>Password policy violations account for the largest share of misconfigurations. Unsafe password policies are behind 35% of this year's most severe cybersecurity incidents</description>
+    <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Endpoint Detection and Response</title>
-    <link>https://bi.zone/catalog/products/edr/</link>
-    <description>Решение для защиты конечных точек от сложных угроз</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Espionage attacks on the rise with more devastating consequences</title>
+    <link>https://bi.zone/eng/news/atak-s-tselyu-shpionazha-stanovitsya-bolshe-a-ikh-posledstviya-razrushitelnee/</link>
+    <description>The share of espionage attacks on Russian organizations has increased by 6% year-on-year. Some threat actors go beyond covert data collection to the disruption of compromised IT infrastructures</description>
+    <pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE ZTNA | Zero Trust Network Access</title>
-    <link>https://bi.zone/catalog/products/ztna/</link>
-    <description>Организация защищенного удаленного доступа к корпоративной сети по модели нулевого доверия</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Cyber Polygon 2024 highlights</title>
+    <link>https://bi.zone/eng/news/opublikovany-rekomendatsii-dlya-kompaniy-po-itogam-cyber-polygon-2024/</link>
+    <description>Cyber Polygon 2024 was held within MENA ISC, the region's leading cybersecurity conference. This year, over 300 organizations from 65 countries joined the training</description>
+    <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE SOAR | Security Orchestration, Automation, and Response</title>
-    <link>https://bi.zone/catalog/products/soar/</link>
-    <description>Платформа для автоматизации и координации реагирования на киберинциденты</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>RATs and stealers are most favored by adversaries attacking Russian business</title>
+    <link>https://bi.zone/eng/news/zloumyshlenniki-chashche-vsego-atakuyut-rossiyskie-kompanii-s-pomoshchyu-troyanov-udalennogo-dostupa/</link>
+    <description>Remote access trojans (RATs), the type of malware that enables threat actors to run commands on compromised devices remotely, are used in more than half of all attacks on Russian organizations</description>
+    <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Антифрод-решение BI.ZONE AntiFraud — система противодействия мошенничеству</title>
-    <link>https://bi.zone/catalog/products/antifraud/</link>
-    <description>BI.ZONE AntiFraud – антифрод решение с адаптивной кросс-канальной системой противодействия мошенничеству</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Core Werewolf bolsters attacks against Russia’s defense industry and critical infrastructure</title>
+    <link>https://bi.zone/eng/news/core-werewolf-sovershenstvuet-ataki-na-rossiyskiy-opk-i-subekty-kii/</link>
+    <description>In September, the cluster started using a new internally crafted tool. The adversaries also experiment with malware delivery methods—in addition to phishing emails, they reach out to potential victims in instant messengers</description>
+    <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE CPT</title>
-    <link>https://bi.zone/catalog/products/continuous-penetration-testing/</link>
-    <description>Решение для управления поверхностью атаки и непрерывного мониторинга IT-активов</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Hackers favor uncommon pentest tools over malware</title>
+    <link>https://bi.zone/eng/news/khakery-vybirayut-redkie-instrumenty-pentesta-vmesto-vredonosnykh-programm/</link>
+    <description>By opting for lesser known tools, adversaries increase their chances of staying invisible in a compromised IT infrastructure</description>
+    <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE WAF</title>
-    <link>https://bi.zone/catalog/products/waf/</link>
-    <description>Защита веб-приложений под управлением экспертов</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>CVE-2024-7965 Google Chrome vulnerability affects Android smartphones and macOS laptops</title>
+    <link>https://bi.zone/eng/news/uyazvimosti-cve-2024-7965-v-google-chrome-podverzheny-smartfony-na-android-i-noutbuki-na-mac/</link>
+    <description>We have analyzed a critical vulnerability in Google Chrome's V8 JavaScript engine. Our research has revealed that the vulnerability threatens the users of Android-powered smartphones and certain macOS models</description>
+    <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Digital Risk Protection</title>
-    <link>https://bi.zone/catalog/products/digital-risk-protection/</link>
-    <description>Платформа для предотвращения фишинга, отслеживания утечек и поиска инфоатак</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>More than 300 organizations from 65 countries participated in Cyber Polygon 2024</title>
+    <link>https://bi.zone/eng/news/v-cyber-polygon-2024-prinyali-uchastie-bolee-300-organizatsiy-iz-65-stran/</link>
+    <description>This year's Cyber Polygon technical training was held during the MENA ISC conference in Saudi Arabia, the largest cybersecurity conference in the region</description>
+    <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Mail Security</title>
-    <link>https://bi.zone/catalog/products/mail-security/</link>
-    <description>Интеллектуальная защита пользователей корпоративной почты</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Key trends in GCC cyber threat landscape to be presented at MENA ISC 2024</title>
+    <link>https://bi.zone/eng/news/mena-isc-2024-predstavim-trendy-v-kiberlandshafte-stran-persidskogo-zaliva/</link>
+    <description>8 in 10 of the most active threat actors attack for espionage, and only 2 in 10 attack for ransom. These and other key trends in the cyber threat landscape of the GCC region will be presented at the Cyber Polygon booth during MENA ISC 2024</description>
+    <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE Secure DNS — сервис для защиты от атак на DNS</title>
-    <link>https://bi.zone/catalog/products/secure-dns/</link>
-    <description>Защита бизнеса от атак, использующих DNS</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <title>Hackers increasingly ignore restrictions of commercial malware developers</title>
+    <link>https://bi.zone/eng/news/khakery-vse-chashche-narushayut-zaprety-razrabotchikov-kommercheskogo-vpo/</link>
+    <description>The attackers disable the modules that prevent the malware from being deployed in the Commonwealth of Independent States. Modified, restriction-free malware versions are sold on underground forums and Telegram channels</description>
+    <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE to contribute to MENA ISC</title>
+    <link>https://bi.zone/eng/news/bi-zone-vystupit-na-konferentsii-po-kiberbezopasnosti-mena-isc/</link>
+    <description>We will host a panel discussion with international experts, hold several workshops, open the Cyber Polygon 2024 training, and present an overview of the trends in the GCC cyber threat landscape</description>
+    <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
