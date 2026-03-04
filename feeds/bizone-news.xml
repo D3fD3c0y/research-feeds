@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>BI.ZONE News (Custom Feed)</title>
+  <link>https://bi.zone/eng/news/</link>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Wed, 04 Mar 2026 12:48:13 GMT</lastBuildDate>
+  <item>
+    <title>Utilizing adversary infrastructure insights to derail attacks</title>
+    <link>https://bi.zone/eng/expertise/blog/narushit-plany-atakuyushchikh-kak-primenyat-znaniya-ob-ikh-infrastrukture-v-svoyu-polzu/</link>
+    <description>This article explains how blocking threat actors' infrastructure can disrupt their control over malware and prevent further impact</description>
+    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Technical articles</title>
+    <link>https://bi.zone/eng/expertise/blog/</link>
+    <description>BI.ZONE expert research and practical materials on cybersecurity</description>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE, Москва / Статьи</title>
+    <link>https://habr.com/ru/company/bizone/blog/</link>
+    <description>105 статей от авторов компании BI.ZONE</description>
+    <pubDate>Fri, 27 Feb 2026 07:00:43 GMT</pubDate>
+  </item>
+</channel>
+</rss>
