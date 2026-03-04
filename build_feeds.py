@@ -15,9 +15,10 @@ Optional per-source scoping:
  - scrape_include_prefix: only prioritize (or strictly include) scraped links under a path prefix
  - scrape_strict: if true, only include links under scrape_include_prefix (or page_url path)
 
-Notes:
-- Designed for GitHub Actions on a schedule (UTC).
-- Writes feeds to feeds/<slug>.xml and an index.html listing.
+Option A (artifact-friendly):
+ - After generating feeds/ and index.html, this script can optionally zip them into
+   artifacts/feeds_artifact.zip and write artifacts/artifact_manifest.json.
+ - You can then upload that file/directory using GitHub Actions upload-artifact. [1](https://rss.feedspot.com/ai_rss_feeds/)[2](https://sophosapps-my.sharepoint.com/personal/mathieu_hinse_sophos_com/Documents/Microsoft%20Copilot%20Chat%20Files/build_feeds.py).py)
 """
 import json
 import os
@@ -29,6 +30,8 @@ import io
 import xml.etree.ElementTree as ET
 from urllib.parse import urljoin, urlparse
 import urllib.robotparser as robotparser
+import zipfile
+from pathlib import Path
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -46,7 +49,7 @@ USER_AGENT = (
     "Chrome/122.0.0.0 Safari/537.36"
 )
 
-TIMEOUT = 20  # default per-request timeout (seconds)
+TIMEOUT = 20
 MAX_ITEMS_PER_SOURCE = 30
 MAX_ARTICLE_FETCHES = 20
 RESPECT_ROBOTS = True
@@ -63,10 +66,7 @@ COMMON_SUFFIXES = [
     "?feed=rss2", "?format=feed"
 ]
 
-# ---------------------------------------------------------------------
-# Debug logging
-# ---------------------------------------------------------------------
-DEBUG_HTTP = True  # set False once stable (reduces noise)
+DEBUG_HTTP = True
 
 # ---------------------------------------------------------------------
 # Per-domain timeout + retries
@@ -79,7 +79,6 @@ _retry = Retry(
     status_forcelist=[429, 500, 502, 503, 504],
     allowed_methods=["GET", "HEAD"],
 )
-
 _session = requests.Session()
 _adapter = HTTPAdapter(max_retries=_retry)
 _session.mount("https://", _adapter)
@@ -91,10 +90,20 @@ DOMAIN_TIMEOUTS = {
 }
 
 # ---------------------------------------------------------------------
+# Option A: package outputs for easy artifact upload
+# ---------------------------------------------------------------------
+# Default ON when running in GitHub Actions, OFF otherwise
+DEFAULT_ZIP_ARTIFACT = (os.environ.get("GITHUB_ACTIONS", "").lower() == "true")
+ZIP_ARTIFACT = os.environ.get("ZIP_ARTIFACT", "true" if DEFAULT_ZIP_ARTIFACT else "false").lower() == "true"
+
+ARTIFACTS_DIR = os.environ.get("ARTIFACTS_DIR", "artifacts")
+ARTIFACT_ZIP_NAME = os.environ.get("ARTIFACT_ZIP_NAME", "feeds_artifact.zip")
+ARTIFACT_MANIFEST_NAME = os.environ.get("ARTIFACT_MANIFEST_NAME", "artifact_manifest.json")
+
+# ---------------------------------------------------------------------
 # Time helpers
 # ---------------------------------------------------------------------
 def rfc2822(dt: datetime.datetime | None = None) -> str:
-    """Return an RFC 2822 date string in UTC (tz-aware)."""
     if dt is None:
         dt = datetime.datetime.now(datetime.timezone.utc)
     elif dt.tzinfo is None:
@@ -102,10 +111,9 @@ def rfc2822(dt: datetime.datetime | None = None) -> str:
     return email.utils.format_datetime(dt, usegmt=True)
 
 # ---------------------------------------------------------------------
-# HTTP helper (uses session + per-domain timeouts)
+# HTTP helper
 # ---------------------------------------------------------------------
 def get(url: str, label: str = ""):
-    """HTTP GET with retries + per-domain timeout overrides."""
     try:
         host = urlparse(url).netloc.lower()
         timeout = DOMAIN_TIMEOUTS.get(host, TIMEOUT)
@@ -128,15 +136,9 @@ def get(url: str, label: str = ""):
         raise
 
 # ---------------------------------------------------------------------
-# robots.txt handling (fetch robots using our headers)
+# robots.txt handling (fetch using our headers)
 # ---------------------------------------------------------------------
 def robots_allows(page_url: str, agent: str = "ResearchFeedsBot") -> bool:
-    """
-    Fetch robots.txt using our headers and parse it.
-
-    Some sites may return a non-200 status while still providing usable robots
-    content. If we get text that looks like robots rules, we parse it anyway.
-    """
     if not RESPECT_ROBOTS:
         return True
 
@@ -149,7 +151,7 @@ def robots_allows(page_url: str, agent: str = "ResearchFeedsBot") -> bool:
         looks_like_robots = ("user-agent:" in text.lower()) or ("disallow:" in text.lower()) or ("allow:" in text.lower())
 
         if r.status_code == 404 and not looks_like_robots:
-            return True  # no robots.txt -> allow
+            return True
 
         if looks_like_robots:
             rp = robotparser.RobotFileParser()
@@ -158,7 +160,7 @@ def robots_allows(page_url: str, agent: str = "ResearchFeedsBot") -> bool:
             return rp.can_fetch(agent, page_url)
 
         if r.status_code in (401, 403):
-            return False  # conservative deny if blocked from reading robots
+            return False
 
         return True
     except Exception:
@@ -168,7 +170,6 @@ def robots_allows(page_url: str, agent: str = "ResearchFeedsBot") -> bool:
 # Feed discovery (auto mode)
 # ---------------------------------------------------------------------
 def discover_feed_urls(page_url: str) -> list[str]:
-    """Return candidate feed URLs discovered from <link rel='alternate'> + common patterns."""
     cands: list[str] = []
 
     try:
@@ -219,7 +220,6 @@ def validate_feed(url: str):
 # Article metadata extraction helpers
 # ---------------------------------------------------------------------
 def _parse_jsonld_articles(soup: BeautifulSoup, base_url: str) -> list[dict]:
-    """Return items from JSON-LD Article/BlogPosting if present."""
     items: list[dict] = []
     for tag in soup.find_all("script", attrs={"type": ["application/ld+json", "application/json"]}):
         try:
@@ -252,8 +252,7 @@ def _parse_jsonld_articles(soup: BeautifulSoup, base_url: str) -> list[dict]:
                 stack.extend(obj)
     return items
 
-# Parse YYYY/MM/DD or YYYY-MM-DD anywhere in a string/URL
-_DATE_URL_PAT = re.compile(r"(?P<y>20\d{2})[/-](?P<m>\d{1,2})[/-](?P<d>\d{1,2})")
+_DATE_URL_PAT = re.compile(r"(?P<y>20\d{2})?P<m>\d{1,2}?P<d>\d{1,2}")
 
 def _guess_rfc2822_from_text(s: str | None) -> str | None:
     if not s:
@@ -268,7 +267,6 @@ def _guess_rfc2822_from_text(s: str | None) -> str | None:
         return None
 
 def _extract_article_meta(article_url: str) -> dict | None:
-    """Fetch article page and extract title/date/description best-effort."""
     try:
         r = get(article_url, "article")
         if r.status_code != 200:
@@ -276,7 +274,6 @@ def _extract_article_meta(article_url: str) -> dict | None:
 
         soup = BeautifulSoup(r.text, "html.parser")
 
-        # Prefer JSON-LD
         items = _parse_jsonld_articles(soup, article_url)
         if items:
             item = items[0]
@@ -295,7 +292,6 @@ def _extract_article_meta(article_url: str) -> dict | None:
                     item["description"] = md["content"]
             return item
 
-        # Fallbacks
         title = (soup.title.string.strip() if soup.title and soup.title.string else "")
         meta_title = soup.find("meta", attrs={"property": "og:title"})
         if meta_title and meta_title.get("content"):
@@ -340,19 +336,8 @@ def scrape_items(
     include_prefix: str | None = None,
     strict_section_only: bool = False,
 ) -> list[dict]:
-    """
-    Scrape listing page for links; fetch article pages for rich metadata.
-
-    include_prefix:
-      - If set (e.g., "/resources/blog/"), links under that prefix are prioritized (or exclusively used in strict mode).
-
-    strict_section_only:
-      - If True, only links that match include_prefix (or the page_url path) are considered.
-      - If False, we prefer matching links first, but can fill remaining slots with others.
-    """
     base_netloc = urlparse(page_url).netloc.lower()
-
-    candidates: list[tuple[bool, str, str]] = []  # (is_preferred, title, url)
+    candidates: list[tuple[bool, str, str]] = []
     links = []
 
     try:
@@ -380,7 +365,6 @@ def scrape_items(
         for sel in selectors:
             links += soup.select(sel)
 
-        # Determine preferred prefix
         preferred_prefix = include_prefix
         if not preferred_prefix:
             base_hint = urlparse(page_url).path.rstrip("/")
@@ -392,7 +376,6 @@ def scrape_items(
             if not href:
                 continue
 
-            # Title fallback (aria-label, title attr, image alt)
             title = (a.get_text(strip=True) or "").strip()
             if not title:
                 title = (a.get("aria-label") or a.get("title") or "").strip()
@@ -405,42 +388,36 @@ def scrape_items(
 
             url = urljoin(page_url, href)
 
-            # De-dupe
             if url in seen:
                 continue
             seen.add(url)
 
-            # Drop off-domain links early (prevents partners.binarydefense.com, etc.)
+            # drop off-domain links (prevents partners.* etc.)
             if urlparse(url).netloc.lower() != base_netloc:
                 continue
 
-            # Filter out navigation/junk
             if any(x in url.lower() for x in ["#", "/tag/", "/category/", "/login", "/signup", "mailto:"]):
                 continue
 
             path = urlparse(url).path
             is_preferred = bool(preferred_prefix and path.startswith(preferred_prefix))
 
-            if strict_section_only and preferred_prefix:
-                if not is_preferred:
-                    continue
+            if strict_section_only and preferred_prefix and not is_preferred:
+                continue
 
             candidates.append((is_preferred, title, url))
 
     except Exception as e:
         print(f" ! scrape_items listing fetch error: {e}")
 
-    # Prioritize preferred links first (important)
-    candidates.sort(key=lambda t: (not t[0],))  # preferred=True first
+    candidates.sort(key=lambda t: (not t[0],))  # preferred first
 
-    # Visit up to MAX_ARTICLE_FETCHES article pages
     final: list[dict] = []
     fetch_count = 0
 
     for is_pref, title, url in candidates:
         if fetch_count >= MAX_ARTICLE_FETCHES or len(final) >= limit:
             break
-
         if RESPECT_ROBOTS and not robots_allows(url):
             continue
 
@@ -475,7 +452,6 @@ def _same_site(url: str, base: str) -> bool:
     return _normalize_host(up.netloc) == _normalize_host(bp.netloc)
 
 def _read_robots_for_sitemaps(page_url: str) -> list[str]:
-    """Parse robots.txt and return any 'Sitemap:' URLs found."""
     try:
         p = urlparse(page_url)
         robots_url = f"{p.scheme}://{p.netloc}/robots.txt"
@@ -495,10 +471,6 @@ def _read_robots_for_sitemaps(page_url: str) -> list[str]:
         return []
 
 def _fetch_xml(url: str) -> str | None:
-    """
-    Fetch XML (supports .gz) and return decoded XML text, or None.
-    Sniffs out obvious HTML responses so we don't parse HTML as XML.
-    """
     try:
         r = get(url, "sitemap")
         if r.status_code != 200:
@@ -514,7 +486,6 @@ def _fetch_xml(url: str) -> str | None:
                 raw = gzip.GzipFile(fileobj=io.BytesIO(r.content)).read()
 
         head = raw[:400].decode("utf-8", errors="replace").lstrip().lower()
-
         if ("text/html" in ct or head.startswith("<!doctype html") or head.startswith("<html")):
             if not (head.startswith("<?xml") or "<urlset" in head or "<sitemapindex" in head):
                 return None
@@ -533,21 +504,10 @@ def scrape_from_sitemap(
     include_prefix: str | None = None,
     strict_section_only: bool = False,
 ) -> list[dict]:
-    """
-    Find recent article URLs via sitemap(s) and extract article metadata.
-
-    include_prefix:
-      - If set (e.g., "/eng/news/"), URLs under that prefix are prioritized (or exclusively used in strict mode).
-
-    strict_section_only:
-      - If True, only URLs that match include_prefix (or the page_url path) are considered.
-      - If False, we prefer matching URLs first, but can fill remaining slots with others.
-    """
     parsed = urlparse(page_url)
     base_root = f"{parsed.scheme}://{parsed.netloc}"
 
     candidates: list[str] = []
-
     if sitemap_url:
         candidates.append(sitemap_url)
 
@@ -592,7 +552,6 @@ def scrape_from_sitemap(
         except Exception:
             return
 
-        # urlset -> collect <url><loc>
         for url_el in _iter_local(root, "url"):
             loc_el = _first_child_local(url_el, "loc")
             if loc_el is None:
@@ -603,7 +562,6 @@ def scrape_from_sitemap(
             if _same_site(loc_text, page_url):
                 page_urls.append(loc_text)
 
-        # sitemapindex -> follow nested sitemaps
         for sm_el in _iter_local(root, "sitemap"):
             loc_el = _first_child_local(sm_el, "loc")
             if loc_el is None:
@@ -631,7 +589,6 @@ def scrape_from_sitemap(
         if len(page_urls) >= max(limit * 2, 50):
             break
 
-    # De-duplicate sitemap-discovered URLs (preserve order)
     dedup = []
     seen = set()
     for u in page_urls:
@@ -639,7 +596,6 @@ def scrape_from_sitemap(
             seen.add(u)
             dedup.append(u)
 
-    # NEW: include-prefix filtering/prioritization BEFORE capping
     preferred_prefix = include_prefix
     if not preferred_prefix:
         base_hint = urlparse(page_url).path.rstrip("/")
@@ -654,10 +610,7 @@ def scrape_from_sitemap(
         else:
             others.append(u)
 
-    if strict_section_only:
-        urls = preferred[: max(limit * 2, 50)]
-    else:
-        urls = (preferred + others)[: max(limit * 2, 50)]
+    urls = preferred[: max(limit * 2, 50)] if strict_section_only else (preferred + others)[: max(limit * 2, 50)]
 
     items = []
     for u in urls:
@@ -683,7 +636,6 @@ def scrape_from_sitemap(
 # RSS + index writers
 # ---------------------------------------------------------------------
 def write_rss(out_path: str, channel_title: str, channel_link: str, items: list[dict]) -> str:
-    """Write an RSS file and return the lastBuildDate string used."""
     from xml.sax.saxutils import escape
 
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
@@ -718,7 +670,6 @@ def write_rss(out_path: str, channel_title: str, channel_link: str, items: list[
     return last_build
 
 def _read_existing_last_build(slug: str) -> str:
-    """Try to read <lastBuildDate> from an existing feeds/<slug>.xml. Return 'n/a' if none."""
     path = os.path.join("feeds", f"{slug}.xml")
     try:
         with open(path, "r", encoding="utf-8") as f:
@@ -732,13 +683,12 @@ def _read_existing_last_build(slug: str) -> str:
 
 def build_index(feed_map_enabled: list[tuple[str, str, str]],
                 feed_map_disabled: list[tuple[str, str, str]]):
-    """Create an HTML index page listing all feeds."""
     base = os.environ.get("PAGES_BASE", "")
 
     def row_enabled(name: str, slug: str, last_build: str) -> str:
         rel = f"feeds/{slug}.xml"
         url = (base + rel) if base else rel
-        return f'<li>{url}{name}</a> — <code>{url}</code> — <small>Last run: {last_build}</small></li>'
+        return f'<li><a href="{url}" target="_blank" rel="noopener">{name}</a> — <code>{url}</code> — <small>Last run: {last_build}</small></li>'
 
     def row_disabled(name: str, slug: str, last_build: str) -> str:
         rel = f"feeds/{slug}.xml"
@@ -776,16 +726,53 @@ def build_index(feed_map_enabled: list[tuple[str, str, str]],
     print("Wrote index.html")
 
 # ---------------------------------------------------------------------
+# Option A support: zip outputs and write manifest
+# ---------------------------------------------------------------------
+def create_artifact_package(manifest: dict):
+    """
+    Create artifacts/feeds_artifact.zip containing:
+      - feeds/ directory (all xml files)
+      - index.html (if present)
+      - sources.json (if present)
+      - run manifest json
+
+    This makes it easys an artifact. [1](https://rss.feedspot.com/ai_rss_feeds/)[2](https://sophosapps-my.sharepoint.com/personal/mathieu_hinse_sophos_com/Documents/Microsoft%20Copilot%20Chat%20Files/build_feeds.py).py)
+    """
+    out_dir = Path(ARTIFACTS_DIR)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    manifest_path = out_dir / ARTIFACT_MANIFEST_NAME
+    with manifest_path.open("w", encoding="utf-8") as f:
+        json.dump(manifest, f, indent=2)
+
+    zip_path = out_dir / ARTIFACT_ZIP_NAME
+    with zipfile.ZipFile(zip_path, "w", compression=zipfile.ZIP_DEFLATED) as z:
+        # include feeds/
+        feeds_dir = Path("feeds")
+        if feeds_dir.exists():
+            for p in feeds_dir.rglob("*"):
+                if p.is_file():
+                    z.write(p, arcname=str(p))
+
+        # include index.html if present
+        idx = Path("index.html")
+        if idx.exists():
+            z.write(idx, arcname="index.html")
+
+        # include sources.json if present (helpful for auditing)
+        src = Path("sources.json")
+        if src.exists():
+            z.write(src, arcname="sources.json")
+
+        # include manifest
+        z.write(manifest_path, arcname=str(manifest_path))
+
+    print(f"Wrote artifact ZIP: {zip_path}")
+
+# ---------------------------------------------------------------------
 # Per-source robots override
 # ---------------------------------------------------------------------
 def _respect_robots_for_source(src: dict) -> bool:
-    """
-    Decide whether to respect robots.txt for this source.
-    Priority:
-    1) ignore_robots true -> False
-    2) respect_robots present -> that value
-    3) default -> global RESPECT_ROBOTS
-    """
     if src.get("ignore_robots") is True:
         return False
     if "respect_robots" in src:
@@ -805,6 +792,12 @@ def main():
     feed_map_enabled: list[tuple[str, str, str]] = []
     feed_map_disabled: list[tuple[str, str, str]] = []
 
+    # For Option A manifest
+    run_manifest = {
+        "generated_at_utc": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        "feeds": []
+    }
+
     for ds in disabled_sources:
         feed_map_disabled.append((ds["name"], ds["slug"], _read_existing_last_build(ds["slug"])))
 
@@ -817,6 +810,11 @@ def main():
         global RESPECT_ROBOTS
         _prev_respect = RESPECT_ROBOTS
         RESPECT_ROBOTS = _respect_robots_for_source(src)
+
+        items: list[dict] = []
+        last_build = "n/a"
+        status = "ok"
+        error = None
 
         try:
             mode = src.get("mode", "auto").lower()
@@ -834,8 +832,6 @@ def main():
                             break
                     except Exception:
                         continue
-
-            items: list[dict] = []
 
             if mode == "scrape":
                 if RESPECT_ROBOTS and not robots_allows(page_url):
@@ -898,6 +894,8 @@ def main():
             feed_map_enabled.append((name, slug, last_build))
 
         except Exception as e:
+            status = "error"
+            error = str(e)
             print(f" ! Unhandled error for {name}: {e}")
             last_build = rfc2822()
             write_rss(
@@ -916,7 +914,26 @@ def main():
         finally:
             RESPECT_ROBOTS = _prev_respect
 
+            # Manifest entry
+            run_manifest["feeds"].append({
+                "name": name,
+                "slug": slug,
+                "url": page_url,
+                "mode": src.get("mode", "auto"),
+                "status": status,
+                "error": error,
+                "item_count": len(items) if items else 0,
+                "output_file": out_path,
+                "lastBuildDate": last_build,
+            })
+
     build_index(feed_map_enabled, feed_map_disabled)
+
+    # Option A: zip the outputs so GitHub Actions can upload them easily as an artifact. [1](https://rss.feedspot.com/ai_rss_feeds/)[2](https://sophosapps-my.sharepoint.com/personal/mathieu_hinse_sophos_com/Documents/Microsoft%20Copilot%20Chat%20Files/build_feeds.py).py)
+    if ZIP_ARTIFACT:
+        create_artifact_package(run_manifest)
+    else:
+        print("Artifact ZIP disabled (set ZIP_ARTIFACT=true to enable).")
 
 if __name__ == "__main__":
     main()
