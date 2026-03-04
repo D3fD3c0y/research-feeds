@@ -34,7 +34,6 @@ import feedparser
 # ---------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------
-# Use a mainstream browser UA to reduce trivial bot/WAF blocks (still not a guarantee).
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -64,9 +63,8 @@ COMMON_SUFFIXES = [
 DEBUG_HTTP = True  # set False once stable (reduces noise)
 
 # ---------------------------------------------------------------------
-# Per-domain timeout + retries (RECOMMENDED PATCH)
+# Per-domain timeout + retries
 # ---------------------------------------------------------------------
-# Retries are useful for transient timeouts / 429 / 5xx responses.
 _retry = Retry(
     total=3,
     connect=3,
@@ -81,7 +79,6 @@ _adapter = HTTPAdapter(max_retries=_retry)
 _session.mount("https://", _adapter)
 _session.mount("http://", _adapter)
 
-# Host-specific timeouts (seconds). Add more if needed.
 DOMAIN_TIMEOUTS = {
     "www.trellix.com": 60,
     "trellix.com": 60,
@@ -102,9 +99,7 @@ def rfc2822(dt: datetime.datetime | None = None) -> str:
 # HTTP helper (uses session + per-domain timeouts)
 # ---------------------------------------------------------------------
 def get(url: str, label: str = ""):
-    """
-    HTTP GET with retries, optional debug logging, and per-domain timeout overrides.
-    """
+    """HTTP GET with retries + per-domain timeout overrides."""
     try:
         host = urlparse(url).netloc.lower()
         timeout = DOMAIN_TIMEOUTS.get(host, TIMEOUT)
@@ -130,16 +125,13 @@ def get(url: str, label: str = ""):
 # robots.txt handling (fetch robots using our headers)
 # ---------------------------------------------------------------------
 def robots_allows(page_url: str, agent: str = "ResearchFeedsBot") -> bool:
-    """
-    Fetch robots.txt using our headers (not urllib defaults) and parse it.
-    """
+    """Fetch robots.txt using our headers and parse it."""
     if not RESPECT_ROBOTS:
         return True
 
     try:
         parsed = urlparse(page_url)
         robots_url = f"{parsed.scheme}://{parsed.netloc}/robots.txt"
-
         r = get(robots_url, "robots-check")
 
         if r.status_code == 404:
@@ -152,7 +144,7 @@ def robots_allows(page_url: str, agent: str = "ResearchFeedsBot") -> bool:
             return rp.can_fetch(agent, page_url)
 
         if r.status_code in (401, 403):
-            return False  # blocked from robots -> conservative deny
+            return False  # conservative deny if we can't read robots
 
         return True
     except Exception:
@@ -246,6 +238,7 @@ def _parse_jsonld_articles(soup: BeautifulSoup, base_url: str) -> list[dict]:
                 stack.extend(obj)
     return items
 
+# Parse YYYY/MM/DD or YYYY-MM-DD anywhere in a string/URL
 _DATE_URL_PAT = re.compile(r"(?P<y>20\d{2})[/-](?P<m>\d{1,2})[/-](?P<d>\d{1,2})")
 
 def _guess_rfc2822_from_text(s: str | None) -> str | None:
@@ -452,9 +445,7 @@ def _read_robots_for_sitemaps(page_url: str) -> list[str]:
 def _fetch_xml(url: str) -> str | None:
     """
     Fetch XML (supports .gz) and return decoded XML text, or None.
-
-    Sniffs out obvious HTML responses (common for WAF/landing pages) so we don't
-    attempt to parse HTML as XML.
+    Sniffs out obvious HTML responses so we don't parse HTML as XML.
     """
     try:
         r = get(url, "sitemap")
@@ -464,7 +455,6 @@ def _fetch_xml(url: str) -> str | None:
         ct = (r.headers.get("Content-Type", "") or "").lower()
         raw = r.content or b""
 
-        # Decompress gzip if needed
         if url.endswith(".gz") or ct.endswith("gzip"):
             try:
                 raw = gzip.decompress(raw)
@@ -473,7 +463,6 @@ def _fetch_xml(url: str) -> str | None:
 
         head = raw[:400].decode("utf-8", errors="replace").lstrip().lower()
 
-        # Ignore obvious HTML unless it contains XML markers
         if ("text/html" in ct or head.startswith("<!doctype html") or head.startswith("<html")):
             if not (head.startswith("<?xml") or "<urlset" in head or "<sitemapindex" in head):
                 return None
@@ -482,25 +471,37 @@ def _fetch_xml(url: str) -> str | None:
     except Exception:
         return None
 
-def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE, sitemap_url: str | None = None) -> list[dict]:
+# ---------------------------------------------------------------------
+# Sitemap scraping (WITH include_prefix + strict option)
+# ---------------------------------------------------------------------
+def scrape_from_sitemap(
+    page_url: str,
+    limit: int = MAX_ITEMS_PER_SOURCE,
+    sitemap_url: str | None = None,
+    include_prefix: str | None = None,
+    strict_section_only: bool = False,
+) -> list[dict]:
     """
     Find recent article URLs via sitemap(s) and extract article metadata.
-    If sitemap_url is provided (from sources.json), it is tried first.
+
+    include_prefix:
+      - If set (e.g., "/eng/news/"), URLs under that prefix are prioritized (or exclusively used in strict mode).
+
+    strict_section_only:
+      - If True, only URLs that match include_prefix (or the page_url path) are considered.
+      - If False, we prefer matching URLs first, but can fill remaining slots with others.
     """
     parsed = urlparse(page_url)
     base_root = f"{parsed.scheme}://{parsed.netloc}"
 
     candidates: list[str] = []
 
-    # Prefer explicit sitemap_url
     if sitemap_url:
         candidates.append(sitemap_url)
 
-    # If page_url itself looks like a sitemap XML, try it too
     if "sitemap" in page_url.lower() and page_url.lower().endswith((".xml", ".xml.gz")):
         candidates.append(page_url)
 
-    # Defaults
     candidates += [
         f"{base_root}/sitemap.xml",
         f"{base_root}/sitemap_index.xml",
@@ -508,11 +509,9 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE, sitema
         f"{base_root}/sitemap_index.xml.gz",
     ]
 
-    # Robots hints
     robots_hints = _read_robots_for_sitemaps(page_url)
     candidates = robots_hints + [c for c in candidates if c not in robots_hints]
 
-    # De-dupe candidates
     seen_cands = set()
     dedup_cands = []
     for c in candidates:
@@ -541,7 +540,7 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE, sitema
         except Exception:
             return
 
-        # urlset
+        # urlset -> collect <url><loc>
         for url_el in _iter_local(root, "url"):
             loc_el = _first_child_local(url_el, "loc")
             if loc_el is None:
@@ -552,7 +551,7 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE, sitema
             if _same_site(loc_text, page_url):
                 page_urls.append(loc_text)
 
-        # sitemapindex -> nested sitemaps
+        # sitemapindex -> follow nested sitemaps
         for sm_el in _iter_local(root, "sitemap"):
             loc_el = _first_child_local(sm_el, "loc")
             if loc_el is None:
@@ -580,21 +579,37 @@ def scrape_from_sitemap(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE, sitema
         if len(page_urls) >= max(limit * 2, 50):
             break
 
-    # De-dupe URLs
+    # De-duplicate sitemap-discovered URLs (preserve order)
     dedup = []
     seen = set()
     for u in page_urls:
         if u not in seen:
             seen.add(u)
             dedup.append(u)
-    urls = dedup[: max(limit * 2, 50)]
 
-    # Prefer URLs matching the provided page_url path
-    hint_path = urlparse(page_url).path.rstrip("/")
-    if hint_path and hint_path != "/":
-        preferred = [u for u in urls if urlparse(u).path.startswith(hint_path)]
-        others = [u for u in urls if not urlparse(u).path.startswith(hint_path)]
-        urls = preferred + others
+    # ------------------------------------------------------------
+    # NEW: include-prefix filtering/prioritization BEFORE capping
+    # ------------------------------------------------------------
+    # If include_prefix provided, use it; else use page_url's path as a hint.
+    preferred_prefix = include_prefix
+    if not preferred_prefix:
+        base_hint = urlparse(page_url).path.rstrip("/")
+        preferred_prefix = (base_hint + "/") if base_hint and base_hint != "/" else ""
+
+    preferred = []
+    others = []
+    for u in dedup:
+        p = urlparse(u).path
+        if preferred_prefix and p.startswith(preferred_prefix):
+            preferred.append(u)
+        else:
+            others.append(u)
+
+    if strict_section_only:
+        urls = preferred[: max(limit * 2, 50)]
+    else:
+        urls = (preferred + others)[: max(limit * 2, 50)]
+    # ------------------------------------------------------------
 
     items = []
     for u in urls:
@@ -777,14 +792,24 @@ def main():
             if mode == "scrape":
                 if RESPECT_ROBOTS and not robots_allows(page_url):
                     print(" ! robots.txt disallows scraping listing; trying sitemap fallback …")
-                    items = scrape_from_sitemap(page_url, sitemap_url=src.get("sitemap_url"))
+                    items = scrape_from_sitemap(
+                        page_url,
+                        sitemap_url=src.get("sitemap_url"),
+                        include_prefix=src.get("sitemap_include_prefix"),
+                        strict_section_only=bool(src.get("sitemap_strict", False)),
+                    )
                 else:
                     print(" • scraping listing page …")
                     items = scrape_items(page_url)
 
             elif mode == "sitemap":
                 print(" • using sitemap fallback …")
-                items = scrape_from_sitemap(page_url, sitemap_url=src.get("sitemap_url"))
+                items = scrape_from_sitemap(
+                    page_url,
+                    sitemap_url=src.get("sitemap_url"),
+                    include_prefix=src.get("sitemap_include_prefix"),
+                    strict_section_only=bool(src.get("sitemap_strict", False)),
+                )
 
             elif feed:
                 for e in feed.entries[:MAX_ITEMS_PER_SOURCE]:
