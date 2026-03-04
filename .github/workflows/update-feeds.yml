@@ -1,3 +1,4 @@
+
 name: Update Feeds (Every 8 hours UTC)
 
 on:
@@ -31,19 +32,29 @@ jobs:
         run: |
           python build_feeds.py | tee run.log
 
+      # Option A: Upload generated outputs as artifacts (per-run)
+      - name: Upload feed outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: feed-output-run${{ github.run_number }}-${{ github.sha }}
+          path: |
+            feeds/
+            index.html
+            artifacts/
+          if-no-files-found: warn
+          retention-days: 7
+
       - name: Upload run log
         uses: actions/upload-artifact@v4
         with:
-          name: feed-run-log
+          name: feed-run-log-run${{ github.run_number }}-${{ github.sha }}
           path: run.log
+          retention-days: 7
 
       - name: Commit & push changes
         run: |
           git config user.email "actions@github.com"
           git config user.name "github-actions"
-          # Stage all changes (safe even if feeds/*.xml does not exist yet)
           git add -A
-          # Commit without failing when there is nothing to commit
           git commit -m "Auto-update feeds" || echo "No changes"
-          # Push to the current branch
           git push
