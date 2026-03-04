@@ -137,64 +137,9 @@ Wrote feeds/abstract-security.xml
 
 === Processing: Apophis133 on Medium (https://apophis133.medium.com/) -> feeds/apophis133-medium.xml
  robots.txt respected: True
- • using sitemap fallback …
- [HTTP] robots GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] sitemap GET https://apophis133.medium.com/sitemap/sitemap.xml -> 200 (final: https://apophis133.medium.com/sitemap/sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://apophis133.medium.com/sitemap.xml -> 200 (final: https://apophis133.medium.com/sitemap.xml) CT=text/html; charset=utf-8
- [HTTP] sitemap GET https://apophis133.medium.com/sitemap_index.xml -> 200 (final: https://apophis133.medium.com/sitemap_index.xml) CT=text/html; charset=utf-8
- [HTTP] sitemap GET https://apophis133.medium.com/sitemap.xml.gz -> 200 (final: https://apophis133.medium.com/sitemap.xml.gz) CT=text/html; charset=utf-8
- [HTTP] sitemap GET https://apophis133.medium.com/sitemap_index.xml.gz -> 200 (final: https://apophis133.medium.com/sitemap_index.xml.gz) CT=text/html; charset=utf-8
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com/black-matter-ransomware-inline-resolving-52a8ba8ee134 -> 403 (final: https://apophis133.medium.com/black-matter-ransomware-inline-resolving-52a8ba8ee134) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com/conti-ransomware-source-analysis-40cf7b79563e -> 403 (final: https://apophis133.medium.com/conti-ransomware-source-analysis-40cf7b79563e) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com/malicious-powershell-script-execution-d90b93f44b48 -> 403 (final: https://apophis133.medium.com/malicious-powershell-script-execution-d90b93f44b48) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com/cryptbot-v3-powershell-5ab805ca8b4a -> 403 (final: https://apophis133.medium.com/cryptbot-v3-powershell-5ab805ca8b4a) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com/powershell-script-tactical-rmm-installation-45afb639eff3 -> 403 (final: https://apophis133.medium.com/powershell-script-tactical-rmm-installation-45afb639eff3) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com/medusa-ransomware-technical-analysis-report-35a5602ea73a -> 403 (final: https://apophis133.medium.com/medusa-ransomware-technical-analysis-report-35a5602ea73a) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com/about -> 403 (final: https://apophis133.medium.com/about) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com -> 403 (final: https://apophis133.medium.com/) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com/enhancing-yara-rule-performance-best-practices-and-techniques-e8dc57cf84ee -> 403 (final: https://apophis133.medium.com/enhancing-yara-rule-performance-best-practices-and-techniques-e8dc57cf84ee) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com/blacked-e-hacking-tool-and-nuso-stealer-10906f3c1b4f -> 403 (final: https://apophis133.medium.com/blacked-e-hacking-tool-and-nuso-stealer-10906f3c1b4f) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com/truebot-anti-emulation-tricks-860528b74aa8 -> 403 (final: https://apophis133.medium.com/truebot-anti-emulation-tricks-860528b74aa8) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com/metastealer-dga-routine-bc3e93aa03d2 -> 403 (final: https://apophis133.medium.com/metastealer-dga-routine-bc3e93aa03d2) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com/opencti-setup-824712d7d9da -> 403 (final: https://apophis133.medium.com/opencti-setup-824712d7d9da) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com/thunderkitty-stealer-57782a2bb333 -> 403 (final: https://apophis133.medium.com/thunderkitty-stealer-57782a2bb333) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com/harvester-apt-4f63a21d2e24 -> 403 (final: https://apophis133.medium.com/harvester-apt-4f63a21d2e24) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com/malicious-powershell-analysis-693611db3795 -> 403 (final: https://apophis133.medium.com/malicious-powershell-analysis-693611db3795) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
- [HTTP] article GET https://apophis133.medium.com/powershell-loads-sectoprat-hijack-loader-c6f723de080b -> 403 (final: https://apophis133.medium.com/powershell-loads-sectoprat-hijack-loader-c6f723de080b) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] discover GET https://apophis133.medium.com/ -> 403 (final: https://apophis133.medium.com/) CT=text/html; charset=UTF-8
+ [HTTP] discover body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ + Found feed: https://apophis133.medium.com/feed
 Wrote feeds/apophis133-medium.xml
 
 === Processing: Bfore.ai Reports (https://bfore.ai/resources/?e-filter-63865e3-category=report) -> feeds/bfore-ai-reports.xml
@@ -268,314 +213,211 @@ Wrote feeds/bfore-ai-reports.xml
 
 === Processing: BI.ZONE News (https://bi.zone/eng/news/) -> feeds/bizone-news.xml
  robots.txt respected: False
- • scraping listing page …
- [HTTP] scrape-listing GET https://bi.zone/eng/news/ -> 200 (final: https://bi.zone/eng/news/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/narushit-plany-atakuyushchikh-kak-primenyat-znaniya-ob-ikh-infrastrukture-v-svoyu-polzu/ -> 200 (final: https://bi.zone/eng/expertise/blog/narushit-plany-atakuyushchikh-kak-primenyat-znaniya-ob-ikh-infrastrukture-v-svoyu-polzu/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/ -> 200 (final: https://bi.zone/eng/expertise/blog/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://habr.com/ru/company/bizone/blog/ -> 200 (final: https://habr.com/ru/companies/bizone/articles/) CT=text/html; charset=utf-8
+ • using sitemap fallback …
+ [HTTP] robots GET https://bi.zone/robots.txt -> 200 (final: https://bi.zone/robots.txt) CT=text/plain; charset=UTF-8
+ [HTTP] sitemap GET https://bi.zone/sitemap.xml -> 200 (final: https://bi.zone/sitemap.xml) CT=text/xml; charset=UTF-8
+ [HTTP] article GET https://bi.zone/ -> 200 (final: https://bi.zone/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/ -> 200 (final: https://bi.zone/eng/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/ -> 200 (final: https://bi.zone/catalog/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/incident-response/ -> 200 (final: https://bi.zone/catalog/services/incident-response/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/threat-detection-and-response/ -> 200 (final: https://bi.zone/catalog/services/threat-detection-and-response/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/antiddos/ -> 200 (final: https://bi.zone/catalog/services/antiddos/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/penetration-testing/ -> 200 (final: https://bi.zone/catalog/services/penetration-testing/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/application-security-assessment/ -> 200 (final: https://bi.zone/catalog/services/application-security-assessment/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/consulting/ -> 200 (final: https://bi.zone/catalog/services/consulting/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/compromise-assessment/ -> 200 (final: https://bi.zone/catalog/services/compromise-assessment/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/essa/ -> 200 (final: https://bi.zone/catalog/services/essa/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/security-solutions-testing-and-assessment/ -> 200 (final: https://bi.zone/catalog/services/security-solutions-testing-and-assessment/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/soc-consulting/ -> 200 (final: https://bi.zone/catalog/services/soc-consulting/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/comprehensive-cybersecurity-assessment/ -> 200 (final: https://bi.zone/catalog/services/comprehensive-cybersecurity-assessment/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/cyber-risks-and-business-continuity-management/ -> 200 (final: https://bi.zone/catalog/services/cyber-risks-and-business-continuity-management/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/cybersecurity-compliance/ -> 200 (final: https://bi.zone/catalog/services/cybersecurity-compliance/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/vciso/ -> 200 (final: https://bi.zone/catalog/services/vciso/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/infrastructure-cybersecurity-audit/ -> 200 (final: https://bi.zone/catalog/services/infrastructure-cybersecurity-audit/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/cubi/ -> 200 (final: https://bi.zone/catalog/products/cubi/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/secure-sd-wan/ -> 200 (final: https://bi.zone/catalog/products/secure-sd-wan/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/privileged-access-management/ -> 200 (final: https://bi.zone/catalog/products/privileged-access-management/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/edr/ -> 200 (final: https://bi.zone/catalog/products/edr/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/ztna/ -> 200 (final: https://bi.zone/catalog/products/ztna/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/soar/ -> 200 (final: https://bi.zone/catalog/products/soar/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/antifraud/ -> 200 (final: https://bi.zone/catalog/products/antifraud/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/continuous-penetration-testing/ -> 200 (final: https://bi.zone/catalog/products/continuous-penetration-testing/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/waf/ -> 200 (final: https://bi.zone/catalog/products/waf/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/digital-risk-protection/ -> 200 (final: https://bi.zone/catalog/products/digital-risk-protection/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/mail-security/ -> 200 (final: https://bi.zone/catalog/products/mail-security/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/secure-dns/ -> 200 (final: https://bi.zone/catalog/products/secure-dns/) CT=text/html; charset=UTF-8
 Wrote feeds/bizone-news.xml
 
 === Processing: BI.ZONE Blog (https://bi.zone/eng/expertise/blog/) -> feeds/bizone-blog.xml
  robots.txt respected: False
- • scraping listing page …
- [HTTP] scrape-listing GET https://bi.zone/eng/expertise/blog/ -> 200 (final: https://bi.zone/eng/expertise/blog/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/expertise/blog/ -> 200 (final: https://bi.zone/expertise/blog/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/narushit-plany-atakuyushchikh-kak-primenyat-znaniya-ob-ikh-infrastrukture-v-svoyu-polzu/ -> 200 (final: https://bi.zone/eng/expertise/blog/narushit-plany-atakuyushchikh-kak-primenyat-znaniya-ob-ikh-infrastrukture-v-svoyu-polzu/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/ -> 200 (final: https://bi.zone/eng/expertise/blog/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://habr.com/ru/company/bizone/blog/ -> 200 (final: https://habr.com/ru/companies/bizone/articles/) CT=text/html; charset=utf-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/nadvigayushchiysya-tsiklon-vortex-werewolf-atakuet-rossiyu/ -> 200 (final: https://bi.zone/eng/expertise/blog/nadvigayushchiysya-tsiklon-vortex-werewolf-atakuet-rossiyu/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/zloumyshlenniki-ekspluatiruyut-uyazvimost-cve-2025-55182-v-atakakh-na-rossiyskie-kompanii/ -> 200 (final: https://bi.zone/eng/expertise/blog/zloumyshlenniki-ekspluatiruyut-uyazvimost-cve-2025-55182-v-atakakh-na-rossiyskie-kompanii/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/arcane-werewolf-vernulsya-s-obnovlennym-implantom-loki/ -> 200 (final: https://bi.zone/eng/expertise/blog/arcane-werewolf-vernulsya-s-obnovlennym-implantom-loki/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/kak-ispolzovat-dannye-s-tenevykh-resursov-dlya-predskazaniya-kiberatak/ -> 200 (final: https://bi.zone/eng/expertise/blog/kak-ispolzovat-dannye-s-tenevykh-resursov-dlya-predskazaniya-kiberatak/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/landshaft-kiberugroz-organizatsii-kak-opredelit-i-kak-ispolzovat-dlya-prognozirovaniya-atak/ -> 200 (final: https://bi.zone/eng/expertise/blog/landshaft-kiberugroz-organizatsii-kak-opredelit-i-kak-ispolzovat-dlya-prognozirovaniya-atak/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/kak-ugrozotsentrichnyy-podkhod-pozvolyaet-izbezhat-ushcherba-ot-kiberatak/ -> 200 (final: https://bi.zone/eng/expertise/blog/kak-ugrozotsentrichnyy-podkhod-pozvolyaet-izbezhat-ushcherba-ot-kiberatak/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2025-62592-v-oracle-virtualbox-dlya-macos/ -> 200 (final: https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2025-62592-v-oracle-virtualbox-dlya-macos/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/cavalry-werewolf-atakuet-rossiyu-cherez-doveritelnye-otnosheniya-mezhdu-gosudarstvami/ -> 200 (final: https://bi.zone/eng/expertise/blog/cavalry-werewolf-atakuet-rossiyu-cherez-doveritelnye-otnosheniya-mezhdu-gosudarstvami/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/?PAGEN_1=2 -> 200 (final: https://bi.zone/eng/expertise/blog/?PAGEN_1=2) CT=text/html; charset=UTF-8
+ • using sitemap fallback …
+ [HTTP] robots GET https://bi.zone/robots.txt -> 200 (final: https://bi.zone/robots.txt) CT=text/plain; charset=UTF-8
+ [HTTP] sitemap GET https://bi.zone/sitemap.xml -> 200 (final: https://bi.zone/sitemap.xml) CT=text/xml; charset=UTF-8
+ [HTTP] article GET https://bi.zone/ -> 200 (final: https://bi.zone/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/ -> 200 (final: https://bi.zone/eng/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/ -> 200 (final: https://bi.zone/catalog/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/incident-response/ -> 200 (final: https://bi.zone/catalog/services/incident-response/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/threat-detection-and-response/ -> 200 (final: https://bi.zone/catalog/services/threat-detection-and-response/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/antiddos/ -> 200 (final: https://bi.zone/catalog/services/antiddos/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/penetration-testing/ -> 200 (final: https://bi.zone/catalog/services/penetration-testing/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/application-security-assessment/ -> 200 (final: https://bi.zone/catalog/services/application-security-assessment/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/consulting/ -> 200 (final: https://bi.zone/catalog/services/consulting/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/compromise-assessment/ -> 200 (final: https://bi.zone/catalog/services/compromise-assessment/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/essa/ -> 200 (final: https://bi.zone/catalog/services/essa/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/security-solutions-testing-and-assessment/ -> 200 (final: https://bi.zone/catalog/services/security-solutions-testing-and-assessment/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/soc-consulting/ -> 200 (final: https://bi.zone/catalog/services/soc-consulting/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/comprehensive-cybersecurity-assessment/ -> 200 (final: https://bi.zone/catalog/services/comprehensive-cybersecurity-assessment/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/cyber-risks-and-business-continuity-management/ -> 200 (final: https://bi.zone/catalog/services/cyber-risks-and-business-continuity-management/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/cybersecurity-compliance/ -> 200 (final: https://bi.zone/catalog/services/cybersecurity-compliance/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/vciso/ -> 200 (final: https://bi.zone/catalog/services/vciso/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/infrastructure-cybersecurity-audit/ -> 200 (final: https://bi.zone/catalog/services/infrastructure-cybersecurity-audit/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/cubi/ -> 200 (final: https://bi.zone/catalog/products/cubi/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/secure-sd-wan/ -> 200 (final: https://bi.zone/catalog/products/secure-sd-wan/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/privileged-access-management/ -> 200 (final: https://bi.zone/catalog/products/privileged-access-management/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/edr/ -> 200 (final: https://bi.zone/catalog/products/edr/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/ztna/ -> 200 (final: https://bi.zone/catalog/products/ztna/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/soar/ -> 200 (final: https://bi.zone/catalog/products/soar/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/antifraud/ -> 200 (final: https://bi.zone/catalog/products/antifraud/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/continuous-penetration-testing/ -> 200 (final: https://bi.zone/catalog/products/continuous-penetration-testing/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/waf/ -> 200 (final: https://bi.zone/catalog/products/waf/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/digital-risk-protection/ -> 200 (final: https://bi.zone/catalog/products/digital-risk-protection/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/mail-security/ -> 200 (final: https://bi.zone/catalog/products/mail-security/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/secure-dns/ -> 200 (final: https://bi.zone/catalog/products/secure-dns/) CT=text/html; charset=UTF-8
 Wrote feeds/bizone-blog.xml
 
 === Processing: BI.ZONE Research (https://bi.zone/eng/expertise/research/) -> feeds/bizone-research.xml
  robots.txt respected: False
- • scraping listing page …
- [HTTP] scrape-listing GET https://bi.zone/eng/expertise/research/ -> 200 (final: https://bi.zone/eng/expertise/research/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/narushit-plany-atakuyushchikh-kak-primenyat-znaniya-ob-ikh-infrastrukture-v-svoyu-polzu/ -> 200 (final: https://bi.zone/eng/expertise/blog/narushit-plany-atakuyushchikh-kak-primenyat-znaniya-ob-ikh-infrastrukture-v-svoyu-polzu/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/ -> 200 (final: https://bi.zone/eng/expertise/blog/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://habr.com/ru/company/bizone/blog/ -> 200 (final: https://habr.com/ru/companies/bizone/articles/) CT=text/html; charset=utf-8
+ • using sitemap fallback …
+ [HTTP] robots GET https://bi.zone/robots.txt -> 200 (final: https://bi.zone/robots.txt) CT=text/plain; charset=UTF-8
+ [HTTP] sitemap GET https://bi.zone/sitemap.xml -> 200 (final: https://bi.zone/sitemap.xml) CT=text/xml; charset=UTF-8
+ [HTTP] article GET https://bi.zone/ -> 200 (final: https://bi.zone/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/ -> 200 (final: https://bi.zone/eng/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/ -> 200 (final: https://bi.zone/catalog/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/incident-response/ -> 200 (final: https://bi.zone/catalog/services/incident-response/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/threat-detection-and-response/ -> 200 (final: https://bi.zone/catalog/services/threat-detection-and-response/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/antiddos/ -> 200 (final: https://bi.zone/catalog/services/antiddos/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/penetration-testing/ -> 200 (final: https://bi.zone/catalog/services/penetration-testing/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/application-security-assessment/ -> 200 (final: https://bi.zone/catalog/services/application-security-assessment/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/consulting/ -> 200 (final: https://bi.zone/catalog/services/consulting/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/compromise-assessment/ -> 200 (final: https://bi.zone/catalog/services/compromise-assessment/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/essa/ -> 200 (final: https://bi.zone/catalog/services/essa/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/security-solutions-testing-and-assessment/ -> 200 (final: https://bi.zone/catalog/services/security-solutions-testing-and-assessment/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/soc-consulting/ -> 200 (final: https://bi.zone/catalog/services/soc-consulting/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/comprehensive-cybersecurity-assessment/ -> 200 (final: https://bi.zone/catalog/services/comprehensive-cybersecurity-assessment/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/cyber-risks-and-business-continuity-management/ -> 200 (final: https://bi.zone/catalog/services/cyber-risks-and-business-continuity-management/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/cybersecurity-compliance/ -> 200 (final: https://bi.zone/catalog/services/cybersecurity-compliance/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/vciso/ -> 200 (final: https://bi.zone/catalog/services/vciso/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/services/infrastructure-cybersecurity-audit/ -> 200 (final: https://bi.zone/catalog/services/infrastructure-cybersecurity-audit/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/cubi/ -> 200 (final: https://bi.zone/catalog/products/cubi/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/secure-sd-wan/ -> 200 (final: https://bi.zone/catalog/products/secure-sd-wan/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/privileged-access-management/ -> 200 (final: https://bi.zone/catalog/products/privileged-access-management/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/edr/ -> 200 (final: https://bi.zone/catalog/products/edr/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/ztna/ -> 200 (final: https://bi.zone/catalog/products/ztna/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/soar/ -> 200 (final: https://bi.zone/catalog/products/soar/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/antifraud/ -> 200 (final: https://bi.zone/catalog/products/antifraud/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/continuous-penetration-testing/ -> 200 (final: https://bi.zone/catalog/products/continuous-penetration-testing/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/waf/ -> 200 (final: https://bi.zone/catalog/products/waf/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/digital-risk-protection/ -> 200 (final: https://bi.zone/catalog/products/digital-risk-protection/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/mail-security/ -> 200 (final: https://bi.zone/catalog/products/mail-security/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/catalog/products/secure-dns/ -> 200 (final: https://bi.zone/catalog/products/secure-dns/) CT=text/html; charset=UTF-8
 Wrote feeds/bizone-research.xml
 
 === Processing: Binary Defense ARC Labs (https://binarydefense.com/resources/arc-labs) -> feeds/binarydefense-arc-labs.xml
  robots.txt respected: True
- • using sitemap fallback …
- [HTTP] robots GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-arcLabs-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-arcLabs-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-careers-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-careers-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-events-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-events-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-homepage-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-homepage-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-industries-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-industries-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-knowledgebase-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-knowledgebase-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-miscPages-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-miscPages-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-news-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-news-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-partnerships-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-partnerships-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-press-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-press-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-resourceCenter-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-resourceCenter-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-resources-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-resources-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-services-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-services-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-solutions-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-solutions-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-webinars-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-webinars-1-sitemap.xml) CT=text/xml; charset=utf-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/resources/arc-labs -> 200 (final: https://binarydefense.com/resources/arc-labs) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/careers -> 200 (final: https://binarydefense.com/careers) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/events/grrcon-2 -> 404 (final: https://binarydefense.com/events/grrcon-2) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html> <html lang="en-US">     <head>         <meta charset="utf-8">         <meta name="viewport" content="width=device-width initial-scale=1, shrink-to-fit=no">         <meta name="referrer
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/events/bsides-pgh -> 404 (final: https://binarydefense.com/events/bsides-pgh) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html> <html lang="en-US">     <head>         <meta charset="utf-8">         <meta name="viewport" content="width=device-width initial-scale=1, shrink-to-fit=no">         <meta name="referrer
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/events/bsides-charm -> 404 (final: https://binarydefense.com/events/bsides-charm) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html> <html lang="en-US">     <head>         <meta charset="utf-8">         <meta name="viewport" content="width=device-width initial-scale=1, shrink-to-fit=no">         <meta name="referrer
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/events/wild-west-hackin-fest -> 404 (final: https://binarydefense.com/events/wild-west-hackin-fest) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html> <html lang="en-US">     <head>         <meta charset="utf-8">         <meta name="viewport" content="width=device-width initial-scale=1, shrink-to-fit=no">         <meta name="referrer
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/events/grrcon -> 404 (final: https://binarydefense.com/events/grrcon) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html> <html lang="en-US">     <head>         <meta charset="utf-8">         <meta name="viewport" content="width=device-width initial-scale=1, shrink-to-fit=no">         <meta name="referrer
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/events/hou-sec-con -> 404 (final: https://binarydefense.com/events/hou-sec-con) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html> <html lang="en-US">     <head>         <meta charset="utf-8">         <meta name="viewport" content="width=device-width initial-scale=1, shrink-to-fit=no">         <meta name="referrer
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/ -> 200 (final: https://binarydefense.com/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/industries/manufacturing -> 200 (final: https://binarydefense.com/industries/manufacturing) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/industries/education -> 200 (final: https://binarydefense.com/industries/education) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/industries/retail -> 200 (final: https://binarydefense.com/industries/retail) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/industries/healthcare -> 200 (final: https://binarydefense.com/industries/healthcare) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/industries/financial -> 200 (final: https://binarydefense.com/industries/financial) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/industries/saas -> 200 (final: https://binarydefense.com/industries/saas) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/industries/energy -> 200 (final: https://binarydefense.com/industries/energy) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/resources/knowledgebase -> 200 (final: https://binarydefense.com/resources/knowledgebase) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/services -> 200 (final: https://binarydefense.com/services) CT=text/html; charset=UTF-8
+ • scraping listing page …
+ [HTTP] scrape-listing GET https://binarydefense.com/resources/arc-labs -> 200 (final: https://binarydefense.com/resources/arc-labs) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
  [HTTP] article GET https://binarydefense.com/platform -> 200 (final: https://binarydefense.com/platform) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/platform/bd-vision -> 200 (final: https://binarydefense.com/platform/bd-vision) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/careers -> 200 (final: https://binarydefense.com/careers) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://partners.binarydefense.com/robots.txt -> 200 (final: https://partners.binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://partners.binarydefense.com -> 200 (final: https://partners.binarydefense.com/) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/request-a-demo -> 200 (final: https://binarydefense.com/request-a-demo) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/an-incident-doesnt-have-to-be-a-crisis -> 200 (final: https://binarydefense.com/resources/blog/an-incident-doesnt-have-to-be-a-crisis) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/arclabs -> 200 (final: https://binarydefense.com/arclabs) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/a-closer-look-at-malicious-svg-phishing -> 200 (final: https://binarydefense.com/resources/blog/a-closer-look-at-malicious-svg-phishing) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/threat-informed-detection-engineering -> 200 (final: https://binarydefense.com/threat-informed-detection-engineering) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog -> 200 (final: https://binarydefense.com/resources/blog) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/harness-the-attackers-mindset -> 200 (final: https://binarydefense.com/harness-the-attackers-mindset) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/casestudies -> 200 (final: https://binarydefense.com/resources/casestudies) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/company -> 200 (final: https://binarydefense.com/company) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/datasheets -> 200 (final: https://binarydefense.com/resources/datasheets) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/company/our-story -> 200 (final: https://binarydefense.com/company/our-story) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/whitepapers -> 200 (final: https://binarydefense.com/resources/whitepapers) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/company/contact -> 200 (final: https://binarydefense.com/company/contact) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/videos -> 200 (final: https://binarydefense.com/resources/videos) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/terms-conditions -> 200 (final: https://binarydefense.com/terms-conditions) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/webinars -> 200 (final: https://binarydefense.com/resources/webinars) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/privacy-policy -> 200 (final: https://binarydefense.com/privacy-policy) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/arc-labs -> 200 (final: https://binarydefense.com/resources/arc-labs) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/data-subject-rights-request -> 200 (final: https://binarydefense.com/data-subject-rights-request) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/case-studies -> 200 (final: https://binarydefense.com/resources/case-studies) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/terms -> 200 (final: https://binarydefense.com/terms) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/terms/dpa -> 200 (final: https://binarydefense.com/terms/dpa) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/terms/dpa/subprocessors -> 200 (final: https://binarydefense.com/terms/dpa/subprocessors) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/terms/attcybersecurity -> 200 (final: https://binarydefense.com/terms/attcybersecurity) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/terms/logrhythm -> 200 (final: https://binarydefense.com/terms/logrhythm) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/terms/sla -> 200 (final: https://binarydefense.com/terms/sla) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/data-sheets -> 200 (final: https://binarydefense.com/resources/data-sheets) CT=text/html; charset=UTF-8
 Wrote feeds/binarydefense-arc-labs.xml
 
 === Processing: Binary Defense Blog (https://binarydefense.com/resources/blog) -> feeds/binarydefense-blog.xml
  robots.txt respected: True
- • using sitemap fallback …
- [HTTP] robots GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-blog-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-blog-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-arcLabs-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-arcLabs-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-careers-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-careers-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-events-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-events-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-homepage-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-homepage-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-industries-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-industries-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-knowledgebase-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-knowledgebase-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-miscPages-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-miscPages-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-news-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-news-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-partnerships-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-partnerships-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-press-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-press-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-resourceCenter-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-resourceCenter-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-resources-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-resources-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-services-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-services-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-solutions-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-solutions-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-webinars-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-webinars-1-sitemap.xml) CT=text/xml; charset=utf-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/resources/arc-labs -> 200 (final: https://binarydefense.com/resources/arc-labs) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/careers -> 200 (final: https://binarydefense.com/careers) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/events/grrcon-2 -> 404 (final: https://binarydefense.com/events/grrcon-2) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html> <html lang="en-US">     <head>         <meta charset="utf-8">         <meta name="viewport" content="width=device-width initial-scale=1, shrink-to-fit=no">         <meta name="referrer
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/events/bsides-pgh -> 404 (final: https://binarydefense.com/events/bsides-pgh) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html> <html lang="en-US">     <head>         <meta charset="utf-8">         <meta name="viewport" content="width=device-width initial-scale=1, shrink-to-fit=no">         <meta name="referrer
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/events/bsides-charm -> 404 (final: https://binarydefense.com/events/bsides-charm) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html> <html lang="en-US">     <head>         <meta charset="utf-8">         <meta name="viewport" content="width=device-width initial-scale=1, shrink-to-fit=no">         <meta name="referrer
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/events/wild-west-hackin-fest -> 404 (final: https://binarydefense.com/events/wild-west-hackin-fest) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html> <html lang="en-US">     <head>         <meta charset="utf-8">         <meta name="viewport" content="width=device-width initial-scale=1, shrink-to-fit=no">         <meta name="referrer
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/events/grrcon -> 404 (final: https://binarydefense.com/events/grrcon) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html> <html lang="en-US">     <head>         <meta charset="utf-8">         <meta name="viewport" content="width=device-width initial-scale=1, shrink-to-fit=no">         <meta name="referrer
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/events/hou-sec-con -> 404 (final: https://binarydefense.com/events/hou-sec-con) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html> <html lang="en-US">     <head>         <meta charset="utf-8">         <meta name="viewport" content="width=device-width initial-scale=1, shrink-to-fit=no">         <meta name="referrer
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/ -> 200 (final: https://binarydefense.com/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/industries/manufacturing -> 200 (final: https://binarydefense.com/industries/manufacturing) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/industries/education -> 200 (final: https://binarydefense.com/industries/education) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/industries/retail -> 200 (final: https://binarydefense.com/industries/retail) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/industries/healthcare -> 200 (final: https://binarydefense.com/industries/healthcare) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/industries/financial -> 200 (final: https://binarydefense.com/industries/financial) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/industries/saas -> 200 (final: https://binarydefense.com/industries/saas) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/industries/energy -> 200 (final: https://binarydefense.com/industries/energy) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/resources/knowledgebase -> 200 (final: https://binarydefense.com/resources/knowledgebase) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/services -> 200 (final: https://binarydefense.com/services) CT=text/html; charset=UTF-8
+ • scraping listing page …
+ [HTTP] scrape-listing GET https://binarydefense.com/resources/blog -> 200 (final: https://binarydefense.com/resources/blog) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
  [HTTP] article GET https://binarydefense.com/platform -> 200 (final: https://binarydefense.com/platform) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/platform/bd-vision -> 200 (final: https://binarydefense.com/platform/bd-vision) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/careers -> 200 (final: https://binarydefense.com/careers) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://partners.binarydefense.com/robots.txt -> 200 (final: https://partners.binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://partners.binarydefense.com -> 200 (final: https://partners.binarydefense.com/) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/request-a-demo -> 200 (final: https://binarydefense.com/request-a-demo) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/an-incident-doesnt-have-to-be-a-crisis -> 200 (final: https://binarydefense.com/resources/blog/an-incident-doesnt-have-to-be-a-crisis) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/arclabs -> 200 (final: https://binarydefense.com/arclabs) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/a-closer-look-at-malicious-svg-phishing -> 200 (final: https://binarydefense.com/resources/blog/a-closer-look-at-malicious-svg-phishing) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/threat-informed-detection-engineering -> 200 (final: https://binarydefense.com/threat-informed-detection-engineering) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog -> 200 (final: https://binarydefense.com/resources/blog) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/harness-the-attackers-mindset -> 200 (final: https://binarydefense.com/harness-the-attackers-mindset) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/casestudies -> 200 (final: https://binarydefense.com/resources/casestudies) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/company -> 200 (final: https://binarydefense.com/company) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/datasheets -> 200 (final: https://binarydefense.com/resources/datasheets) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/company/our-story -> 200 (final: https://binarydefense.com/company/our-story) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/whitepapers -> 200 (final: https://binarydefense.com/resources/whitepapers) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/company/contact -> 200 (final: https://binarydefense.com/company/contact) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/videos -> 200 (final: https://binarydefense.com/resources/videos) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/terms-conditions -> 200 (final: https://binarydefense.com/terms-conditions) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/webinars -> 200 (final: https://binarydefense.com/resources/webinars) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/privacy-policy -> 200 (final: https://binarydefense.com/privacy-policy) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/arc-labs -> 200 (final: https://binarydefense.com/resources/arc-labs) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/data-subject-rights-request -> 200 (final: https://binarydefense.com/data-subject-rights-request) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/case-studies -> 200 (final: https://binarydefense.com/resources/case-studies) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/terms -> 200 (final: https://binarydefense.com/terms) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/terms/dpa -> 200 (final: https://binarydefense.com/terms/dpa) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/terms/dpa/subprocessors -> 200 (final: https://binarydefense.com/terms/dpa/subprocessors) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/terms/attcybersecurity -> 200 (final: https://binarydefense.com/terms/attcybersecurity) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/terms/logrhythm -> 200 (final: https://binarydefense.com/terms/logrhythm) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/terms/sla -> 200 (final: https://binarydefense.com/terms/sla) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/data-sheets -> 200 (final: https://binarydefense.com/resources/data-sheets) CT=text/html; charset=UTF-8
 Wrote feeds/binarydefense-blog.xml
 
 === Processing: Pillar Security Blog (https://www.pillar.security/blog) -> feeds/pillar-security.xml

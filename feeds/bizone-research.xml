@@ -4,24 +4,186 @@
   <title>BI.ZONE Research (Custom Feed)</title>
   <link>https://bi.zone/eng/expertise/research/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Wed, 04 Mar 2026 12:48:40 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Mar 2026 14:32:32 GMT</lastBuildDate>
   <item>
-    <title>Utilizing adversary infrastructure insights to derail attacks</title>
-    <link>https://bi.zone/eng/expertise/blog/narushit-plany-atakuyushchikh-kak-primenyat-znaniya-ob-ikh-infrastrukture-v-svoyu-polzu/</link>
-    <description>This article explains how blocking threat actors' infrastructure can disrupt their control over malware and prevent further impact</description>
-    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+    <title>BI.ZONE — компания по управлению цифровыми рисками</title>
+    <link>https://bi.zone/</link>
+    <description>От корпорации до стартапа, мы помогаем организациям по всему миру безопасно развивать бизнес в цифровую эпоху</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>Technical articles</title>
-    <link>https://bi.zone/eng/expertise/blog/</link>
-    <description>BI.ZONE expert research and practical materials on cybersecurity</description>
+    <title>BI.ZONE: expert in digital risks management</title>
+    <link>https://bi.zone/eng/</link>
+    <description>BI.ZONE is an expert in digital risks management. We protect hundreds of organizations from cyber threats</description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>BI.ZONE, Москва / Статьи</title>
-    <link>https://habr.com/ru/company/bizone/blog/</link>
-    <description>105 статей от авторов компании BI.ZONE</description>
-    <pubDate>Fri, 27 Feb 2026 07:00:43 GMT</pubDate>
+    <title>Продукты и услуги</title>
+    <link>https://bi.zone/catalog/</link>
+    <description>Каталог продуктов и услуг по кибербезопасности для бизнеса</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE DFIR</title>
+    <link>https://bi.zone/catalog/services/incident-response/</link>
+    <description>Оперативно нейтрализуем угрозы и проводим расследования</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE TDR (SOC/MDR)</title>
+    <link>https://bi.zone/catalog/services/threat-detection-and-response/</link>
+    <description>Выявление, реагирование и предупреждение киберугроз под управлением экспертов</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE AntiDDoS</title>
+    <link>https://bi.zone/catalog/services/antiddos/</link>
+    <description>Доверьте управление безопасностью экспертам BI.ZONE с многолетним опытом защиты крупнейших критических информационных инфраструктур от DDoS-атак</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Тестирование на проникновение</title>
+    <link>https://bi.zone/catalog/services/penetration-testing/</link>
+    <description>Тестирование на проникновение позволяет объективно оценить, насколько компания устойчива к киберугрозам, помогает повысить эффективность мер ее защиты</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Анализ защищенности приложений</title>
+    <link>https://bi.zone/catalog/services/application-security-assessment/</link>
+    <description>Анализ защищенности позволяет заранее узнать о слабых местах в безопасности приложения и принять меры для защиты бизнеса от киберугроз</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE Consulting</title>
+    <link>https://bi.zone/catalog/services/consulting/</link>
+    <description>Обеспечиваем комплексный подход: от аудита и соответствия требованиям до построения полноценной системы киберзащиты и непрерывности бизнеса</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE Compromise Assessment</title>
+    <link>https://bi.zone/catalog/services/compromise-assessment/</link>
+    <description>Проверяем IT-инфраструктуру на компрометацию, не оставляя слепые зоны</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE Embedded Systems Security Assessment</title>
+    <link>https://bi.zone/catalog/services/essa/</link>
+    <description>Исследовательская лаборатория BI.ZONE анализирует безопасность программно-аппаратных комплексов (ПАК) со всех сторон</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Нагрузочное тестирование и анализ средств защиты</title>
+    <link>https://bi.zone/catalog/services/security-solutions-testing-and-assessment/</link>
+    <description>Исследуем работу средств защиты информации (CЗИ), телекоммуникационных сетей и сетевого оборудования, веб-приложений</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE SOC Consulting</title>
+    <link>https://bi.zone/catalog/services/soc-consulting/</link>
+    <description>Создадим SOC либо оценим его зрелость и усовершенствуем, используя лучшие практики и собственный экспертный опыт</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Комплексная оценка кибербезопасности</title>
+    <link>https://bi.zone/catalog/services/comprehensive-cybersecurity-assessment/</link>
+    <description>Проведем аудит, проверим на соответствие требованиям законодательства и стандартам, сформируем план по повышению зрелости процессов кибербезопасности</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Управление рисками кибербезопасности и непрерывностью бизнеса</title>
+    <link>https://bi.zone/catalog/services/cyber-risks-and-business-continuity-management/</link>
+    <description>Повысим киберзрелость компании, а также минимизируем возможный ущерб бизнес-деятельности, применяя BIA и рискориентированный подход</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Соответствие нормативным требованиям кибербезопасности</title>
+    <link>https://bi.zone/catalog/services/cybersecurity-compliance/</link>
+    <description>Помогаем обеспечить безопасность информации и соблюдать законодательство</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE vCISO</title>
+    <link>https://bi.zone/catalog/services/vciso/</link>
+    <description>Выделенный эксперт для управления корпоративной кибербезопасностью</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Аудит кибербезопасности инфраструктуры</title>
+    <link>https://bi.zone/catalog/services/infrastructure-cybersecurity-audit/</link>
+    <description>Проведем комплексный аудит технического обеспечения, конфигураций решений, архитектуры IT и кибербезопасности</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE Cubi</title>
+    <link>https://bi.zone/catalog/products/cubi/</link>
+    <description>AI-помощник для автономной кибербезопасности</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE Secure SD-WAN</title>
+    <link>https://bi.zone/catalog/products/secure-sd-wan/</link>
+    <description>Платформа для построения и защиты распределенных сетей</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE PAM | Privileged Access Management</title>
+    <link>https://bi.zone/catalog/products/privileged-access-management/</link>
+    <description>Управление привилегированным доступом по модели нулевого доверия</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE Endpoint Detection and Response</title>
+    <link>https://bi.zone/catalog/products/edr/</link>
+    <description>Решение для защиты конечных точек от сложных угроз</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE ZTNA | Zero Trust Network Access</title>
+    <link>https://bi.zone/catalog/products/ztna/</link>
+    <description>Организация защищенного удаленного доступа к корпоративной сети по модели нулевого доверия</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE SOAR | Security Orchestration, Automation, and Response</title>
+    <link>https://bi.zone/catalog/products/soar/</link>
+    <description>Платформа для автоматизации и координации реагирования на киберинциденты</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Антифрод-решение BI.ZONE AntiFraud — система противодействия мошенничеству</title>
+    <link>https://bi.zone/catalog/products/antifraud/</link>
+    <description>BI.ZONE AntiFraud – антифрод решение с адаптивной кросс-канальной системой противодействия мошенничеству</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE CPT</title>
+    <link>https://bi.zone/catalog/products/continuous-penetration-testing/</link>
+    <description>Решение для управления поверхностью атаки и непрерывного мониторинга IT-активов</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE WAF</title>
+    <link>https://bi.zone/catalog/products/waf/</link>
+    <description>Защита веб-приложений под управлением экспертов</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE Digital Risk Protection</title>
+    <link>https://bi.zone/catalog/products/digital-risk-protection/</link>
+    <description>Платформа для предотвращения фишинга, отслеживания утечек и поиска инфоатак</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE Mail Security</title>
+    <link>https://bi.zone/catalog/products/mail-security/</link>
+    <description>Интеллектуальная защита пользователей корпоративной почты</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE Secure DNS — сервис для защиты от атак на DNS</title>
+    <link>https://bi.zone/catalog/products/secure-dns/</link>
+    <description>Защита бизнеса от атак, использующих DNS</description>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
