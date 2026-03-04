@@ -9,6 +9,12 @@ Modes per source:
  - "scrape" -> scrape listing page and visit article pages for metadata.
  - "sitemap"-> use sitemap(s) to discover URLs, then visit article pages for metadata.
 
+Optional per-source scoping:
+ - sitemap_include_prefix: only prioritize (or strictly include) sitemap URLs under a path prefix
+ - sitemap_strict: if true, only include URLs under sitemap_include_prefix (or page_url path)
+ - scrape_include_prefix: only prioritize (or strictly include) scraped links under a path prefix
+ - scrape_strict: if true, only include links under scrape_include_prefix (or page_url path)
+
 Notes:
 - Designed for GitHub Actions on a schedule (UTC).
 - Writes feeds to feeds/<slug>.xml and an index.html listing.
@@ -125,7 +131,12 @@ def get(url: str, label: str = ""):
 # robots.txt handling (fetch robots using our headers)
 # ---------------------------------------------------------------------
 def robots_allows(page_url: str, agent: str = "ResearchFeedsBot") -> bool:
-    """Fetch robots.txt using our headers and parse it."""
+    """
+    Fetch robots.txt using our headers and parse it.
+
+    Some sites may return a non-200 status while still providing usable robots
+    content. If we get text that looks like robots rules, we parse it anyway.
+    """
     if not RESPECT_ROBOTS:
         return True
 
@@ -134,17 +145,20 @@ def robots_allows(page_url: str, agent: str = "ResearchFeedsBot") -> bool:
         robots_url = f"{parsed.scheme}://{parsed.netloc}/robots.txt"
         r = get(robots_url, "robots-check")
 
-        if r.status_code == 404:
+        text = (r.text or "")
+        looks_like_robots = ("user-agent:" in text.lower()) or ("disallow:" in text.lower()) or ("allow:" in text.lower())
+
+        if r.status_code == 404 and not looks_like_robots:
             return True  # no robots.txt -> allow
 
-        if r.status_code == 200 and r.text:
+        if looks_like_robots:
             rp = robotparser.RobotFileParser()
             rp.set_url(robots_url)
-            rp.parse(r.text.splitlines())
+            rp.parse(text.splitlines())
             return rp.can_fetch(agent, page_url)
 
         if r.status_code in (401, 403):
-            return False  # conservative deny if we can't read robots
+            return False  # conservative deny if blocked from reading robots
 
         return True
     except Exception:
@@ -318,11 +332,27 @@ def _extract_article_meta(article_url: str) -> dict | None:
         return None
 
 # ---------------------------------------------------------------------
-# Scraping (listing + article pages)
+# Scraping (listing + article pages) WITH include_prefix + strict option
 # ---------------------------------------------------------------------
-def scrape_items(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE) -> list[dict]:
-    """Scrape listing page for links; fetch article pages for rich metadata."""
-    article_urls: list[tuple[str, str]] = []
+def scrape_items(
+    page_url: str,
+    limit: int = MAX_ITEMS_PER_SOURCE,
+    include_prefix: str | None = None,
+    strict_section_only: bool = False,
+) -> list[dict]:
+    """
+    Scrape listing page for links; fetch article pages for rich metadata.
+
+    include_prefix:
+      - If set (e.g., "/resources/blog/"), links under that prefix are prioritized (or exclusively used in strict mode).
+
+    strict_section_only:
+      - If True, only links that match include_prefix (or the page_url path) are considered.
+      - If False, we prefer matching links first, but can fill remaining slots with others.
+    """
+    base_netloc = urlparse(page_url).netloc.lower()
+
+    candidates: list[tuple[bool, str, str]] = []  # (is_preferred, title, url)
     links = []
 
     try:
@@ -340,7 +370,6 @@ def scrape_items(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE) -> list[dict]
             "a.blog-card[href]",
             "a[href*='/blog/']",
             "a[href*='/blogs/']",
-            "a[href*='/blogs/research/']",
             "a[href*='/resources/']",
             "a[href*='/insights/']",
             "a[href*='/labs']",
@@ -351,9 +380,17 @@ def scrape_items(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE) -> list[dict]
         for sel in selectors:
             links += soup.select(sel)
 
+        # Determine preferred prefix
+        preferred_prefix = include_prefix
+        if not preferred_prefix:
+            base_hint = urlparse(page_url).path.rstrip("/")
+            preferred_prefix = (base_hint + "/") if base_hint and base_hint != "/" else ""
+
         seen = set()
         for a in links:
             href = a.get("href")
+            if not href:
+                continue
 
             # Title fallback (aria-label, title attr, image alt)
             title = (a.get_text(strip=True) or "").strip()
@@ -366,29 +403,44 @@ def scrape_items(page_url: str, limit: int = MAX_ITEMS_PER_SOURCE) -> list[dict]
             if not title:
                 title = "Post"
 
-            if not href:
-                continue
-
             url = urljoin(page_url, href)
+
+            # De-dupe
             if url in seen:
                 continue
             seen.add(url)
 
+            # Drop off-domain links early (prevents partners.binarydefense.com, etc.)
+            if urlparse(url).netloc.lower() != base_netloc:
+                continue
+
+            # Filter out navigation/junk
             if any(x in url.lower() for x in ["#", "/tag/", "/category/", "/login", "/signup", "mailto:"]):
                 continue
 
-            article_urls.append((title, url))
-            if len(article_urls) >= max(limit * 2, 30):
-                break
+            path = urlparse(url).path
+            is_preferred = bool(preferred_prefix and path.startswith(preferred_prefix))
+
+            if strict_section_only and preferred_prefix:
+                if not is_preferred:
+                    continue
+
+            candidates.append((is_preferred, title, url))
 
     except Exception as e:
         print(f" ! scrape_items listing fetch error: {e}")
 
+    # Prioritize preferred links first (important)
+    candidates.sort(key=lambda t: (not t[0],))  # preferred=True first
+
+    # Visit up to MAX_ARTICLE_FETCHES article pages
     final: list[dict] = []
     fetch_count = 0
-    for title, url in article_urls:
+
+    for is_pref, title, url in candidates:
         if fetch_count >= MAX_ARTICLE_FETCHES or len(final) >= limit:
             break
+
         if RESPECT_ROBOTS and not robots_allows(url):
             continue
 
@@ -587,10 +639,7 @@ def scrape_from_sitemap(
             seen.add(u)
             dedup.append(u)
 
-    # ------------------------------------------------------------
     # NEW: include-prefix filtering/prioritization BEFORE capping
-    # ------------------------------------------------------------
-    # If include_prefix provided, use it; else use page_url's path as a hint.
     preferred_prefix = include_prefix
     if not preferred_prefix:
         base_hint = urlparse(page_url).path.rstrip("/")
@@ -609,7 +658,6 @@ def scrape_from_sitemap(
         urls = preferred[: max(limit * 2, 50)]
     else:
         urls = (preferred + others)[: max(limit * 2, 50)]
-    # ------------------------------------------------------------
 
     items = []
     for u in urls:
@@ -690,7 +738,7 @@ def build_index(feed_map_enabled: list[tuple[str, str, str]],
     def row_enabled(name: str, slug: str, last_build: str) -> str:
         rel = f"feeds/{slug}.xml"
         url = (base + rel) if base else rel
-        return f'<li><a href="{url}" target="_blank" rel="noopener">{name}</a> — <code>{url}</code> — <small>Last run: {last_build}</small></li>'
+        return f'<li>{url}{name}</a> — <code>{url}</code> — <small>Last run: {last_build}</small></li>'
 
     def row_disabled(name: str, slug: str, last_build: str) -> str:
         rel = f"feeds/{slug}.xml"
@@ -800,7 +848,11 @@ def main():
                     )
                 else:
                     print(" • scraping listing page …")
-                    items = scrape_items(page_url)
+                    items = scrape_items(
+                        page_url,
+                        include_prefix=src.get("scrape_include_prefix"),
+                        strict_section_only=bool(src.get("scrape_strict", False)),
+                    )
 
             elif mode == "sitemap":
                 print(" • using sitemap fallback …")
@@ -828,7 +880,11 @@ def main():
 
             else:
                 print(" ! No official feed found; scraping recent links …")
-                items = scrape_items(page_url)
+                items = scrape_items(
+                    page_url,
+                    include_prefix=src.get("scrape_include_prefix"),
+                    strict_section_only=bool(src.get("scrape_strict", False)),
+                )
 
             if not items:
                 items = [{
