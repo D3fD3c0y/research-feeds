@@ -162,37 +162,37 @@ Wrote feeds/abstract-security.xml
  [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
  [HTTP] article GET https://apophis133.medium.com/medusa-ransomware-technical-analysis-report-35a5602ea73a -> 403 (final: https://apophis133.medium.com/medusa-ransomware-technical-analysis-report-35a5602ea73a) CT=text/html; charset=UTF-8
  [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
+ [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='apophis133.medium.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ResponseError('too many 429 error responses'))
  [HTTP] article GET https://apophis133.medium.com/about -> 403 (final: https://apophis133.medium.com/about) CT=text/html; charset=UTF-8
  [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
+ [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='apophis133.medium.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ResponseError('too many 429 error responses'))
  [HTTP] article GET https://apophis133.medium.com -> 403 (final: https://apophis133.medium.com/) CT=text/html; charset=UTF-8
  [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
+ [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='apophis133.medium.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ResponseError('too many 429 error responses'))
  [HTTP] article GET https://apophis133.medium.com/enhancing-yara-rule-performance-best-practices-and-techniques-e8dc57cf84ee -> 403 (final: https://apophis133.medium.com/enhancing-yara-rule-performance-best-practices-and-techniques-e8dc57cf84ee) CT=text/html; charset=UTF-8
  [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
+ [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='apophis133.medium.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ResponseError('too many 429 error responses'))
  [HTTP] article GET https://apophis133.medium.com/blacked-e-hacking-tool-and-nuso-stealer-10906f3c1b4f -> 403 (final: https://apophis133.medium.com/blacked-e-hacking-tool-and-nuso-stealer-10906f3c1b4f) CT=text/html; charset=UTF-8
  [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
+ [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='apophis133.medium.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ResponseError('too many 429 error responses'))
  [HTTP] article GET https://apophis133.medium.com/truebot-anti-emulation-tricks-860528b74aa8 -> 403 (final: https://apophis133.medium.com/truebot-anti-emulation-tricks-860528b74aa8) CT=text/html; charset=UTF-8
  [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
+ [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='apophis133.medium.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ResponseError('too many 429 error responses'))
  [HTTP] article GET https://apophis133.medium.com/metastealer-dga-routine-bc3e93aa03d2 -> 403 (final: https://apophis133.medium.com/metastealer-dga-routine-bc3e93aa03d2) CT=text/html; charset=UTF-8
  [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
+ [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='apophis133.medium.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ResponseError('too many 429 error responses'))
  [HTTP] article GET https://apophis133.medium.com/opencti-setup-824712d7d9da -> 403 (final: https://apophis133.medium.com/opencti-setup-824712d7d9da) CT=text/html; charset=UTF-8
  [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
+ [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='apophis133.medium.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ResponseError('too many 429 error responses'))
  [HTTP] article GET https://apophis133.medium.com/thunderkitty-stealer-57782a2bb333 -> 403 (final: https://apophis133.medium.com/thunderkitty-stealer-57782a2bb333) CT=text/html; charset=UTF-8
  [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
+ [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='apophis133.medium.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ResponseError('too many 429 error responses'))
  [HTTP] article GET https://apophis133.medium.com/harvester-apt-4f63a21d2e24 -> 403 (final: https://apophis133.medium.com/harvester-apt-4f63a21d2e24) CT=text/html; charset=UTF-8
  [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
+ [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='apophis133.medium.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ResponseError('too many 429 error responses'))
  [HTTP] article GET https://apophis133.medium.com/malicious-powershell-analysis-693611db3795 -> 403 (final: https://apophis133.medium.com/malicious-powershell-analysis-693611db3795) CT=text/html; charset=UTF-8
  [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> 200 (final: https://apophis133.medium.com/robots.txt) CT=text/plain
+ [HTTP] robots-check GET https://apophis133.medium.com/robots.txt -> EXCEPTION: HTTPSConnectionPool(host='apophis133.medium.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ResponseError('too many 429 error responses'))
  [HTTP] article GET https://apophis133.medium.com/powershell-loads-sectoprat-hijack-loader-c6f723de080b -> 403 (final: https://apophis133.medium.com/powershell-loads-sectoprat-hijack-loader-c6f723de080b) CT=text/html; charset=UTF-8
  [HTTP] article body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
 Wrote feeds/apophis133-medium.xml
