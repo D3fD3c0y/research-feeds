@@ -150,21 +150,7 @@ Wrote feeds/apophis133-medium.xml
  [HTTP] sitemap GET https://bfore.ai/post-sitemap.xml -> 200 (final: https://bfore.ai/post-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] sitemap GET https://bfore.ai/page-sitemap.xml -> 200 (final: https://bfore.ai/page-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] article GET https://bfore.ai/resources/ -> 200 (final: https://bfore.ai/resources/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] article GET https://bfore.ai/resources/news-info/ -> 200 (final: https://bfore.ai/resources/news-info/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] article GET https://bfore.ai/resources/blogs/ -> 200 (final: https://bfore.ai/resources/blogs/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] article GET https://bfore.ai/resources/datasheets/ -> 200 (final: https://bfore.ai/resources/datasheets/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] article GET https://bfore.ai/resources/case-studies/ -> 200 (final: https://bfore.ai/resources/case-studies/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] article GET https://bfore.ai/resources/e-books/ -> 200 (final: https://bfore.ai/resources/e-books/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://bfore.ai/resources/reports/ -> 200 (final: https://bfore.ai/resources/reports/) CT=text/html; charset=UTF-8
- [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] article GET https://bfore.ai/resources/videos/ -> 200 (final: https://bfore.ai/resources/videos/) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://bfore.ai/blog/nft-giveaway-scams-brand-impersonation/ -> 200 (final: https://bfore.ai/blog/nft-giveaway-scams-brand-impersonation/) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
@@ -209,6 +195,20 @@ Wrote feeds/apophis133-medium.xml
  [HTTP] article GET https://bfore.ai/news/bforeai-announces-general-availability-of-all-precrime-solutions/ -> 200 (final: https://bfore.ai/news/bforeai-announces-general-availability-of-all-precrime-solutions/) CT=text/html; charset=UTF-8
  [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] article GET https://bfore.ai/blog/whos-behind-the-screen-a-comprehensive-guide-to-cyber-threat-actors/ -> 200 (final: https://bfore.ai/blog/whos-behind-the-screen-a-comprehensive-guide-to-cyber-threat-actors/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/report/imported-risk-cybercriminals-exploit-tariff-uncertainty/ -> 200 (final: https://bfore.ai/report/imported-risk-cybercriminals-exploit-tariff-uncertainty/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/datasheet/precrime-intelligence-for-microsoft-sentinel/ -> 200 (final: https://bfore.ai/datasheet/precrime-intelligence-for-microsoft-sentinel/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/datasheet/precrime-brand-for-impersonation/ -> 200 (final: https://bfore.ai/datasheet/precrime-brand-for-impersonation/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/report/commercial-airline-industry-scam-impersonation-activity-2026/ -> 200 (final: https://bfore.ai/report/commercial-airline-industry-scam-impersonation-activity-2026/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/beyond-typosquatting-why-financial-institutions-need-precrime-not-just-domain-monitoring/ -> 200 (final: https://bfore.ai/blog/beyond-typosquatting-why-financial-institutions-need-precrime-not-just-domain-monitoring/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/blog/threat-actors-who-is-attacking-us/ -> 200 (final: https://bfore.ai/blog/threat-actors-who-is-attacking-us/) CT=text/html; charset=UTF-8
+ [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] article GET https://bfore.ai/news/bforeai-secures-series-b-funding-to-preempt-malicious-attacks-through-precrime-ai/ -> 200 (final: https://bfore.ai/news/bforeai-secures-series-b-funding-to-preempt-malicious-attacks-through-precrime-ai/) CT=text/html; charset=UTF-8
 Wrote feeds/bfore-ai-reports.xml
 
 === Processing: BI.ZONE News (https://bi.zone/eng/news/) -> feeds/bizone-news.xml
@@ -419,6 +419,88 @@ Wrote feeds/binarydefense-arc-labs.xml
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
  [HTTP] article GET https://binarydefense.com/resources/data-sheets -> 200 (final: https://binarydefense.com/resources/data-sheets) CT=text/html; charset=UTF-8
 Wrote feeds/binarydefense-blog.xml
+
+=== Processing: Black Kite Blog (https://blackkite.com/blog) -> feeds/blackkite.xml
+ robots.txt respected: True
+ • using sitemap fallback …
+ [HTTP] robots GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] sitemap GET https://blackkite.com/sitemap.xml -> 200 (final: https://blackkite.com/sitemap.xml) CT=text/xml
+ [HTTP] sitemap GET https://blackkite.com/sitemaps/posts.xml -> 200 (final: https://blackkite.com/sitemaps/posts.xml) CT=text/xml
+ [HTTP] sitemap GET https://blackkite.com/sitemaps/pages.xml -> 200 (final: https://blackkite.com/sitemaps/pages.xml) CT=text/xml
+ [HTTP] sitemap GET https://blackkite.com/sitemaps/case-studies.xml -> 200 (final: https://blackkite.com/sitemaps/case-studies.xml) CT=text/xml
+ [HTTP] sitemap GET https://blackkite.com/sitemaps/events.xml -> 200 (final: https://blackkite.com/sitemaps/events.xml) CT=text/xml
+ [HTTP] sitemap GET https://blackkite.com/sitemaps/industry.xml -> 200 (final: https://blackkite.com/sitemaps/industry.xml) CT=text/xml
+ [HTTP] sitemap GET https://blackkite.com/sitemaps/knowledge-centers.xml -> 200 (final: https://blackkite.com/sitemaps/knowledge-centers.xml) CT=text/xml
+ [HTTP] sitemap GET https://blackkite.com/sitemaps/partners.xml -> 200 (final: https://blackkite.com/sitemaps/partners.xml) CT=text/xml
+ [HTTP] sitemap GET https://blackkite.com/sitemaps/platform.xml -> 200 (final: https://blackkite.com/sitemaps/platform.xml) CT=text/xml
+ [HTTP] sitemap GET https://blackkite.com/sitemaps/podcasts.xml -> 200 (final: https://blackkite.com/sitemaps/podcasts.xml) CT=text/xml
+ [HTTP] sitemap GET https://blackkite.com/sitemaps/press-releases.xml -> 200 (final: https://blackkite.com/sitemaps/press-releases.xml) CT=text/xml
+ [HTTP] sitemap GET https://blackkite.com/sitemaps/ransomware-reports.xml -> 200 (final: https://blackkite.com/sitemaps/ransomware-reports.xml) CT=text/xml
+ [HTTP] sitemap GET https://blackkite.com/sitemaps/reports.xml -> 200 (final: https://blackkite.com/sitemaps/reports.xml) CT=text/xml
+ [HTTP] sitemap GET https://blackkite.com/sitemaps/solution-briefs.xml -> 200 (final: https://blackkite.com/sitemaps/solution-briefs.xml) CT=text/xml
+ [HTTP] sitemap GET https://blackkite.com/sitemaps/solutions.xml -> 200 (final: https://blackkite.com/sitemaps/solutions.xml) CT=text/xml
+ [HTTP] sitemap GET https://blackkite.com/sitemaps/videos.xml -> 200 (final: https://blackkite.com/sitemaps/videos.xml) CT=text/xml
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/focus-friday-tprm-insights-on-critical-vulnerabilities-in-solarwinds-serv-u-jenkins-cisco-catalyst-sd-wan-and-n8n -> 200 (final: https://blackkite.com/blog/focus-friday-tprm-insights-on-critical-vulnerabilities-in-solarwinds-serv-u-jenkins-cisco-catalyst-sd-wan-and-n8n) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/enabling-secure-connectivity-for-customer-driven-agentic-tpcrm -> 200 (final: https://blackkite.com/blog/enabling-secure-connectivity-for-customer-driven-agentic-tpcrm) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/focus-friday-tprm-insights-on-critical-vulnerabilities-in-beyondtrust-zimbra-and-postgresql -> 200 (final: https://blackkite.com/blog/focus-friday-tprm-insights-on-critical-vulnerabilities-in-beyondtrust-zimbra-and-postgresql) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/focus-friday-tprm-insights-on-microsoft-exchange-sap-netweaver-and-gogs-critical-vulnerabilities -> 200 (final: https://blackkite.com/blog/focus-friday-tprm-insights-on-microsoft-exchange-sap-netweaver-and-gogs-critical-vulnerabilities) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/focus-friday-tprm-insights-on-openclaw-ivanti-epmm-cisco-telepresence-django-and-n8n-exposures -> 200 (final: https://blackkite.com/blog/focus-friday-tprm-insights-on-openclaw-ivanti-epmm-cisco-telepresence-django-and-n8n-exposures) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/ai-for-tprm-humans-objective-data-for-smarter-renewal-and-termination-decisions -> 200 (final: https://blackkite.com/blog/ai-for-tprm-humans-objective-data-for-smarter-renewal-and-termination-decisions) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/focus-friday-tprm-insights-on-fortinet-gnu-inetutils-solarwinds-whd-openssl-smartermail-n8n-react-server-components-and-tp-link-archer-mr600 -> 200 (final: https://blackkite.com/blog/focus-friday-tprm-insights-on-fortinet-gnu-inetutils-solarwinds-whd-openssl-smartermail-n8n-react-server-components-and-tp-link-archer-mr600) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/focus-friday-tprm-insights-on-sitecore-mssql-sharepoint-cisco-ucm-sap-netweaver-apache-solr-and-appsmith -> 200 (final: https://blackkite.com/blog/focus-friday-tprm-insights-on-sitecore-mssql-sharepoint-cisco-ucm-sap-netweaver-apache-solr-and-appsmith) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/ai-for-tprm-humans-filter-noise-surface-risk-continuous-monitoring -> 200 (final: https://blackkite.com/blog/ai-for-tprm-humans-filter-noise-surface-risk-continuous-monitoring) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/focus-friday-tprm-insights-on-escalating-n8n-risks-and-emerging-infrastructure-vulnerabilities-ni8mare-d-link-dsl-routers-aiohttp-smartermail-coolify -> 200 (final: https://blackkite.com/blog/focus-friday-tprm-insights-on-escalating-n8n-risks-and-emerging-infrastructure-vulnerabilities-ni8mare-d-link-dsl-routers-aiohttp-smartermail-coolify) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/ai-for-tprm-humans-how-to-accelerate-vendor-vetting-without-questionnaires- -> 200 (final: https://blackkite.com/blog/ai-for-tprm-humans-how-to-accelerate-vendor-vetting-without-questionnaires-) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/focus-friday-tprm-insights-on-sonicwall-sma1000-fortigate-ssl-vpn-n8n-exim-mail-zimbra-mongodb-m-files-elastic-kibana-and-freebsd-vulnerabilities -> 200 (final: https://blackkite.com/blog/focus-friday-tprm-insights-on-sonicwall-sma1000-fortigate-ssl-vpn-n8n-exim-mail-zimbra-mongodb-m-files-elastic-kibana-and-freebsd-vulnerabilities) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/focus-friday-tprm-insights-on-react2shell-urgent-exploitation-update-and-critical-risks-in-screenconnect-centrestack--triofox-jenkins-freepbx-and-gogs -> 200 (final: https://blackkite.com/blog/focus-friday-tprm-insights-on-react2shell-urgent-exploitation-update-and-critical-risks-in-screenconnect-centrestack--triofox-jenkins-freepbx-and-gogs) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/focus-friday-tprm-insights-into-fortinet-sso-bypass-exchange-server-flaws-and-cacti-rce-risks -> 200 (final: https://blackkite.com/blog/focus-friday-tprm-insights-into-fortinet-sso-bypass-exchange-server-flaws-and-cacti-rce-risks) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/the-hidden-costs-of-ai-adoption-in-tprm -> 200 (final: https://blackkite.com/blog/the-hidden-costs-of-ai-adoption-in-tprm) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/ransomware-fatigue-is-leaving-the-back-door-open -> 200 (final: https://blackkite.com/blog/ransomware-fatigue-is-leaving-the-back-door-open) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/focus-friday-tprm-insights-into-react2shell-and-mixpanel-data-exposure-risks -> 200 (final: https://blackkite.com/blog/focus-friday-tprm-insights-into-react2shell-and-mixpanel-data-exposure-risks) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/focus-friday-tprm-insights-into-sonicwall-ssl-vpn-grafana-enterprise-scim-apache-skywalking-vulnerabilities-and-gainsight-client-incident -> 200 (final: https://blackkite.com/blog/focus-friday-tprm-insights-into-sonicwall-ssl-vpn-grafana-enterprise-scim-apache-skywalking-vulnerabilities-and-gainsight-client-incident) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/rethink-whats-possible-in-tprm-ai-moving-from-automation-to-agents -> 200 (final: https://blackkite.com/blog/rethink-whats-possible-in-tprm-ai-moving-from-automation-to-agents) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/focus-friday-tprm-insights-into-fortiweb-solarwinds-serv-u-oauth2-proxy-pgadmin-and-w3-total-cache-vulnerabilities -> 200 (final: https://blackkite.com/blog/focus-friday-tprm-insights-into-fortiweb-solarwinds-serv-u-oauth2-proxy-pgadmin-and-w3-total-cache-vulnerabilities) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/ransomware-is-easy-and-thats-the-problem -> 200 (final: https://blackkite.com/blog/ransomware-is-easy-and-thats-the-problem) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/whats-next-in-ransomware-how-threat-actors-will-weaponize-ai -> 200 (final: https://blackkite.com/blog/whats-next-in-ransomware-how-threat-actors-will-weaponize-ai) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/is-your-vendors-ai-putting-you-at-risk -> 200 (final: https://blackkite.com/blog/is-your-vendors-ai-putting-you-at-risk) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/focus-friday-tprm-insights-on-sharepoint-mssql-kibana-django-and-open-webui -> 200 (final: https://blackkite.com/blog/focus-friday-tprm-insights-on-sharepoint-mssql-kibana-django-and-open-webui) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/why-ransomware-groups-are-zeroing-in-on-smbs -> 200 (final: https://blackkite.com/blog/why-ransomware-groups-are-zeroing-in-on-smbs) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/focus-friday-tprm-insights-on-moveit-redis-control-web-panel-dnn-software-and-xwiki-vulnerabilities -> 200 (final: https://blackkite.com/blog/focus-friday-tprm-insights-on-moveit-redis-control-web-panel-dnn-software-and-xwiki-vulnerabilities) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/focus-friday-critical-third-party-risks-in-mikrotik-routeros-apache-tomcat-hashicorp-vault-and-litespeed-plugin -> 200 (final: https://blackkite.com/blog/focus-friday-critical-third-party-risks-in-mikrotik-routeros-apache-tomcat-hashicorp-vault-and-litespeed-plugin) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/nows-the-time-for-agile-data-driven-tprm-and-our-latest-research-proves-it -> 200 (final: https://blackkite.com/blog/nows-the-time-for-agile-data-driven-tprm-and-our-latest-research-proves-it) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/resource-roundup-stop-drowning-in-cves-prioritize-your-supply-chain-vulnerabilities -> 200 (final: https://blackkite.com/blog/resource-roundup-stop-drowning-in-cves-prioritize-your-supply-chain-vulnerabilities) CT=text/html; charset=utf-8
+ [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
+ [HTTP] article GET https://blackkite.com/blog/top-cyber-concerns-and-resilience-strategies -> 200 (final: https://blackkite.com/blog/top-cyber-concerns-and-resilience-strategies) CT=text/html; charset=utf-8
+Wrote feeds/blackkite.xml
 
 === Processing: Pillar Security Blog (https://www.pillar.security/blog) -> feeds/pillar-security.xml
  robots.txt respected: True

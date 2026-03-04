@@ -1,21 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
- <title>Black Kite Blog (Custom Feed)</title>
- <link>https://blackkite.com/blog</link>
- <description>Auto-generated periodically</description>
- <lastBuildDate>Tue, 03 Mar 2026 17:03:35 GMT</lastBuildDate>
- <item>
- <title>Black Kite | 2025 Black Kite Third Party Breach Report</title>
- <link>https://blackkite.com/reports/black-kite-third-party-breach-report-2025</link>
- <description>Discover how third-party breaches became 2024's top cyber threat. Get key insights and strategies from Black Kite’s 2025 Third-Party Breach Report.</description>
- <pubDate>Tue, 03 Mar 2026 17:03:35 GMT</pubDate>
- </item>
- <item>
- <title>Black Kite | Black Kite 2025 Ransomware Report</title>
- <link>https://blackkite.com/reports/2025-ransomware-report</link>
- <description>Get the latest ransomware data. The 2025 Ransomware Report analyzes a 24% surge in attacks, SMB targets, and the growing risk to third-party vendor ecosystems.</description>
- <pubDate>Tue, 03 Mar 2026 17:03:35 GMT</pubDate>
- </item>
+  <title>Black Kite Blog (Custom Feed)</title>
+  <link>https://blackkite.com/blog</link>
+  <description>Auto-generated periodically</description>
+  <lastBuildDate>Wed, 04 Mar 2026 17:32:00 GMT</lastBuildDate>
+  <item>
+    <title>Focus Friday: TPRM Insights On Critical Vulnerabilities in Solarwinds Serv-U, Jenkins, Cisco Catalyst SD-WAN, and n8n</title>
+    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-critical-vulnerabilities-in-solarwinds-serv-u-jenkins-cisco-catalyst-sd-wan-and-n8n</link>
+    <description>Expert TPRM analysis of critical vulnerabilities in Solarwinds Serv-U, Cisco Catalyst SD-WAN, and n8n. Stay ahead of third-party risks with Black Kite.</description>
+    <pubDate>Fri, 27 Feb 2026 06:29:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Enabling Secure Connectivity for Customer-Driven Agentic TPCRM</title>
+    <link>https://blackkite.com/blog/enabling-secure-connectivity-for-customer-driven-agentic-tpcrm</link>
+    <description>Black Kite releases its open MCP Server for agentic workflows to enable scalable third-party cyber risk management within customer AI ecosystems.</description>
+    <pubDate>Tue, 24 Feb 2026 13:26:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Focus Friday: TPRM Insights on Critical Vulnerabilities in BeyondTrust, Zimbra, and PostgreSQL</title>
+    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-critical-vulnerabilities-in-beyondtrust-zimbra-and-postgresql</link>
+    <description>Expert TPRM analysis of critical vulnerabilities in BeyondTrust RA &amp; PRA, Zimbra, and PostgreSQL. Stay ahead of third-party risks with Black Kite.</description>
+    <pubDate>Fri, 20 Feb 2026 13:49:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Focus Friday: TPRM Insights on Microsoft Exchange, SAP NetWeaver, and Gogs Critical Vulnerabilities</title>
+    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-microsoft-exchange-sap-netweaver-and-gogs-critical-vulnerabilities</link>
+    <description>Expert TPRM analysis of critical vulnerabilities in Microsoft Exchange, SAP NetWeaver, and Gogs. Stay ahead of third-party risks with Black Kite.</description>
+    <pubDate>Fri, 13 Feb 2026 06:12:11 GMT</pubDate>
+  </item>
+  <item>
+    <title>Focus Friday: TPRM Insights on OpenClaw, Ivanti EPMM, Cisco TelePresence, Django, and n8n Exposures</title>
+    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-openclaw-ivanti-epmm-cisco-telepresence-django-and-n8n-exposures</link>
+    <description>TPRM Insights: OpenClaw, Ivanti EPMM, Cisco TelePresence, Django, and n8n Exposures</description>
+    <pubDate>Fri, 06 Feb 2026 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI for TPRM Humans: Objective Data for Smarter Renewal and Termination Decisions</title>
+    <link>https://blackkite.com/blog/ai-for-tprm-humans-objective-data-for-smarter-renewal-and-termination-decisions</link>
+    <description>Stop relying on old data to renew risky vendors. Use AI to assess risk and dependency for defensible contract renewal or termination decisions.</description>
+    <pubDate>Tue, 03 Feb 2026 13:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Focus Friday: TPRM Insights on Fortinet, GNU InetUtils, SolarWinds WHD, OpenSSL, SmarterMail, n8n, React Server Components, and TP-Link Archer MR600</title>
+    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-fortinet-gnu-inetutils-solarwinds-whd-openssl-smartermail-n8n-react-server-components-and-tp-link-archer-mr600</link>
+    <description>TPRM Insights: Fortinet, GNU InetUtils, SolarWinds WHD, OpenSSL, SmarterMail, n8n, React Server Components, and TP-Link Archer MR600</description>
+    <pubDate>Fri, 30 Jan 2026 06:23:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Focus Friday: TPRM Insights on Sitecore, MSSQL, SharePoint, Cisco UCM, SAP NetWeaver, Apache Solr, and Appsmith</title>
+    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-sitecore-mssql-sharepoint-cisco-ucm-sap-netweaver-apache-solr-and-appsmith</link>
+    <description>TPRM Insights: Sitecore, MSSQL, SharePoint, Cisco UCM, SAP NetWeaver, Apache Solr, and Appsmith</description>
+    <pubDate>Fri, 23 Jan 2026 06:11:38 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI for TPRM Humans: Filter the Noise to Surface Risk in Continuous Monitoring</title>
+    <link>https://blackkite.com/blog/ai-for-tprm-humans-filter-noise-surface-risk-continuous-monitoring</link>
+    <description>Stop drowning in monitoring alerts. Learn how AI acts as your co-pilot, filtering noise to surface material risk changes in your TPRM ecosystem.</description>
+    <pubDate>Tue, 20 Jan 2026 15:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>FOCUS FRIDAY: TPRM Insights on Escalating n8n Risks and Emerging Infrastructure Vulnerabilities (Ni8mare, D-Link DSL Routers, aiohttp, SmarterMail, Coolify)</title>
+    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-escalating-n8n-risks-and-emerging-infrastructure-vulnerabilities-ni8mare-d-link-dsl-routers-aiohttp-smartermail-coolify</link>
+    <description>TPRM Insights: Escalating n8n Risks and Emerging Infrastructure Vulnerabilities (Ni8mare, D-Link DSL Routers, aiohttp, SmarterMail, Coolify)</description>
+    <pubDate>Fri, 09 Jan 2026 06:03:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI for TPRM Humans: How to Accelerate Vendor Vetting Without Questionnaires </title>
+    <link>https://blackkite.com/blog/ai-for-tprm-humans-how-to-accelerate-vendor-vetting-without-questionnaires-</link>
+    <description>Stop relying on manual questionnaires. Learn how AI transforms pre-contract due diligence, providing objective data to vet vendors faster and smarter.</description>
+    <pubDate>Tue, 06 Jan 2026 14:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>FOCUS FRIDAY: TPRM Insights on SonicWall SMA1000, FortiGate SSL-VPN, n8n, Exim Mail, Zimbra, MongoDB, M-Files, Elastic Kibana, and FreeBSD Vulnerabilities</title>
+    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-sonicwall-sma1000-fortigate-ssl-vpn-n8n-exim-mail-zimbra-mongodb-m-files-elastic-kibana-and-freebsd-vulnerabilities</link>
+    <description>TPRM Insights: SonicWall SMA1000, FortiGate SSL-VPN, n8n, Exim Mail, Zimbra, MongoDB, M-Files, Elastic Kibana, and FreeBSD Vulnerabilities</description>
+    <pubDate>Fri, 26 Dec 2025 06:56:23 GMT</pubDate>
+  </item>
+  <item>
+    <title>FOCUS FRIDAY: TPRM Insights on React2Shell Urgent Exploitation Update and Critical Risks in ScreenConnect, CentreStack &amp; Triofox, Jenkins, FreePBX, and Gogs</title>
+    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-react2shell-urgent-exploitation-update-and-critical-risks-in-screenconnect-centrestack--triofox-jenkins-freepbx-and-gogs</link>
+    <description>TPRM Insights: React2Shell Urgent Exploitation Update and Critical Risks in ScreenConnect, CentreStack &amp; Triofox, Jenkins, FreePBX, and Gogs</description>
+    <pubDate>Fri, 19 Dec 2025 06:38:48 GMT</pubDate>
+  </item>
+  <item>
+    <title>Focus Friday: TPRM Insights Into Fortinet SSO Bypass, Exchange Server Flaws, and Cacti RCE Risks</title>
+    <link>https://blackkite.com/blog/focus-friday-tprm-insights-into-fortinet-sso-bypass-exchange-server-flaws-and-cacti-rce-risks</link>
+    <description>TPRM Insights Into Focus Friday: TPRM Insights Into Fortinet SSO Bypass, Exchange Server Flaws, and Cacti RCE Risks from the Week of December 12, 2025.</description>
+    <pubDate>Fri, 12 Dec 2025 13:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Hidden Costs of AI Adoption in TPRM</title>
+    <link>https://blackkite.com/blog/the-hidden-costs-of-ai-adoption-in-tprm</link>
+    <description>AI adoption in TPRM brings hidden costs like governance and compute power. Learn how to manage the total cost of ownership for AI tools.</description>
+    <pubDate>Tue, 09 Dec 2025 13:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Your Ransomware Fatigue Is Leaving the Back Door Open</title>
+    <link>https://blackkite.com/blog/ransomware-fatigue-is-leaving-the-back-door-open</link>
+    <description>Ransomware fatigue is real – but risky. Discover how third-party risks are leaving your organization exposed and what CISOs can do now.</description>
+    <pubDate>Thu, 06 Nov 2025 15:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Focus Friday: TPRM Insights Into React2Shell and Mixpanel Data Exposure Risks</title>
+    <link>https://blackkite.com/blog/focus-friday-tprm-insights-into-react2shell-and-mixpanel-data-exposure-risks</link>
+    <description>TPRM Insights Into Focus Friday: React2Shell and Mixpanel Data Exposure Risks from the Week of December 5, 2025.</description>
+    <pubDate>Thu, 04 Dec 2025 16:38:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Focus Friday: TPRM Insights Into SonicWall SSL VPN, Grafana Enterprise SCIM, Apache SkyWalking Vulnerabilities, and Gainsight Client Incident</title>
+    <link>https://blackkite.com/blog/focus-friday-tprm-insights-into-sonicwall-ssl-vpn-grafana-enterprise-scim-apache-skywalking-vulnerabilities-and-gainsight-client-incident</link>
+    <description>TPRM Insights Into Focus Friday: SonicWall SSL VPN, Grafana, Apache SkyWalking Vulnerabilities, and Gainsight Incident from the Week of November 28, 2025.</description>
+    <pubDate>Fri, 28 Nov 2025 06:15:55 GMT</pubDate>
+  </item>
+  <item>
+    <title>Rethink What's Possible in TPRM AI: Moving from Automation to Agents</title>
+    <link>https://blackkite.com/blog/rethink-whats-possible-in-tprm-ai-moving-from-automation-to-agents</link>
+    <description>Stop confusing TPRM automation with true AI. Discover how agentic systems unlock predictive analysis, foresight, and risk detection.</description>
+    <pubDate>Mon, 24 Nov 2025 13:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Focus Friday: TPRM Insights Into FortiWeb, SolarWinds Serv-U, OAuth2 Proxy, pgAdmin, and W3 Total Cache Vulnerabilities</title>
+    <link>https://blackkite.com/blog/focus-friday-tprm-insights-into-fortiweb-solarwinds-serv-u-oauth2-proxy-pgadmin-and-w3-total-cache-vulnerabilities</link>
+    <description>TPRM Insights Into FortiWeb, SolarWinds Serv-U, OAuth2 Proxy, pgAdmin, and W3 Total Cache Vulnerabilities from the Week of November 14, 2025.</description>
+    <pubDate>Fri, 21 Nov 2025 06:27:53 GMT</pubDate>
+  </item>
+  <item>
+    <title>Ransomware is Easy, And That's the Problem</title>
+    <link>https://blackkite.com/blog/ransomware-is-easy-and-thats-the-problem</link>
+    <description>Ransomware is booming as low-barrier RaaS fuels chaotic attacks and targets SMBs. Discover the new threat landscape and how to stay ahead in TPRM.</description>
+    <pubDate>Tue, 18 Nov 2025 14:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>What’s Next in Ransomware: How Threat Actors Will Weaponize AI</title>
+    <link>https://blackkite.com/blog/whats-next-in-ransomware-how-threat-actors-will-weaponize-ai</link>
+    <description>Discover the three ways AI will accelerate supply chain attacks, from real-time mapping to self-evolving malware.</description>
+    <pubDate>Mon, 17 Nov 2025 16:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Is Your Vendors’ AI Putting You at Risk?</title>
+    <link>https://blackkite.com/blog/is-your-vendors-ai-putting-you-at-risk</link>
+    <description>Your vendors are using AI, creating new risks faster than traditional TPRM can manage. Learn to adapt your vendor oversight with a new framework.</description>
+    <pubDate>Thu, 13 Nov 2025 14:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Focus Friday: TPRM Insights on SharePoint, MSSQL, Kibana, Django, and Open WebUI</title>
+    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-sharepoint-mssql-kibana-django-and-open-webui</link>
+    <description>TPRM Insights on SharePoint, MSSQL, Kibana, Django, and Open WebUI Vulnerabilities from the Week of November 14, 2025.</description>
+    <pubDate>Fri, 14 Nov 2025 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why Ransomware Groups are Zeroing in on SMBs</title>
+    <link>https://blackkite.com/blog/why-ransomware-groups-are-zeroing-in-on-smbs</link>
+    <description>Ransomware attacks now target SMBs for maximum supply chain disruption. Learn new tactics and how to secure your organization from third-party risks.</description>
+    <pubDate>Tue, 11 Nov 2025 14:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Focus Friday: TPRM Insights on MOVEit, Redis, Control Web Panel, DNN Software, and XWiki Vulnerabilities</title>
+    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-moveit-redis-control-web-panel-dnn-software-and-xwiki-vulnerabilities</link>
+    <description>TPRM Insights on MOVEit, Redis, Control Web Panel, DNN Software, and XWiki vulnerabilities from the week of November 3, 2025.</description>
+    <pubDate>Fri, 07 Nov 2025 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Focus Friday: Critical Third-Party Risks In Mikrotik Routeros, Apache Tomcat, Hashicorp Vault, and Litespeed Plugin</title>
+    <link>https://blackkite.com/blog/focus-friday-critical-third-party-risks-in-mikrotik-routeros-apache-tomcat-hashicorp-vault-and-litespeed-plugin</link>
+    <description>Discover how Mikrotik RouterOS, Apache Tomcat, HashiCorp Vault, and LiteSpeed Plugin vulnerabilities impact third-party risk. </description>
+    <pubDate>Fri, 31 Oct 2025 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Now’s the Time for Agile, Data-Driven TPRM (and Our Latest Research Proves It)</title>
+    <link>https://blackkite.com/blog/nows-the-time-for-agile-data-driven-tprm-and-our-latest-research-proves-it</link>
+    <description>Traditional TPRM fails against modern threats. New research reveals how to build an agile third-party risk management program for supply chain resilience.</description>
+    <pubDate>Wed, 04 Jun 2025 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Resource Roundup: Stop Drowning in CVEs &amp; Prioritize Your Supply Chain Vulnerabilities</title>
+    <link>https://blackkite.com/blog/resource-roundup-stop-drowning-in-cves-prioritize-your-supply-chain-vulnerabilities</link>
+    <description>Discover the ultimate roundup of free resources on prioritizing third-party vulnerabilities. Stop drowning in CVEs and learn where to focus.</description>
+    <pubDate>Mon, 27 Oct 2025 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Top Concerns for Cybersecurity Leaders and Strategies to Build Resilience</title>
+    <link>https://blackkite.com/blog/top-cyber-concerns-and-resilience-strategies</link>
+    <description>Discover the top concerns keeping cybersecurity leaders up at night and strategies for building resilience against today’s emerging threats.</description>
+    <pubDate>Wed, 25 Sep 2024 05:00:00 GMT</pubDate>
+  </item>
 </channel>
 </rss>
