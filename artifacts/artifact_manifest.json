@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-05T02:50:09.592500+00:00",
+  "generated_at_utc": "2026-03-05T08:57:05.623640+00:00",
   "feeds": [
     {
       "name": "Abnormal Security Threat Intel Blog",
@@ -10,7 +10,7 @@
       "error": null,
       "item_count": 30,
       "output_file": "feeds/abnormal-threat-intel.xml",
-      "lastBuildDate": "Thu, 05 Mar 2026 02:50:50 GMT"
+      "lastBuildDate": "Thu, 05 Mar 2026 08:57:28 GMT"
     },
     {
       "name": "Abstract Security Blog",
@@ -21,7 +21,7 @@
       "error": null,
       "item_count": 30,
       "output_file": "feeds/abstract-security.xml",
-      "lastBuildDate": "Thu, 05 Mar 2026 02:51:15 GMT"
+      "lastBuildDate": "Thu, 05 Mar 2026 08:58:05 GMT"
     },
     {
       "name": "Bfore.ai Reports",
@@ -32,7 +32,7 @@
       "error": null,
       "item_count": 1,
       "output_file": "feeds/bfore-ai-reports.xml",
-      "lastBuildDate": "Thu, 05 Mar 2026 02:51:17 GMT"
+      "lastBuildDate": "Thu, 05 Mar 2026 08:58:07 GMT"
     },
     {
       "name": "BI.ZONE News",
@@ -43,7 +43,7 @@
       "error": null,
       "item_count": 30,
       "output_file": "feeds/bizone-news.xml",
-      "lastBuildDate": "Thu, 05 Mar 2026 02:51:36 GMT"
+      "lastBuildDate": "Thu, 05 Mar 2026 08:58:37 GMT"
     },
     {
       "name": "BI.ZONE Blog",
@@ -54,7 +54,7 @@
       "error": null,
       "item_count": 30,
       "output_file": "feeds/bizone-blog.xml",
-      "lastBuildDate": "Thu, 05 Mar 2026 02:51:53 GMT"
+      "lastBuildDate": "Thu, 05 Mar 2026 08:59:05 GMT"
     },
     {
       "name": "BI.ZONE Research",
@@ -65,7 +65,7 @@
       "error": null,
       "item_count": 8,
       "output_file": "feeds/bizone-research.xml",
-      "lastBuildDate": "Thu, 05 Mar 2026 02:51:58 GMT"
+      "lastBuildDate": "Thu, 05 Mar 2026 08:59:10 GMT"
     },
     {
       "name": "Binary Defense Blog",
@@ -76,7 +76,7 @@
       "error": null,
       "item_count": 30,
       "output_file": "feeds/binarydefense-blog.xml",
-      "lastBuildDate": "Thu, 05 Mar 2026 02:52:15 GMT"
+      "lastBuildDate": "Thu, 05 Mar 2026 08:59:26 GMT"
     },
     {
       "name": "Black Kite Blog",
@@ -87,7 +87,7 @@
       "error": null,
       "item_count": 30,
       "output_file": "feeds/blackkite.xml",
-      "lastBuildDate": "Thu, 05 Mar 2026 02:52:34 GMT"
+      "lastBuildDate": "Thu, 05 Mar 2026 08:59:41 GMT"
     },
     {
       "name": "Pillar Security Blog",
@@ -98,7 +98,7 @@
       "error": null,
       "item_count": 30,
       "output_file": "feeds/pillar-security.xml",
-      "lastBuildDate": "Thu, 05 Mar 2026 02:52:39 GMT"
+      "lastBuildDate": "Thu, 05 Mar 2026 08:59:43 GMT"
     },
     {
       "name": "Trellix Research Blog",
@@ -109,7 +109,7 @@
       "error": null,
       "item_count": 1,
       "output_file": "feeds/trellix-research.xml",
-      "lastBuildDate": "Thu, 05 Mar 2026 03:00:59 GMT"
+      "lastBuildDate": "Thu, 05 Mar 2026 09:08:02 GMT"
     },
     {
       "name": "Trellix Threat Reports",
@@ -120,7 +120,7 @@
       "error": null,
       "item_count": 1,
       "output_file": "feeds/trellix-threat-reports.xml",
-      "lastBuildDate": "Thu, 05 Mar 2026 03:09:18 GMT"
+      "lastBuildDate": "Thu, 05 Mar 2026 09:16:21 GMT"
     }
   ]
 }
