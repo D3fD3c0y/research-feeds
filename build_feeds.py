@@ -20,9 +20,8 @@ Goal A (reduce HTTP work):
  - Only fetch metadata for up to NEW_ITEMS_PER_RUN new URLs per run per source.
  - Fill remaining items (to keep feed size stable) from previous feeds/<slug>.xml without HTTP.
 
-Notes:
-- Designed for GitHub Actions on a schedule (UTC).
-- Writes feeds to feeds/<slug>.xml and an index.html listing.
+Debug summary:
+ - One line per feed showing how many new items were fetched/used and how many were reused.
 """
 import json
 import os
@@ -97,7 +96,7 @@ DOMAIN_TIMEOUTS = {
 # ---------------------------------------------------------------------
 STATE_PATH = os.environ.get("FEED_STATE_PATH", "state.json")
 MAX_SEEN_PER_FEED = int(os.environ.get("MAX_SEEN_PER_FEED", "800"))
-NEW_ITEMS_PER_RUN = int(os.environ.get("NEW_ITEMS_PER_RUN", "15"))  # requested safer cap
+NEW_ITEMS_PER_RUN = int(os.environ.get("NEW_ITEMS_PER_RUN", "15"))  # safer cap
 
 def load_state() -> dict:
     try:
@@ -177,7 +176,7 @@ _ROBOTS_CACHE: dict[tuple[str, str], robotparser.RobotFileParser | None] = {}
 def robots_allows(page_url: str, agent: str = "ResearchFeedsBot") -> bool:
     """
     Fetch robots.txt using our headers, parse it, and cache per (netloc, agent).
-    This avoids re-fetching robots.txt for every article URL (big HTTP reduction).
+    Avoids re-fetching robots.txt for every article URL (big HTTP reduction).
     """
     if not RESPECT_ROBOTS:
         return True
@@ -186,6 +185,7 @@ def robots_allows(page_url: str, agent: str = "ResearchFeedsBot") -> bool:
         parsed = urlparse(page_url)
         netloc = parsed.netloc.lower()
         cache_key = (netloc, agent)
+
         if cache_key in _ROBOTS_CACHE:
             rp = _ROBOTS_CACHE[cache_key]
             if rp is None:
@@ -304,7 +304,8 @@ def _parse_jsonld_articles(soup: BeautifulSoup, base_url: str) -> list[dict]:
                 stack.extend(obj)
     return items
 
-_DATE_URL_PAT = re.compile(r"(?P<y>20\d{2})?P<m>\d{1,2}?P<d>\d{1,2}")
+# Parse YYYY/MM/DD or YYYY-MM-DD anywhere in a string/URL
+_DATE_URL_PAT = re.compile(r"(?P<y>20\d{2})[/-](?P<m>\d{1,2})[/-](?P<d>\d{1,2})")
 
 def _guess_rfc2822_from_text(s: str | None) -> str | None:
     if not s:
@@ -393,14 +394,18 @@ def read_previous_feed_items(slug: str, limit: int = MAX_ITEMS_PER_SOURCE) -> li
         tree = ET.parse(path)
         root = tree.getroot()
         out = []
-        # RSS2: <rss><channel><item>...
         for item in root.findall(".//item"):
             title = (item.findtext("title") or "").strip()
             link = (item.findtext("link") or "").strip()
             desc = (item.findtext("description") or "").strip()
             pub = (item.findtext("pubDate") or "").strip()
             if link:
-                out.append({"title": title or link, "link": link, "description": desc or title or link, "pubDate": pub or rfc2822()})
+                out.append({
+                    "title": title or link,
+                    "link": link,
+                    "description": desc or title or link,
+                    "pubDate": pub or rfc2822()
+                })
             if len(out) >= limit:
                 break
         return out
@@ -423,6 +428,19 @@ def merge_items(new_items: list[dict], old_items: list[dict], limit: int = MAX_I
             if len(out) >= limit:
                 return out
     return out
+
+# ---------------------------------------------------------------------
+# Tiny per-feed debug summary
+# ---------------------------------------------------------------------
+def _debug_summary(slug: str, new_items: list[dict], merged_items: list[dict], prev_items: list[dict], seen_before: int, seen_added: int):
+    new_links = [i.get("link") for i in new_items if i.get("link")]
+    merged_links = set(i.get("link") for i in merged_items if i.get("link"))
+    new_used = sum(1 for u in new_links if u in merged_links)
+    reused = max(0, len(merged_items) - new_used)
+    print(
+        f" • Summary [{slug}]: new_fetched={len(new_links)}, new_used={new_used}, "
+        f"reused={reused}, prev_cached={len(prev_items)}, seen_before={seen_before}, seen_added={seen_added}"
+    )
 
 # ---------------------------------------------------------------------
 # Scraping (listing + article pages) WITH include_prefix + strict option + seen filtering
@@ -492,9 +510,11 @@ def scrape_items(
                 continue
             seen_local.add(url)
 
+            # drop off-domain links
             if urlparse(url).netloc.lower() != base_netloc:
                 continue
 
+            # filter junk
             if any(x in url.lower() for x in ["#", "/tag/", "/category/", "/login", "/signup", "mailto:"]):
                 continue
 
@@ -519,7 +539,6 @@ def scrape_items(
         if fetch_count >= MAX_ARTICLE_FETCHES or len(final) >= limit:
             break
 
-        # Skip already-seen URLs to reduce HTTP work
         if url in seen_urls:
             continue
 
@@ -536,7 +555,6 @@ def scrape_items(
 
         fetch_count += 1
 
-        # Safer cap: only process up to NEW_ITEMS_PER_RUN new pages per source per run
         if new_count >= NEW_ITEMS_PER_RUN:
             break
 
@@ -681,7 +699,7 @@ def scrape_from_sitemap(
                 parse_sitemap(xml_child)
 
     for sm_url in candidates:
-        if len(page_urls) >= max(limit * 6, 200):  # allow bigger pool before we select
+        if len(page_urls) >= max(limit * 6, 200):
             break
         if sm_url in seen_sitemaps:
             continue
@@ -700,7 +718,7 @@ def scrape_from_sitemap(
             seen.add(u)
             dedup.append(u)
 
-    # Apply include-prefix preference before selecting
+    # Apply include-prefix preference BEFORE capping
     preferred_prefix = include_prefix
     if not preferred_prefix:
         base_hint = urlparse(page_url).path.rstrip("/")
@@ -745,7 +763,6 @@ def scrape_from_sitemap(
 # ---------------------------------------------------------------------
 def write_rss(out_path: str, channel_title: str, channel_link: str, items: list[dict]) -> str:
     from xml.sax.saxutils import escape
-
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     last_build = rfc2822()
 
@@ -876,11 +893,10 @@ def main():
             print(f"\n=== Processing: {name} ({page_url}) -> {out_path}")
             print(f" robots.txt respected: {RESPECT_ROBOTS}")
 
-            # Load previous items (no HTTP) to keep feed full
             previous_items = read_previous_feed_items(slug, limit=MAX_ITEMS_PER_SOURCE)
 
-            # Seen URLs from state to skip re-fetching
             seen = _get_seen_set(state, slug)
+            seen_before = len(seen)
 
             feed = None
             if mode == "auto":
@@ -926,7 +942,6 @@ def main():
                 )
 
             elif feed:
-                # Convert feedparser entries, but only take NEW ones (skip seen URLs)
                 new_count = 0
                 for e in feed.entries:
                     if new_count >= NEW_ITEMS_PER_RUN:
@@ -957,7 +972,6 @@ def main():
                     seen_urls=seen,
                 )
 
-            # Merge: new items first, then previous items (no HTTP)
             merged_items = merge_items(new_items, previous_items, limit=MAX_ITEMS_PER_SOURCE)
 
             if not merged_items:
@@ -969,11 +983,19 @@ def main():
                     "description": "Feed builder could not detect recent posts automatically."
                 }]
 
-            # Update state with ONLY the newly added URLs (not the carried-over old ones)
             newly_added_links = [i.get("link") for i in new_items if i.get("link")]
-            # Avoid adding placeholder/self links
             newly_added_links = [u for u in newly_added_links if u and u != page_url]
             _update_seen(state, slug, newly_added_links)
+
+            # Tiny per-feed debug summary
+            _debug_summary(
+                slug=slug,
+                new_items=new_items,
+                merged_items=merged_items,
+                prev_items=previous_items,
+                seen_before=seen_before,
+                seen_added=len(newly_added_links),
+            )
 
             last_build = write_rss(out_path, f"{name} (Custom Feed)", page_url, merged_items)
             feed_map_enabled.append((name, slug, last_build))
