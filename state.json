@@ -1,0 +1,166 @@
+{
+  "abnormal-threat-intel": {
+    "last_success_utc": "2026-03-05T18:16:21.290049+00:00",
+    "seen_urls": [
+      "https://abnormal.ai/blog/crowdstrike-email-security-partnership",
+      "https://abnormal.ai/blog/user-and-entity-behavior-analytics",
+      "https://abnormal.ai/blog/security-frameworks",
+      "https://abnormal.ai/blog/identity-protection-strategies",
+      "https://abnormal.ai/blog/human-risk-management-behavioral-ai",
+      "https://abnormal.ai/blog/managed-cybersecurity-services-vs-in-house-soc",
+      "https://abnormal.ai/blog/ai-security-awareness-training-guide",
+      "https://abnormal.ai/blog/cfo-phishing-protection",
+      "https://abnormal.ai/blog/role-based-phishing-defense",
+      "https://abnormal.ai/blog/invoice-redirection-fraud-detection",
+      "https://abnormal.ai/blog/targeted-phishing-defense",
+      "https://abnormal.ai/blog/weakest-link-in-cyber-security",
+      "https://abnormal.ai/blog/tech-consolidation-security-strategy",
+      "https://abnormal.ai/blog/vendor-security-evaluation-guide",
+      "https://abnormal.ai/blog/email-authentication-setup-prevent-spoofing"
+    ]
+  },
+  "abstract-security": {
+    "last_success_utc": "2026-03-05T18:16:25.153503+00:00",
+    "seen_urls": [
+      "https://www.abstract.security/blog/10-cybersecurity-focus-areas-that-actually-move-the-needle",
+      "https://www.abstract.security/blog/2025-security-data-pipeline-platforms-market-guide",
+      "https://www.abstract.security/blog/90-of-your-splunk-data-is-helping-attackers-not-analysts",
+      "https://www.abstract.security/blog/abstract-and-chris-camacho-threat-intelligence-the-next-evolution",
+      "https://www.abstract.security/blog/abstract-joins-torq-amp-alliance-program-to-accelerate-agentic-secops",
+      "https://www.abstract.security/blog/abstract-security-amazon-security-lake-ocsf-upgraded-security-data-management",
+      "https://www.abstract.security/blog/abstract-security-joins-forces-with-analytica42-to-supercharge-integration-delivery-to-google-secops-and-more",
+      "https://www.abstract.security/blog/abstract-security-partners-with-netskope-to-turn-security-data-into-real-time-decisions",
+      "https://www.abstract.security/blog/abstract-security-welcomes-omegablack-to-growing-roster-of-new-customers",
+      "https://www.abstract.security/blog/ai-agents-and-automated-socs-centering-end-to-end-workflows-for-real-impact",
+      "https://www.abstract.security/blog/automating-macos-incident-response-dfir-as-code-in-action-against-appleprocesshub",
+      "https://www.abstract.security/blog/breaking-the-siem-mold-security-data-operations-whats-next-live-at-black-hat",
+      "https://www.abstract.security/blog/c2-corner-achieving-fortune-50-security-with-a-smb-budget",
+      "https://www.abstract.security/blog/c2-corner-detection-doesnt-fail-first-data-does",
+      "https://www.abstract.security/blog/c2-corner-how-i-mentor"
+    ]
+  },
+  "bfore-ai-reports": {
+    "last_success_utc": "2026-03-05T18:16:27.558378+00:00",
+    "seen_urls": [
+      "https://bfore.ai/resources/reports/"
+    ]
+  },
+  "binarydefense-blog": {
+    "last_success_utc": "2026-03-05T18:18:42.789723+00:00",
+    "seen_urls": [
+      "https://binarydefense.com/resources/blog/ai-as-a-force-multiplier-in-cybersecurity",
+      "https://binarydefense.com/resources/blog/windows-defender-acl-blocking-a-silent-technique-with-serious-impact",
+      "https://binarydefense.com/resources/blog/nightbeacon-rapid-deployment-of-ai-capabilities",
+      "https://binarydefense.com/resources/blog/an-incident-doesnt-have-to-be-a-crisis",
+      "https://binarydefense.com/resources/blog/a-closer-look-at-malicious-svg-phishing",
+      "https://binarydefense.com/resources/blog/when-paychecks-become-the-prize-a-deeper-look-at-the-rise-of-direct-deposit-attacks",
+      "https://binarydefense.com/resources/blog/when-access-brokers-go-interactive-clickfixin-to-python-your-network",
+      "https://binarydefense.com/resources/blog/slivering-through-the-cracks",
+      "https://binarydefense.com/resources/blog/what-defined-defense-in-2025",
+      "https://binarydefense.com/resources/blog/evolutions-in-offensive-toolkits-phishing",
+      "https://binarydefense.com/resources/blog/deedrat-unpacking-a-modern-backdoors-playbook",
+      "https://binarydefense.com/resources/blog/glytchc2-a-bug-in-the-livestream",
+      "https://binarydefense.com/resources/blog/a-practical-guide-to-deobfuscating-a-stupidly-long-javascript-stealer",
+      "https://binarydefense.com/resources/blog/dont-freeze-me-out-bro-arc-labs-technical-analysis-of-edr-freeze",
+      "https://binarydefense.com/resources/blog/defendnot-turning-windows-defender-against-itself"
+    ]
+  },
+  "bizone-blog": {
+    "last_success_utc": "2026-03-05T18:18:09.714016+00:00",
+    "seen_urls": [
+      "https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2025-62592-v-oracle-virtualbox-dlya-macos/",
+      "https://bi.zone/eng/expertise/blog/unfortune-500-most-often-hacked-in-russia-and-cis/",
+      "https://bi.zone/eng/expertise/blog/cavalry-werewolf-atakuet-rossiyu-cherez-doveritelnye-otnosheniya-mezhdu-gosudarstvami/",
+      "https://bi.zone/eng/expertise/blog/podrobnyy-razbor-uyazvimosti-cve-2025-29824-v-os-windows/",
+      "https://bi.zone/eng/expertise/blog/paper-werewolf-atakuet-rossiyu-s-ispolzovaniem-uyazvimosti-nulevogo-dnya-v-winrar/",
+      "https://bi.zone/eng/expertise/blog/rainbow-hyena-snova-atakuet-novyy-bekdor-i-smena-taktik/",
+      "https://bi.zone/eng/expertise/blog/proydite-proverku-i-poluchite-vpo-clickfix-dobralas-do-rossii/",
+      "https://bi.zone/eng/expertise/blog/silent-werewolf-ispolzuet-novye-zagruzchiki-v-atakakh-na-rossiyskie-i-moldavskie-organizatsii/",
+      "https://bi.zone/eng/expertise/blog/analiz-uyazvimostey-v-vaultwarden-cve-2025-24364-i-cve-2025-24365/",
+      "https://bi.zone/eng/expertise/blog/kamen-ogranennyy-sapphire-werewolf-ispolzuet-novuyu-versiyu-amethyst-stealer-dlya-atak-na-tek/",
+      "https://bi.zone/eng/expertise/blog/sotni-tysyach-rubley-za-vashi-sekrety-kibershpiony-squid-werewolf-maskiruyutsya-pod-rekruterov/",
+      "https://bi.zone/eng/expertise/blog/evolyutsiya-bloody-wolf-novye-tseli-novye-sredstva-ataki/",
+      "https://bi.zone/eng/expertise/blog/nova-khorosho-zabytoe-staroe/",
+      "https://bi.zone/eng/expertise/blog/paper-werewolf-sovmeshchaet-kibershpionazh-s-destruktivnymi-deystviyami/"
+    ]
+  },
+  "bizone-news": {
+    "last_success_utc": "2026-03-05T18:17:27.695580+00:00",
+    "seen_urls": [
+      "https://bi.zone/eng/news/my-obnaruzhili-tsepochku-uyazvimostey-v-oracle-virtualbox/",
+      "https://bi.zone/eng/news/kibershpiony-stali-pritvoryatsya-gossluzhashchimi-kyrgyzstana/",
+      "https://bi.zone/eng/news/vyshla-versiya-bi-zone-edr-1-38-s-ai-assistentom/",
+      "https://bi.zone/eng/news/kibershpiony-paper-werewolf-ispolzuyut-dlya-atak-uyazvimosti-v-winrar/",
+      "https://bi.zone/eng/news/vozvrashchenie-pipemagic-novaya-aktivnost-bekdora-v-saudovskoy-aravii-i-brazilii/",
+      "https://bi.zone/eng/news/khaktivisty-stali-sovershat-bolshe-atak-no-ikh-motivatsiya-stanovitsya-neodnoznachnoy/",
+      "https://bi.zone/eng/news/podtverdite-chto-vy-ne-robot-dlya-atak-na-rossiyskie-kompanii-stali-ispolzovat-feykovuyu-captcha/",
+      "https://bi.zone/eng/news/tysyachelikiy-shpion-silent-werewolf-menyaet-podkhody-i-instrumenty-chtoby-ostavatsya-neuznannym/",
+      "https://bi.zone/eng/news/my-obnaruzhili-uyazvimosti-vysokogo-urovnya-opasnosti-v-vaultwarden/",
+      "https://bi.zone/eng/news/novaya-funktsionalnost-bi-zone-threat-intelligence-pomozhet-kompaniyam-predskazyvat-kiberataki/",
+      "https://bi.zone/eng/news/polovina-kibergruppirovok-atakuyushchikh-rossiyskuyu-energetiku-natselena-na-shpionazh/",
+      "https://bi.zone/eng/news/bi-zone-edr-1-37-oblegchaet-polzovatelyam-rabotu-s-khranilishchem-sobytiy/",
+      "https://bi.zone/eng/news/ne-igrayte-v-kalmara-s-oborotnyami/",
+      "https://bi.zone/eng/news/v-novoy-versii-bi-zone-edr-uluchsheny-mekhanizmy-vyyavleniya-ugroz/"
+    ]
+  },
+  "bizone-research": {
+    "last_success_utc": "2026-03-05T18:18:17.373137+00:00",
+    "seen_urls": [
+      "https://bi.zone/eng/expertise/research/threat-zone-2025/",
+      "https://bi.zone/eng/expertise/research/threat-zone-gcc-2024/",
+      "https://bi.zone/eng/expertise/research/threat-zone-2024/",
+      "https://bi.zone/eng/expertise/research/7-faces-of-darkness/",
+      "https://bi.zone/eng/expertise/research/ransomware-source-code-and-builders-used-in-attacks-against-russian-organizations/",
+      "https://bi.zone/eng/expertise/research/threat_zone_2020/",
+      "https://bi.zone/eng/expertise/research/path-to-digital-leadership/"
+    ]
+  },
+  "blackkite": {
+    "last_success_utc": "2026-03-05T18:18:52.194495+00:00",
+    "seen_urls": [
+      "https://blackkite.com/blog/focus-friday-tprm-insights-on-critical-vulnerabilities-in-solarwinds-serv-u-jenkins-cisco-catalyst-sd-wan-and-n8n",
+      "https://blackkite.com/blog/enabling-secure-connectivity-for-customer-driven-agentic-tpcrm",
+      "https://blackkite.com/blog/focus-friday-tprm-insights-on-critical-vulnerabilities-in-beyondtrust-zimbra-and-postgresql",
+      "https://blackkite.com/blog/focus-friday-tprm-insights-on-microsoft-exchange-sap-netweaver-and-gogs-critical-vulnerabilities",
+      "https://blackkite.com/blog/focus-friday-tprm-insights-on-openclaw-ivanti-epmm-cisco-telepresence-django-and-n8n-exposures",
+      "https://blackkite.com/blog/ai-for-tprm-humans-objective-data-for-smarter-renewal-and-termination-decisions",
+      "https://blackkite.com/blog/focus-friday-tprm-insights-on-fortinet-gnu-inetutils-solarwinds-whd-openssl-smartermail-n8n-react-server-components-and-tp-link-archer-mr600",
+      "https://blackkite.com/blog/focus-friday-tprm-insights-on-sitecore-mssql-sharepoint-cisco-ucm-sap-netweaver-apache-solr-and-appsmith",
+      "https://blackkite.com/blog/ai-for-tprm-humans-filter-noise-surface-risk-continuous-monitoring",
+      "https://blackkite.com/blog/focus-friday-tprm-insights-on-escalating-n8n-risks-and-emerging-infrastructure-vulnerabilities-ni8mare-d-link-dsl-routers-aiohttp-smartermail-coolify",
+      "https://blackkite.com/blog/ai-for-tprm-humans-how-to-accelerate-vendor-vetting-without-questionnaires-",
+      "https://blackkite.com/blog/focus-friday-tprm-insights-on-sonicwall-sma1000-fortigate-ssl-vpn-n8n-exim-mail-zimbra-mongodb-m-files-elastic-kibana-and-freebsd-vulnerabilities",
+      "https://blackkite.com/blog/focus-friday-tprm-insights-on-react2shell-urgent-exploitation-update-and-critical-risks-in-screenconnect-centrestack--triofox-jenkins-freepbx-and-gogs",
+      "https://blackkite.com/blog/focus-friday-tprm-insights-into-fortinet-sso-bypass-exchange-server-flaws-and-cacti-rce-risks",
+      "https://blackkite.com/blog/the-hidden-costs-of-ai-adoption-in-tprm"
+    ]
+  },
+  "pillar-security": {
+    "last_success_utc": "2026-03-05T18:18:53.604361+00:00",
+    "seen_urls": [
+      "https://www.pillar.security/blog/10-best-ai-newsletters-you-must-subscribe-to",
+      "https://www.pillar.security/blog/90-of-successful-attacks-seen-in-the-wild-resulted-in-leaked-sensitive-data",
+      "https://www.pillar.security/blog/a-deep-dive-into-llm-jailbreaking-techniques-and-their-implications",
+      "https://www.pillar.security/blog/a-milestone-for-pillar-honored-as-frost-sullivans-2025-competitive-strategy-leader-for-ai-security",
+      "https://www.pillar.security/blog/addressing-vertical-agentic-risks-with-taint-analysis",
+      "https://www.pillar.security/blog/agentic-use-cases-and-challenges-for-2025",
+      "https://www.pillar.security/blog/ai-agents-in-the-workforce-the-future-of-team-collaboration-and-efficiency",
+      "https://www.pillar.security/blog/ai-asset-inventory-the-foundation-of-ai-governance-and-security",
+      "https://www.pillar.security/blog/ai-red-teaming-ensuring-safe-and-secure-ai-systems",
+      "https://www.pillar.security/blog/ai-red-teaming-playbook",
+      "https://www.pillar.security/blog/ai-red-teaming-regulations-and-standards",
+      "https://www.pillar.security/blog/ai-security-trends-to-watch-in-2025",
+      "https://www.pillar.security/blog/ai-systems-must-be-secured-by-design",
+      "https://www.pillar.security/blog/analyzing-the-amazon-q-incident-using-the-sail-framework",
+      "https://www.pillar.security/blog/anatomy-of-an-indirect-prompt-injection"
+    ]
+  },
+  "trellix-research": {
+    "last_success_utc": "2026-03-05T18:27:13.200397+00:00",
+    "seen_urls": []
+  },
+  "trellix-threat-reports": {
+    "last_success_utc": "2026-03-05T18:35:32.729766+00:00",
+    "seen_urls": []
+  }
+}

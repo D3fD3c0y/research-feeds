@@ -4,7 +4,7 @@
   <title>Black Kite Blog (Custom Feed)</title>
   <link>https://blackkite.com/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Thu, 05 Mar 2026 08:59:41 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Mar 2026 18:18:52 GMT</lastBuildDate>
   <item>
     <title>Focus Friday: TPRM Insights On Critical Vulnerabilities in Solarwinds Serv-U, Jenkins, Cisco Catalyst SD-WAN, and n8n</title>
     <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-critical-vulnerabilities-in-solarwinds-serv-u-jenkins-cisco-catalyst-sd-wan-and-n8n</link>
@@ -164,7 +164,7 @@
   <item>
     <title>Focus Friday: Critical Third-Party Risks In Mikrotik Routeros, Apache Tomcat, Hashicorp Vault, and Litespeed Plugin</title>
     <link>https://blackkite.com/blog/focus-friday-critical-third-party-risks-in-mikrotik-routeros-apache-tomcat-hashicorp-vault-and-litespeed-plugin</link>
-    <description>Discover how Mikrotik RouterOS, Apache Tomcat, HashiCorp Vault, and LiteSpeed Plugin vulnerabilities impact third-party risk. </description>
+    <description>Discover how Mikrotik RouterOS, Apache Tomcat, HashiCorp Vault, and LiteSpeed Plugin vulnerabilities impact third-party risk.</description>
     <pubDate>Fri, 31 Oct 2025 05:00:00 GMT</pubDate>
   </item>
   <item>
