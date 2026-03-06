@@ -4,7 +4,97 @@
   <title>Binary Defense Blog (Custom Feed)</title>
   <link>https://binarydefense.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 16:57:07 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 19:19:03 GMT</lastBuildDate>
+  <item>
+    <title>Threat Hunting AWS CloudTrail with Microsoft Sentinel: Part 4</title>
+    <link>https://binarydefense.com/resources/blog/threat-hunting-aws-cloudtrail-with-microsoft-sentinel-part-4</link>
+    <description>In order to interact with the AWS environment using the AWS CLI, an access key and secret key are created for the new IAM user with the previously…</description>
+    <pubDate>Fri, 06 Mar 2026 19:18:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Advice for Defenders Responding to the log4j Vulnerability…</title>
+    <link>https://binarydefense.com/resources/blog/advice-for-defenders-responding-to-the-log4j-vulnerability-cve-2021-44228</link>
+    <description>Advice from the Trenches: Identify your vulnerable systems – this is not easy to do, but should be your first priority. Version 1.x of log4j is past its…</description>
+    <pubDate>Fri, 06 Mar 2026 19:18:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Hunting AWS CloudTrail with Sentinel: Part 3</title>
+    <link>https://binarydefense.com/resources/blog/threat-hunting-aws-cloudtrail-with-sentinel-part-3</link>
+    <description>Prereq: Before initiating the attack, the AWS CLI must be installed and configured with the AWS default profile using: ~$ aws configure Attack Commands:…</description>
+    <pubDate>Fri, 06 Mar 2026 19:18:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Hunting AWS CloudTrail with Sentinel: Part 2</title>
+    <link>https://binarydefense.com/resources/blog/threat-hunting-aws-cloudtrail-with-sentinel-part-2</link>
+    <description>Detecting S3 Bucket Attack By Sean Fernandez | Threat Researcher | Binary Defense In part 2 of the blog series, Threat Hunting AWS CloudTrail with…</description>
+    <pubDate>Fri, 06 Mar 2026 19:18:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Hunting AWS CloudTrail with Sentinel: Part 1</title>
+    <link>https://binarydefense.com/resources/blog/threat-hunting-aws-cloudtrail-with-sentinel-part-1</link>
+    <description>Part 1: Intro to Threat Hunting AWS CloudTrail with Sentinel By Sean Fernandez | Threat Researcher | Binary Defense Note: this is a four-part blog post…</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Inside Scoop: Binary Defense Employees’ Advice to Cybersecurity…</title>
+    <link>https://binarydefense.com/resources/blog/the-inside-scoop-binary-defense-employees-advice-to-cybersecurity-newbs</link>
+    <description>To wrap up this year’s Cybersecurity Awareness Month, we asked a handful of our employees for advice they would give to someone who wanted to start a…</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Solarmarker: By Any Other Name (Mars-Deimos part 3)</title>
+    <link>https://binarydefense.com/resources/blog/solarmarker-by-any-other-name-mars-deimos-part-3</link>
+    <description>Payload SHA256: c61348ab7e5ffeb9ba5d1077b13c49bde4d841c5ada9a Backdoor SHA256: 0e673eb418c87268aa3bcb262e8e03a3f719a95a8e118ba99515c57c9aa02d38 Backdoor…</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Getting the Board on Board with Cybersecurity</title>
+    <link>https://binarydefense.com/resources/blog/getting-the-board-on-board-with-cybersecurity</link>
+    <description>With a heightened focus on keeping businesses safe from cyberattacks, particularly due to high-profile ransomware and third-party vendor supply chain…</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mimicking Human Activity using Selenium and Python</title>
+    <link>https://binarydefense.com/resources/blog/mimicking-human-activity-using-selenium-and-python</link>
+    <description>Starting Webdriver Instance main.py from selenium import webdriverfrom selenium.webdriver.support import expected_conditions as ECfrom…</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Commodity vs Behavioral Detections</title>
+    <link>https://binarydefense.com/resources/blog/commodity-vs-behavioral-detections</link>
+    <description>They could have firewalls, antivirus, MDR, SIEM, maybe they've gone through a penetration test. This is what I’m referring to as “commodity level.” These…</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mars-Deimos: From Jupiter to Mars and Back again (Part Two)</title>
+    <link>https://binarydefense.com/resources/blog/mars-deimos-from-jupiter-to-mars-and-back-again-part-two</link>
+    <description>Dropper SHA256: a871b7708b7dc1eb6fd959946a882a5af7dafc5ac135ac840cfbb60816024933 Backdoor SHA256:…</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mars-Deimos: SolarMarker/Jupyter Infostealer (Part 1)</title>
+    <link>https://binarydefense.com/resources/blog/mars-deimos-solarmarker-jupyter-infostealer-part-1</link>
+    <description>Part One: Persistence Script Analysis Mars-Deimos-RS-2.MD5: 88E60DFE5045E7157D71D1CB4170C073 Mars-Deimos-RS-2:SHA256:…</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>Analysis of Hancitor – When Boring Begets Beacon</title>
+    <link>https://binarydefense.com/resources/blog/analysis-of-hancitor-when-boring-begets-beacon</link>
+    <description>Hancitor is a well-known malware loader that has been observed delivering FickerStealer, Sendsafe, and Cobalt Strike Beacon if the victim targeting…</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>Payment App Scammers: Stay Aware and Learn to Avoid Them</title>
+    <link>https://binarydefense.com/resources/blog/payment-app-scammers-stay-aware-and-learn-to-avoid-them</link>
+    <description>While it is convenient and becoming more popular to use virtual wallets like Venmo, PayPal, and Cash App, there is a risk of potentially being scammed by…</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>Intruder Tactics: Privilege Escalation</title>
+    <link>https://binarydefense.com/resources/blog/intruder-tactics-privilege-escalation</link>
+    <description>While not all computer intrusions require privilege escalation to achieve the attacker’s goals, most of the most serious and damaging intrusions do need…</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:03 GMT</pubDate>
+  </item>
   <item>
     <title>12 Essentials for a Successful SOC Partnership</title>
     <link>https://binarydefense.com/resources/blog/12-essentials-for-a-successful-soc-partnership</link>
@@ -94,96 +184,6 @@
     <link>https://binarydefense.com/resources/blog/2022-expect-the-unexpected-as-cyberattacks-continue-to-target-organizations</link>
     <description>We saw a larger emphasis this year on supply chain attacks and going to a one-to-many type style which yielded more return on investment for adversaries.…</description>
     <pubDate>Fri, 06 Mar 2026 16:57:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Incident Response – IR Planning &amp; MDR Coordination</title>
-    <link>https://binarydefense.com/resources/blog/incident-response-ir-planning-mdr-coordination</link>
-    <description>A robust IR plan ensures swift and efficient responses to potential threats, which includes coordinating with security partners.</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Role of Deception Technology in Modern Cybersecurity</title>
-    <link>https://binarydefense.com/resources/blog/the-role-of-deception-technology-in-modern-cybersecurity</link>
-    <description>Get the details on deception technology, a cybersecurity tactic that lays digital traps to detect and counteract unauthorized access.</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Demystifying Open XDR: What It Is, How to Do It, and ROI</title>
-    <link>https://binarydefense.com/resources/blog/demystifying-open-xdr-what-it-is-how-to-do-it-and-roi</link>
-    <description>Open XDR marks a paradigm shift in enterprise security, focusing on using comprehensive data insights to enhance threat detection and response across…</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>What Is Digital Risk Protection (DRP)?</title>
-    <link>https://binarydefense.com/resources/blog/what-is-digital-risk-protection-drp</link>
-    <description>Digital risk protection is the strategy and implementation of safeguarding an organization's data, reputation, and digital assets from online threats.</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Beyond Alerting: Finding Hidden Threats</title>
-    <link>https://binarydefense.com/resources/blog/beyond-alerting-finding-hidden-threats</link>
-    <description>Hypothesis-driven threat hunting is a tailored, proactive, and analytical approach to cybersecurity that uses the acumen of seasoned security experts.</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Running Malware Below the OS - The State of UEFI Firmware Exploitation</title>
-    <link>https://binarydefense.com/resources/blog/running-malware-below-the-os-the-state-of-uefi-firmware-exploitation</link>
-    <description>In part one of this blog series, we will explain the boot process of modern UEFI machines, as well as some of its built-in protections, and we will…</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Role of AI/ML in Security Operations</title>
-    <link>https://binarydefense.com/resources/blog/the-role-of-ai-ml-in-security-operations</link>
-    <description>Artificial intelligence and machine learning are fundamentally changing security operations as we know it. See why, how, and what it means for security…</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Beyond Alerting: The Need for Behavior-Based Detection Strategy</title>
-    <link>https://binarydefense.com/resources/blog/the-need-for-behavior-based-detection-strategy</link>
-    <description>Behavior-based detection focuses on understanding and responding to threats by analyzing their actions and patterns, rather than relying on known…</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Uncovering Adversarial LDAP Tradecraft</title>
-    <link>https://binarydefense.com/resources/blog/uncovering-adversarial-ldap-tradecraft</link>
-    <description>This blog outlines the results of our research, provides a tool for exposing LDAP telemetry, and offers guidance on detecting malicious LDAP activity.…</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Mastering Windows Access Control: Understanding SeDebugPrivilege</title>
-    <link>https://binarydefense.com/resources/blog/mastering-windows-access-control-understanding-sedebugprivilege</link>
-    <description>SeDebugPrivilege matters when accessing process and thread objects. Accessing certain objects, namely processes, is a very common action performed by…</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Client/Server Relationship — A Match Made In Heaven</title>
-    <link>https://binarydefense.com/resources/blog/the-client-server-relationship-a-match-made-in-heaven</link>
-    <description>With all of the obfuscation and complexity within attacks these days, one way we have found to accomplish detection in a robust manner is through…</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>ThreadSleeper: Suspending Threads via GMER64 Driver</title>
-    <link>https://binarydefense.com/resources/blog/threadsleeper-suspending-threads-via-gmer64-driver</link>
-    <description>The process for finding the alternative capability for interfering with the operation of a PPL process associated with an EDR driver</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>laptop on the screen lock. Cyber security, data protection conce</title>
-    <link>https://binarydefense.com/resources/blog/laptop-on-the-screen-lock-cyber-security-data-protection-conce</link>
-    <description>laptop on the screen lock. Cyber security, data protection conce</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Customer Perspectives: Binary Defense MDR not only enhances security…</title>
-    <link>https://binarydefense.com/resources/blog/customer-perspectives-binary-defense-mdr-not-only-enhances-security-professionals-lives-but-unlocks-roi-benefits</link>
-    <description>Binary Defense MDR (Managed Detection and Response) emerges as a game-changing solution, offering a range of ROI benefits that make the lives of security…</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Unveiling Hidden Intel: Why Leveraging Phishing Emails for…</title>
-    <link>https://binarydefense.com/resources/blog/unveiling-hidden-intel-why-leveraging-phishing-emails-for-intelligence-is-essential</link>
-    <description>In this blog post, we'll uncover the importance of leveraging phishing emails for intelligence and how it can give your security posture a distinct edge.…</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:06 GMT</pubDate>
   </item>
 </channel>
 </rss>

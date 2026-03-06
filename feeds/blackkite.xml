@@ -4,7 +4,97 @@
   <title>Black Kite Blog (Custom Feed)</title>
   <link>https://blackkite.com/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 16:57:14 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 19:19:14 GMT</lastBuildDate>
+  <item>
+    <title>Understand Supply Chain Risk Susceptibility to Prevent New Microsoft Exchange Server Ransomware Attacks</title>
+    <link>https://blackkite.com/blog/understand-supply-chain-risk-susceptibility-to-prevent-new-microsoft-exchange-server-ransomware-attacks</link>
+    <description>How Black Hat served as a catalyst for the ProxyShell attack, and the latest security updates customers should install for protection.</description>
+    <pubDate>Fri, 27 Aug 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>SIMPLIFYING VENDOR SECURITY ASSESSMENTS, PART II: Questions to Ask Along the Road</title>
+    <link>https://blackkite.com/blog/simplifying-vendor-security-assessments-part-ii-questions-to-ask-along-the-road</link>
+    <description>Now that you've created your vendor security assessment roadmap, get ready to ask questions along the road. Start your journey here.</description>
+    <pubDate>Wed, 21 Jul 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Inside the Mind of a Cybercriminal: Common Hacking Methods, Explained</title>
+    <link>https://blackkite.com/blog/inside-the-mind-of-a-cybercriminal-common-hacking-methods-explainedmethods-explained</link>
+    <description>Preventing unrecognized cyber risk requires organizations to understand the signals that suggest suspicious behavior.</description>
+    <pubDate>Thu, 29 Jul 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Over 40 Million Consumers Affected by the Top Third-Party Data Breaches in August 2021</title>
+    <link>https://blackkite.com/blog/over-40-million-consumers-affected-by-the-top-third-party-data-breaches-in-august-2021</link>
+    <description>August 2021: Another month of attacks on digital supply chains. Check out our roundup of the top 4. </description>
+    <pubDate>Wed, 08 Sep 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>SIMPLIFYING VENDOR RISK ASSESSMENTS, PART I: Designing Your VRA Roadmap</title>
+    <link>https://blackkite.com/blog/simplifying-vendor-risk-assessments-part-i-designing-your-vra-roadmap</link>
+    <description>Vendor risk assessments don't have to be complicated in order to be effective. Discover the five steps to creating your VRA roadmap.</description>
+    <pubDate>Fri, 16 Jul 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Secret to Ransomware Risk Management in 2021</title>
+    <link>https://blackkite.com/blog/the-secret-to-ransomware-risk-management-in-2021</link>
+    <description>Signals may be your secret weapon when it comes to ransomware risk detection, but we've discovered a silver bullet.</description>
+    <pubDate>Thu, 16 Sep 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Ransomware Attacks Against the Fortune 500: Lessons Learned from Accenture</title>
+    <link>https://blackkite.com/blog/ransomware-attacks-against-the-fortune-500-lessons-learned-from-accenture</link>
+    <description>It is not a surprise why a Fortune 500 company such as Accenture entered cybercriminals’ radar. They have a wealth of client data at stake.</description>
+    <pubDate>Wed, 25 Aug 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Third-Party Data Breaches in July 2021, Revealed: Ransomware Continues Its Reign</title>
+    <link>https://blackkite.com/blog/third-party-data-breaches-in-july-2021-revealed-ransomware-continues-its-reign</link>
+    <description>The July 2021 third-party breach recap is here. Check out our recap of the top 4 supply chain security incidents from last month.</description>
+    <pubDate>Tue, 03 Aug 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Data Breach Access Points Hide in the Digital Supply Chain</title>
+    <link>https://blackkite.com/blog/data-breach-access-points-hide-in-the-digital-supply-chain</link>
+    <description>Software publishers are targeted more than any other vendor, but this does not mean the remainder of your digital supply chain is secure. See why.</description>
+    <pubDate>Tue, 08 Feb 2022 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Are Your Third Parties PCI-Compliant?</title>
+    <link>https://blackkite.com/blog/are-your-third-parties-pci-compliant</link>
+    <description>Awareness of PCI-compliance both internally and throughout your cyber ecosystem is crucial to ensuring the security of sensitive cardholder data.</description>
+    <pubDate>Tue, 28 Dec 2021 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>What is Phishing? Tips to Identify and Prevent Cyber Scams</title>
+    <link>https://blackkite.com/blog/what-is-phishing-tips-to-identify-and-prevent-cyber-scams</link>
+    <description>How can organizations ‘Fight the Phish’? We share exactly what to look for in fraudulent emails, websites, texts and more.</description>
+    <pubDate>Thu, 14 Oct 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why Supply Chain Risk Assessments are Critical to Cybersecurity</title>
+    <link>https://blackkite.com/blog/why-supply-chain-risk-assessments-are-critical-to-cybersecurity</link>
+    <description>Your digital ecosystem isn't the same as it was a year ago, so why stick to the same old cybersecurity playbook?</description>
+    <pubDate>Thu, 07 Oct 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>FBI Issues Ransomware Warning for Mergers and Acquisitions</title>
+    <link>https://blackkite.com/blog/fbi-issues-ransomware-warning-for-mergers-and-acquisitions</link>
+    <description>The FBI's recent PIN warning addresses the malicious intent to expose info by ransomware gangs targeting specific firms with time sensitive pressure.</description>
+    <pubDate>Tue, 09 Nov 2021 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Expert Insights: U.S. Federal Government Risk in 2022</title>
+    <link>https://blackkite.com/blog/expert-insights-us-federal-government-risk-in-2022</link>
+    <description>Hear from our experts as they discuss the government’s role in centralizing supply chain cybersecurity and what the future holds for federal cyber regulations and support.</description>
+    <pubDate>Thu, 21 Jul 2022 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Third-Party Risk Management: A Tool or a Process?</title>
+    <link>https://blackkite.com/blog/third-party-risk-management-a-tool-or-a-process</link>
+    <description>Within Enterprise Risk Management, Third-party risk has taken a new level of importance in the world of mitigation and risk processes.</description>
+    <pubDate>Tue, 31 May 2022 05:00:00 GMT</pubDate>
+  </item>
   <item>
     <title>Do GRC Requirements Truly Reduce Risk?</title>
     <link>https://blackkite.com/blog/do-grc-requirements-truly-reduce-risk</link>
@@ -26,7 +116,7 @@
   <item>
     <title>Black Kite Unveils Industry’s First Monthly Ransomware Dashboards</title>
     <link>https://blackkite.com/blog/black-kite-unveils-industrys-first-monthly-ransomware-dashboards</link>
-    <description>Research offers critical insight into top ransomware groups, their victims, and the most common indicators of compromise over the past six months </description>
+    <description>Research offers critical insight into top ransomware groups, their victims, and the most common indicators of compromise over the past six months</description>
     <pubDate>Tue, 24 Jan 2023 06:00:00 GMT</pubDate>
   </item>
   <item>
@@ -94,96 +184,6 @@
     <link>https://blackkite.com/blog/four-ways-automation-can-transform-your-third-party-cyber-risk-management-strategy</link>
     <description>Supply chains are expected to double in size by 2026. Discover how automation can help alleviate your cybersecurity growing pains.</description>
     <pubDate>Tue, 14 Sep 2021 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Focus Friday: TPRM Insights on Critical Vulnerabilities in FreeScout, pac4j, MongoDB, Django, Langflow, RustFS, and Apache Superset</title>
-    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-critical-vulnerabilities-in-freescout-pac4j-mongodb-django-langflow-rustfs-and-apache-superset</link>
-    <description>Expert TPRM analysis of critical vulnerabilities in FreeScout, pac4j, MongoDB, Django, Langflow, RustFS, and Apache Superset. Stay ahead of third-party risks with Black Kite.</description>
-    <pubDate>Thu, 05 Mar 2026 21:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Four Cybersecurity Tips for Navigating to a Hybrid Work Environment</title>
-    <link>https://blackkite.com/blog/four-cybersecurity-tips-for-navigating-to-a-hybrid-work-environment</link>
-    <description>Today's new work model requires new security measures. Keep your organization and your employees safe with these tips for managing a hybrid work model</description>
-    <pubDate>Wed, 16 Jun 2021 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Top Five Third-Party Breaches in April 2021: Hackers Bite from Apple, Airlines Hit Turbulence &amp; More</title>
-    <link>https://blackkite.com/blog/top-five-third-party-breaches-in-april-2021-hackers-bite-from-apple-airlines-hit-turbulence-and-more</link>
-    <description>Hackers take a bite from Apple, airlines hit turbulence and more from last month's major breaches.</description>
-    <pubDate>Tue, 04 May 2021 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>How Protected Are You Against Ransomware?</title>
-    <link>https://blackkite.com/blog/how-protected-are-you-against-ransomware</link>
-    <description>By the time you're done reading this sentence, another ransomware attack will have occurred. Is your organization on the hit list?</description>
-    <pubDate>Tue, 25 May 2021 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cyber Risk Ratings Leader NormShield Rebrands to “Black Kite”</title>
-    <link>https://blackkite.com/blog/cyber-risk-ratings-leader-normshield-rebrands-to-black-kite</link>
-    <description>Black Kite, the cyber risk ratings company formerly known as NormShield, today revealed its new name, logo, and headquarters.</description>
-    <pubDate>Mon, 11 Jan 2021 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Why Reputational Risk Matters Regardless of Company Size</title>
-    <link>https://blackkite.com/blog/why-reputational-risk-matters-regardless-of-company-size</link>
-    <description>We define reputational risk and most importantly – why managing reputational risk matters in the digital era regardless of company size.</description>
-    <pubDate>Tue, 16 Feb 2021 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Five Reasons Why Supply Chains Need Security Monitoring</title>
-    <link>https://blackkite.com/blog/five-reasons-why-supply-chains-need-security-monitoring</link>
-    <description>Supply chains have evolved—and so have cybersecurity standards. Here are 5 reasons today's cyber ecosystems demand risk monitoring.</description>
-    <pubDate>Tue, 30 Mar 2021 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Are Security Rating Services Really Worth it for SMBs?</title>
-    <link>https://blackkite.com/blog/are-security-rating-services-really-worth-it-for-smbs</link>
-    <description>Let’s take a look at some of the security challenges SMBs face and how automation can reduce the burden.</description>
-    <pubDate>Tue, 09 Feb 2021 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Evolution of Artificial Intelligence and Cyber Risk</title>
-    <link>https://blackkite.com/blog/artificial-intelligence-cyber-risk</link>
-    <description>When it comes to the evolution of artificial intelligence, things are changing rapidly. Learn more about how changes can affect your org’s cyber risk.</description>
-    <pubDate>Wed, 31 May 2023 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Final Rule: SEC to Require Companies to Report Breaches in 4 Days</title>
-    <link>https://blackkite.com/blog/final-rule-sec-to-require-companies-to-report-breaches-in-4-days</link>
-    <description>The SEC finalized new cybersecurity rules, requiring companies to report breaches within a matter of days. Discover what it all means here.</description>
-    <pubDate>Thu, 27 Jul 2023 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Unique Risks Small Businesses Face Using Third-Party Vendors</title>
-    <link>https://blackkite.com/blog/small-business-third-party-vendors-risks</link>
-    <description>Small businesses face a unique set of challenges regarding TPRM. Why it’s essential for them to implement a strong third-party vendor management process.</description>
-    <pubDate>Tue, 20 Jun 2023 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Black Kite Review: RSAC 2023</title>
-    <link>https://blackkite.com/blog/rsac-2023-in-review</link>
-    <description>Insights on RSAC 2023 from Black Kite’s Senior Vice President and Cyber Risk Evangelist, Jeffrey Wheatman, and Head of Research, Dr. Ferhat Dikbiyik.</description>
-    <pubDate>Wed, 17 May 2023 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>It’s Time to Make Multi-Factor Authentication (MFA) Part of Your Daily Routine</title>
-    <link>https://blackkite.com/blog/its-time-to-make-multi-factor-authentication-mfa-part-of-your-daily-routine</link>
-    <description>One of the four focuses this year for cybersecurity awareness month is implementing multi-factor authentication. Let’s discuss it!</description>
-    <pubDate>Wed, 05 Oct 2022 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>I Like Cheese – Please Stop Talking About Cost Cutting – Instead Focus On Cost Optimization</title>
-    <link>https://blackkite.com/blog/i-like-cheese-please-stop-talking-about-cost-cutting-instead-focus-on-cost-optimization</link>
-    <description>Cost cutting frequently results in dropping controls or tools and ends in losing layers of protection – how can we prioritize cost optimization?</description>
-    <pubDate>Fri, 11 Nov 2022 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cybersecurity Rating vs. Penetration Testing (Pen Test)</title>
-    <link>https://blackkite.com/blog/cybersecurity-rating-vs-penetration-testing-pen-test</link>
-    <description>IT leaders are responsible for keeping digital and informational assets safe and secure. Protecting employees and client data should be a priority.</description>
-    <pubDate>Fri, 22 Jul 2022 05:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

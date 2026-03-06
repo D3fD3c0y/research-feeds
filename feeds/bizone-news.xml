@@ -4,12 +4,96 @@
   <title>BI.ZONE News (Custom Feed)</title>
   <link>https://bi.zone/eng/news/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 16:56:56 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 19:18:52 GMT</lastBuildDate>
   <item>
     <title>News</title>
     <link>https://bi.zone/eng/news/</link>
     <description>Stay up to date on new cybersecurity solutions, as well as BI.ZONE news and events</description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE sheds light on data breaches caused by Leak Wolf’s malware-free attacks</title>
+    <link>https://bi.zone/eng/news/bi-zone-vyyasnila-podrobnosti-khishcheniya-dannykh-u-40-rossiyskikh-kompaniy/</link>
+    <description>The Leak Wolf group hacks Russian companies and publishes their data in its Telegram channel. The so-called hacktivists use no malicious software and act under the guise of company employees to evade detection</description>
+    <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE releases in-depth guidelines on business impact analysis</title>
+    <link>https://bi.zone/eng/news/bi-zone-vypustila-prakticheskoe-rukovodstvo-po-analizu-vozdeystviya-na-biznes/</link>
+    <description>Readers will have step-by-step instructions on how to run a business impact analysis (BIA) in their organizations along with practical recommendations on ways to boost cyber maturity</description>
+    <pubDate>Thu, 27 Apr 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE presents an updated version of its antifraud system</title>
+    <link>https://bi.zone/eng/news/bi-zone-predstavila-obnovlennuyu-versiyu-sistemy-protivodeystviya-moshennichestvu/</link>
+    <description>BI.ZONE AntiFraud is an adaptive cross-channel system designed to protect against fraud. It provides transaction and session analysis with threat intelligence from a wide range of sources. The product is suitable for both banking and online services</description>
+    <pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE unearths SEO poisoning attacks targeting accountants</title>
+    <link>https://bi.zone/eng/news/bi-zone-obnaruzhila-otravlenie-poiskovoy-vydachi-kak-sposob-atak-na-rossiyskikh-bukhgalterov/</link>
+    <description>The Watch Wolf hacker group steals money from Russian companies by planting malware on their accountants’ computers. Its approach is far from what one might expect: instead of tried and true phishing emails, the group is betting on search engine optimization (SEO) to promote fraudulent websites</description>
+    <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE CESP swiftly responds to protect Outlook users against CVE-2023-23397</title>
+    <link>https://bi.zone/eng/news/polzovateli-bi-zone-cesp-v-bezopasnosti-otrazhena-novaya-ataka-po-email/</link>
+    <description>Adversaries are now exploiting a new Microsoft Outlook vulnerability to steal user credentials. BI.ZONE CESP protects the users who can't update the email client</description>
+    <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE detects destructive ransomware attacks against Russian users</title>
+    <link>https://bi.zone/eng/news/bi-zone-zafiksirovala-destruktivnye-ataki-shifrovalshchika-na-rossiyskikh-polzovateley/</link>
+    <description>Earlier this month, BI.ZONE Cyber Threat Intelligence team detected an attack campaign engineered by the Key Wolf hacker group</description>
+    <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE specialists are now certified to latest ISO/IEC 27001:2022</title>
+    <link>https://bi.zone/eng/news/spetsialisty-bi-zone-pervymi-v-rossii-proshli-obuchenie-po-perekhodu-na-obnovlennyy-standart-iso-iec/</link>
+    <description>This certification will enable BI.ZONE to prepare its clients for the transition to the new standard and assist them in organizing their security processes accordingly</description>
+    <pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE launches Cyber Polygon platform for individual trainings</title>
+    <link>https://bi.zone/eng/news/we-are-opening-registration-on-the-cyber-polygon-platform-for-individual-training/</link>
+    <description>The company has unlocked its free Cyber Polygon technical training platform. All tasks are now available to individual cybersecurity practitioners and can be accessed 24/7 and as many times as needed</description>
+    <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Save the date: OFFZONE 2023 is coming in August</title>
+    <link>https://bi.zone/eng/news/offzone-conference-dates-set-for-next-year/</link>
+    <description>The 4th OFFZONE international conference on practical cybersecurity will take place in Moscow on August 24–25, 2023</description>
+    <pubDate>Mon, 05 Dec 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>New BI.ZONE service helps to detect signs of intrusions</title>
+    <link>https://bi.zone/eng/news/novaya-usluga-bi-zone-pomogaet-obnaruzhit-sledy-proniknoveniya-v-it-infrastrukturu/</link>
+    <description>BI.ZONE Compromise Assessment is designed to uncover ongoing and past attacks by analyzing corporate infrastructure</description>
+    <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE CESP reinforced to improve email protection</title>
+    <link>https://bi.zone/eng/news/obnovlennyy-servis-bi-zone-cesp-usilil-zashchitu-elektronnoy-pochty/</link>
+    <description>Changes include improvements to the filtering system: now phishing links and malware do not have a chance to remain unnoticed even when hidden in password-protected attachments</description>
+    <pubDate>Mon, 24 Oct 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE Brand Protection revamped to better protect business from cyber threats</title>
+    <link>https://bi.zone/eng/news/obnovlennaya-platforma-bi-zone-brand-protection-pomozhet-zashchitit-biznes-ot-kiberugroz/</link>
+    <description>We have released a new version of the BI.ZONE Brand Protection platform. In the first six months of 2022, the solution helped to detect 4 times more data leaks year-on-year</description>
+    <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The number of fraudulent websites in Q1 2022 triples compared to 2021</title>
+    <link>https://bi.zone/eng/news/kolichestvo-moshennicheskikh-saytov-v-pervom-kvartale-2022-goda/</link>
+    <description>During the first quarter of 2022, BI.ZONE blocked a total of 16,311 malicious sources, which is three times more year over year</description>
+    <pubDate>Wed, 08 Jun 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cyber Polygon postponed</title>
+    <link>https://bi.zone/eng/news/cyber-polygon-postponed/</link>
+    <description>The next event date will be announced later</description>
+    <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
   </item>
   <item>
     <title>Presenting an updated BI.ZONE AntiFraud solution</title>
@@ -100,90 +184,6 @@
     <link>https://bi.zone/eng/news/kvalifikatsiya-kiberprestupnikov-nizkaya-ugroza-dlya-kompaniy-vysokaya/</link>
     <description>The malware-as-a-service model paves the way for cybercriminals with a shallow grasp of technology. Easily available and affordable, such solutions drive down the cost of a cyberattack while social engineering ploys heighten the chance for its success</description>
     <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Mysterious Werewolf develops a backdoor to strike Russian defense industry targets</title>
-    <link>https://bi.zone/eng/news/mysterious-werewolf-atakuet-rossiyskiy-vpk-sobstvennymi-instrumentami/</link>
-    <description>The group now uses its own malware instead of the legitimate open-source tool of the previous campaigns. This makes the new attacks harder to detect</description>
-    <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE WAF addresses two critical vulnerabilities in JetBrains TeamCity software</title>
-    <link>https://bi.zone/eng/news/bi-zone-waf-zashchishchaet-ot-uyazvimostey-v-jetbrains-teamcity/</link>
-    <description>We have updated the BI.ZONE WAF library of detection rules to protect JetBrains TeamCity users from new vulnerabilities</description>
-    <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>We launched BI.ZONE Cyber Polygon Platform for individual training</title>
-    <link>https://bi.zone/eng/news/my-zapustili-bi-zone-cyber-polygon-platform-dlya-individualnykh-trenirovok-po-kiberzashchite/</link>
-    <description>Now cybersecurity professionals can practice their incident investigation and threat monitoring skills at any time</description>
-    <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Scaly Wolf takes aim at Russia’s manufacturing and logistics enterprises</title>
-    <link>https://bi.zone/eng/news/scaly-wolf-atakuet-rossiyskie-promyshlennye-i-logisticheskie-predpriyatiya/</link>
-    <description>The cybercriminals target corporate data using White Snake, a stealer prohibited by its developer and vendor in Russia and other CIS countries</description>
-    <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Dates fixed for OFFZONE 2024</title>
-    <link>https://bi.zone/eng/news/obyavlyaem-daty-offzone-2024/</link>
-    <description>The next international conference on practical cybersecurity OFFZONE is scheduled for August 22–23 in Moscow. The venue will be announced later</description>
-    <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE WAF handles five vulnerabilities in GitLab</title>
-    <link>https://bi.zone/eng/news/bi-zone-waf-zashchishchaet-ot-pyati-uyazvimostey-v-gitlab/</link>
-    <description>GitLab, the company behind the open-source software development platform of the same name, reported five security vulnerabilities on January 12</description>
-    <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>ICRC releases a&amp;nbsp;report on&amp;nbsp;digital threats during armed conflict</title>
-    <link>https://bi.zone/eng/news/mkkk-vypustil-otchet-o-tsifrovykh-ugrozakh-vo-vremya-vooruzhennykh-konfliktov/</link>
-    <description>Our company is a member of the Global Advisory Board of the International Committee of the Red Cross (ICRC). We have contributed our wealth of experience to drafting recommendations that protect civilians against digital threats</description>
-    <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE is first in Russia to become attested to latest ISO/IEC 27001:2022</title>
-    <link>https://bi.zone/eng/news/my-poluchili-sertifikat-po-obnovlennomu-standartu-iso-iec-27001-2022/</link>
-    <description>An independent ISO certification and training provider has confirmed that BI.ZONE Consulting and BI.ZONE TDR (SOC/MDR) adhere to the highest standards for processing client data</description>
-    <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Rare Wolf disguises malicious attachments as 1C:Enterprise invoices</title>
-    <link>https://bi.zone/eng/news/rare-wolf-maskiruet-vredonosnye-pisma-pod-nakladnye-1s-predpriyatie/</link>
-    <description>One of the objectives was to access the Telegram accounts of employees working for Russian companies</description>
-    <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Introducing our newest research “The seven faces of darkness”</title>
-    <link>https://bi.zone/eng/news/vyshla-polnaya-versiya-issledovaniya-sem-likov-tmy/</link>
-    <description>We talk about the commercial malware that is most common in attacks on Russian organizations</description>
-    <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE WAF guards against new WordPress vulnerability</title>
-    <link>https://bi.zone/eng/news/bi-zone-waf-zashchishchaet-ot-uyazvimosti-v-wordpress/</link>
-    <description>The BI.ZONE WAF rules help to repel attacks that exploit the CVE-2023-6063 vulnerability in the popular WordPress plug-in WP Fastest Cache</description>
-    <pubDate>Wed, 22 Nov 2023 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE WAF counters critical vulnerability in Confluence</title>
-    <link>https://bi.zone/eng/news/bi-zone-waf-zashchishchaet-ot-kriticheskoy-uyazvimosti-v-confluence/</link>
-    <description>New detection rules shield Confluence users from the CVE-2023-22515 vulnerability</description>
-    <pubDate>Thu, 19 Oct 2023 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Sticky Werewolf attacks public organizations in Russia and Belarus</title>
-    <link>https://bi.zone/eng/news/gruppirovka-sticky-werewolf-atakuet-gosudarstvennye-organizatsii-rossii-i-belarusi/</link>
-    <description>Sticky Werewolf used phishing emails with malicious links to gain access to the systems of government organizations in Russia and Belarus. The links were created using Malware as a Service</description>
-    <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE to contribute to MENA ISC</title>
-    <link>https://bi.zone/eng/news/bi-zone-vystupit-na-konferentsii-po-kiberbezopasnosti-mena-isc/</link>
-    <description>We will host a panel discussion with international experts, hold several workshops, open the Cyber Polygon 2024 training, and present an overview of the trends in the GCC cyber threat landscape</description>
-    <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

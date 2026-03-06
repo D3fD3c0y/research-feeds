@@ -4,12 +4,96 @@
   <title>Blackpoint Cyber Blog (Custom Feed)</title>
   <link>https://blackpointcyber.com/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 16:57:24 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 19:19:23 GMT</lastBuildDate>
   <item>
     <title>Blog</title>
     <link>https://blackpointcyber.com/blog/</link>
     <description>Sharpen your defenses with the latest threat insights, industry trends and product updates sure to put you one step ahead of hackers – and your competition.</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:20 GMT</pubDate>
+    <pubDate>Fri, 06 Mar 2026 19:19:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>Beyond Phishing: Three More Ways Adversaries Complicate Initial Intrusion</title>
+    <link>https://blackpointcyber.com/blog/beyond-phishing-3-ways-adversaries-complicate-initial-intrusion-acsension-health-checkpoint-mandiant-orb-blackpoint-apg/</link>
+    <description>The Ascension Health incident, Checkpoint's VPN CVEs, and Mandiant research on OBR networks all show initial intrusion TTPs beyond phishing.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>5 Key Takeaways from Pax8 Beyond</title>
+    <link>https://blackpointcyber.com/blog/5-key-takeaways-from-pax8-beyond/</link>
+    <description>Confirmed by conversations at Pax8 Beyond, simplified and secure vendor partnerships that foster business growth are top of mind for MSPs.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>ChromeLoader, Malicious "Innovation Systems" Task, and RDP Abuse</title>
+    <link>https://blackpointcyber.com/blog/chromeloader-malicious-innovation-systems-scheduled-task-rdp-abuse-soc-incidents-blackpoint-apg/</link>
+    <description>The Blackpoint Active SOC team blocked more ChromeLoader attacks this week, along with threat actor abuse of RDP and scheduled tasks.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Professionalism Pays in a Competitive MSP Market</title>
+    <link>https://blackpointcyber.com/blog/professionalism-pays-in-a-competitive-msp-market/</link>
+    <description>Set your MSP business sights higher with 13 free ‘MBA for MSPs’ courses, offering best practices, training, &amp; practical advice from peers.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>DarkGate, SolarMarker, and Malicious PowerShell Commands</title>
+    <link>https://blackpointcyber.com/blog/solarmarker-darkgate-malicious-powershell-soc-incidents-blackpoint-apg/</link>
+    <description>Blackpoint analyzes a new partner onboarding with SolarMarker-infected hosts, plus incidents involving DarkGate &amp; bad PowerShell scripts.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>ChromeLoader, Telegram, RustDesk, and Tailscale</title>
+    <link>https://blackpointcyber.com/blog/chromeloader-telegram-rustdesk-tailscale-soc-incidents-blackpoint-apg/</link>
+    <description>Four different partners suffered simultaneous (but unrelated) ChromeLoader attacks this week, with additional malicious Telegram abuse.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>NTLM Credential Theft and Gootloader: Blackpoint SOC Analysis</title>
+    <link>https://blackpointcyber.com/blog/ntlm-credential-theft-gootloader-soc-incidents-blackpoint-apg/</link>
+    <description>Threat actors tried to steal credentials via NTLM through a phishing email with “meeting notes” – but the Blackpoint Active SOC stopped them!</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>MTTR and Its Importance in a SOC</title>
+    <link>https://blackpointcyber.com/blog/mttr-and-its-importance-in-a-soc/</link>
+    <description>Learn about MTTR, or Mean Time to Remediate, why the definition can vary, and how the Blackpoint SOC measures and maintains a low MTTR.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>Devos Ransomware, RDP, &amp; NetSupport RAT: SOC Analysis</title>
+    <link>https://blackpointcyber.com/blog/devos-ransomware-rdp-netsupport-rat-soc-incidents-blackpoint-apg/</link>
+    <description>Devos ransomware tried to deploy within 3 minutes of RDP compromise – but Blackpoint’s MDR+R stopped it! Active SOC analysts also blocked NetSupport RAT.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>RATs, Malicious PC Hunter, AnyDesk Abuse, and Malicious PowerShell Scripts</title>
+    <link>https://blackpointcyber.com/blog/rats-pc-hunter-anydesk-abuse-powershell-soc-incidents-blackpoint-apg/</link>
+    <description>The Blackpoint SOC exterminates RATs while ending PC Hunter and AnyDesk abuse, in this week’s incident report analysis by the APG.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>EDR vs MDR + Remediation</title>
+    <link>https://blackpointcyber.com/blog/edr-vs-mdr-remediation/</link>
+    <description>See why MSPs choose Blackpoint’s active Managed Detection Response &amp; Remediation over EDR alerts in order to beat advanced hacker tactics.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>FortiClient EMS, Ivanti, and Palo Alto</title>
+    <link>https://blackpointcyber.com/blog/forticlient-ems-ivanti-and-palo-alto/</link>
+    <description>The APG discusses the MITRE ATT&amp;CK technique T1190, aka 'Exploit Public-Facing Application,' with the example of the FortiClient EMS vulnerability.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>From the Desk of Blackpoint’s New CTPO | My Journey to Blackpoint and Where We Go From Here</title>
+    <link>https://blackpointcyber.com/blog/from-the-desk-of-blackpoints-new-ctpo-my-journey-to-blackpoint-and-where-we-go-from-here/</link>
+    <description>Manoj Srivastava, Blackpoint’s new CTPO, on his decision to join Blackpoint and his vision for our MDR+R technology going forward.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:23 GMT</pubDate>
+  </item>
+  <item>
+    <title>Sangria Tempest, SocGholish, and BITS Download</title>
+    <link>https://blackpointcyber.com/blog/sangria-tempest-socgholish-activex-bits-download-soc-incidents-blackpoint-apg/</link>
+    <description>Blackpoint's Active-SOC blocked SOCGholish’s abuse of ActiveX &amp; stopped a malicious BITS download, masked by a double file-name extension.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:23 GMT</pubDate>
   </item>
   <item>
     <title>LuminousMoth, Tnega Malware, Advanced IP Scanner, RDP Abuse, and SolarMarker</title>
@@ -100,84 +184,6 @@
     <link>https://blackpointcyber.com/blog/blackpoint-cyber-is-riding-high-in-the-cloud-in-g2s-fall-2024-badges/</link>
     <description>G2's Fall 2024 badge recognition highlights our dedication to delivering exceptional cybersecurity solutions and the trust our customers place in our team.</description>
     <pubDate>Fri, 06 Mar 2026 16:23:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>Bringing Layered Defense to WatchGuard Partners</title>
-    <link>https://blackpointcyber.com/blog/bringing-layered-defense-to-watchguard-partners/</link>
-    <description>Blackpoint now integrates with WatchGuard EDR, bringing rapid response to WatchGuard’s endpoint detection for MSPs.</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Be the Boss of Your Own Cloud Security Strategy</title>
-    <link>https://blackpointcyber.com/blog/be-the-boss-of-your-own-cloud-security-strategy/</link>
-    <description>Take control of your cloud security strategy. Learn about the shared responsibility model and how to protect your business from evolving threats in the cloud.</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Blackpoint’s Partner Program: Where Security and Scale Unite</title>
-    <link>https://blackpointcyber.com/blog/blackpoints-partner-program-where-security-and-scale-unite/</link>
-    <description>Now Live, Blackpoint Global Partner Program to scale MSP businesses confidently with flexible security solutions, tailored support, and growth-driven resources</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Blackpoint's POV on the CrowdStrike Update Incident: A Lesson in Endpoint Protection</title>
-    <link>https://blackpointcyber.com/blog/blackpoints-pov-on-the-crowdstrike-update-incident-a-lesson-in-endpoint-protection/</link>
-    <description>Explore Blackpoint's take on the CrowdStrike incident and our unique approach to endpoint protection. Discover how we blend agility and stability in cybersecurity.</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Managed Application Control is Stronger Than Ever – Adding 3 Additional Block Categories</title>
-    <link>https://blackpointcyber.com/blog/managed-application-control-is-stronger-than-ever-adding-3-additional-block-categories/</link>
-    <description>Blackpoint Cyber’s Managed Application Control has expanded its recommended block list to enhance protection against attackers that abuse legitimate software.</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Alert: New Critical Veeam CVEs Expose Backups to Ransomware Gangs</title>
-    <link>https://blackpointcyber.com/blog/critical-veeam-cves-expose-backups-ransomware-apg/</link>
-    <description>Update Veeam VBR to avoid ransomware gangs corrupting file backups, exfiltrating credentials, and unauthenticated remote code execution.</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Alert: Active Exploit of Critical SonicWall CVE via SSLVPN for Initial Access</title>
-    <link>https://blackpointcyber.com/blog/active-exploit-critical-sonicwall-cve-sslvpn-initial-access-apg-alert/</link>
-    <description>Both SonicWall and Blackpoint's Active SOC report active exploitation of SSLVPN for initial access by threat actors. Patch immediately!</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Raspberry Robin, ScreenConnect, AteraAgent, RDP, whoami, &amp; SharpShares</title>
-    <link>https://blackpointcyber.com/blog/raspberry-robin-screenconnect-ateraagent-rdp-whoami-sharpshares-soc-incidents-blackpoint-apg/</link>
-    <description>From compromised RDP sessions to failed installations of ScreenConnect and AteraAgent – threat actors keep abusing legitimate tools, processes, and commands.</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Vanilla Tempest, Oyster Backdoor, NetSupport RAT, and Unknown Infostealers</title>
-    <link>https://blackpointcyber.com/blog/vanilla-tempest-oyster-backdoor-netsupport-unknown-infostealers-soc-incidents-blackpoint-apg/</link>
-    <description>Vanilla Tempest uses Oyster Backdoor &amp; Gootloader with creative scheduled tasks, while unknown infostealers try to reach a Dutch VPS.</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Asorult Stealer, AsyncRAT, and Trojan Malware: The Blackpoint Active SOC's Week in Review for August 30, 2024</title>
-    <link>https://blackpointcyber.com/blog/asorult-stealer-asyncrat-trojan-malware-apg/</link>
-    <description>Blackpoint's Active SOC team blocked multiple infostealer infections, from Asorult Stealer to AsyncRAT, for Technology &amp; Industrial partners.</description>
-    <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Greenshot, AnyDesk, TeamViewer, Classroom Spy Pro, ProcDump, &amp; Mimikatz</title>
-    <link>https://blackpointcyber.com/blog/greenshot-anydesk-teamviewer-classroom-spy-pro-procdump-mimikatz-apg/</link>
-    <description>Threat analysis rarely report on Greenshot and Classroom Spy Pro – until threat actors tried them against Blackpoint-protected environments.</description>
-    <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>AsyncRAT, Lumma Stealer, and Ransomhub Ransomware</title>
-    <link>https://blackpointcyber.com/blog/asyncrat-lumma-stealer-infostealer-ransomhub-ransomware-soc-incidents-blackpoint-apg/</link>
-    <description>An onboarding Legal Services client got a shock when our Active SOC uncovered an advanced, previously unknown Ransomhub infection!</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>MITRE ATT&amp;CK T1091: Replication Through Removable Media</title>
-    <link>https://blackpointcyber.com/blog/mitre-attck-t1091-replication-through-removable-media-threat-digest-blackpoint-apg/</link>
-    <description>Review MITRE ATT&amp;CK Initial Access tactic T1091 through a recent real-life incident with a Raspberry Robin-infected USB drive.</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:24 GMT</pubDate>
   </item>
 </channel>
 </rss>

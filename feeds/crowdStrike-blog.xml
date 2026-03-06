@@ -4,7 +4,97 @@
   <title>CrowdStrike Blog (Custom Feed)</title>
   <link>https://www.crowdstrike.com/en-us/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 16:58:36 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 19:19:52 GMT</lastBuildDate>
+  <item>
+    <title>Read Featured Executive Viewpoint Article by George Kurtz</title>
+    <link>https://www.crowdstrike.com/blog/crowdstrike-launch/</link>
+    <description>CrowdStrike launches in stealth-mode with $26 million Series A round led b Warburg Pincus.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:50 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike Intelligence - Adversary-based Approach - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/crowdstrike-intelligence-adversary-based-approach/</link>
+    <description>Having spent the better part of the last 10 years dealing with various cyber adversaries. Learn what companies have been doing to counter these attacks.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:50 GMT</pubDate>
+  </item>
+  <item>
+    <title>Unpacking Dynamically Allocated Code - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/unpacking-dynamically-allocated-code/</link>
+    <description>Most malware is obfuscated to make it more difficult for traditional antivirus engines to detect, here we discuss a non-manual method to unpack malware.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:50 GMT</pubDate>
+  </item>
+  <item>
+    <title>HTTP iframe Injecting Linux Rootkit - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/http-iframe-injecting-linux-rootkit/</link>
+    <description>Learn about the HTTP iframe injecting Linux Rootkit discovered in 2012 with CrowdStrike &amp; their personal findings on this threat.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:50 GMT</pubDate>
+  </item>
+  <item>
+    <title>Free Community Tool: CrowdInspect</title>
+    <link>https://www.crowdstrike.com/blog/free-community-tool-crowdinspect/</link>
+    <description>CrowdInspect is a free community tool for Microsoft Windows systems from CrowdStrike aimed to help alert you to potential malware. Learn more!</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>Anchor Panda | Threat Actor Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/blog/whois-anchor-panda/</link>
+    <description>Anchor Panda is a China-based group of hackers that target civilian and military maritime operations. Learn about their aliases, targets, methods, more.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>Read Featured Article "Whois Numbered Panda" by Adam Meyers</title>
+    <link>https://www.crowdstrike.com/blog/whois-numbered-panda/</link>
+    <description>Learn with CrowdStrike as they discuss Chinese-based hackers &amp; how there are multiple groups with different tactics, techniques, &amp; practices!</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>Clever Kitten | Threat Actor Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/blog/whois-clever-kitten/</link>
+    <description>Clever Kitten is an Iran-based group of hackers that primarily target global companies with strategic importance to countries that are contrary to Iranian interests.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>Samurai Panda | Threat Actor Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/blog/whois-samurai-panda/</link>
+    <description>Operation since 2009, Samurai Panda is a China-based criminal organization that use malware to target various industries across the Asian-Pacific.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>DNS - The Lifeblood of your Domain - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/dns-lifeblood-your-domain/</link>
+    <description>As the situation on the ground in Syria continues to deteriorate, the Syrian Electronic Army (SEA) has made quite a few waves. Learn more on the situation!</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>VICEROY TIGER Delivers New Zero-Day Exploit - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/viceroy-tiger-delivers-new-zero-day-exploit/</link>
+    <description>Learn more about how VICEROY TIGER delivers new zero-day exploit &amp; other breaking cybersecurity news here on the CrowdStrike blog!</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>Analysis of a CVE-2013-3906 Exploit - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/analysis-cve-2013-3906-exploit/</link>
+    <description>Many of CrowdStrike’s customers are often targeted by email phishing campaigns and strategic web compromises. Learn more about these attacks.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Evolution of Protected Processes Part 2 - CrowdStrike</title>
+    <link>https://www.crowdstrike.com/blog/evolution-protected-processes-part-2-exploitjailbreak-mitigations-unkillable-processes-and/</link>
+    <description>Learn how Windows protected process light guards critical system processes against modification. CrowdStrike also covers how services can now be configured to run as a PPL, and how the PPL concept brings yet another twist to the unkillable process argument and semantics.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Protected Processes Part 3: Windows PKI Internals</title>
+    <link>https://www.crowdstrike.com/blog/protected-processes-part-3-windows-pki-internals-signing-levels-scenarios-signers-root-keys/</link>
+    <description>Protected Processes in Windows 8.1 Part Three: Taking a look at cryptographic security and how it protects a system. Click to read more!</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Through the Window: Creative Code Invocation - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/through-window-creative-code-invocation/</link>
+    <description>While analyzing a targeted attack, CrowdStrike observed an interesting code invocation technique that we want to describe here on our blog, click to read.</description>
+    <pubDate>Fri, 06 Mar 2026 19:19:52 GMT</pubDate>
+  </item>
   <item>
     <title>https://www.crowdstrike.com/en-us/blog/ — sitemap had no items</title>
     <link>https://www.crowdstrike.com/en-us/blog/</link>
