@@ -4,97 +4,7 @@
   <title>Abstract Security Blog (Custom Feed)</title>
   <link>https://www.abstract.security/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Thu, 05 Mar 2026 18:16:25 GMT</lastBuildDate>
-  <item>
-    <title>10 Cybersecurity Focus Areas That Actually Move the Needle</title>
-    <link>https://www.abstract.security/blog/10-cybersecurity-focus-areas-that-actually-move-the-needle</link>
-    <description>10 Cybersecurity Focus Areas That Actually Move the Needle</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Abstract Security Named in SACR’s 2025 SDPP Market Guide: The Rise of Security Data Pipelines</title>
-    <link>https://www.abstract.security/blog/2025-security-data-pipeline-platforms-market-guide</link>
-    <description>Abstract Security Named in SACR’s 2025 SDPP Market Guide: The Rise of Security Data Pipelines</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>90% of Your Splunk Data Is Helping Attackers, Not Analysts</title>
-    <link>https://www.abstract.security/blog/90-of-your-splunk-data-is-helping-attackers-not-analysts</link>
-    <description>Most Splunk environments contain 90%+ data that&amp;#39;s never read—driving up costs and creating noise that obscures real threats. Our free app analyzes your indexes and sourcetypes to show you where the waste is and what you can safely cut.</description>
-    <pubDate>Thu, 19 Feb 2026 14:55:31 GMT</pubDate>
-  </item>
-  <item>
-    <title>Abstract and Chris Camacho: Threat intelligence - the next evolution</title>
-    <link>https://www.abstract.security/blog/abstract-and-chris-camacho-threat-intelligence-the-next-evolution</link>
-    <description>Abstract and Chris Camacho: Threat intelligence - the next evolution</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Abstract Joins Torq AMP Alliance Program to Accelerate Agentic SecOps</title>
-    <link>https://www.abstract.security/blog/abstract-joins-torq-amp-alliance-program-to-accelerate-agentic-secops</link>
-    <description>Abstract joins the Torq AMP Alliance to accelerate agentic SecOps by combining pipeline-first detection engineering with AI-driven SOC automation.</description>
-    <pubDate>Mon, 16 Feb 2026 20:42:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Abstract Security + Amazon Security Lake + OCSF = Upgraded Security Data Management!</title>
-    <link>https://www.abstract.security/blog/abstract-security-amazon-security-lake-ocsf-upgraded-security-data-management</link>
-    <description>Abstract Security + Amazon Security Lake + OCSF = Upgraded Security Data Management!</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Abstract Security Joins Forces with Analytica42 to Supercharge Integration Delivery to Google SecOps and More</title>
-    <link>https://www.abstract.security/blog/abstract-security-joins-forces-with-analytica42-to-supercharge-integration-delivery-to-google-secops-and-more</link>
-    <description>Abstract Security Joins Forces with Analytica42 to Supercharge Integration Delivery to Google SecOps and More</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Abstract Security Partners with Netskope to turn Security Data into Real-Time Decisions</title>
-    <link>https://www.abstract.security/blog/abstract-security-partners-with-netskope-to-turn-security-data-into-real-time-decisions</link>
-    <description>Abstract Security, the leader in streaming-first security data operations, today announced a partnership with Netskope to provide joint customers the ability to bring detection directly into the data stream.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Abstract Security Welcomes OmegaBlack To Growing Roster of New Customers</title>
-    <link>https://www.abstract.security/blog/abstract-security-welcomes-omegablack-to-growing-roster-of-new-customers</link>
-    <description>Abstract Security, building the future of AI enabled security operations, today announced it has added threat intelligence expert OmegaBlack along with several new MSSP customers over the past two months.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>AI Agents and Automated SOCs: Centering End-to-End Workflows for Real Impact</title>
-    <link>https://www.abstract.security/blog/ai-agents-and-automated-socs-centering-end-to-end-workflows-for-real-impact</link>
-    <description>AI agents can streamline security operations—but only when built on clean data and end-to-end workflows. Learn how automation reduces noise and strengthens the modern SOC.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Automating macOS Incident Response: DFIR-as-Code in Action Against AppleProcessHub</title>
-    <link>https://www.abstract.security/blog/automating-macos-incident-response-dfir-as-code-in-action-against-appleprocesshub</link>
-    <description>Learn how DFIR-as-Code transforms MacOS incident response by automating forensic processes, enhancing efficiency, and reducing human error.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Breaking the SIEM Mold: Security Data Operations &amp;amp; What’s Next | Live at Black Hat</title>
-    <link>https://www.abstract.security/blog/breaking-the-siem-mold-security-data-operations-whats-next-live-at-black-hat</link>
-    <description>Breaking the SIEM Mold: Security Data Operations &amp;amp;amp; What’s Next | Live at Black Hat</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: Achieving Fortune 50 Security With a SMB Budget</title>
-    <link>https://www.abstract.security/blog/c2-corner-achieving-fortune-50-security-with-a-smb-budget</link>
-    <description>C2 Corner: Achieving Fortune 50 Security With a SMB Budget</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: Detection Doesn’t Fail First: Data Does</title>
-    <link>https://www.abstract.security/blog/c2-corner-detection-doesnt-fail-first-data-does</link>
-    <description>Detection doesn’t fail because teams lack skill. It fails when telemetry, data pipelines, and security engineering aren’t built for modern detection.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: How I Mentor</title>
-    <link>https://www.abstract.security/blog/c2-corner-how-i-mentor</link>
-    <description>Jim Routh shares the mentoring principles and habits he’s relied on for decades to help CISOs and security leaders grow through ambiguity, responsibility, and trust.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
+  <lastBuildDate>Fri, 06 Mar 2026 02:47:57 GMT</lastBuildDate>
   <item>
     <title>C2 Corner: Rebooting Security Operations: Mission First, People Always</title>
     <link>https://www.abstract.security/blog/c2-corner-rebooting-security-operations-mission-first-people-always</link>
@@ -183,6 +93,96 @@
     <title>Enabling the MongoDB Logging Firehose</title>
     <link>https://www.abstract.security/blog/enabling-the-mongodb-logging-firehose</link>
     <description>MongoBleed exposed how quickly MongoDB logging can explode under attack. Learn which logs matter, how verbosity impacts volume, and how to preserve security signal without overwhelming your pipeline.</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>10 Cybersecurity Focus Areas That Actually Move the Needle</title>
+    <link>https://www.abstract.security/blog/10-cybersecurity-focus-areas-that-actually-move-the-needle</link>
+    <description>10 Cybersecurity Focus Areas That Actually Move the Needle</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Abstract Security Named in SACR’s 2025 SDPP Market Guide: The Rise of Security Data Pipelines</title>
+    <link>https://www.abstract.security/blog/2025-security-data-pipeline-platforms-market-guide</link>
+    <description>Abstract Security Named in SACR’s 2025 SDPP Market Guide: The Rise of Security Data Pipelines</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>90% of Your Splunk Data Is Helping Attackers, Not Analysts</title>
+    <link>https://www.abstract.security/blog/90-of-your-splunk-data-is-helping-attackers-not-analysts</link>
+    <description>Most Splunk environments contain 90%+ data that&amp;#39;s never read—driving up costs and creating noise that obscures real threats. Our free app analyzes your indexes and sourcetypes to show you where the waste is and what you can safely cut.</description>
+    <pubDate>Thu, 19 Feb 2026 14:55:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Abstract and Chris Camacho: Threat intelligence - the next evolution</title>
+    <link>https://www.abstract.security/blog/abstract-and-chris-camacho-threat-intelligence-the-next-evolution</link>
+    <description>Abstract and Chris Camacho: Threat intelligence - the next evolution</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Abstract Joins Torq AMP Alliance Program to Accelerate Agentic SecOps</title>
+    <link>https://www.abstract.security/blog/abstract-joins-torq-amp-alliance-program-to-accelerate-agentic-secops</link>
+    <description>Abstract joins the Torq AMP Alliance to accelerate agentic SecOps by combining pipeline-first detection engineering with AI-driven SOC automation.</description>
+    <pubDate>Mon, 16 Feb 2026 20:42:25 GMT</pubDate>
+  </item>
+  <item>
+    <title>Abstract Security + Amazon Security Lake + OCSF = Upgraded Security Data Management!</title>
+    <link>https://www.abstract.security/blog/abstract-security-amazon-security-lake-ocsf-upgraded-security-data-management</link>
+    <description>Abstract Security + Amazon Security Lake + OCSF = Upgraded Security Data Management!</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Abstract Security Joins Forces with Analytica42 to Supercharge Integration Delivery to Google SecOps and More</title>
+    <link>https://www.abstract.security/blog/abstract-security-joins-forces-with-analytica42-to-supercharge-integration-delivery-to-google-secops-and-more</link>
+    <description>Abstract Security Joins Forces with Analytica42 to Supercharge Integration Delivery to Google SecOps and More</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Abstract Security Partners with Netskope to turn Security Data into Real-Time Decisions</title>
+    <link>https://www.abstract.security/blog/abstract-security-partners-with-netskope-to-turn-security-data-into-real-time-decisions</link>
+    <description>Abstract Security, the leader in streaming-first security data operations, today announced a partnership with Netskope to provide joint customers the ability to bring detection directly into the data stream.</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Abstract Security Welcomes OmegaBlack To Growing Roster of New Customers</title>
+    <link>https://www.abstract.security/blog/abstract-security-welcomes-omegablack-to-growing-roster-of-new-customers</link>
+    <description>Abstract Security, building the future of AI enabled security operations, today announced it has added threat intelligence expert OmegaBlack along with several new MSSP customers over the past two months.</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI Agents and Automated SOCs: Centering End-to-End Workflows for Real Impact</title>
+    <link>https://www.abstract.security/blog/ai-agents-and-automated-socs-centering-end-to-end-workflows-for-real-impact</link>
+    <description>AI agents can streamline security operations—but only when built on clean data and end-to-end workflows. Learn how automation reduces noise and strengthens the modern SOC.</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Automating macOS Incident Response: DFIR-as-Code in Action Against AppleProcessHub</title>
+    <link>https://www.abstract.security/blog/automating-macos-incident-response-dfir-as-code-in-action-against-appleprocesshub</link>
+    <description>Learn how DFIR-as-Code transforms MacOS incident response by automating forensic processes, enhancing efficiency, and reducing human error.</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Breaking the SIEM Mold: Security Data Operations &amp;amp; What’s Next | Live at Black Hat</title>
+    <link>https://www.abstract.security/blog/breaking-the-siem-mold-security-data-operations-whats-next-live-at-black-hat</link>
+    <description>Breaking the SIEM Mold: Security Data Operations &amp;amp;amp; What’s Next | Live at Black Hat</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>C2 Corner: Achieving Fortune 50 Security With a SMB Budget</title>
+    <link>https://www.abstract.security/blog/c2-corner-achieving-fortune-50-security-with-a-smb-budget</link>
+    <description>C2 Corner: Achieving Fortune 50 Security With a SMB Budget</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>C2 Corner: Detection Doesn’t Fail First: Data Does</title>
+    <link>https://www.abstract.security/blog/c2-corner-detection-doesnt-fail-first-data-does</link>
+    <description>Detection doesn’t fail because teams lack skill. It fails when telemetry, data pipelines, and security engineering aren’t built for modern detection.</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>C2 Corner: How I Mentor</title>
+    <link>https://www.abstract.security/blog/c2-corner-how-i-mentor</link>
+    <description>Jim Routh shares the mentoring principles and habits he’s relied on for decades to help CISOs and security leaders grow through ambiguity, responsibility, and trust.</description>
     <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
   </item>
 </channel>

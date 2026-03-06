@@ -4,7 +4,97 @@
   <title>Binary Defense Blog (Custom Feed)</title>
   <link>https://binarydefense.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Thu, 05 Mar 2026 18:18:42 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 02:48:32 GMT</lastBuildDate>
+  <item>
+    <title>Detecting Follina Exploits Using a Remote Answer File</title>
+    <link>https://binarydefense.com/resources/blog/detecting-follina-exploits-using-a-remote-answer-file</link>
+    <description>The threat hunting team found that by using an “answer file” hosted on a remote SMB server containing all the suspicious command line arguments in the…</description>
+    <pubDate>Fri, 06 Mar 2026 02:48:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>What CVE-2025-53770 Teaches Us About Zero-Day Reality and Ransomware…</title>
+    <link>https://binarydefense.com/resources/blog/what-cve-2025-53770-teaches-us-about-zero-day-reality-and-ransomware-routine</link>
+    <description>CVE-2025-53770 is a critical SharePoint RCE flaw. The goals certainly don’t. The Exploit Chain: Familiar Steps, Different Stage At its core,…</description>
+    <pubDate>Fri, 06 Mar 2026 02:48:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why NIST CSF 2.0 Makes Sense for Mid-Market and Growing Businesses</title>
+    <link>https://binarydefense.com/resources/blog/why-nist-csf-2-0-makes-sense-for-mid-market-and-growing-businesses</link>
+    <description>For these businesses, building a scalable, cost-effective cybersecurity program isn’t optional – it’s essential. The NIST Cybersecurity Framework 2.0…</description>
+    <pubDate>Fri, 06 Mar 2026 02:48:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>What It Means When We Say “Security Is a Data Problem”</title>
+    <link>https://binarydefense.com/resources/blog/what-it-means-when-we-say-security-is-a-data-problem</link>
+    <description>Cybersecurity is a data problem—too much noise, not enough context. Learn how Binary Defense uses an attacker’s mindset, tailored detection, and…</description>
+    <pubDate>Fri, 06 Mar 2026 02:48:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>RMM: Tool Convenience and Control Comes with a Cost</title>
+    <link>https://binarydefense.com/resources/blog/rmm-tool-convenience-and-control-comes-with-a-cost</link>
+    <description>Lessons From the Field: How a Global Motion Control Company Transformed Its Security Operations through Binary Defense MDR</description>
+    <pubDate>Fri, 06 Mar 2026 02:48:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>Analyzing LummaStealer’s FakeCAPTCHA Delivery Tactics</title>
+    <link>https://binarydefense.com/resources/blog/analyzing-lummastealers-fakecaptcha-delivery-tactics</link>
+    <description>(AhnLab Security Intelligence Center) The attacker then directs the victim to run a command manually by: Pressing Windows + R to open the Run prompt…</description>
+    <pubDate>Fri, 06 Mar 2026 02:48:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>A Look at a Novel Discord Phishing Attack</title>
+    <link>https://binarydefense.com/resources/blog/a-look-at-a-novel-discord-phishing-attack</link>
+    <description>In this particular scheme, attackers use already-compromised Discord accounts to send out phishing messages. Attackers used the compromised Discord…</description>
+    <pubDate>Fri, 06 Mar 2026 02:48:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cyber Resilience is More Than a Buzzword</title>
+    <link>https://binarydefense.com/resources/blog/cyber-resilience-is-more-than-a-buzzword</link>
+    <description>For business leaders, cyber resilience ensures continuity in the face of disruption. For practitioners, it’s about having the right tools, processes, and…</description>
+    <pubDate>Fri, 06 Mar 2026 02:48:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Lessons From the Field: How a Global Motion Control Company…</title>
+    <link>https://binarydefense.com/resources/blog/lessons-from-the-field-how-a-global-motion-control-company-transformed-its-security-operations</link>
+    <description>Lessons From the Field: How a Global Motion Control Company Transformed Its Security Operations through Binary Defense MDR</description>
+    <pubDate>Fri, 06 Mar 2026 02:48:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Analysis of a JavaScript-based Phishing Campaign Targeting Microsoft…</title>
+    <link>https://binarydefense.com/resources/blog/analysis-of-a-javascript-based-phishing-campaign-targeting-microsoft-365-credentials</link>
+    <description>A notable method involves embedding malicious JavaScript within HTML files—a tactic known as "HTML smuggling"—which allows the code to execute when the…</description>
+    <pubDate>Fri, 06 Mar 2026 02:48:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cleo MFT Mass Exploitation Payload Analysis</title>
+    <link>https://binarydefense.com/resources/blog/cleo-mft-mass-exploitation-payload-analysis</link>
+    <description>Overview of the Three Stages The attack progresses in three distinct stages: Stage 1 : A PowerShell script initiates the attack by downloading and…</description>
+    <pubDate>Fri, 06 Mar 2026 02:48:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Lessons from the Field: How a Manufacturing Giant Transformed Its…</title>
+    <link>https://binarydefense.com/resources/blog/lessons-from-the-field-how-a-manufacturing-giant-transformed-its-security-posture</link>
+    <description>In less than a year, this manufacturing giant went from struggling to secure its sprawling operations to building a robust, efficient, and scalable…</description>
+    <pubDate>Fri, 06 Mar 2026 02:48:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Rhadamanthys Stealer Analysis for Detection Opportunities</title>
+    <link>https://binarydefense.com/resources/blog/rhadamanthys-stealer-analysis-for-detection-opportunities</link>
+    <description>Written by ARC Labs contributor, Shannon Mong Threat Overview Binary Defense ARC Labs’ threat researchers recently dissected a Rhadamanthys Stealer…</description>
+    <pubDate>Fri, 06 Mar 2026 02:48:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>How to Define Your Security Objectives Before Choosing an MDR…</title>
+    <link>https://binarydefense.com/resources/blog/how-to-define-your-security-objectives-before-choosing-an-mdr-provider</link>
+    <description>Its more important than ever to choose the right MDR provider. Before you start evaluating, it's crucial to step back and define your security objectives.</description>
+    <pubDate>Fri, 06 Mar 2026 02:48:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>Shining a Light in the Dark – How Binary Defense Uncovered an APT…</title>
+    <link>https://binarydefense.com/resources/blog/shining-a-light-in-the-dark-how-binary-defense-uncovered-an-apt-lurking-in-shadows-of-it</link>
+    <description>Timeline of the Attacker's Activity Attacker access one of the AIX servers using the default credentials for the Apache AXIS Admin portal Attacker…</description>
+    <pubDate>Fri, 06 Mar 2026 02:48:32 GMT</pubDate>
+  </item>
   <item>
     <title>NightBeacon: AI as a Force Multiplier in Cybersecurity</title>
     <link>https://binarydefense.com/resources/blog/ai-as-a-force-multiplier-in-cybersecurity</link>
@@ -94,96 +184,6 @@
     <link>https://binarydefense.com/resources/blog/defendnot-turning-windows-defender-against-itself</link>
     <description>Rather than tampering with Defender processes or registry keys, DefendNot takes a different approach by registering a fake antivirus through the Windows…</description>
     <pubDate>Thu, 05 Mar 2026 18:18:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>Detecting Follina Exploits Using a Remote Answer File</title>
-    <link>https://binarydefense.com/resources/blog/detecting-follina-exploits-using-a-remote-answer-file</link>
-    <description>The threat hunting team found that by using an “answer file” hosted on a remote SMB server containing all the suspicious command line arguments in the…</description>
-    <pubDate>Thu, 05 Mar 2026 08:59:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>What CVE-2025-53770 Teaches Us About Zero-Day Reality and Ransomware…</title>
-    <link>https://binarydefense.com/resources/blog/what-cve-2025-53770-teaches-us-about-zero-day-reality-and-ransomware-routine</link>
-    <description>CVE-2025-53770 is a critical SharePoint RCE flaw. The goals certainly don’t. The Exploit Chain: Familiar Steps, Different Stage At its core,…</description>
-    <pubDate>Thu, 05 Mar 2026 08:59:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Why NIST CSF 2.0 Makes Sense for Mid-Market and Growing Businesses</title>
-    <link>https://binarydefense.com/resources/blog/why-nist-csf-2-0-makes-sense-for-mid-market-and-growing-businesses</link>
-    <description>For these businesses, building a scalable, cost-effective cybersecurity program isn’t optional – it’s essential. The NIST Cybersecurity Framework 2.0…</description>
-    <pubDate>Thu, 05 Mar 2026 08:59:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>What It Means When We Say “Security Is a Data Problem”</title>
-    <link>https://binarydefense.com/resources/blog/what-it-means-when-we-say-security-is-a-data-problem</link>
-    <description>Cybersecurity is a data problem—too much noise, not enough context. Learn how Binary Defense uses an attacker’s mindset, tailored detection, and…</description>
-    <pubDate>Thu, 05 Mar 2026 08:59:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>RMM: Tool Convenience and Control Comes with a Cost</title>
-    <link>https://binarydefense.com/resources/blog/rmm-tool-convenience-and-control-comes-with-a-cost</link>
-    <description>Lessons From the Field: How a Global Motion Control Company Transformed Its Security Operations through Binary Defense MDR</description>
-    <pubDate>Thu, 05 Mar 2026 08:59:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Analyzing LummaStealer’s FakeCAPTCHA Delivery Tactics</title>
-    <link>https://binarydefense.com/resources/blog/analyzing-lummastealers-fakecaptcha-delivery-tactics</link>
-    <description>(AhnLab Security Intelligence Center) The attacker then directs the victim to run a command manually by: Pressing Windows + R to open the Run prompt…</description>
-    <pubDate>Thu, 05 Mar 2026 08:59:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>A Look at a Novel Discord Phishing Attack</title>
-    <link>https://binarydefense.com/resources/blog/a-look-at-a-novel-discord-phishing-attack</link>
-    <description>In this particular scheme, attackers use already-compromised Discord accounts to send out phishing messages. Attackers used the compromised Discord…</description>
-    <pubDate>Thu, 05 Mar 2026 08:59:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cyber Resilience is More Than a Buzzword</title>
-    <link>https://binarydefense.com/resources/blog/cyber-resilience-is-more-than-a-buzzword</link>
-    <description>For business leaders, cyber resilience ensures continuity in the face of disruption. For practitioners, it’s about having the right tools, processes, and…</description>
-    <pubDate>Thu, 05 Mar 2026 08:59:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Lessons From the Field: How a Global Motion Control Company…</title>
-    <link>https://binarydefense.com/resources/blog/lessons-from-the-field-how-a-global-motion-control-company-transformed-its-security-operations</link>
-    <description>Lessons From the Field: How a Global Motion Control Company Transformed Its Security Operations through Binary Defense MDR</description>
-    <pubDate>Thu, 05 Mar 2026 08:59:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Analysis of a JavaScript-based Phishing Campaign Targeting Microsoft…</title>
-    <link>https://binarydefense.com/resources/blog/analysis-of-a-javascript-based-phishing-campaign-targeting-microsoft-365-credentials</link>
-    <description>A notable method involves embedding malicious JavaScript within HTML files—a tactic known as "HTML smuggling"—which allows the code to execute when the…</description>
-    <pubDate>Thu, 05 Mar 2026 08:59:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cleo MFT Mass Exploitation Payload Analysis</title>
-    <link>https://binarydefense.com/resources/blog/cleo-mft-mass-exploitation-payload-analysis</link>
-    <description>Overview of the Three Stages The attack progresses in three distinct stages: Stage 1 : A PowerShell script initiates the attack by downloading and…</description>
-    <pubDate>Thu, 05 Mar 2026 08:59:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Lessons from the Field: How a Manufacturing Giant Transformed Its…</title>
-    <link>https://binarydefense.com/resources/blog/lessons-from-the-field-how-a-manufacturing-giant-transformed-its-security-posture</link>
-    <description>In less than a year, this manufacturing giant went from struggling to secure its sprawling operations to building a robust, efficient, and scalable…</description>
-    <pubDate>Thu, 05 Mar 2026 08:59:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Rhadamanthys Stealer Analysis for Detection Opportunities</title>
-    <link>https://binarydefense.com/resources/blog/rhadamanthys-stealer-analysis-for-detection-opportunities</link>
-    <description>Written by ARC Labs contributor, Shannon Mong Threat Overview Binary Defense ARC Labs’ threat researchers recently dissected a Rhadamanthys Stealer…</description>
-    <pubDate>Thu, 05 Mar 2026 08:59:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>How to Define Your Security Objectives Before Choosing an MDR…</title>
-    <link>https://binarydefense.com/resources/blog/how-to-define-your-security-objectives-before-choosing-an-mdr-provider</link>
-    <description>Its more important than ever to choose the right MDR provider. Before you start evaluating, it's crucial to step back and define your security objectives.</description>
-    <pubDate>Thu, 05 Mar 2026 08:59:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Shining a Light in the Dark – How Binary Defense Uncovered an APT…</title>
-    <link>https://binarydefense.com/resources/blog/shining-a-light-in-the-dark-how-binary-defense-uncovered-an-apt-lurking-in-shadows-of-it</link>
-    <description>Timeline of the Attacker's Activity Attacker access one of the AIX servers using the default credentials for the Apache AXIS Admin portal Attacker…</description>
-    <pubDate>Thu, 05 Mar 2026 08:59:26 GMT</pubDate>
   </item>
 </channel>
 </rss>

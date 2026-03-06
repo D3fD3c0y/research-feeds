@@ -4,7 +4,97 @@
   <title>Abnormal Security Threat Intel Blog (Custom Feed)</title>
   <link>https://abnormal.ai/threat-intelligence/blog?category=threat-intel</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Thu, 05 Mar 2026 18:16:21 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 02:47:54 GMT</lastBuildDate>
+  <item>
+    <title>Cybersecurity Skills Gap: How Security Leaders Adapt</title>
+    <link>https://abnormal.ai/blog/cybersecurity-skills-gap-solutions</link>
+    <description>Discover how security leaders are closing the cybersecurity skills gap through role restructuring, internal development, and AI-driven automation.</description>
+    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Email Fraud Wire Transfer Attacks: A Prevention Framework</title>
+    <link>https://abnormal.ai/blog/email-fraud-wire-transfer-prevention</link>
+    <description>Learn how email fraud wire transfer attacks bypass traditional security and discover a layered prevention framework to protect your organization.</description>
+    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cloud Threat Prevention: Detection Methods Explained</title>
+    <link>https://abnormal.ai/blog/threat-prevention-for-cloud</link>
+    <description>Discover how cloud threat prevention stops email-borne attacks targeting your infrastructure. Learn behavioral AI strategies to detect account takeover and BEC.</description>
+    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI Cybersecurity Threats in 2026 and the Rise of Behavioral Detection</title>
+    <link>https://abnormal.ai/blog/ai-cybersecurity-threats</link>
+    <description>Explore how AI cybersecurity threats bypass traditional defenses and why behavioral AI catches attacks that SEG misses.</description>
+    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Awareness to Action: AI Powers the Shift to Human Risk Management</title>
+    <link>https://abnormal.ai/blog/security-awareness-to-human-risk-management</link>
+    <description>Security awareness training is shifting from generic compliance to measurable human risk management. Abnormal AI's Field CISO explains how AI drives real behavior change across the organization.</description>
+    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Types of Email Scams Targeting Enterprises in 2026</title>
+    <link>https://abnormal.ai/blog/types-of-email-scams</link>
+    <description>Discover the types of email scams targeting enterprises—BEC, VEC, and account takeover—and how behavioral AI detects attacks without malicious payloads.</description>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>From Operator to Builder: Why Stephen Harrison Joined Abnormal to Shape the Next Generation of Security</title>
+    <link>https://abnormal.ai/blog/stephen-harrison-vp-product-ai-native-security</link>
+    <description>Abnormal welcomes Stephen Harrison as VP of Product, Next Gen Products, to expand its behavioral AI security platform and accelerate AI-native innovation.</description>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The New Pivot: Attackers Move from Inbox to Microsoft Teams</title>
+    <link>https://abnormal.ai/blog/email-to-microsoft-teams-attacks</link>
+    <description>Attackers increasingly pivot from email into Microsoft Teams using trusted identities. Learn how multi-channel attacks work and why Teams has become a prime target.</description>
+    <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How to Detect and Prevent Corporate Espionage Attacks</title>
+    <link>https://abnormal.ai/blog/ai-corporate-espionage</link>
+    <description>Learn how corporate espionage exploits email to steal trade secrets and IP. Discover behavioral AI detection methods that catch what legacy tools miss.</description>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>9 Pretexting Scams Targeting Executives and How to Stop Them</title>
+    <link>https://abnormal.ai/blog/pretexting-scams-c-suite-executives</link>
+    <description>Explore pretexting scams targeting C-suite executives with real-world examples. Learn why text-based attacks bypass legacy security and how behavioral AI detects them.</description>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Types of Vendor Fraud Targeting AP Teams</title>
+    <link>https://abnormal.ai/blog/types-of-vendor-fraud</link>
+    <description>Learn the types of vendor fraud targeting accounts payable teams and how behavioral AI detects email-based attacks that bypass traditional security controls.</description>
+    <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Importance of Cybersecurity in Healthcare for Patient Safety</title>
+    <link>https://abnormal.ai/blog/importance-of-cybersecurity-in-healthcare</link>
+    <description>The importance of cybersecurity in healthcare goes beyond compliance. Learn why cyber defense is patient defense and how security leaders can protect care delivery.</description>
+    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Healthcare Fraud and Cybersecurity: Stopping BEC and Invoice Fraud</title>
+    <link>https://abnormal.ai/blog/healthcare-fraud-cybersecurity</link>
+    <description>Healthcare fraud and cybersecurity intersect at BEC, invoice fraud, and identity compromise. Learn how behavioral AI detects financial attacks others miss.</description>
+    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Healthcare Cybersecurity Best Practices by Maturity Level</title>
+    <link>https://abnormal.ai/blog/healthcare-cybersecurity-best-practices</link>
+    <description>Healthcare cybersecurity best practices scaled by maturity level. Learn foundational, intermediate, and advanced controls to protect patient data.</description>
+    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cybersecurity Attacks in Healthcare: How Threat Actors Strike</title>
+    <link>https://abnormal.ai/blog/cybersecurity-attacks-in-healthcare</link>
+    <description>Cybersecurity attacks in healthcare are escalating through identity compromise and supply chain exploitation. Learn how security leaders are fighting back.</description>
+    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
   <item>
     <title>Three Years of Abnormal + CrowdStrike: Advancing AI-Driven Protection Across Email, Identity, and Endpoint</title>
     <link>https://abnormal.ai/blog/crowdstrike-email-security-partnership</link>
@@ -94,96 +184,6 @@
     <link>https://abnormal.ai/blog/email-authentication-setup-prevent-spoofing</link>
     <description>Follow this enterprise roadmap for email authentication setup to prevent spoofing with phased SPF, DKIM, and DMARC deployment.</description>
     <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cybersecurity Skills Gap: How Security Leaders Adapt</title>
-    <link>https://abnormal.ai/blog/cybersecurity-skills-gap-solutions</link>
-    <description>Discover how security leaders are closing the cybersecurity skills gap through role restructuring, internal development, and AI-driven automation.</description>
-    <pubDate>Thu, 05 Mar 2026 08:57:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Email Fraud Wire Transfer Attacks: A Prevention Framework</title>
-    <link>https://abnormal.ai/blog/email-fraud-wire-transfer-prevention</link>
-    <description>Learn how email fraud wire transfer attacks bypass traditional security and discover a layered prevention framework to protect your organization.</description>
-    <pubDate>Thu, 05 Mar 2026 08:57:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cloud Threat Prevention: Detection Methods Explained</title>
-    <link>https://abnormal.ai/blog/threat-prevention-for-cloud</link>
-    <description>Discover how cloud threat prevention stops email-borne attacks targeting your infrastructure. Learn behavioral AI strategies to detect account takeover and BEC.</description>
-    <pubDate>Thu, 05 Mar 2026 08:57:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>AI Cybersecurity Threats in 2026 and the Rise of Behavioral Detection</title>
-    <link>https://abnormal.ai/blog/ai-cybersecurity-threats</link>
-    <description>Explore how AI cybersecurity threats bypass traditional defenses and why behavioral AI catches attacks that SEG misses.</description>
-    <pubDate>Thu, 05 Mar 2026 08:57:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Awareness to Action: AI Powers the Shift to Human Risk Management</title>
-    <link>https://abnormal.ai/blog/security-awareness-to-human-risk-management</link>
-    <description>Security awareness training is shifting from generic compliance to measurable human risk management. Abnormal AI's Field CISO explains how AI drives real behavior change across the organization.</description>
-    <pubDate>Thu, 05 Mar 2026 08:57:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Types of Email Scams Targeting Enterprises in 2026</title>
-    <link>https://abnormal.ai/blog/types-of-email-scams</link>
-    <description>Discover the types of email scams targeting enterprises—BEC, VEC, and account takeover—and how behavioral AI detects attacks without malicious payloads.</description>
-    <pubDate>Thu, 05 Mar 2026 08:57:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>From Operator to Builder: Why Stephen Harrison Joined Abnormal to Shape the Next Generation of Security</title>
-    <link>https://abnormal.ai/blog/stephen-harrison-vp-product-ai-native-security</link>
-    <description>Abnormal welcomes Stephen Harrison as VP of Product, Next Gen Products, to expand its behavioral AI security platform and accelerate AI-native innovation.</description>
-    <pubDate>Thu, 05 Mar 2026 08:57:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>The New Pivot: Attackers Move from Inbox to Microsoft Teams</title>
-    <link>https://abnormal.ai/blog/email-to-microsoft-teams-attacks</link>
-    <description>Attackers increasingly pivot from email into Microsoft Teams using trusted identities. Learn how multi-channel attacks work and why Teams has become a prime target.</description>
-    <pubDate>Thu, 05 Mar 2026 08:57:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>How to Detect and Prevent Corporate Espionage Attacks</title>
-    <link>https://abnormal.ai/blog/ai-corporate-espionage</link>
-    <description>Learn how corporate espionage exploits email to steal trade secrets and IP. Discover behavioral AI detection methods that catch what legacy tools miss.</description>
-    <pubDate>Thu, 05 Mar 2026 08:57:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>9 Pretexting Scams Targeting Executives and How to Stop Them</title>
-    <link>https://abnormal.ai/blog/pretexting-scams-c-suite-executives</link>
-    <description>Explore pretexting scams targeting C-suite executives with real-world examples. Learn why text-based attacks bypass legacy security and how behavioral AI detects them.</description>
-    <pubDate>Thu, 05 Mar 2026 08:57:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Types of Vendor Fraud Targeting AP Teams</title>
-    <link>https://abnormal.ai/blog/types-of-vendor-fraud</link>
-    <description>Learn the types of vendor fraud targeting accounts payable teams and how behavioral AI detects email-based attacks that bypass traditional security controls.</description>
-    <pubDate>Thu, 05 Mar 2026 08:57:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Importance of Cybersecurity in Healthcare for Patient Safety</title>
-    <link>https://abnormal.ai/blog/importance-of-cybersecurity-in-healthcare</link>
-    <description>The importance of cybersecurity in healthcare goes beyond compliance. Learn why cyber defense is patient defense and how security leaders can protect care delivery.</description>
-    <pubDate>Thu, 05 Mar 2026 08:57:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Healthcare Fraud and Cybersecurity: Stopping BEC and Invoice Fraud</title>
-    <link>https://abnormal.ai/blog/healthcare-fraud-cybersecurity</link>
-    <description>Healthcare fraud and cybersecurity intersect at BEC, invoice fraud, and identity compromise. Learn how behavioral AI detects financial attacks others miss.</description>
-    <pubDate>Thu, 05 Mar 2026 08:57:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Healthcare Cybersecurity Best Practices by Maturity Level</title>
-    <link>https://abnormal.ai/blog/healthcare-cybersecurity-best-practices</link>
-    <description>Healthcare cybersecurity best practices scaled by maturity level. Learn foundational, intermediate, and advanced controls to protect patient data.</description>
-    <pubDate>Thu, 05 Mar 2026 08:57:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cybersecurity Attacks in Healthcare: How Threat Actors Strike</title>
-    <link>https://abnormal.ai/blog/cybersecurity-attacks-in-healthcare</link>
-    <description>Cybersecurity attacks in healthcare are escalating through identity compromise and supply chain exploitation. Learn how security leaders are fighting back.</description>
-    <pubDate>Thu, 05 Mar 2026 08:57:28 GMT</pubDate>
   </item>
 </channel>
 </rss>
