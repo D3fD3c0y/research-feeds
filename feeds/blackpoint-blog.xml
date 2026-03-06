@@ -4,12 +4,96 @@
   <title>Blackpoint Cyber Blog (Custom Feed)</title>
   <link>https://blackpointcyber.com/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 19:19:23 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 19:35:48 GMT</lastBuildDate>
   <item>
     <title>Blog</title>
     <link>https://blackpointcyber.com/blog/</link>
     <description>Sharpen your defenses with the latest threat insights, industry trends and product updates sure to put you one step ahead of hackers – and your competition.</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:19 GMT</pubDate>
+    <pubDate>Fri, 06 Mar 2026 19:35:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Driving MSP Growth With a Racer’s Mindset</title>
+    <link>https://blackpointcyber.com/blog/driving-msp-growth-with-a-racers-mindset/</link>
+    <description>A rising star in youth race car driving, Jack Murchison, shares best practices from behind the wheel that translate to the world of MSPs.</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blackpoint Powers Up for Pax8 Beyond</title>
+    <link>https://blackpointcyber.com/blog/blackpoint-powers-up-for-pax8-beyond/</link>
+    <description>Blackpoint Cyber is going to Pax8 Beyond 2024 with a talk on why MSPs must pair AI with security, and to share our MDR+Remediation message. See how to meet us!</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>What is AI, Actually?</title>
+    <link>https://blackpointcyber.com/blog/what-is-ai-actually/</link>
+    <description>Is AI the silver bullet your IT company needs for cybersecurity? Check out Blackpoint’s perspective based on experience on the frontlines.</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>How To Bring the Best Enterprise Cybersecurity Solutions to Your Small Business Clients</title>
+    <link>https://blackpointcyber.com/blog/how-to-bring-the-best-enterprise-cybersecurity-solutions-to-your-small-business-clients/</link>
+    <description>Learn how one MSP relies on Blackpoint to enhance his Microsoft investment to bring enterprise-grade security to his small business clients.</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>WebBrowserPassView, Process Hollowing, and LotL Tool Abuse</title>
+    <link>https://blackpointcyber.com/blog/webbrowserpassview-process-hollowing-and-lotl-tool-abuse/</link>
+    <description>Blackpiont analyzes lateral movement within a real estate company's network, as well as user credential access and defense evasion incidents.</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Actors’ Heads Are in the Clouds</title>
+    <link>https://blackpointcyber.com/blog/threat-actors-heads-are-in-the-clouds/</link>
+    <description>Learn how Blackpoint’s SOC is adjusting their response capabilities and reporting workflows to detect and detain more cloud cyberattacks.</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vulnerable RMM Tools and Vulnerable Industries: Why Vigilance is Key</title>
+    <link>https://blackpointcyber.com/blog/vulnerable-rmm-tools-and-vulnerable-industries-why-vigilance-is-key/</link>
+    <description>Vigilance is critical in light of cyberattacks on the healthcare industry and vulnerabilities within critical IT tools.</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>An MSP Survival Guide: 3 Fundamentals for Growth</title>
+    <link>https://blackpointcyber.com/blog/an-msp-survival-guide-3-fundamentals-for-growth/</link>
+    <description>Beat the competition, instill seamless customer experience, and retain SMB partners with Blackpoint Cyber's tools.</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:47 GMT</pubDate>
+  </item>
+  <item>
+    <title>MDR+R Is Coming to Music City—See You in Nashville</title>
+    <link>https://blackpointcyber.com/blog/mdr-r-is-coming-to-music-city-see-you-in-nashville/</link>
+    <description>Blackpoint Cyber will be in Nashville at Robin’s Big Seminar’s IT Sales and Marketing Boot Camp and hosting a lunch and learn.</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:47 GMT</pubDate>
+  </item>
+  <item>
+    <title>3 Ways to Meet Blackpoint at Right of Boom 2024</title>
+    <link>https://blackpointcyber.com/blog/3-ways-to-meet-blackpoint-at-right-of-boom-2024/</link>
+    <description>Blackpoint Cyber will be at Right of Boom 2024 with a Ducati Monster giveaway, a Capture the Flag challenge, and a talk for MSPs on the latest threat actor trends.</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:47 GMT</pubDate>
+  </item>
+  <item>
+    <title>Don’t arm the enemy. Safeguard your allies.</title>
+    <link>https://blackpointcyber.com/blog/dont-arm-the-enemy-safeguard-your-allies/</link>
+    <description>Read MacKenzie Brown's perspective on companies' rush to publish Proof-of-Concepts soon after the ConnectWise disclosures were publicized.</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:48 GMT</pubDate>
+  </item>
+  <item>
+    <title>Breaking Through the Screen</title>
+    <link>https://blackpointcyber.com/blog/breaking-through-the-screen/</link>
+    <description>Read a blog from our threat research team on the ConnectWise vulnerabilities, exploitation process, and how to detect these tactics.</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:48 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why Threat Hunters Are Leaving Traditional SIEM for Real-Time Threat Disruption</title>
+    <link>https://blackpointcyber.com/blog/siem-vs-blackpoint/</link>
+    <description>Learn how to get the core functionality of a traditional SIEM along with real-time threat disruption needed for advanced cyberattacks.</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:48 GMT</pubDate>
+  </item>
+  <item>
+    <title>Top 5 Security Learnings from NerdioCon 2024</title>
+    <link>https://blackpointcyber.com/blog/top-5-security-learnings-from-nerdiocon-2024/</link>
+    <description>The Blackpoint team is back from NerdioCon 2024, and here’s a wrapup of our time there including security takeaways.</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:48 GMT</pubDate>
   </item>
   <item>
     <title>Beyond Phishing: Three More Ways Adversaries Complicate Initial Intrusion</title>
@@ -100,90 +184,6 @@
     <link>https://blackpointcyber.com/blog/luminousmoth-tnega-malware-advanced-ip-scanner-rdp-abuse-solarmarker-soc-incidents-blackpoint-apg/</link>
     <description>LuminousMoth doesn’t get far with Tnega on a Blackpoint-managed environment, while we add another RDP abuse incident to the pile. And, SolarMarker returns!</description>
     <pubDate>Fri, 06 Mar 2026 16:57:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>AsyncRAT, NetSupport RAT, and VssAdmin Abuse for Shadow Copy Deletion</title>
-    <link>https://blackpointcyber.com/blog/asyncrat-netsupportrat-vssadmin-abuse-for-shadow-copy-deletion-soc-incidents-blackpoint-apg/</link>
-    <description>Blackpoint's Active SOC exterminated AsyncRATs and NetSupport RATs this week, while more threats tried to delete shadow copies with VssAdmin.</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>7 Email Security Myths That Put Your Clients at Risk</title>
-    <link>https://blackpointcyber.com/blog/7-email-security-myths-that-put-your-clients-at-risk/</link>
-    <description>Learn the outdated assumptions that may be undermining your ability to combat phishing &amp; business email compromise threats.</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Brute Ratel, Advanced IP Scanner, and NetSupport RAT</title>
-    <link>https://blackpointcyber.com/blog/brute-ratel-advanced-ip-scanner-netsupport-rat-blackpoint-soc-apg/</link>
-    <description>Proactive threat hunting by the Blackpoint Active SOC exterminated multiple NetSupport RATs. Plus: Brute Ratel and Advanced IP Scanner stops!</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>CrowdStrike BSOD Help, Advanced IP Scanner, TeamViewer, NetSupport RAT, and AsyncRAT</title>
-    <link>https://blackpointcyber.com/blog/crowdstrike-bsod-help-advanced-ip-scanner-teamviewer-netsupport-rat-asyncrat-soc-incidents-blackpoint-apg/</link>
-    <description>While the APG gathers CrowdStrike BSOD intel, Blackpoint’s Active SOC secures partners from RATs, Advanced IP Scanner, &amp; TeamViewer abuse.</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Market Turns its Attention to Managed Detection and Response</title>
-    <link>https://blackpointcyber.com/blog/the-market-turns-its-attention-to-managed-detection-and-response/</link>
-    <description>In this blog, Blackpoint Cyber CEO, Jon Murchinson shares his perspective on the increasingly noisy MDR market – and how MSPs can stay protected.</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>The MSP Guide to SOC Compliance</title>
-    <link>https://blackpointcyber.com/blog/the-msp-guide-to-soc-compliance/</link>
-    <description>Leverage SOC compliance as an essential tool for managing vendor risk.</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Context Around the Crowdstrike July 2024 Outage</title>
-    <link>https://blackpointcyber.com/blog/crowdstrike-july-2024-outage/</link>
-    <description>A faulty update from CrowdStrike led to widespread disruptions, leaving businesses in turmoil and unsure of their next steps.</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Blackpoint Cyber is officially GDPR Compliant</title>
-    <link>https://blackpointcyber.com/blog/blackpoint-cyber-is-officially-gdpr-compliant/</link>
-    <description>Today, we proudly support our European partners and their clients with fully implemented, comprehensive privacy policies, procedures, and controls across our enterprise.</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Step One in Building an Effective Security Stack: Pursue Defense in Depth</title>
-    <link>https://blackpointcyber.com/blog/step-one-in-building-an-effective-security-stack-pursue-defense-in-depth/</link>
-    <description>Stop window shopping for your security stack and take the steps to build one. CyberFOX and Blackpoint Cyber are here to tell you why identity is the starting point.</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Announcing our Annual SOC2 Type II Compliance</title>
-    <link>https://blackpointcyber.com/blog/announcing-our-annual-soc2-type-ii-compliance/</link>
-    <description>Blackpoint is proud to announce that we have successfully completed our annual SOC2 Type II audit, managing your data in a controlled and heavily audited environment.</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Potential BianLian Ransomware, TeamViewer, and BitLocker</title>
-    <link>https://blackpointcyber.com/blog/bianlian-ransomware-teamviewer-bitlocker-soc-incidents-blackpoint-apg/</link>
-    <description>BianLian ransomware, TeamViewer abuse, &amp; BitLocker encryption incidents took center stage for Blackpoint’s Active SOC team this week.</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>SYS01 Stealer, Ratty Rat, and AsyncRAT</title>
-    <link>https://blackpointcyber.com/blog/sys01-stealer-ratty-rat-asyncrat-soc-incidents-blackpoint-apg/</link>
-    <description>SYS01 tries to persist via scheduled tasks, but Blackpoint’s Active SOC team kicks it out. (Plus, AsyncRAT &amp; Ratty RAT deployments.)</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Netscan.exe, Mimikatz, Angry IP Scanner, and RMM Tool Abuse</title>
-    <link>https://blackpointcyber.com/blog/netscan-exe-mimikatz-angry-ip-scanner-rmm-tool-abuse-soc-incidents-blackpoint-apg/</link>
-    <description>Threat actors continue to abuse many legitimate tools and allowlisted processes, including netscan.exe, Angry IP Scanner, and (yes) RMM tools.</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Blackpoint Cyber is Riding High in the Cloud in G2’s Fall 2024 Badges</title>
-    <link>https://blackpointcyber.com/blog/blackpoint-cyber-is-riding-high-in-the-cloud-in-g2s-fall-2024-badges/</link>
-    <description>G2's Fall 2024 badge recognition highlights our dedication to delivering exceptional cybersecurity solutions and the trust our customers place in our team.</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:19 GMT</pubDate>
   </item>
 </channel>
 </rss>

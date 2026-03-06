@@ -4,7 +4,97 @@
   <title>Binary Defense Blog (Custom Feed)</title>
   <link>https://binarydefense.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 19:19:03 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 19:35:27 GMT</lastBuildDate>
+  <item>
+    <title>Ransomware group targeted DC police, then sent mixed messages about…</title>
+    <link>https://binarydefense.com/resources/blog/ransomware-group-targeted-dc-police-then-sent-mixed-messages-about-shutting-down</link>
+    <description>Metro Police Department was hit with ransomware in late April. Claiming responsibility for the attack, the Babuk ransomware group posted screenshots of…</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:24 GMT</pubDate>
+  </item>
+  <item>
+    <title>Emerging deepfake technology could have security implications for…</title>
+    <link>https://binarydefense.com/resources/blog/emerging-deepfake-technology-could-have-security-implications-for-businesses</link>
+    <description>The average person would not be able to pull off anything that came close to the Cruise deepfake, or this video from a few years ago in which comedian…</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:25 GMT</pubDate>
+  </item>
+  <item>
+    <title>Binary Defense Named a Leader by Forrester in The Forrester Wave™:…</title>
+    <link>https://binarydefense.com/resources/blog/binary-defense-named-a-leader-by-forrester-in-the-forrester-wave-managed-detection-and-response-q1-2021</link>
+    <description>Binary Defense has been named a “Leader” in the Forrester Wave™ Managed Detection &amp; Response, Q1 2021 Evaluation. The report stated, “Security buyers…</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:25 GMT</pubDate>
+  </item>
+  <item>
+    <title>Top 5 Reasons a SIEM Implementation Fails to Deliver Value</title>
+    <link>https://binarydefense.com/resources/blog/top-5-reasons-a-siem-implementation-fails-to-deliver-value</link>
+    <description>SIEM implementation can be a large project with multiple stakeholders. Without careful planning, the project can drag on indefinitely, or worse--be…</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:25 GMT</pubDate>
+  </item>
+  <item>
+    <title>IcedID GZIPLOADER Analysis</title>
+    <link>https://binarydefense.com/resources/blog/icedid-gziploader-analysis</link>
+    <description>In addition to this analysis, Binary Defense’s analysts are also releasing a software tool to decrypt the new IcedID gziploader payloads, along with the…</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:25 GMT</pubDate>
+  </item>
+  <item>
+    <title>Unemployment Fraud on the Rise</title>
+    <link>https://binarydefense.com/resources/blog/unemployment-fraud-on-the-rise</link>
+    <description>Unemployment Fraud is a scam that involves people stealing personal identifying information including name, Social Security Number (SSN), Date of Birth…</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:26 GMT</pubDate>
+  </item>
+  <item>
+    <title>U.S. Government Response to the Growing Threat of Ransomware</title>
+    <link>https://binarydefense.com/resources/blog/u-s-government-response-to-the-growing-threat-of-ransomware</link>
+    <description>By: Patrick Wallenhorst, Intelligence Operations Team Lead Ransomware attacks skyrocketed in 2020 and not a single industry was spared. However, due to…</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:26 GMT</pubDate>
+  </item>
+  <item>
+    <title>Attack on a water treatment plant highlights vulnerabilities in…</title>
+    <link>https://binarydefense.com/resources/blog/attack-on-a-water-treatment-plant-highlights-vulnerabilities-in-infrastructure</link>
+    <description>Hackers leveraged a commercially-available remote access software called Team Viewer, that enabled them to access the computer that controlled the levels…</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:26 GMT</pubDate>
+  </item>
+  <item>
+    <title>Third party vendors present a security risk—how your organization can…</title>
+    <link>https://binarydefense.com/resources/blog/third-party-vendors-present-a-security-risk-how-your-organization-can-stay-protected</link>
+    <description>Days later, news of a major breach at IT management software company Solarwinds Orion software impacted 30,000+ of its customers, including some of the…</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:26 GMT</pubDate>
+  </item>
+  <item>
+    <title>What Do Criminal Hackers and Scammers Discuss on Forums?</title>
+    <link>https://binarydefense.com/resources/blog/what-do-criminal-hackers-and-scammers-discuss-on-forums</link>
+    <description>A message board or an internet forum is an online discussion site where users can communicate with the entire group of members via posted messages. These…</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:26 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cybersecurity predictions for 2021 after an unpredictable 2020</title>
+    <link>https://binarydefense.com/resources/blog/cybersecurity-predictions-for-2021-after-an-unpredictable-2020</link>
+    <description>PARGMAN: At the start of the year, it seemed that the biggest challenges facing IT and security professionals would be how to efficiently leverage their…</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>Qakbot Upgrades to Stealthier Persistence Method</title>
+    <link>https://binarydefense.com/resources/blog/qakbot-upgrades-to-stealthier-persistence-method</link>
+    <description>Qakbot typically arrives on the system after a victim opens and enables macros on a malicious Excel workbook file. For the purpose of this analysis,…</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>What to look for in a SIEM</title>
+    <link>https://binarydefense.com/resources/blog/what-to-look-for-in-a-siem</link>
+    <description>Are you aware of every security related event happening in your server and network environment? It’s an impossible task to manually comb through event…</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>What is Carding?</title>
+    <link>https://binarydefense.com/resources/blog/what-is-carding</link>
+    <description>Carding is a term used by information security professionals to describe the actions of threat actors to steal credit card information from businesses and…</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>How to Spot a Potential Phish</title>
+    <link>https://binarydefense.com/resources/blog/how-to-spot-a-potential-phish</link>
+    <description>Phishing is an attack method which an attacker attempts to trick the users into giving-up their sensitive personal identifiable information (PII), such as…</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:27 GMT</pubDate>
+  </item>
   <item>
     <title>Threat Hunting AWS CloudTrail with Microsoft Sentinel: Part 4</title>
     <link>https://binarydefense.com/resources/blog/threat-hunting-aws-cloudtrail-with-microsoft-sentinel-part-4</link>
@@ -94,96 +184,6 @@
     <link>https://binarydefense.com/resources/blog/intruder-tactics-privilege-escalation</link>
     <description>While not all computer intrusions require privilege escalation to achieve the attacker’s goals, most of the most serious and damaging intrusions do need…</description>
     <pubDate>Fri, 06 Mar 2026 19:19:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>12 Essentials for a Successful SOC Partnership</title>
-    <link>https://binarydefense.com/resources/blog/12-essentials-for-a-successful-soc-partnership</link>
-    <description>Your SOC partner should be able to understand your operating conditions, security maturity, and organizational priorities to develop a solution that…</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cyber War: Hackers' Transformation from Cyber Criminals to Hacktivists</title>
-    <link>https://binarydefense.com/resources/blog/cyber-war-hackers-transformation-from-cyber-criminals-to-hacktivists</link>
-    <description>Several criminal hacking groups supportive of Putin’s regime have transformed themselves from criminal service providers into hacktivist groups. While the…</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>The war in Ukraine and its impact on how China views Taiwan</title>
-    <link>https://binarydefense.com/resources/blog/the-war-in-ukraine-its-impact-on-how-china-views-taiwan</link>
-    <description>Leading up to the most recent Russian invasion of Ukraine in February 2022, analysts and military experts alike feared a superior Russian army would…</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Digging through Rust to find Gold: Extracting Secrets from Rust…</title>
-    <link>https://binarydefense.com/resources/blog/digging-through-rust-to-find-gold-extracting-secrets-from-rust-malware</link>
-    <description>These newer compiled languages include Golang, Rust and Nim. Recently, there have been a few notable examples of malware written in Golang and Rust being…</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>5 Critical Criteria for evaluating Managed Detection &amp; Response (MDR)</title>
-    <link>https://binarydefense.com/resources/blog/5-critical-criteria-for-evaluating-managed-detection-response-mdr</link>
-    <description>When evaluating a Managed Detection &amp; Response (MDR) service there are 5 critical components that you should focus on. Selecting a Managed Detection &amp;…</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Using Microsoft Sentinel to Detect Confluence CVE-2022-26134…</title>
-    <link>https://binarydefense.com/resources/blog/using-microsoft-sentinel-to-detect-confluence-cve-2022-26134-exploitation</link>
-    <description>Research Goals The end goal of the research project was to develop a custom detection query that would alert SOC analysts accurately when a Confluence…</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Russia may be Pressing Arrested Cyber Criminals into Service</title>
-    <link>https://binarydefense.com/resources/blog/russia-may-be-pressing-arrested-cyber-criminals-into-service</link>
-    <description>The Success of the Russian Security Service in January and February 2022 The beginning of 2022 started with the arrests of various hacker groups in…</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>4 Tactics to Detect &amp; Contain Emotet’s Latest Evolution</title>
-    <link>https://binarydefense.com/resources/blog/4-tactics-to-detect-contain-emotets-latest-evolution</link>
-    <description>The threat group behind Emotet changed delivery tactics for the malware, as well as the malware payload. Block or quarantine email attachments of file…</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>War in Ukraine and Its Impact on Hackers</title>
-    <link>https://binarydefense.com/resources/blog/war-in-ukraine-and-its-impact-on-hackers</link>
-    <description>The Russian invasion of Ukraine started on February 24th, and no one was left indifferent. Anonymous Declared a Cyberwar on Russia Anonymous, a collective…</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Detecting Ransomware’s Stealthy Boot Configuration Edits</title>
-    <link>https://binarydefense.com/resources/blog/detecting-ransomwares-stealthy-boot-configuration-edits</link>
-    <description>Such threat actors have often been observed altering boot loader configurations using the built-in Windows tool bcdedit.exe (Boot Configuration Data Edit)…</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Breaking Down Password Storage Breakdowns</title>
-    <link>https://binarydefense.com/resources/blog/breaking-down-password-storage-break-downs</link>
-    <description>(event_simpleName=*FileWritten OR event_simpleName=FileCreateInfo) (FileName=”*password*” OR FileName=”*passwd*” OR FileName=”*pass*” OR FileName=”*pswd*”…</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Dark Web Reactions to Russia’s Invasion of Ukraine</title>
-    <link>https://binarydefense.com/resources/blog/dark-web-reactions-to-russias-invasion-of-ukraine</link>
-    <description>Leading up to the invasion, Ukrainian government networks suffered DDoS attacks that would be attributed to Russia. During the initial invasion, Russian…</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Take Stock of Cyber Risk in Light of Russian Cyber Activity</title>
-    <link>https://binarydefense.com/resources/blog/take-stock-of-cyber-risk-in-light-of-russian-cyber-activity</link>
-    <description>Check your data backups and test regularly Check your critical system backups and test to make sure that your backup data can be restored to new IT…</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Scams for Scans: QR Codes See Surge in Popularity, As Well As Fraud</title>
-    <link>https://binarydefense.com/resources/blog/scams-for-scans-qr-codes-see-surge-in-popularity-as-well-as-fraud</link>
-    <description>We ignored them for years, but it looks like the QR code may be here to stay. “QR” is short for “Quick Response.” The QR code, simply put, is a type of…</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>2022: Expect the unexpected as cyberattacks continue to target…</title>
-    <link>https://binarydefense.com/resources/blog/2022-expect-the-unexpected-as-cyberattacks-continue-to-target-organizations</link>
-    <description>We saw a larger emphasis this year on supply chain attacks and going to a one-to-many type style which yielded more return on investment for adversaries.…</description>
-    <pubDate>Fri, 06 Mar 2026 16:57:07 GMT</pubDate>
   </item>
 </channel>
 </rss>

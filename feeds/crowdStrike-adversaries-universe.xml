@@ -4,7 +4,97 @@
   <title>CrowdStrike Adversaries Universe (Custom Feed)</title>
   <link>https://www.crowdstrike.com/en-us/adversaries/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 19:19:45 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 19:36:07 GMT</lastBuildDate>
+  <item>
+    <title>Aquatic Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/aquatic-panda/</link>
+    <description>AQUATIC PANDA is a China-based targeted intrusion adversary with a dual mission of intelligence collection and industrial espionage. AQUATIC PANDA ...</description>
+    <pubDate>Fri, 06 Mar 2026 19:35:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cascade Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/cascade-panda/</link>
+    <description>CASCADE PANDA is a China-nexus targeted intrusion adversary whose operations are identified by the unique WinDealer malware. Based on the oldest ve...</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Circuit Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/circuit-panda/</link>
+    <description>CIRCUIT PANDA is a China-based targeted intrusion adversary active since at least 2010. CIRCUIT PANDA operations primarily target a wide array of p...</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Dragnet Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/dragnet-panda/</link>
+    <description>DRAGNET PANDA is a China-based targeted intrusion adversary with a likely intelligence-collection mission focused primarily on Tibetan dissident gr...</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Emissary Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/emissary-panda/</link>
+    <description>EMISSARY PANDA is a China-nexus adversary active since at least 2013. This adversary historically leveraged strategic web compromises (SWCs), as we...</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>Envoy Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/envoy-panda/</link>
+    <description>ENVOY PANDA is a China-nexus targeted intrusion adversary active since 2011. The adversary consistently targets Africa- and Middle East-based gover...</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>Ethereal Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/ethereal-panda/</link>
+    <description>ETHEREAL PANDA is a China-based targeted intrusion adversary, likely active since at least 2021. ETHEREAL PANDA operations primarily focus on entit...</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>Horde Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/horde-panda/</link>
+    <description>HORDE PANDA is a China-based targeted intrusion adversary with a likely intelligence collection mission. HORDE PANDA has been active since at least...</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>Jackpot Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/jackpot-panda/</link>
+    <description>JACKPOT PANDA is a China-nexus targeted intrusion adversary active since at least May 2020. This adversary has been observed primarily targeting en...</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Locksmith Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/locksmith-panda/</link>
+    <description>Since at least June 2023, LOCKSMITH PANDA has engaged in intrusion operations targeting the technology, gaming, energy, and telecommunications sect...</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Lotus Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/lotus-panda/</link>
+    <description>LOTUS PANDA is a targeted intrusion adversary with a suspected nexus to the People's Republic of China (PRC). CrowdStrike first identified LOTUS PA...</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mustang Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/mustang-panda/</link>
+    <description>MUSTANG PANDA is a China-based targeted intrusion adversary tracked by CrowdStrike Intelligence since 2016, with a likely focus on Central, East an...</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>Nomad Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/nomad-panda/</link>
+    <description>NOMAD PANDA is a China-nexus adversary with a demonstrated focus on Central Asian and South Asian nations. CrowdStrike Intelligence has observed NO...</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:06 GMT</pubDate>
+  </item>
+  <item>
+    <title>Operator Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/operator-panda/</link>
+    <description>Since at least November 2024, China-nexus targeted intrusion adversary OPERATOR PANDA has conducted operations against the telecom and professional...</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>Overcast Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/overcast-panda/</link>
+    <description>OVERCAST PANDA is a China-nexus targeted intrusion adversary likely active since at least 2019. Previously tracked as the ClearVariable activity cl...</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:07 GMT</pubDate>
+  </item>
   <item>
     <title>Arcane Kitten Adversary Profile | CrowdStrike</title>
     <link>https://www.crowdstrike.com/adversaries/arcane-kitten/</link>
@@ -94,96 +184,6 @@
     <link>https://www.crowdstrike.com/adversaries/galactic-ocelot/</link>
     <description>GALACTIC OCELOT is a targeted intrusion adversary active since at least 2010 with a nexus to the Colombian government. Over this period, this adver...</description>
     <pubDate>Fri, 06 Mar 2026 19:19:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ricochet Chollima Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/ricochet-chollima/</link>
-    <description>RICOCHET CHOLLIMA is a Democratic Peoples’ Republic of Korea (DPRK)-nexus targeted intrusion adversary that has been involved in espionage operatio...</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Silent Chollima Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/silent-chollima/</link>
-    <description>SILENT CHOLLIMA is a Democratic People’s Republic of Korea (DPRK)-nexus adversary that has been active since at least 2007. The UN claims that Anda...</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Stardust Chollima Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/stardust-chollima/</link>
-    <description>STARDUST CHOLLIMA is a Democratic People’s Republic of Korea (DPRK)-nexus adversary that has been active operationally since at least 2015 and is a...</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Velvet Chollima Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/velvet-chollima/</link>
-    <description>VELVET CHOLLIMA is a Democratic People’s Republic of Korea (DPRK)-nexus adversary active since 2010. VELVET CHOLLIMA has targeted U.S., European, a...</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Deadeye Hawk Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/deadeye-hawk/</link>
-    <description>DEADEYE HAWK is an adversary that has likely served the interests of the Syrian Arab Republic since at least early 2016. Previously associated with...</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cruel Jackal Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/cruel-jackal/</link>
-    <description>CRUEL JACKAL is a Hamas-nexus targeted intrusion adversary. The adversary primarily targets government and law enforcement entities in the Middle E...</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Curious Jackal Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/curious-jackal/</link>
-    <description>CURIOUS JACKAL (self-identified as KelvinSecTeam) is a Latin American hacktivist group that has historically conducted disruptive operations and da...</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Deadeye Jackal Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/deadeye-jackal/</link>
-    <description>As of May 2022, CrowdStrike Intelligence has reassessed DEADEYE JACKAL's contemporary posture and likelihood of state sponsorship, and now links of...</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:30 GMT</pubDate>
-  </item>
-  <item>
-    <title>Extreme Jackal Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/extreme-jackal/</link>
-    <description>EXTREME JACKAL is a Middle East and North Africa (MENA)-based nonstate adversary that has primarily targeted the defense and government sectors in ...</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:31 GMT</pubDate>
-  </item>
-  <item>
-    <title>Frontline Jackal Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/frontline-jackal/</link>
-    <description>FRONTLINE JACKAL, also known by its public name Bax026, is an Iranian nationalist hacktivist group that has conducted website defacements and other...</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:31 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ghost Jackal Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/ghost-jackal/</link>
-    <description>GHOST JACKAL is the pro-Palestinian hacktivist adversary AnonGhost, which gained notoriety after attempting several large-scale cyber operations be...</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Partisan Jackal Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/partisan-jackal/</link>
-    <description>Since September 2020, PARTISAN JACKAL—which self-identifies as the Cyber Partisans—has waged concerted hacktivist activity to coerce, disrupt, and ...</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Renegade Jackal Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/renegade-jackal/</link>
-    <description>RENEGADE JACKAL is a likely Palestine-nexus adversary that has conducted network compromise activity for purposes of espionage in the Middle East r...</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Spoiled Jackal Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/spoiled-jackal/</link>
-    <description>SPOILED JACKAL, active since at least November 2021, is highly likely a non-state adversary that operates on behalf of the Houthi movement in Yemen...</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Thunderbolt Jackal Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/thunderbolt-jackal/</link>
-    <description>THUNDERBOLT JACKAL is the Turkish nationalist hacktivist group commonly known as Ayyıldız Tim. The group conducts both opportunistic and targeted o...</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:35 GMT</pubDate>
   </item>
 </channel>
 </rss>

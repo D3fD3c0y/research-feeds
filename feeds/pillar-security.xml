@@ -4,7 +4,19 @@
   <title>Pillar Security Blog (Custom Feed)</title>
   <link>https://www.pillar.security/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 19:19:56 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 19:36:22 GMT</lastBuildDate>
+  <item>
+    <title>Why I’m Joining Pillar Security by Jenna Raby</title>
+    <link>https://www.pillar.security/blog/why-im-joining-pillar-security-by-jenna-raby</link>
+    <description>Why I’m Joining Pillar Security by Jenna Raby</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>Your AI Agent Will Run Untrusted Code. Now What?</title>
+    <link>https://www.pillar.security/blog/your-ai-agent-will-run-untrusted-code-now-what</link>
+    <description>We analyzed 14 sandbox solutions for AI coding agents across four isolation tiers-containers, user-space kernels, microVMs, and kernel-enforced capabilities. Every tier has a failure mode, and multiple shipping agents have already been exploited through gaps in their isolation. The right sandbox depends on your threat model—what you're isolating from and what credentials or access exist inside the sandbox. Isolation technology protects the host from the sandbox; it doesn't protect the sandbox from itself.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:22 GMT</pubDate>
+  </item>
   <item>
     <title>The Hidden Security Risks of SWE Agents like OpenAI Codex and Devin AI</title>
     <link>https://www.pillar.security/blog/the-hidden-security-risks-of-swe-agents-like-openai-codex-and-devin-ai</link>
@@ -171,18 +183,6 @@
     <title>Strengthening LLM Security: Insights from OWASP's 2025 Top 10 List</title>
     <link>https://www.pillar.security/blog/strengthening-llm-security-insights-from-owasps-2025-top-10-list</link>
     <description>Strengthening LLM Security: Insights from OWASP's 2025 Top 10 List</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Agent Security Paradox: When Trusted Commands in Cursor Become Attack Vectors</title>
-    <link>https://www.pillar.security/blog/the-agent-security-paradox-when-trusted-commands-in-cursor-become-attack-vectors</link>
-    <description>The Agent Security Paradox: When Trusted Commands in Cursor Become Attack Vectors</description>
-    <pubDate>Fri, 06 Mar 2026 16:58:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Cornerstone of Effective Security Platforms: Lessons from a Decade in the EDR space</title>
-    <link>https://www.pillar.security/blog/the-cornerstone-of-effective-security-platforms-lessons-from-a-decade-in-the-edr-space</link>
-    <description>This blog examines the core principles of detection and response solutions and their relevance to AI security. We'll explore the unique challenges posed by AI, compare emerging approaches in this new domain, and how Pillar Security addresses these critical issues.</description>
     <pubDate>Fri, 06 Mar 2026 16:58:45 GMT</pubDate>
   </item>
 </channel>

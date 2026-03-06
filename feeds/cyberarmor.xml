@@ -4,7 +4,97 @@
   <title>CyberArmor Blog (Custom Feed)</title>
   <link>https://cyberarmor.tech/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 19:19:54 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 19:36:20 GMT</lastBuildDate>
+  <item>
+    <title>Investment Scam: The Operations</title>
+    <link>https://cyberarmor.tech/blog/investment-scam-the-operations</link>
+    <description>An analysis of an active investment scam targeting individuals through online platforms. The scheme is disguised as either a job opportunity or a high-yield investment and uses sophisticated social engineering and cryptocurrency transactions.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:14 GMT</pubDate>
+  </item>
+  <item>
+    <title>No Honor Among Thieves Pt 2: Malware Dropper Distribution Via Malware Stealer Logs</title>
+    <link>https://cyberarmor.tech/blog/malware-dropper-distribution-via-malware-stealer-logs-no-honor-among-thieves-pt-2</link>
+    <description>This article examines the tactics employed by cybercriminals to distribute malware droppers via malware stealer logs within the dark web community. These logs are then shared with other cybercriminals, who then unknowingly infect themselves.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>New North Korean-Based Backdoor</title>
+    <link>https://cyberarmor.tech/blog/new-north-korean-based-backdoor</link>
+    <description>In this paper we analyze a new threat campaign which is specifically focused on Aerospace and Defense companies: sectors appealing to multiple threat actors, but of particular interest to North Korean threat groups in other recent campaigns.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>Phishing Attack Targets Canadian Infrastructure on Canada Day</title>
+    <link>https://cyberarmor.tech/blog/phishing-attack-targets-canadian-infrastructure-on-canada-day</link>
+    <description>Our systems detected a coordinated phishing campaign leveraging PDF-themed lures to harvest user email credentials. The attackers used socially engineered emails that mimicked service notifications, account updates, and login requests.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>No Honor Among Thieves Pt 1: Reverse-Engineering A Ransomware Decryption Tool</title>
+    <link>https://cyberarmor.tech/blog/reverse-engineering-a-ransomware-decryption-tool-no-honor-among-thieves</link>
+    <description>A look at two cases that show how paying a ransom often fails to solve a ransomware victim’s problems because there is no honor among thieves; moreover, perpetrators are financially motivated to not hold up their end of the bargain.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>SUNBURST Malware: Backdoor State and C2</title>
+    <link>https://cyberarmor.tech/blog/sunburst-malware-backdoor-state-and-c2</link>
+    <description>On December 13th, FireEye published a reportdetailing threat actors employing SolarWinds supply chain to compromise various victims globally with the SUNBURST backdoor. Our findings for this backdoor are detailed in this article.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:17 GMT</pubDate>
+  </item>
+  <item>
+    <title>TG-VoIP-001: Cryptocurrency-Based VoIP Infrastructure Promoted via Telegram</title>
+    <link>https://cyberarmor.tech/blog/tg-voip-001-cryptocurrency-based-voip-infrastructure-promoted-via-telegram</link>
+    <description>Our threat hunting team uncovered a suspicious VoIP/SIP infrastructure tied to malicious activity on Telegram’s marketplace. This network advertises IP telephony for call centers but exhibits hallmarks of gray-market operations using cryptocurrency</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:18 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Rise of a New Dark Web Market</title>
+    <link>https://cyberarmor.tech/blog/the-rise-of-a-new-darkweb-market</link>
+    <description>The darkweb marketplace landscape underwent a significant shift several years ago. The advent of secure chat services such as Telegram, Discord, and WhatsApp introduced a new dynamic. As a result, marketplaces operated by fraudsters began to emerge.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:18 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Insight: Cybercriminals Abusing Vercel to Deliver Remote Access Malware</title>
+    <link>https://cyberarmor.tech/blog/threat-insight-cybercriminals-abusing-vercel-to-deliver-remote-access-malware</link>
+    <description>CyberArmor has identified a phishing campaign leveraging Vercel, a legitimate frontend hosting platform, to distribute a malicious version of LogMeIn, a legitimate remote access tool, by cybercriminals to gain full control over victims’ machines.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:18 GMT</pubDate>
+  </item>
+  <item>
+    <title>Trademark Scams: Application Approval Scams Using Caller ID Spoofing</title>
+    <link>https://cyberarmor.tech/blog/trademark-scams-application-approval-scams-using-caller-id-spoofing</link>
+    <description>We deep dive into trademark application scams where the scammers impersonates the USPTO (United States Patent and Trademark Office) and spoofs their phone number to lure an applicant to pay additional fees to the scammer.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:18 GMT</pubDate>
+  </item>
+  <item>
+    <title>Uncovered: How Cybercriminals Scam Each Other Using Fake USDT Sender Software</title>
+    <link>https://cyberarmor.tech/blog/uncovered-how-cybercriminals-scam-each-other-using-fake-usdt-sender-software-copy-feature</link>
+    <description>See how cybercriminals weaponized "FLASH USDT Sender" software. Our analysis reveals it's a sophisticated dropper that installs a suite of malware—including a stealer, clipper, and RDP grabber—for complete system control.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:18 GMT</pubDate>
+  </item>
+  <item>
+    <title>Understanding Coinbase Account Checking</title>
+    <link>https://cyberarmor.tech/blog/understanding-coinbase-account-checking</link>
+    <description>Account checking, also known as credential stuffing or account validation, is a tactic used by cybercriminals to verify whether certain accounts exist on a platform, typically depending on automated scripts and software.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>Unveiling the Latest Microsoft Teams Phishing Campaign Targeting Small Businesses</title>
+    <link>https://cyberarmor.tech/blog/unveiling-the-latest-microsoft-teams-phishing-campaign-targeting-small-businesses</link>
+    <description>In this blog post, we will delve into the details of the latest Microsoft Teams phishing campaign, exploring its tactics, techniques, and procedures, and providing crucial insights to help small businesses stay vigilant.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vietnamese Phishers Target Meta Business Owners with Over 400 Phish Pages</title>
+    <link>https://cyberarmor.tech/blog/vietnamese-phishers-target-meta-business-owners-with-over-400-phish-pages</link>
+    <description>On November 23, 2024, our researchers uncovered a phishing campaign targeting Meta business account owners. Vietnamese threat actors, referred to as quyetnd288, created over 400 phishing sites aimed at stealing login credentials.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>White Snake: Latest Campaign With Multi-Stage Malware Dropper</title>
+    <link>https://cyberarmor.tech/blog/white-snake-latest-campaign-with-multi-stage-malware-dropper</link>
+    <description>Threat actors are constantly developing sophisticated methods to compromise systems. One of the latest threats is the Tax Invoice-themed campaign, which employs a multi-stage malware dropper to deliver the WhiteSnake malware stealer.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:20 GMT</pubDate>
+  </item>
   <item>
     <title>2020 Fraud Summary For The Financial Sector</title>
     <link>https://cyberarmor.tech/blog/2020-fraud-summary-for-the-financial-sector</link>
@@ -94,72 +184,6 @@
     <link>https://cyberarmor.tech/blog/investment-scam-playbook-from-job-recruitment-to-investment-scam</link>
     <description>Scams have evolved from basic phishing emails to sophisticated multi-stage operations that prey on individuals’ vulnerabilities. The “Investment Scam” starts with an unsuspecting job recruitment message and culminates in devastating financial loss.</description>
     <pubDate>Fri, 06 Mar 2026 19:19:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>TG-VoIP-001: Cryptocurrency-Based VoIP Infrastructure Promoted via Telegram</title>
-    <link>https://cyberarmor.tech/blog/tg-voip-001-cryptocurrency-based-voip-infrastructure-promoted-via-telegram</link>
-    <description>Our threat hunting team uncovered a suspicious VoIP/SIP infrastructure tied to malicious activity on Telegram’s marketplace. This network advertises IP telephony for call centers but exhibits hallmarks of gray-market operations using cryptocurrency</description>
-    <pubDate>Tue, 03 Mar 2026 17:04:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Phishing Attack Targets Canadian Infrastructure on Canada Day</title>
-    <link>https://cyberarmor.tech/blog/phishing-attack-targets-canadian-infrastructure-on-canada-day</link>
-    <description>Our systems detected a coordinated phishing campaign leveraging PDF-themed lures to harvest user email credentials. The attackers used socially engineered emails that mimicked service notifications, account updates, and login requests.</description>
-    <pubDate>Tue, 03 Mar 2026 17:04:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>Threat Insight: Cybercriminals Abusing Vercel to Deliver Remote Access Malware</title>
-    <link>https://cyberarmor.tech/blog/threat-insight-cybercriminals-abusing-vercel-to-deliver-remote-access-malware</link>
-    <description>CyberArmor has identified a phishing campaign leveraging Vercel, a legitimate frontend hosting platform, to distribute a malicious version of LogMeIn, a legitimate remote access tool, by cybercriminals to gain full control over victims’ machines.</description>
-    <pubDate>Tue, 03 Mar 2026 17:04:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>Uncovered: How Cybercriminals Scam Each Other Using Fake USDT Sender Software</title>
-    <link>https://cyberarmor.tech/blog/uncovered-how-cybercriminals-scam-each-other-using-fake-usdt-sender-software-copy-feature</link>
-    <description>See how cybercriminals weaponized "FLASH USDT Sender" software. Our analysis reveals it's a sophisticated dropper that installs a suite of malware—including a stealer, clipper, and RDP grabber—for complete system control.</description>
-    <pubDate>Tue, 03 Mar 2026 17:04:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>Investment Scam: The Operations</title>
-    <link>https://cyberarmor.tech/blog/investment-scam-the-operations</link>
-    <description>An analysis of an active investment scam targeting individuals through online platforms. The scheme is disguised as either a job opportunity or a high-yield investment and uses sophisticated social engineering and cryptocurrency transactions.</description>
-    <pubDate>Tue, 03 Mar 2026 17:04:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Understanding Coinbase Account Checking</title>
-    <link>https://cyberarmor.tech/blog/understanding-coinbase-account-checking</link>
-    <description>Account checking, also known as credential stuffing or account validation, is a tactic used by cybercriminals to verify whether certain accounts exist on a platform, typically depending on automated scripts and software.</description>
-    <pubDate>Tue, 03 Mar 2026 17:04:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>White Snake: Latest Campaign With Multi-Stage Malware Dropper</title>
-    <link>https://cyberarmor.tech/blog/white-snake-latest-campaign-with-multi-stage-malware-dropper</link>
-    <description>Threat actors are constantly developing sophisticated methods to compromise systems. One of the latest threats is the Tax Invoice-themed campaign, which employs a multi-stage malware dropper to deliver the WhiteSnake malware stealer.</description>
-    <pubDate>Tue, 03 Mar 2026 17:04:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>New North Korean-Based Backdoor</title>
-    <link>https://cyberarmor.tech/blog/new-north-korean-based-backdoor</link>
-    <description>In this paper we analyze a new threat campaign which is specifically focused on Aerospace and Defense companies: sectors appealing to multiple threat actors, but of particular interest to North Korean threat groups in other recent campaigns.</description>
-    <pubDate>Tue, 03 Mar 2026 17:04:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Rise of a New Dark Web Market</title>
-    <link>https://cyberarmor.tech/blog/the-rise-of-a-new-darkweb-market</link>
-    <description>The darkweb marketplace landscape underwent a significant shift several years ago. The advent of secure chat services such as Telegram, Discord, and WhatsApp introduced a new dynamic. As a result, marketplaces operated by fraudsters began to emerge.</description>
-    <pubDate>Tue, 03 Mar 2026 17:04:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Trademark Scams: Application Approval Scams Using Caller ID Spoofing</title>
-    <link>https://cyberarmor.tech/blog/trademark-scams-application-approval-scams-using-caller-id-spoofing</link>
-    <description>We deep dive into trademark application scams where the scammers impersonates the USPTO (United States Patent and Trademark Office) and spoofs their phone number to lure an applicant to pay additional fees to the scammer.</description>
-    <pubDate>Tue, 03 Mar 2026 17:04:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Unveiling the Latest Microsoft Teams Phishing Campaign Targeting Small Businesses</title>
-    <link>https://cyberarmor.tech/blog/unveiling-the-latest-microsoft-teams-phishing-campaign-targeting-small-businesses</link>
-    <description>In this blog post, we will delve into the details of the latest Microsoft Teams phishing campaign, exploring its tactics, techniques, and procedures, and providing crucial insights to help small businesses stay vigilant.</description>
-    <pubDate>Tue, 03 Mar 2026 17:04:22 GMT</pubDate>
   </item>
 </channel>
 </rss>

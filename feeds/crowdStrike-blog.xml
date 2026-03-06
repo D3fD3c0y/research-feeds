@@ -4,7 +4,97 @@
   <title>CrowdStrike Blog (Custom Feed)</title>
   <link>https://www.crowdstrike.com/en-us/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 19:19:52 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 19:36:12 GMT</lastBuildDate>
+  <item>
+    <title>Native Java Bytecode Debugging without Source Code - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/native-java-bytecode-debugging-without-source-code/</link>
+    <description>Native Java bytecode debugging without source code explained on the CrowdStrike blog, click to learn more &amp; read other top cybersecurity news!</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mo' Shells Mo' Problems - Deep Panda Web Shells - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/mo-shells-mo-problems-deep-panda-web-shells/</link>
+    <description>Part one covering Deep Panda web shells and the case study of the incident response investigation conducted to identify them on the CrowdStrike blog!</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mo' Shells Mo' Problems - File List Stacking - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/mo-shells-mo-problems-file-list-stacking/</link>
+    <description>Part two covering Deep Panda web shells and the case study of the incident response investigation conducted to identify them on the CrowdStrike blog!</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>*NEW* Community Tool: CrowdResponse</title>
+    <link>https://www.crowdstrike.com/blog/new-community-tool-crowdresponse/</link>
+    <description>The New Community Tools initial version provides three useful build-in-modules. CrowdStrike has an exciting collection of new modules planned. Learn more!</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mo' Shells Mo' Problems - Web Server Log Analysis - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/mo-shells-mo-problems-web-server-log-analysis/</link>
+    <description>Part four covering Deep Panda web shells and the case study of the incident response investigation conducted to identify them on the CrowdStrike blog!</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mo' Shells Mo' Problems - Network Detection - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/mo-shells-mo-problems-network-detection/</link>
+    <description>Part three covering Deep Panda web shells and the case study of the incident response investigation conducted to identify them on the CrowdStrike blog!</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike Tracks Reported Iranian Actor as FLYING KITTEN</title>
+    <link>https://www.crowdstrike.com/blog/cat-scratch-fever-crowdstrike-tracks-newly-reported-iranian-actor-flying-kitten/</link>
+    <description>Cat Scratch Fever: CrowdStrike Tracks Newly Reported Iranian Actor as FLYING KITTEN. Learn more now about how CrowdStrike was able to make this happen!</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>Read Featured Article by Chad Tilbury &amp; Justin Weissert</title>
+    <link>https://www.crowdstrike.com/blog/new-crowdresponse-modules/</link>
+    <description>Learn about the three new CrowdResponse modules, Drivers, Handles, and Strings, and how these modules focus on memory analysis on the CrowdStrike blog!</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>Read Featured Research &amp; Threat Intel Article by Adam Meyers</title>
+    <link>https://www.crowdstrike.com/blog/gameover/</link>
+    <description>On Friday May 30, 2014, an unprecedented botnet disruption was initiated by the United States Department of Justice. Learn more about this today!</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>Registry Analysis with CrowdResponse - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/registry-analysis-with-crowdresponse/</link>
+    <description>With the third release of the free CrowdResponse tool available see a demonstration of how to identify Window Sticky Keys attacks!</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>Occupy Central: The Umbrella Revolution and Chinese Intelligence - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/occupy-central-the-umbrella-revolution-and-chinese-intelligence/</link>
+    <description>Occupy Central: A threat that made it a target for cyber attacks &amp; how they were attacked. More information on the CrowdStrike blog!</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mitigating the Bash (ShellShock) Vulnerability - CrowdStrike</title>
+    <link>https://www.crowdstrike.com/blog/mitigating-bash-shellshock/</link>
+    <description>Learn what steps to take to mitigate the threat of the Bash (ShellShock) Vulnerability. CrowdStrike walks through the ShellShock script vulnerability, its impact, recommendations for mitigation and more.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Adversary Manifesto | Global Threat Intelligence</title>
+    <link>https://www.crowdstrike.com/blog/adversary-manifesto-qa-crowdstrikes-adam-meyers/</link>
+    <description>Adam Meyers, VP of Intelligence for Crowdstrike runs the team that creates actionable intelligence reports. Read about his approach to cyber security here!</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>How cybercrime and cybersecurity affects nations and geopolitics - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/cybercrime-cybersecurity-affects-nations-geopolitics/</link>
+    <description>Learn how cybercrime &amp; cybersecurity affects nations &amp; geopolitics with a Q&amp;A from CrowdStrike &amp; The Adversary Manifesto! Click here to learn more!</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Peering Around the Corner With Threat Intelligence - CrowdStrike</title>
+    <link>https://www.crowdstrike.com/blog/peering-around-corner/</link>
+    <description>Understanding the culture of your adversaries can play a better role in combating against attacks. Learn how threat intelligence is utilized to drive decisions such as what defensive measures should be taken, what contingencies should be considered, and to do if a breach occurs.</description>
+    <pubDate>Fri, 06 Mar 2026 19:36:12 GMT</pubDate>
+  </item>
   <item>
     <title>Read Featured Executive Viewpoint Article by George Kurtz</title>
     <link>https://www.crowdstrike.com/blog/crowdstrike-launch/</link>
@@ -94,12 +184,6 @@
     <link>https://www.crowdstrike.com/blog/through-window-creative-code-invocation/</link>
     <description>While analyzing a targeted attack, CrowdStrike observed an interesting code invocation technique that we want to describe here on our blog, click to read.</description>
     <pubDate>Fri, 06 Mar 2026 19:19:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>https://www.crowdstrike.com/en-us/blog/ — sitemap had no items</title>
-    <link>https://www.crowdstrike.com/en-us/blog/</link>
-    <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
-    <pubDate>Tue, 24 Feb 2026 09:03:38 GMT</pubDate>
   </item>
 </channel>
 </rss>

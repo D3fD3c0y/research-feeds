@@ -4,7 +4,97 @@
   <title>Black Kite Blog (Custom Feed)</title>
   <link>https://blackkite.com/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 19:19:14 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 19:35:40 GMT</lastBuildDate>
+  <item>
+    <title>Spotlight on the Gramm-Leach-Bliley Act (GLBA)</title>
+    <link>https://blackkite.com/blog/spotlight-on-the-gramm-leach-bliley-act-glba</link>
+    <description>Spotlight on the Gramm-Leach-Bliley Act (GLBA) - Third Party Risk Management Articles and Education from Shared Assessments</description>
+    <pubDate>Tue, 19 Jul 2022 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>5 Ways Automation is Revolutionizing Third Party Risk Management</title>
+    <link>https://blackkite.com/blog/5-ways-automation-is-revolutionizing-third-party-risk-management</link>
+    <description>Automated third-party risk management allows for speed, efficiency and accuracy of vendor risk beyond any human capability.</description>
+    <pubDate>Tue, 22 Feb 2022 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>New Federal Cybersecurity Legislation Aimed at Protecting Critical Infrastructure</title>
+    <link>https://blackkite.com/blog/new-federal-cybersecurity-legislation-aimed-at-protecting-critical-infrastructure</link>
+    <description>New requirements for reporting data breaches and ransomware attacks aim to protect critical infrastructure and national public safety.</description>
+    <pubDate>Fri, 18 Mar 2022 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Third-Party Risk Management &amp; Cyber News</title>
+    <link>https://blackkite.com/blog/weekly-bites-2022</link>
+    <description>Stay up-to-date in the industry by reading our weekly bites of cyber news by Jeffrey Wheatman &amp; Bob Maley.</description>
+    <pubDate>Fri, 01 Apr 2022 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Are Cuts Inevitable, or is Cybersecurity Recession Proof?</title>
+    <link>https://blackkite.com/blog/a-recession-is-coming-are-cuts-in-cybersecurity-inevitable</link>
+    <description>Recessions tend to play out the same way. Leaders think they're in the clear until.. they're not. How should cybersecurity teams approach the change in the economy?</description>
+    <pubDate>Mon, 27 Feb 2023 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Do You Sbom [Software Bill of Materials], Brah?</title>
+    <link>https://blackkite.com/blog/do-you-sbom</link>
+    <description>SBOMs have gotten increased focus due to a high-profile software vulnerabilities - why is this the new most important thing to focus on?</description>
+    <pubDate>Thu, 12 Jan 2023 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Risk and Reels Goes Live – Hear From Jeffrey Wheatman on Starting a Podcast</title>
+    <link>https://blackkite.com/blog/risk-and-reels-goes-live-hear-from-jeffrey-wheatman-on-starting-a-podcast</link>
+    <description>Introducing Risk and Reels: A Cybersecurity Podcast. Learn the inspiration behind the podcast from the host himself, Jeffrey Wheatman.</description>
+    <pubDate>Thu, 09 Feb 2023 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Strong Cybersecurity Talent: The Biggest Need for Companies in 2022</title>
+    <link>https://blackkite.com/blog/strong-cybersecurity-talent-the-biggest-need-for-companies-in-2022</link>
+    <description>As the hiring market for cybersecurity talent grows and adapts to worldwide changes, companies can adjust tactics to discover candidates in new places.</description>
+    <pubDate>Thu, 21 Apr 2022 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Defend Cybersecurity Investment Amidst an Economic Downturn</title>
+    <link>https://blackkite.com/blog/defend-cybersecurity-investment-amidst-an-economic-downturn</link>
+    <description>In economic downturns, defending investment is imperative for remaining cyber secure and prioritizing risk level maintenance. Discover how.</description>
+    <pubDate>Thu, 14 Jul 2022 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>2022 Key Third-Party Breaches: Healthcare Still At Major Risk</title>
+    <link>https://blackkite.com/blog/2022-key-third-party-breaches-healthcare-still-at-major-risk</link>
+    <description>Let’s take a moment to look back, reflect, and learn from some of the key third-party breaches of 2022 where healthcare continued to be a top target.</description>
+    <pubDate>Mon, 11 Jul 2022 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Controls without enforcement: Is Zero Trust possible?</title>
+    <link>https://blackkite.com/blog/controls-without-enforcement-is-zero-trust-possible</link>
+    <description>Without alignment on standards, Zero Trust architecture has the potential to discourage gradual growth into compliance due to the daunting ask.</description>
+    <pubDate>Fri, 04 Mar 2022 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The CIA Triad: A Key Part of Your Cyber Security Program</title>
+    <link>https://blackkite.com/blog/the-cia-triad-a-key-part-of-your-cyber-security-program</link>
+    <description>Confidentiality, Integrity, and Availability are the key principles of the CIA triad, the basis for maintaining robust information security procedures.</description>
+    <pubDate>Thu, 07 Apr 2022 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CMMC 2.0: Compliance Made Simpler for DoD Contractors</title>
+    <link>https://blackkite.com/blog/cmmc-in-six-questions-what-to-know-about-the-cybersecurity-maturity-model-certification</link>
+    <description>Do you want to know about Cybersecurity Maturity Model Certification? We answered your questions about CMMC.</description>
+    <pubDate>Thu, 03 Feb 2022 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Prioritizing Third Party Risk Intelligence in a Managed Services Package</title>
+    <link>https://blackkite.com/blog/prioritizing-third-party-risk-intelligence-in-a-managed-services-package</link>
+    <description>Modern cybersecurity programs are complex and MSSPs must include a third-party risk intelligence solution in their service offering.</description>
+    <pubDate>Fri, 03 Jun 2022 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Human Firewall: Why Employees Play a Critical Role in Cyber Risk Management</title>
+    <link>https://blackkite.com/blog/the-human-firewall-why-employees-play-a-critical-role-in-cyber-risk-management</link>
+    <description>90% of cyber breaches are caused by human error. Read more about why your human firewall is just as important as your digital firewall.</description>
+    <pubDate>Thu, 09 Sep 2021 05:00:00 GMT</pubDate>
+  </item>
   <item>
     <title>Understand Supply Chain Risk Susceptibility to Prevent New Microsoft Exchange Server Ransomware Attacks</title>
     <link>https://blackkite.com/blog/understand-supply-chain-risk-susceptibility-to-prevent-new-microsoft-exchange-server-ransomware-attacks</link>
@@ -26,7 +116,7 @@
   <item>
     <title>Over 40 Million Consumers Affected by the Top Third-Party Data Breaches in August 2021</title>
     <link>https://blackkite.com/blog/over-40-million-consumers-affected-by-the-top-third-party-data-breaches-in-august-2021</link>
-    <description>August 2021: Another month of attacks on digital supply chains. Check out our roundup of the top 4. </description>
+    <description>August 2021: Another month of attacks on digital supply chains. Check out our roundup of the top 4.</description>
     <pubDate>Wed, 08 Sep 2021 05:00:00 GMT</pubDate>
   </item>
   <item>
@@ -94,96 +184,6 @@
     <link>https://blackkite.com/blog/third-party-risk-management-a-tool-or-a-process</link>
     <description>Within Enterprise Risk Management, Third-party risk has taken a new level of importance in the world of mitigation and risk processes.</description>
     <pubDate>Tue, 31 May 2022 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Do GRC Requirements Truly Reduce Risk?</title>
-    <link>https://blackkite.com/blog/do-grc-requirements-truly-reduce-risk</link>
-    <description>When GRC requirements tend to be more compliance based, rather than risk reduction forward, what actions can you take to facilitate better risk management?</description>
-    <pubDate>Fri, 09 Sep 2022 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>How to Conduct Cost Optimization and Remain Cyber Safe During an Economic Downturn</title>
-    <link>https://blackkite.com/blog/how-to-conduct-cost-optimization-and-remain-cyber-safe-during-an-economic-downturn</link>
-    <description>Are you prepared for budget cuts, hiring freezes, or layoffs while still prioritizing cyber? Find out how to maximize your budget with security in mind.</description>
-    <pubDate>Tue, 25 Oct 2022 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>What should cyber security’s role in sourcing and procurement be?</title>
-    <link>https://blackkite.com/blog/what-should-cyber-securitys-role-in-sourcing-and-procurement-be</link>
-    <description>When SPVM teams and security teams work together when assessing vendors, risk is properly accounted for and all parties involved are informed.</description>
-    <pubDate>Wed, 15 Jun 2022 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Black Kite Unveils Industry’s First Monthly Ransomware Dashboards</title>
-    <link>https://blackkite.com/blog/black-kite-unveils-industrys-first-monthly-ransomware-dashboards</link>
-    <description>Research offers critical insight into top ransomware groups, their victims, and the most common indicators of compromise over the past six months</description>
-    <pubDate>Tue, 24 Jan 2023 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>The History of Ransomware: Where It’s Been and Where It’s Going</title>
-    <link>https://blackkite.com/blog/the-history-of-ransomware-where-its-been-and-where-its-going</link>
-    <description>The history of ransomware begins in 1989 after a World Health Organization event. If you thought you knew ransomware, think again.</description>
-    <pubDate>Wed, 26 Apr 2023 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ransomware Trends 2023: The Who, What, and Why</title>
-    <link>https://blackkite.com/blog/ransomware-trends-2023-the-who-what-and-why</link>
-    <description>Keep an eye out for these key ransomware trends for 2023 so your teams can stop bad actors before they strike.</description>
-    <pubDate>Thu, 30 Mar 2023 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Black Kite Recognized as a Strong Performer in Gartner® Peer Insights™ &amp; Customers’ Choice in North America Segment</title>
-    <link>https://blackkite.com/blog/black-kite-gartner-peer-insights-customers-choice-north-america-segment</link>
-    <description>Black Kite is recognized as a Strong Performer inGartner® Peer Insights™ &amp; Customers' Choice in North America segment.</description>
-    <pubDate>Thu, 23 Mar 2023 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Security Luminaries Join Black Kite’s Board of Advisors</title>
-    <link>https://blackkite.com/blog/security-luminaries-join-black-kites-board-of-advisors</link>
-    <description>Leading security experts have joined Black Kite’s Board of Advisors, bringing deep domain knowledge and strategic vision to the company.</description>
-    <pubDate>Tue, 28 Mar 2023 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Fortune 500 CISO Patricia Titus Talks About Enabling Change in Cybersecurity</title>
-    <link>https://blackkite.com/blog/if-we-stop-worrying-about-who-gets-credit-and-focus-on-the-outcome-change-is-much-easier-to-enable</link>
-    <description>Check out the Risk and Reels podcast and learn how to enable change through de-prioritizing credit, building consensus, and ensuring clear communication.</description>
-    <pubDate>Thu, 23 Mar 2023 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>What You Need to Know About Maturing Your Third-Party Risk Management Program</title>
-    <link>https://blackkite.com/blog/what-you-need-to-know-about-maturing-your-third-party-risk-management-program</link>
-    <description>High-risk third parties are 2.5x more prevalent than they were just a few years ago. Discover how to start scaling your third-party risk program.</description>
-    <pubDate>Thu, 23 Sep 2021 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>T-Mobile Hacked 6 Times in Last 4 Years</title>
-    <link>https://blackkite.com/blog/t-mobile-hacked-6-times-in-last-4-years</link>
-    <description>T-Mobile made yet another appearance on the list of data breach victims, putting the data of over 40 million consumers at risk.</description>
-    <pubDate>Mon, 23 Aug 2021 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Healthcare Ransomware Attack Led to Cancelled Surgeries and Diverted Patients – What is Next?</title>
-    <link>https://blackkite.com/blog/healthcare-ransomware-attack-led-to-cancelled-surgeries-and-diverted-patients--what-is-next</link>
-    <description>Memorial Health continues negotiations with hackers after all three hospitals within the health network fell victim to ransomware.</description>
-    <pubDate>Fri, 27 Aug 2021 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Top Five Third-Party Data Breaches in June 2021, Revealed</title>
-    <link>https://blackkite.com/blog/the-top-five-third-party-data-breaches-in-june-2021-revealed</link>
-    <description>Data breaches in June targeted automative manufacturers first, with both Volkswagen and Mercedes-Benz' customer data leaked, impacting millions.</description>
-    <pubDate>Thu, 08 Jul 2021 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Tired of Guessing Whether Your IP Addresses Are Blacklisted?</title>
-    <link>https://blackkite.com/blog/tired-of-guessing-whether-your-ip-addresses-are-blacklisted</link>
-    <description>Understand the importance of IP reputation and learn how we’re enabling organizations to be cyber smart with our free IP Blacklist Search.</description>
-    <pubDate>Tue, 28 Sep 2021 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Four Ways Automation Can Transform Your Third-Party Cyber Risk Management Strategy</title>
-    <link>https://blackkite.com/blog/four-ways-automation-can-transform-your-third-party-cyber-risk-management-strategy</link>
-    <description>Supply chains are expected to double in size by 2026. Discover how automation can help alleviate your cybersecurity growing pains.</description>
-    <pubDate>Tue, 14 Sep 2021 05:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
