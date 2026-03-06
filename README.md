@@ -2,215 +2,316 @@
 
 
 # Summary
-Research Feeds is a lightweight system that builds and publishes custom RSS feeds for security research sites, blogs, and resources—even when those sites do not provide an official RSS/Atom feed.
+This repository automatically builds and publishes RSS feeds from a curated list of cybersecurity / threat-intelligence sources. The end goal is to provide an always-updating set of operations-ready feeds (RSS 2.0) that can be subscribed to in any RSS reader or integrated into downstream automation workflows. The project runs on a schedule (every 8 hours UTC by default) via GitHub Actions, generates one RSS file per source, writes an index.html catalog, and commits the results back to the repository so they can be served by GitHub Pages. [sophosapps...epoint.com], [abnormal.ai]
+At a high level, the project contains:
 
-- It runs on a GitHub Actions schedule, crawls each source from sources.json, and writes a per‑source RSS file to feeds/<slug>.xml.
-- It also generates an index.html that groups feeds into Enabled and Disabled sections, and shows the last execution time per feed.
-- Three modes of acquisition are supported:
-  - auto — discover an official feed via <link rel="alternate"> plus common suffixes; otherwise fall back to scraping.
-  - scrape — scrape the site’s listing page for recent posts and extract metadata from each article page.
-  - sitemap — read one or more sitemaps to discover recent article URLs, then extract metadata from the article pages.
-
-
-
-Purpose: give Threat Intel & SecOps teams a consistent, machine‑readable feed for research & advisories, independent of whether a site publishes an official feed—so downstream tools (readers, dashboards, enrichment pipelines) always have fresh inputs.
-
-# How everything works
-At a high level:
-
-- Workflow runs (on schedule or manually) → update-feeds.yml.
-- The workflow installs a few small dependencies and runs build_feeds.py.
-- build_feeds.py:
-  - Loads sources.json, separates Enabled vs Disabled.
-  - For Enabled sources:
-    - Runs in the configured mode (auto | scrape | sitemap).
-    - Normalizes metadata for each discovered post (title, link, description, pubDate).
-    - Writes a valid RSS 2.0 XML file at feeds/<slug>.xml.
-  - For Disabled sources:
-    - Skips processing but reads the previous feed’s <lastBuildDate> (if any) to display in the index.
-  - Generates a top‑level index.html that lists Enabled and Disabled feeds separately with their Last run times.
+- build_feeds.py — the feed generator. It crawls each source using either sitemap discovery or scraping, extracts metadata from article pages, writes RSS files under feeds/, builds index.html, and maintains a persistent state.json to reduce repeat HTTP work.
+- sources.json — the source registry. You define which sites to ingest, how to discover posts, and how strictly to scope URLs to the correct section of a site.
+- GitHub Actions workflow (update-feeds.yml) — runs build_feeds.py on a schedule, uploads outputs/logs as artifacts, and commits changes.
+- Output folders:
+  - feeds/ — the generated RSS feeds.
+  - artifacts/ — optional packaged outputs (when enabled), plus run manifests.
 
 
 
-## Key behaviors & guardrails:
+## Folder Structure
+### .github/workflows/
+Contains the GitHub Actions workflow file(s), especially:
+- update-feeds.yml — schedule + manual trigger, runs Python generator, uploads artifacts, commits output. [sophosapps...epoint.com], [sophosapps...epoint.com]
 
-- Robots compliance: RESPECT_ROBOTS = True (default) means the crawler won’t fetch pages disallowed by robots.txt.
-- Stability: Each per‑source run is wrapped in a try/except so one failing site won’t break the entire job.
-- Sitemap smart‑order: In mode: "sitemap", the script prioritizes URLs that share the same leading path as the provided url (e.g., if url is https://site.com/blog/, URLs beginning with /blog/ are tried first).
-- Output capping: Default MAX_ITEMS_PER_SOURCE = 20 items per feed; controlled page fetches limit runtime.
+### feeds/
+Contains the generated RSS feed XML files, one per source:
+- feeds/<slug>.xml — RSS 2.0 feed file created each run, where <slug> comes from sources.json.
 
+### artifacts/
+Contains optional “run outputs packaging” artifacts created by the generator (depending on configuration):
+- artifact_manifest.json — machine-readable summary of run outputs (what was built, how many items, timestamps, errors)
+- feeds_artifact.zip — a ZIP containing feeds/, index.html, sources.json, and manifests (if enabled by the build script / env)
+Even if you don’t generate ZIP packages, GitHub Actions can upload artifacts (files/directories) so you can download the exact outputs from any run..py) [rss.feedspot.com], [sophosapps...epoint.com]
 
-# Infrastructure: GitHub‑native (no server to host)
-This project requires no self‑hosting. Everything runs and publishes on GitHub:
-- GitHub Actions executes the builder on a schedule or on demand.
-- GitHub Pages serves the generated static site (the index.html and feeds/*.xml) directly from your repository:
-    - Enable Pages in your repository settings.
-    - Set the Pages source to the branch and folder where index.html lives (commonly the repo root on main).
-    - The workflow commits updated index.html and feeds/*.xml back to the repo; GitHub Pages picks up those changes automatically and serves them at your Pages URL.
-- The PAGES_BASE environment variable (exported by the workflow) tells build_index() what absolute URL to render in the index. If PAGES_BASE is omitted, relative links are used.
+### build_feeds.py
+build_feeds.py is the heart of the project. It converts a list of web sources into consistent RSS feeds, while being respectful of site structure, reducing repeated HTTP work, and producing stable output files.
+- What it does (in order)
+#### 1) Loads configuration inputs
+  - Reads sources.json (list of sources, modes, scoping rules).
+  - Loads state.json (persistent cache of “seen URLs” per feed slug) to reduce repeated work.
 
-Result: you get a hosted landing page and per‑source RSS endpoints without provisioning any servers, buckets, or runtimes.
+#### 2) For each source:
+For each source entry, the script:
+  - Determines whether robots rules should be respected for that source (respect_robots)
+  - Discovers candidate post URLs using one of these modes:
+      - mode: "sitemap" — reads a sitemap (or sitemap index), collects URLs, and then fetches article pages for metadata.
+      - mode: "scrape" — scrapes a listing page for links, filters them, and fetches article pages for metadata.
+      - mode: "auto" — attempts to find a native RSS/Atom feed first; if none, falls back to scrape.
+  - Applies scoping controls so you ingest the correct section (e.g., “News” vs “Blog” vs “Research”) even if the sitemap or page contains other site links.
+  - Applies incremental logic (Goal A): fetch metadata for only up to NEW_ITEMS_PER_RUN new URLs per source, and then fill the rest of the feed from the previous run’s output (no HTTP needed).
+  - Writes output feed XML under feeds/<slug>.xml.
+  - Prints a tiny per-feed debug summary to the logs, showing new vs reused items.
 
-# End‑to‑end Workflow of this project
-- Scheduler / Manual Trigger
-  - The workflow update-feeds.yml runs every 8 hours (cron) or via the Run workflow button.
-- Runner setup
-  - Checks out the repo.
-  - Installs Python 3.11 and dependencies: requests, beautifulsoup4, feedparser.
-  - Exports PAGES_BASE with your GitHub Pages URL.
-- Feed build
-  - Executes python build_feeds.py.
-  - build_feeds.py reads sources.json, splits Enabled vs Disabled.
-  - Enabled:
-    - Uses auto/scrape/sitemap mode to discover items.
-    - Enriches metadata (title/description/pubDate) from each article page.
-    - Writes feeds/<slug>.xml (RSS 2.0), captures <lastBuildDate>.
-- Disabled:
-  - Skips crawling; attempts to read last build time from existing feeds/<slug>.xml.
-- Writes a fresh index.html grouping Enabled/Disabled with Last run per feed.
-- Publish
-  - The workflow commits index.html and feeds/*.xml back to the repo.
-  - GitHub Pages serves the updated outputs at your public URL.
-  - Consumers (RSS readers, dashboards, etc.) subscribe to each feeds/<slug>.xml.
+#### 3) Builds index.html
+After processing all sources, generates index.html, listing enabled/disabled feeds and their URLs.
+#### 4) Saves state.json
+Updates state.json with newly-seen URLs per feed slug, so next run can skip already-processed content.
 
+### Modes: how discovery works
+#### Mode: sitemap
+Purpose: Use sitemap XML as the source of truth for content URLs.
+Typical sitemap flow:
+- Start with sitemap_url (if provided), else attempt common sitemap paths (e.g., /sitemap.xml, /sitemap_index.xml, .gz variants), and/or read Sitemap: directives from robots.txt.
+- Parse <urlset> and <sitemapindex>. Nested sitemap indexes are followed.
+- Collect candidate URLs, then filter/prioritize by sitemap_include_prefix and sitemap_strict.
 
-# File‑by‑file details
-## build_feeds.py — What it does & main features
-Core purpose: given a list of sources, build one RSS per source and a top‑level index.
+Why this mode exists: Some sites don’t provide RSS feeds, but do provide reliable sitemaps; sitemaps often contain canonical URLs.
 
-Notable configuration constants
-- USER_AGENT: Bot identifier sent with requests.
-- TIMEOUT: Per-request timeout (sec).
-- MAX_ITEMS_PER_SOURCE: How many items to emit in each RSS.
-- MAX_ARTICLE_FETCHES: Upper bound on per‑article fetches (for metadata enrichment).
-- RESPECT_ROBOTS: Whether to honor robots.txt (recommended = True).
+#### Mode: scrape
+Purpose: Scrape a listing page (blog index, category page, “latest posts” page) and collect links.
+Typical scraping flow:
+- GET the listing page.
+- Extract anchors using multiple selectors (article cards, headings, common “blog” path patterns, etc.).
+- Normalize URLs, remove duplicates, drop unwanted “junk” links (tags, categories, login pages, mailto).
+- Apply scrape_include_prefix + scrape_strict to avoid ingesting navigation links and unrelated sections.
+- Fetch article pages and extract metadata.
 
-Key building blocks
-- HTTP & robots
-  - get(url): thin wrapper over requests.get with headers/timeouts.
-  - robots_allows(url): consults robots.txt for the target host via urllib.robotparser. If parsing fails, it fails open (still fetches) but you’ll still see downstream 403/429 if servers deny access.
-- Auto‑discovery (mode: "auto")
-  - discover_feed_urls(page_url):
-    - Fetches the page and scans for <link rel="alternate" type="rss|atom|xml|json">.
-    - Adds common suffixes (/feed, /rss.xml, ?feed=rss2, etc.) at the current host & apex (handles www. vs apex).
-    - Special case: Medium supports /feed on publication/profile pages.
-  - validate_feed(url): uses feedparser to test candidates; on success, entries are converted to minimal RSS items.
-- Scraping (mode: "scrape")
-  - scrape_items(page_url, limit):
-    - Fetches the listing page and applies robust, generic CSS selectors such as article a[href], h2 a[href], a[href*="/blog/"], etc., to collect candidate links + anchor text.
-    - Visits up to MAX_ARTICLE_FETCHES article pages to enrich metadata (title/description/date):
-      - JSON‑LD (Article, BlogPosting, NewsArticle) if available.
-      - Otherwise og:title, og:description, <time datetime>, article:published_time>, or URL date heuristics as a fallback.
-    - Emits a short placeholder if nothing was discovered to keep the feed valid.
-- Sitemap discovery (mode: "sitemap")
-  - _read_robots_for_sitemaps(page_url): looks for Sitemap: lines in robots.txt.
-  - Tries common sitemap candidates on the host root:
-    - /sitemap.xml, /sitemap_index.xml, and their .gz variants.
-  - _fetch_xml(url): fetches & decompresses .gz sitemaps when needed.
-  - Parses sitemap XML via xml.etree.ElementTree (no lxml dependency); follows sitemap indexes recursively.
-  - Path‑hint prioritization: after collecting URLs from sitemap(s), the script reorders the list so that links whose path starts with the provided url’s leading path (e.g., /blog) are tried first.
-  - Respects RESPECT_ROBOTS before fetching each discovered URL.
-- RSS writer & index builder
-  - write_rss(out_path, channel_title, channel_link, items): emits a minimal, standards‑compliant RSS 2.0 file and returns the <lastBuildDate> used.
-  - _read_existing_last_build(slug): pulls the previous <lastBuildDate> (used for Disabled feeds display).
-  - build_index(feed_map_enabled, feed_map_disabled): writes a simple index.html that groups feeds into Enabled and Disabled sections and shows Last run timestamps for each.
-- Main control flow
-  - Loads sources.json.
-  - Splits sources by "disabled": true.
-  - Disabled: read prior lastBuildDate to display in the index; no crawling.
-  - Enabled: run per‑source mode; build items; write feeds/<slug>.xml; record lastBuildDate.
-  - Generates the top‑level index.html.
+Why this mode exists: Many modern sites don’t have clean sitemaps for specific sections, or their sitemaps contain lots of non-article URLs.
 
--Outputs
-  - feeds/<slug>.xml — per‑source RSS.
-  - index.html — front page with Enabled/Disabled lists and “Last run”.
+#### Mode: auto
+Purpose: “Try RSS first.”
+It attempts:
+- "<link rel="alternate" type="application/rss+xml"> / Atom links"
+- common RSS URL patterns (/feed, /rss.xml, etc.)
+- If it finds a valid feed with entries, it uses it. Otherwise it falls back to scrape.
 
 
-## sources.json — What it contains & how to write entries
-Purpose: declare the set of sources you want to track and how to acquire their items.
-Schema (per entry):
+### Incremental behavior (Goal A)
+This project deliberately avoids re-fetching the same articles repeatedly:
+- Each run fetches at most NEW_ITEMS_PER_RUN (default 15) new article pages per feed.
+- Already-seen URLs are tracked in state.json per feed slug.
+- To keep the feed “full” (e.g., 30 items), the script merges:
+  - new items fetched this run (up to 15)
+  - previous items from the prior feeds/<slug>.xml (read locally, no HTTP)
+- Result: stable feed length with greatly reduced HTTP work and fewer repeated requests.
 
-JSON{  "name": "Human‑readable source name",  "url": "https://example.com/path/",  "slug": "kebab-case-unique-slug",  "mode": "auto|scrape|sitemap",  "disabled": false}Show more lines
+#### Debug summary line (per feed)
+After each feed is processed, the script prints:
+- new_fetched: number of new URLs fetched this run
+- new_used: number of those new URLs that ended up in the final feed after merge/dedupe
+- reused: number of items carried over from the previous feed file
+- prev_cached: how many items were available from last feed file
+- seen_before: how many URLs were already in state for that feed
+- seen_added: how many URLs were added to state this run
+This makes it easy to confirm incremental behavior just by reading run.log.
 
-### Fields
-- name — Display name (also used in the channel <title> of the RSS).
-- url — The starting URL for this source:
-    - auto mode: a representative page (homepage, blog root, etc.) that might contain <link rel="alternate"> or be near conventional feed paths.
-    - scrape mode: the listing page that renders recent posts (server‑rendered is ideal).
-    - sitemap mode: any URL on the target host (commonly the blog root, e.g., https://site.com/blog/). The script reads robots.txt and tries root candidates (/sitemap*.xml) and will follow indexes recursively.
-      - With the path‑hint, URLs with the same leading path (e.g., /blog) are prioritized.
-- slug — Filename stem for the resulting feed (feeds/<slug>.xml). Use lowercase letters, digits, and hyphens only; avoid spaces.
-- mode — Acquisition strategy:
-  - auto → try to find an official feed; else the code falls back to scraping.
-  - scrape → skip discovery; scrape the listing page.
-  - sitemap → enumerate URLs from sitemaps and enrich items from article pages.
-- disabled (optional) — When true, the source appears under Disabled in index.html; no fetching happens.
-
-Example:
-JSON
-[
-  {
-    "name": "Abstract Security Blog",
-    "url": "https://www.abstract.security/blog/",
-    "slug": "abstract-security",
-    "mode": "sitemap"
-  }
-]
-
-### Tips
-
-- If a site’s sitemap is site‑wide and mixes many non‑blog URLs, keeping url on the blog path (e.g., /blog/) helps the path‑hint push it to the top of the queue in sitemap mode.
-- If the listing page is heavily client‑rendered, scrape might miss links; prefer sitemap in that case.
-
-## update-feeds.yml — What the workflow does
-Purpose: run the builder on a schedule (and on demand), publish new RSS files and the index page.
-- Triggers
-  - Schedule: cron: "5 */8 * * *" — runs every 8 hours at minute 5 past the hour.
-  - Manual: workflow_dispatch enables the Run workflow button.
-
-- Steps
-  - Checkout the repo.
-  - Set up Python (3.11).
-  - Install dependencies:
-    - requests — HTTP.
-    - beautifulsoup4 — HTML parsing for discovery/scraping.
-    - feedparser — validates official feeds during auto.
-      - No lxml required; sitemap parsing uses stdlib xml.etree.ElementTree.
-  - Set PAGES_BASE environment variable (used by index.html to produce absolute links to feeds/*.xml).
-    - Example in the workflow:
-ShellPAGES_BASE=https://<github_username>.github.io/<repo-name>/Show more lines
-  - Build feeds:
-Shellpython build_feeds.pyShow more lines
-- Commit & push changes to index.html and feeds/*.xml.
-
-### Customizing
-- Change the cron to your preferred cadence.
-- If you publish Pages under a different path or custom domain, adjust the PAGES_BASE export accordingly.
+#### Robots.txt handling and caching
+If respect_robots: true, the script checks robots.txt for crawling permissions before fetching article pages. It also caches parsed robots rules per host during the run to avoid re-downloading robots.txt for every URL (significant HTTP reduction).
+- Note: This project aims to follow robots directives when enabled per source; you should set respect_robots appropriately for your policies and environment.
 
 
-## index.html — What it shows
-Purpose: quick landing page to browse feeds and see their freshness.
-Content & behavior
-- Two sections:
-  - Enabled — lists each feed with:
-    - a clickable link to "feeds/slug.xml"
-    - the feed path in "code"
-    - Last run: showing the "lastBuildDate" from the current run
-  - Disabled — lists feeds that have "disabled": true in sources.json:
-    - shows the path and “Last run:” read from the previous feeds/"slug".xml if present (or n/a)
-- Styling is intentionally minimal and self‑contained (no external CSS/JS)
-- All links can be absolute if PAGES_BASE is set; otherwise they are relative.
+#### Environment variables (advanced)
+These can be used to tune behavior without code changes:
+Shell# limit how many new article pages are fetched per feed per runNEW_ITEMS_PER_RUN=15# maximum URLs stored per feed in state.jsonMAX_SEEN_PER_FEED=800# where state is storedFEED_STATE_PATH=state.json# used by index.html to build absolute URLsPAGES_BASE=https://<user>.github.io/<repo>/Show more lines
+
+### index.html
+index.html is a human-friendly catalog page for the feeds.
+#### What it does
+- Lists all enabled sources as clickable links to their RSS feeds (feeds/<slug>.xml).
+- Lists all disabled sources separately.
+- Shows lastBuildDate (the time of feed generation) for each feed, as recorded in the RSS file.
+- Supports GitHub Pages publishing so you can browse feeds in a browser instead of navigating repository files.
+
+#### How it is generated
+build_feeds.py writes index.html after processing all sources. It uses the environment variable PAGES_BASE (if set by the workflow) to construct absolute URLs.
+
+#### How it is used
+If your repository is configured with GitHub Pages, index.html can be served as the landing page. GitHub Pages supports publishing from a selected branch/folder, or via a workflow-based build/deploy approach. 
+
+### run.log
+run.log is the execution log output of the generator during a workflow run.
+### What it contains
+- High-level “Processing: ” lines
+- HTTP request tracing lines (when debug is enabled), including:
+  - request type (robots-check, sitemap, scrape-listing, article)
+  - URL fetched
+  - HTTP status code
+  - final URL after redirects
+  - content type
+  - body snippet (for non-200 responses, helpful for diagnosing WAF blocks and incorrect sitemap formats)
+- Tiny per-feed summary line, indicating incremental behavior (new vs reused)
+
+#### Where it is produced
+In update-feeds.yml, the build step pipes Python output to tee run.log, so everything printed by build_feeds.py goes into run.log.
+#### Where it is viewed
+- In the GitHub Actions run logs (Actions UI), since it’s standard step output. GitHub supports viewing/searching/downloading workflow logs at the run/job level. [sophosapps...epoint.com], [sophosapps...epoint.com]
+- As a downloadable artifact (this workflow uploads run.log using actions/upload-artifact). Artifacts are intended to preserve files created during a run for later download..py) [rss.feedspot.com], 
 
 
-## Quick start
-- Edit sources.json — add or adjust your sources (set mode per site)
-- Commit & push — GitHub Actions will build on schedule; you can also run it manually
-- Open:
-  - "/index.html" to see Enabled/Disabled feeds and Last run times
-  - "/feeds/slug.xml" to subscribe in a reader or consume downstream
+### sources.json
+sources.json is the registry of all feeds you want the project to generate.
+It is a JSON array of objects. Each object describes one source and how to ingest it.
+#### Common fields
+##### name
+Human-friendly label for the source (used in output feed titles and index.html).
+##### url
+The primary URL for the source:
+- For mode: "scrape": the listing page (blog index / category page).
+- For mode: "sitemap": the logical “section page” for scoping (even if sitemap is elsewhere).
+- For mode: "auto": the homepage/listing page used to discover an RSS feed link.
+##### slug
+A stable identifier used for filenames:
+- Output feed: feeds/<slug>.xml
+- Also used as the key in state.json.
+##### mode
+Defines discovery method:
+- "scrape" — parse listing page links
+- "sitemap" — parse sitemap URLs
+- "auto" — try official feed, then fallback to scrape
+##### disabled
+If true, the source is not processed; it will appear under “Disabled” in index.html.
+##### respect_robots
+Controls whether robots.txt rules are respected for this source:
+- true: check robots before fetching pages
+- false: do not check robots
+Tip: If a site blocks robots.txt access (403), the script may treat that conservatively depending on response. In general, enabling respect_robots is the safer/courteous option.
 
-## Notes & conventions
-- Respecting robots: Keep RESPECT_ROBOTS = True unless you have a strong reason not to
-- Slugs: Stick to a‑z, digits, and hyphens to ensure clean file paths and links
-- Item limits: Tune MAX_ITEMS_PER_SOURCE and MAX_ARTICLE_FETCHES if a site posts very frequently or loads slowly
-- Placeholders: If nothing suitable is found, a single placeholder item is emitted so the feed remains valid (helps with downstream consumers that require a feed to exist)
+
+#### Sitemap-specific fields
+##### sitemap_url
+Explicit sitemap URL to use first (e.g., https://example.com/sitemap.xml or a specific section sitemap).
+This is strongly recommended when the site uses multiple sitemap files or non-standard locations.
+##### sitemap_include_prefix
+A path prefix used to prioritize or filter sitemap URLs, e.g.:
+- "/eng/news/"
+- "/eng/expertise/research/"
+This prevents sitemaps from feeding unrelated URLs into your feed (common when sitemaps contain the entire site).
+##### sitemap_strict
+Boolean controlling strictness:
+- false (default): URLs matching sitemap_include_prefix are processed first; if there aren’t enough matches, the script may pull from other sitemap URLs to fill.
+- true: only URLs that match the prefix are eligible. If none match, the feed may end up with fewer or no new items.
+Use sitemap_strict: true when you must avoid mixing sections.
+
+#### Scrape-specific fields
+##### scrape_include_prefix
+A path prefix used to prioritize or filter scraped links from the listing page.
+Example for a blog:
+- "/resources/blog/"
+This is crucial for sites where the listing page includes global nav links (platform, careers, etc.) that you do not want in the feed.
+##### scrape_strict
+Boolean controlling strictness:
+- false (default): prefer matching links first; allow others if needed.
+- true: only include scraped links whose paths start with the prefix.
+Use scrape_strict: true when you want a feed that contains only true post pages and not internal navigation.
+
+Example source entry
+JSON{  "name": "Example Vendor Blog",  "url": "https://vendor.com/blog/",  "sitemap_url": "https://vendor.com/sitemap.xml",  "sitemap_include_prefix": "/blog/",  "sitemap_strict": false,  "scrape_include_prefix": "/blog/",  "scrape_strict": true,  "slug": "vendor-blog",  "mode": "sitemap",  "disabled": false,  "respect_robots": true}Show more lines
+
+### state.json
+state.json is a persistent incremental cache used to reduce repeated HTTP work across workflow runs.
+#### What it does
+For each feed slug, it stores:
+- seen_urls: list of URLs that have already been processed (most recent first)
+- last_success_utc: timestamp of last successful update for that feed
+#### Why it exists
+Many sources keep the same “top N” items on their listing pages or sitemaps. Without a state file, the workflow would re-fetch and parse the same article pages on every run.
+With state.json, the generator can:
+- skip already-seen URLs
+- fetch only the next set of unseen URLs (up to NEW_ITEMS_PER_RUN)
+- reuse older items from the previous feed file
+#### Growth control
+To avoid unbounded growth, the list is capped:
+- maximum entries per feed = MAX_SEEN_PER_FEED (default 800)
+
+### artifact_manifest.json
+artifact_manifest.json is a run manifest that summarizes what was generated.
+This file is used when the generator is configured to package outputs for download and auditing.
+
+#### What it typically contains
+- generated_at_utc: timestamp of run
+- feeds: list of feeds generated, each including:
+  - name
+  - slug
+  - source URL
+  - mode
+  - status / error
+  - item_count
+  - output path
+  - lastBuildDate
+
+#### Why it’s useful
+- Quick auditing: “what did this run produce?”
+- Troubleshooting: identify which sources failed without scanning full logs
+- Automation: downstream processes can consume a single JSON manifest
+
+### feeds_artifact.zip
+feeds_artifact.zip is a packaged snapshot of run outputs, intended to be uploaded as a GitHub Actions artifact for easy download.
+#### What it contains
+Typically:
+- feeds/ directory (all generated feed XML files)
+- index.html
+- sources.json (for traceability / auditing)
+- artifact_manifest.json (run summary)
+
+#### Why it exists
+- Lets you download “everything that run produced” in one file
+- Supports debugging/validation without relying on commits or Pages deployment
+
+GitHub Actions artifacts are designed exactly for this: keeping build outputs available for download after a run..py)
+
+
+### update-feeds.yml
+update-feeds.yml is the GitHub Actions workflow that orchestrates automation.
+#### What it does
+- Runs every 8 hours (UTC) and supports manual triggers (workflow_dispatch)
+- Checks out the repository
+- Installs Python dependencies
+- Sets PAGES_BASE for the index.html generator
+- Executes build_feeds.py and writes output to run.log
+- Uploads artifacts:
+  - full outputs (feeds/, index.html, and optional artifacts/)
+  - run.log
+Commits and pushes changes back to the repo
+
+#### Why it uploads artifacts
+Artifacts allow you to inspect the exact outputs of a workflow run (even if no commit occurs or if you want to compare runs). GitHub supports downloading workflow logs and build artifacts from run pages. 
+
+### Workflow
+This section is the “high-level sequence” of how everything works end-to-end when the workflow runs.
+#### 1) Trigger: schedule or manual
+- GitHub Actions triggers update-feeds.yml on the cron schedule or via manual dispatch.
+- You can view each run in the Actions tab and inspect step logs. [sophosapps...epoint.com], [sophosapps...epoint.com]
+#### 2) Checkout & environment setup
+- Workflow checks out repository contents.
+- Sets up Python and installs dependencies (requests, beautifulsoup4, feedparser).
+#### 3) Generator execution (build_feeds.py)
+- Reads sources.json to know what to process.
+- Loads state.json to skip already-seen URLs.
+- For each source:
+  - chooses discovery method based on mode (sitemap/scrape/auto)
+  - applies include-prefix scoping (sitemap_include_prefix/scrape_include_prefix)
+  - applies strict flags (sitemap_strict/scrape_strict)
+  - fetches up to NEW_ITEMS_PER_RUN new items
+  - merges with previous feed output to keep stable feed size
+  - prints debug summary line
+  - writes feeds/<slug>.xml
+- Writes index.html
+- Saves updated state.json
+#### 4) Artifacts upload (per run)
+- Workflow uploads:
+  - generated outputs (feeds + index + artifacts dir)
+  - run.log Artifacts can be downloaded later from the run page..py)
+#### 5) Commit & push
+- Workflow stages changes (feeds/, index.html, state.json, and any artifacts/manifest)
+- Commits if there are changes
+- Pushes to main
+#### 6) Publishing (GitHub Pages)
+- If configured, GitHub Pages serves the updated content (index + feed XML).
+- GitHub Pages can be configured to publish from a branch/folder.
+
+
+#### Optional: Local run instructions (recommended)
+If you want to run locally (for testing):
+Shellpython -m pip install --upgrade pippip install requests beautifulsoup4 feedparserpython build_feeds.pyShow more lines
+
+Outputs:
+- feeds/*.xml
+- index.html
+- state.json (after first run)
+
