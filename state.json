@@ -1,7 +1,22 @@
 {
   "abnormal-threat-intel": {
-    "last_success_utc": "2026-03-06T02:47:54.204962+00:00",
+    "last_success_utc": "2026-03-06T08:53:52.541213+00:00",
     "seen_urls": [
+      "https://abnormal.ai/blog/healthcare-cybersecurity-compliance",
+      "https://abnormal.ai/blog/cybersecurity-in-healthcare",
+      "https://abnormal.ai/blog/healthcare-cloud-security",
+      "https://abnormal.ai/blog/hipaa-secure-email-requirements",
+      "https://abnormal.ai/blog/ai-email-security-for-healthcare",
+      "https://abnormal.ai/blog/starkiller-phishing-kit",
+      "https://abnormal.ai/blog/top-microsoft-365-security-posture-gaps",
+      "https://abnormal.ai/blog/ki-gestuetzte-email-angriffe-dach",
+      "https://abnormal.ai/blog/ai-native-vs-ai-augmented-email-security",
+      "https://abnormal.ai/blog/enterprise-mailbox-security",
+      "https://abnormal.ai/blog/dmarc-bypass-techniques",
+      "https://abnormal.ai/blog/m365-direct-send-abuse",
+      "https://abnormal.ai/blog/microsoft-exchange-online-protection",
+      "https://abnormal.ai/blog/microsoft-direct-send-vulnerability",
+      "https://abnormal.ai/blog/build-security-awareness-programs",
       "https://abnormal.ai/blog/cybersecurity-skills-gap-solutions",
       "https://abnormal.ai/blog/email-fraud-wire-transfer-prevention",
       "https://abnormal.ai/blog/threat-prevention-for-cloud",
@@ -35,8 +50,23 @@
     ]
   },
   "abstract-security": {
-    "last_success_utc": "2026-03-06T02:47:57.789252+00:00",
+    "last_success_utc": "2026-03-06T08:54:10.385947+00:00",
     "seen_urls": [
+      "https://www.abstract.security/blog/ep-1-cal-poly-incubator-interview",
+      "https://www.abstract.security/blog/ep-2-jon-oltsik-future-of-security-operations",
+      "https://www.abstract.security/blog/from-frameworks-to-flywheels-measuring-security-momentum",
+      "https://www.abstract.security/blog/from-mandate-to-maturity-how-cisas-zero-trust-maturity-model-2-0-and-csa-methodologies-advance-enterprise-cyber-resilience",
+      "https://www.abstract.security/blog/from-market-guide-to-real-world-abstracts-influence-in-the-industry-and-enterprise",
+      "https://www.abstract.security/blog/gainsight-breach-saas-supply-chain-attack-exposes-salesforce-integrations",
+      "https://www.abstract.security/blog/how-abstract-security-delivers-measurable-roi-and-enhances-your-cloud-siem",
+      "https://www.abstract.security/blog/how-abstract-turns-security-from-a-cost-center-to-a-competitive-edge",
+      "https://www.abstract.security/blog/how-juul-labs-rebuilt-its-security-operations-using-abstract",
+      "https://www.abstract.security/blog/how-to-triage-npm-malware-incidents",
+      "https://www.abstract.security/blog/inside-the-web-of-scattered-spider-dfir-lessons-and-the-future-of-modern-detection",
+      "https://www.abstract.security/blog/integrating-security-data-pipelines-with-detection",
+      "https://www.abstract.security/blog/introducing-abstract-lakevilla-pipeline-powered-analyst-ready-and-efficient-storage",
+      "https://www.abstract.security/blog/introducing-c2-corner",
+      "https://www.abstract.security/blog/moving-laterally-through-abuse-of-managed-identities-attached-to-vms",
       "https://www.abstract.security/blog/c2-corner-rebooting-security-operations-mission-first-people-always",
       "https://www.abstract.security/blog/c2-corner-state-of-enterprise-detection-engineering-for-a-modern-soc",
       "https://www.abstract.security/blog/c2-corner-stop-automating-the-soc-start-automating-remediation",
@@ -70,14 +100,29 @@
     ]
   },
   "bfore-ai-reports": {
-    "last_success_utc": "2026-03-06T02:47:59.166146+00:00",
+    "last_success_utc": "2026-03-06T08:54:11.257127+00:00",
     "seen_urls": [
       "https://bfore.ai/resources/reports/"
     ]
   },
   "binarydefense-blog": {
-    "last_success_utc": "2026-03-06T02:48:32.554884+00:00",
+    "last_success_utc": "2026-03-06T08:55:11.139838+00:00",
     "seen_urls": [
+      "https://binarydefense.com/resources/blog/how-our-dedicated-resources-differ-from-staff-augmentation",
+      "https://binarydefense.com/resources/blog/ransomware-what-is-it-and-why-should-your-organization-be-concerned",
+      "https://binarydefense.com/resources/blog/understanding-sleep-obfuscation",
+      "https://binarydefense.com/resources/blog/cybersecurity-moneyball-part-2-binary-defenses-new-paradigm-in-malware-detection",
+      "https://binarydefense.com/resources/blog/the-imperative-of-threat-hunting-for-a-mature-security-posture",
+      "https://binarydefense.com/resources/blog/technical-analysis-killer-ultra-malware-targeting-edr-products-in-ransomware-attacks",
+      "https://binarydefense.com/resources/blog/cybersecurity-moneyball-part-1-managed-deception-for-easy-outs",
+      "https://binarydefense.com/resources/blog/letmeowin-analysis-of-a-credential-dumper",
+      "https://binarydefense.com/resources/blog/communication-is-key-leveraging-business-frameworks-to-develop-a-detection-and-response-strategy",
+      "https://binarydefense.com/resources/blog/diving-into-hidden-scheduled-tasks",
+      "https://binarydefense.com/resources/blog/sisense-data-compromise-arc-labs-intelligence-flash",
+      "https://binarydefense.com/resources/blog/analyzing-cryptojs-encrypted-phishing-attempt",
+      "https://binarydefense.com/resources/blog/qakbot-strikes-back-understanding-the-threat",
+      "https://binarydefense.com/resources/blog/malsync-teardown-from-dll-hijacking-to-php-malware-for-windows",
+      "https://binarydefense.com/resources/blog/mdr-metrics-that-matter-from-analysts-to-the-board-of-directors",
       "https://binarydefense.com/resources/blog/detecting-follina-exploits-using-a-remote-answer-file",
       "https://binarydefense.com/resources/blog/what-cve-2025-53770-teaches-us-about-zero-day-reality-and-ransomware-routine",
       "https://binarydefense.com/resources/blog/why-nist-csf-2-0-makes-sense-for-mid-market-and-growing-businesses",
@@ -111,8 +156,22 @@
     ]
   },
   "bizone-blog": {
-    "last_success_utc": "2026-03-06T02:48:23.742345+00:00",
+    "last_success_utc": "2026-03-06T08:55:02.722047+00:00",
     "seen_urls": [
+      "https://bi.zone/eng/expertise/blog/gambling-hyena-i-twelfth-hyena-u-dvukh-khishchnikov-odin-khozyain/",
+      "https://bi.zone/eng/expertise/blog/rare-wolf-okhotitsya-za-privatnymi-dannymi-s-pomoshchyu-falshivykh-nakladnykh-1s-predpriyatie/",
+      "https://bi.zone/eng/expertise/blog/mysterious-werewolf-atakuet-rossiyskuyu-promyshlennost/",
+      "https://bi.zone/eng/expertise/blog/shpiony-sticky-werewolf-atakuyut-gosudarstvennye-organizatsii-rossii-i-belarusi/",
+      "https://bi.zone/eng/expertise/blog/stiler-white-snake-rasprostranyaetsya-pod-vidom-trebovaniy-roskomnadzora/",
+      "https://bi.zone/eng/expertise/blog/novaya-gruppirovka-quartz-wolf-primenyaet-otechestvennoe-po-v-atakakh-na-gostinichnyy-biznes/",
+      "https://bi.zone/eng/expertise/blog/red-wolf-vnov-shpionit-za-kommercheskimi-organizatsiyami/",
+      "https://bi.zone/eng/expertise/blog/core-werewolf-protiv-opk-i-kriticheskoy-infrastruktury/",
+      "https://bi.zone/eng/expertise/blog/kak-besplatnoe-po-pokhishchaet-paroli-u-rossiyskikh-kompaniy/",
+      "https://bi.zone/eng/expertise/blog/seo-poisoning-obzor-ataki-watch-wolf-na-bukhgalterov/",
+      "https://bi.zone/eng/expertise/blog/bizone-experts-have-discovered-new-attacks-with-a-ransomware-program/",
+      "https://bi.zone/eng/expertise/blog/vulnerabilities-in-j-link-licensing-system/",
+      "https://bi.zone/eng/expertise/blog/our-new-log4j-scanner-to-combat-log4shell/",
+      "https://bi.zone/eng/expertise/blog/insecure-deserialisation/",
       "https://bi.zone/eng/expertise/blog/venture-wolf-ispolzuet-metastealer-v-atakakh-na-rossiyskie-kompanii/",
       "https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2024-38227-v-microsoft-sharepoint/",
       "https://bi.zone/eng/expertise/blog/ne-budi-likho-core-werewolf-sovershenstvuet-ataki-na-rossiyskie-gosorganizatsii/",
@@ -144,8 +203,22 @@
     ]
   },
   "bizone-news": {
-    "last_success_utc": "2026-03-06T02:48:12.876646+00:00",
+    "last_success_utc": "2026-03-06T08:54:36.126486+00:00",
     "seen_urls": [
+      "https://bi.zone/eng/news/bi-zone-vystupit-na-konferentsii-po-kiberbezopasnosti-mena-isc/",
+      "https://bi.zone/eng/news/v-offzone-2024-prinyalo-uchastie-rekordnoe-kolichestvo-gostey/",
+      "https://bi.zone/eng/news/bi-zone-edr-rasshiryaet-vozmozhnosti-po-otsenke-konfiguratsii-bezopasnosti-na-konechnykh-tochkakh/",
+      "https://bi.zone/eng/news/ataka-pod-prikrytiem-okolo-85-fishingovykh-soobshcheniy-maskiruyut-pod-finansovye-dokumenty-i-pisma/",
+      "https://bi.zone/eng/news/predstavlyaem-obnovlenie-bi-zone-threat-intelligence/",
+      "https://bi.zone/eng/news/na-cyber-polygon-2024-zaregistrirovalis-komandy-bolee-chem-iz-20-stran/",
+      "https://bi.zone/eng/news/sapphire-werewolf-perepisala-stiler-dlya-shpionazha-za-rossiyskimi-kompaniyami/",
+      "https://bi.zone/eng/news/my-otkryvaem-registratsiyu-na-cyber-polygon-2024/",
+      "https://bi.zone/eng/news/bi-zone-waf-zashchishchaet-ot-novoy-uyazvimosti-v-confluence/",
+      "https://bi.zone/eng/news/predstavlena-korobochnaya-versiya-resheniya-dlya-zashchity-konechnykh-tochek-bi-zone-edr/",
+      "https://bi.zone/eng/news/proschitalis-no-gde-ataki-scaly-wolf-provalilis-iz-za-gruboy-oshibki/",
+      "https://bi.zone/eng/news/bi-zone-waf-zashchishchaet-ot-novykh-uyazvimostey-v-cms-wordpress/",
+      "https://bi.zone/eng/news/my-obnovili-bi-zone-cesp/",
+      "https://bi.zone/eng/news/v-bi-zone-cpt-poyavilsya-razdel-dlya-reagirovaniya-na-ugrozy-veb-prilozheniyam/",
       "https://bi.zone/eng/news/obyavlyaem-daty-i-mesto-provedeniya-offzone-2025/",
       "https://bi.zone/eng/news/klyuch-k-uspekhu-legitimnyy-instrument-otkryl-zloumyshlennikam-dostup-k-dannym-400-kompaniy/",
       "https://bi.zone/eng/news/v-novyy-god-s-novym-stilerom-yanvar-nachalsya-s-masshtabnoy-volny-atak-na-rossiyskie-kompanii/",
@@ -177,7 +250,7 @@
     ]
   },
   "bizone-research": {
-    "last_success_utc": "2026-03-06T02:48:25.275692+00:00",
+    "last_success_utc": "2026-03-06T08:55:03.910920+00:00",
     "seen_urls": [
       "https://bi.zone/eng/expertise/research/threat-zone-2025/",
       "https://bi.zone/eng/expertise/research/threat-zone-gcc-2024/",
@@ -189,8 +262,23 @@
     ]
   },
   "blackkite": {
-    "last_success_utc": "2026-03-06T02:48:41.477356+00:00",
+    "last_success_utc": "2026-03-06T08:55:17.471808+00:00",
     "seen_urls": [
+      "https://blackkite.com/blog/resource-roundup-stop-drowning-in-cves-prioritize-your-supply-chain-vulnerabilities",
+      "https://blackkite.com/blog/top-cyber-concerns-and-resilience-strategies",
+      "https://blackkite.com/blog/software-updates-are-not-optional",
+      "https://blackkite.com/blog/should-operational-security-be-discussed-with-the-board",
+      "https://blackkite.com/blog/how-to-prioritize-security-when-executives-are-focused-on-business-growth",
+      "https://blackkite.com/blog/what-is-the-difference-between-vrm-tprm-and-supply-chain-risk-management",
+      "https://blackkite.com/blog/ciso-on-the-road-with-bob-maley",
+      "https://blackkite.com/blog/time-to-revamp-your-typical-password-strategy",
+      "https://blackkite.com/blog/phishing-history-statistics-and-prevention",
+      "https://blackkite.com/blog/dont-let-chaos-bring-you-down",
+      "https://blackkite.com/blog/ai-tools-cyber-attacks",
+      "https://blackkite.com/blog/different-types-of-hackers",
+      "https://blackkite.com/blog/osfi-tprm-guideline",
+      "https://blackkite.com/blog/machine-learning-third-party-risk",
+      "https://blackkite.com/blog/social-engineering-cybersecurity",
       "https://blackkite.com/blog/black-kite-named-a-forbes-best-startup-employer",
       "https://blackkite.com/blog/focus-friday-ftprm-insights-on-critical-vulnerabilities-in-freescout-pac4j-mongodb-django-langflow-rustfs-and-apache-superset",
       "https://blackkite.com/blog/ransomware-fatigue-is-leaving-the-back-door-open",
@@ -224,8 +312,23 @@
     ]
   },
   "pillar-security": {
-    "last_success_utc": "2026-03-06T02:48:43.394058+00:00",
+    "last_success_utc": "2026-03-06T08:55:19.158738+00:00",
     "seen_urls": [
+      "https://www.pillar.security/blog/from-static-scanning-to-recursive-loops-lessons-from-a-decade-in-data-science-and-ai",
+      "https://www.pillar.security/blog/genai-tools-in-the-workplace-5-emerging-threat-scenarios",
+      "https://www.pillar.security/blog/hackerbot-claw-adversarial-agent-targets-top-github-repos",
+      "https://www.pillar.security/blog/how-ai-coding-assistants-could-be-compromised-via-rules-file",
+      "https://www.pillar.security/blog/how-genai-is-becoming-a-prime-target-for-cyberattacks",
+      "https://www.pillar.security/blog/how-will-ai-change-the-future-of-the-workforce-and-what-are-the-security-implications",
+      "https://www.pillar.security/blog/introducing-pillar-for-ai-coding-agents",
+      "https://www.pillar.security/blog/introducing-the-sail-framework-a-practical-guide-to-secure-ai-systems",
+      "https://www.pillar.security/blog/key-questions-for-secure-deployment-of-large-language-models",
+      "https://www.pillar.security/blog/large-language-models-are-not-inventions-theyre-discoveries",
+      "https://www.pillar.security/blog/llm-attacks-take-just-42-seconds-on-average-20-of-jailbreaks-succeed",
+      "https://www.pillar.security/blog/llm-backdoors-at-the-inference-level-the-threat-of-poisoned-templates",
+      "https://www.pillar.security/blog/llm-jailbreaking-the-new-frontier-of-privilege-escalation-in-ai-systems",
+      "https://www.pillar.security/blog/llms-are-an-essential-kernel-process-of-a-new-operating-system",
+      "https://www.pillar.security/blog/manipulating-llm-agents-a-case-study-in-prompt-injection-attacks",
       "https://www.pillar.security/blog/ask-gordon-meet-the-attacker-prompt-injection-in-dockers-built-in-ai-assistant",
       "https://www.pillar.security/blog/best-practices-for-securely-deploying-ai-systems-insights-from-nsas-latest-report",
       "https://www.pillar.security/blog/beyond-devsecops-pillars-approach-for-securing-agentic-ai",
@@ -259,11 +362,11 @@
     ]
   },
   "trellix-research": {
-    "last_success_utc": "2026-03-06T02:57:03.048927+00:00",
+    "last_success_utc": "2026-03-06T09:03:38.404123+00:00",
     "seen_urls": []
   },
   "trellix-threat-reports": {
-    "last_success_utc": "2026-03-06T03:05:22.817938+00:00",
+    "last_success_utc": "2026-03-06T09:11:57.451005+00:00",
     "seen_urls": []
   }
 }

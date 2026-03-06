@@ -4,7 +4,97 @@
   <title>Abnormal Security Threat Intel Blog (Custom Feed)</title>
   <link>https://abnormal.ai/threat-intelligence/blog?category=threat-intel</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 02:47:54 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 08:53:52 GMT</lastBuildDate>
+  <item>
+    <title>Healthcare Cybersecurity Compliance: HIPAA, HITRUST, or NIST?</title>
+    <link>https://abnormal.ai/blog/healthcare-cybersecurity-compliance</link>
+    <description>Healthcare cybersecurity compliance starts with choosing the right framework. Compare HIPAA, HITRUST, and NIST to find the best fit for your organization.</description>
+    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cybersecurity in Healthcare: A Complete Guide for Security Leaders</title>
+    <link>https://abnormal.ai/blog/cybersecurity-in-healthcare</link>
+    <description>Cybersecurity in healthcare protects patient data, clinical systems, and care delivery. Learn the threats, regulations, and defenses that matter most.</description>
+    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Healthcare Cloud Security: Protecting Patient Data in the Cloud</title>
+    <link>https://abnormal.ai/blog/healthcare-cloud-security</link>
+    <description>Healthcare cloud security starts with identity-first controls. Learn how to protect patient data across hybrid environments without disrupting care delivery.</description>
+    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>HIPAA Secure Email Requirements: What Healthcare Orgs Must Know</title>
+    <link>https://abnormal.ai/blog/hipaa-secure-email-requirements</link>
+    <description>HIPAA secure email requirements cover encryption, access controls, and BAAs. Learn how to meet compliance while defending against modern email threats.</description>
+    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Email Security for Healthcare: Top 5 Threats to Watch</title>
+    <link>https://abnormal.ai/blog/ai-email-security-for-healthcare</link>
+    <description>Email security for healthcare must address phishing, BEC, ransomware, credential theft, and vendor attacks. See how behavioral AI defends the inbox.</description>
+    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Starkiller Phishing Framework Proxies Real Login Pages to Bypass MFA</title>
+    <link>https://abnormal.ai/blog/starkiller-phishing-kit</link>
+    <description>Go inside Starkiller's control panel to see how headless browsers and reverse proxies enable enterprise-grade phishing infrastructure with MFA bypass.</description>
+    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Top 5 Microsoft 365 Security Gaps Exposed by Abnormal (and How to Close Them)</title>
+    <link>https://abnormal.ai/blog/top-microsoft-365-security-posture-gaps</link>
+    <description>Discover the top Microsoft 365 security gaps identified across Abnormal deployments and how Security Posture Management helps close them.</description>
+    <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>KI‑basierte E‑Mail‑Angriffe: Einfach gestartet, kaum zu stoppen</title>
+    <link>https://abnormal.ai/blog/ki-gestuetzte-email-angriffe-dach</link>
+    <description>Abnormal AI provides advanced cloud email security to prevent credential phishing, business email compromise, account takeover, and more.</description>
+    <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI-Native, Not AI-Augmented: Why Architecture Matters in the Age of AI Attacks</title>
+    <link>https://abnormal.ai/blog/ai-native-vs-ai-augmented-email-security</link>
+    <description>AI-powered attacks demand AI-native security. Explore how foundational platform architecture shapes detection accuracy, automated response, and modern cyber defense.</description>
+    <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Enterprise Mailbox Security: Cloud Email Protection Guide</title>
+    <link>https://abnormal.ai/blog/enterprise-mailbox-security</link>
+    <description>Discover how mailbox security detects account takeover, data exfiltration, and phishing attacks that bypass email gateways using behavioral AI.</description>
+    <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>DMARC Bypass Techniques: Risks CISOs Must Know</title>
+    <link>https://abnormal.ai/blog/dmarc-bypass-techniques</link>
+    <description>Learn how attackers exploit DMARC bypass techniques, audit vendor exceptions, and strengthen email authentication with behavioral AI detection.</description>
+    <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Direct Send Abuse: Detection and Prevention Guide</title>
+    <link>https://abnormal.ai/blog/m365-direct-send-abuse</link>
+    <description>Learn how direct send abuse bypasses M365 email security, how to detect it in your environment, and how to prevent internal phishing attacks.</description>
+    <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Microsoft Exchange Online Protection: What EOP Covers</title>
+    <link>https://abnormal.ai/blog/microsoft-exchange-online-protection</link>
+    <description>Discover what Microsoft Exchange Online Protection defends against, where it falls short, and how to close the gaps attackers exploit.</description>
+    <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Microsoft Direct Send Vulnerability Explained</title>
+    <link>https://abnormal.ai/blog/microsoft-direct-send-vulnerability</link>
+    <description>Learn how attackers exploit the Microsoft Direct Send vulnerability to bypass email gateways and deliver phishing campaigns directly to employees' inboxes.</description>
+    <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Security Awareness Programs That Drive Real Results</title>
+    <link>https://abnormal.ai/blog/build-security-awareness-programs</link>
+    <description>Learn how to build security awareness programs that change employee behavior, reduce risk, and create lasting defenses against social engineering attacks.</description>
+    <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
   <item>
     <title>Cybersecurity Skills Gap: How Security Leaders Adapt</title>
     <link>https://abnormal.ai/blog/cybersecurity-skills-gap-solutions</link>
@@ -94,96 +184,6 @@
     <link>https://abnormal.ai/blog/cybersecurity-attacks-in-healthcare</link>
     <description>Cybersecurity attacks in healthcare are escalating through identity compromise and supply chain exploitation. Learn how security leaders are fighting back.</description>
     <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Three Years of Abnormal + CrowdStrike: Advancing AI-Driven Protection Across Email, Identity, and Endpoint</title>
-    <link>https://abnormal.ai/blog/crowdstrike-email-security-partnership</link>
-    <description>Abnormal and CrowdStrike celebrate three years of partnership, unifying AI-based email security, identity, endpoint, and SIEM to detect and stop sophisticated attacks faster.</description>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>User and Entity Behavior Analytics vs Traditional Security</title>
-    <link>https://abnormal.ai/blog/user-and-entity-behavior-analytics</link>
-    <description>User and Entity Behavior Analytics (UEBA) detects credential attacks and insider threats traditional tools miss. Learn why behavioral security wins.</description>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>How Security Frameworks Prevent Phishing Attacks</title>
-    <link>https://abnormal.ai/blog/security-frameworks</link>
-    <description>Security frameworks prevent phishing through training, email controls, and incident response. Learn how NIST and CIS Controls reduce risk.</description>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Identity Protection Strategies for the Modern Enterprise</title>
-    <link>https://abnormal.ai/blog/identity-protection-strategies</link>
-    <description>Identity protection strategies for modern enterprises. Learn MFA, behavioral monitoring, vendor verification, and phishing prevention tactics.</description>
-    <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Human Risk Management: Building a Data-Driven Program</title>
-    <link>https://abnormal.ai/blog/human-risk-management-behavioral-ai</link>
-    <description>Build a data-driven human risk management program using AI-powered simulations, just-in-time coaching, and real attack intelligence.</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Managed Cybersecurity Services: Which Type Fits Your Business?</title>
-    <link>https://abnormal.ai/blog/managed-cybersecurity-services-vs-in-house-soc</link>
-    <description>Managed cybersecurity services deliver 24/7 threat detection without in-house SOC overhead. Learn which type fits your needs and how to evaluate providers.</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>AI Security Awareness Training: Implementation Guide</title>
-    <link>https://abnormal.ai/blog/ai-security-awareness-training-guide</link>
-    <description>Implement AI security awareness training with this 6-phase framework to deliver personalized simulations and reduce human risk.</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>CFO Phishing: 7 Ways to Protect Finance Executives</title>
-    <link>https://abnormal.ai/blog/cfo-phishing-protection</link>
-    <description>Discover why CFO phishing targets finance executives and learn seven proven strategies to defend your organization against wire transfer fraud.</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Role-Based Phishing: How Attackers Target Job Functions</title>
-    <link>https://abnormal.ai/blog/role-based-phishing-defense</link>
-    <description>Learn how role-based phishing targets specific job functions and discover defense strategies that match how attackers select and exploit their victims.</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Invoice Redirection Fraud: How to Build Detection Systems</title>
-    <link>https://abnormal.ai/blog/invoice-redirection-fraud-detection</link>
-    <description>Discover how invoice redirection fraud exploits vendor trust and learn to build detection systems that catch payment diversions before funds move.</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Targeted Phishing Defense: Stop Spear Phishing at Scale</title>
-    <link>https://abnormal.ai/blog/targeted-phishing-defense</link>
-    <description>Learn how targeted phishing attacks use AI-powered reconnaissance and discover scalable defenses combining behavioral analytics with real-threat training.</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>What Is the Weakest Link in Cybersecurity?</title>
-    <link>https://abnormal.ai/blog/weakest-link-in-cyber-security</link>
-    <description>Discover what is the weakest link in cybersecurity and why fixing systems, not blaming users, is the key to reducing human risk.</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Tech Consolidation Strategy: Consolidate vs. Specialize</title>
-    <link>https://abnormal.ai/blog/tech-consolidation-security-strategy</link>
-    <description>Learn when tech consolidation strengthens security and when specialization is smarter with this risk-based decision framework for security teams.</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Vendor Security Evaluation: Framework and Best Practices</title>
-    <link>https://abnormal.ai/blog/vendor-security-evaluation-guide</link>
-    <description>Build a scalable vendor security evaluation program with tiered frameworks, assessment tools, and continuous monitoring best practices.</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Email Authentication Setup to Prevent Spoofing Guide</title>
-    <link>https://abnormal.ai/blog/email-authentication-setup-prevent-spoofing</link>
-    <description>Follow this enterprise roadmap for email authentication setup to prevent spoofing with phased SPF, DKIM, and DMARC deployment.</description>
-    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

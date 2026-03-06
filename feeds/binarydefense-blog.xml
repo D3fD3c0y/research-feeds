@@ -4,7 +4,97 @@
   <title>Binary Defense Blog (Custom Feed)</title>
   <link>https://binarydefense.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 02:48:32 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 08:55:11 GMT</lastBuildDate>
+  <item>
+    <title>How Our Dedicated Resources Differ from Staff Augmentation</title>
+    <link>https://binarydefense.com/resources/blog/how-our-dedicated-resources-differ-from-staff-augmentation</link>
+    <description>Discover how Binary Defense Dedicated Resources go beyond traditional staff augmentation. This blog breaks down the key differences that set our approach…</description>
+    <pubDate>Fri, 06 Mar 2026 08:55:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>Ransomware: what is it, and why should your organization be concerned?</title>
+    <link>https://binarydefense.com/resources/blog/ransomware-what-is-it-and-why-should-your-organization-be-concerned</link>
+    <description>Ransomware is everywhere you turn nowadays. Better understand the threat this type of cyberattack poses and how to combat it.</description>
+    <pubDate>Fri, 06 Mar 2026 08:55:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>Understanding Sleep Obfuscation</title>
+    <link>https://binarydefense.com/resources/blog/understanding-sleep-obfuscation</link>
+    <description>All in-memory sleep obfuscation techniques function similarly at a more abstract level, but differences in their implementations mean that they produce…</description>
+    <pubDate>Fri, 06 Mar 2026 08:55:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cybersecurity Moneyball Part 2: Binary Defense’s New Paradigm in…</title>
+    <link>https://binarydefense.com/resources/blog/cybersecurity-moneyball-part-2-binary-defenses-new-paradigm-in-malware-detection</link>
+    <description>In this installment, we explore how Binary Defense is revolutionizing malware disruption by shifting the detection point to a place where common evasion…</description>
+    <pubDate>Fri, 06 Mar 2026 08:55:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Imperative of Threat Hunting for a Mature Security Posture</title>
+    <link>https://binarydefense.com/resources/blog/the-imperative-of-threat-hunting-for-a-mature-security-posture</link>
+    <description>Threat Hunting should be considered a foundational component of a security strategy which can be a significant driver in an organization’s security…</description>
+    <pubDate>Fri, 06 Mar 2026 08:55:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>Technical Analysis: Killer Ultra Malware Targeting EDR Products in…</title>
+    <link>https://binarydefense.com/resources/blog/technical-analysis-killer-ultra-malware-targeting-edr-products-in-ransomware-attacks</link>
+    <description>Killer Ultra leverages a well-documented Zemana driver as a mechanism to terminate EDR/AV processes; however, ARC Labs have identified additional…</description>
+    <pubDate>Fri, 06 Mar 2026 08:55:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cybersecurity Moneyball Part 1: Managed Deception for Easy Outs</title>
+    <link>https://binarydefense.com/resources/blog/cybersecurity-moneyball-part-1-managed-deception-for-easy-outs</link>
+    <description>In this blog, we’ll explore Binary Defense’s managed deception capabilities and why they should be a consideration when evaluating the maturity of a…</description>
+    <pubDate>Fri, 06 Mar 2026 08:55:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>LetMeowIn - Analysis of a Credential Dumper</title>
+    <link>https://binarydefense.com/resources/blog/letmeowin-analysis-of-a-credential-dumper</link>
+    <description>By ARC Labs contributors, John Dwyer and Harold Tabellion In April 2024, security researcher Meowmycks released LetMeowIn which was designed to harvest…</description>
+    <pubDate>Fri, 06 Mar 2026 08:55:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>Communication is Key – Leveraging Business Frameworks to Develop a…</title>
+    <link>https://binarydefense.com/resources/blog/communication-is-key-leveraging-business-frameworks-to-develop-a-detection-and-response-strategy</link>
+    <description>While the continuing “businessification” of cybercrime has increased the size of the criminal ecosystem, it does provide an opportunity for non-technical…</description>
+    <pubDate>Fri, 06 Mar 2026 08:55:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>Diving into Hidden Scheduled Tasks</title>
+    <link>https://binarydefense.com/resources/blog/diving-into-hidden-scheduled-tasks</link>
+    <description>In April 2022, Microsoft released a report detailing how the “Tarrask” malware manipulated the Security Descriptor of Scheduled Tasks as a defense evasion…</description>
+    <pubDate>Fri, 06 Mar 2026 08:55:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Sisense Data Compromise: ARC Labs Intelligence Flash</title>
+    <link>https://binarydefense.com/resources/blog/sisense-data-compromise-arc-labs-intelligence-flash</link>
+    <description>Sisense urged clients to specifically: Change all passwords associated with my.sisense.com Reset credentials in client-controlled databases and data model…</description>
+    <pubDate>Fri, 06 Mar 2026 08:55:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Analyzing CryptoJS Encrypted Phishing Attempt</title>
+    <link>https://binarydefense.com/resources/blog/analyzing-cryptojs-encrypted-phishing-attempt</link>
+    <description>Analysis of the payload revealed heavily obfuscated HTML data which executed JavaScript code embedded within an SVG image when the page is rendered on the…</description>
+    <pubDate>Fri, 06 Mar 2026 08:55:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Qakbot Strikes Back: Understanding the Threat</title>
+    <link>https://binarydefense.com/resources/blog/qakbot-strikes-back-understanding-the-threat</link>
+    <description>New QakBot Campaign Qakbot, also known as QBot, is a banking trojan and botnet that has been active since 2008. Recently, Binary Defense threat…</description>
+    <pubDate>Fri, 06 Mar 2026 08:55:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>MalSync Teardown: From DLL Hijacking to PHP Malware for Windows</title>
+    <link>https://binarydefense.com/resources/blog/malsync-teardown-from-dll-hijacking-to-php-malware-for-windows</link>
+    <description>uniqid()); # Execute the PE $d = shell_exec($fiEnc); # Strip white space from the return of the execution $d = trim($d); # Replace an escaped double quote…</description>
+    <pubDate>Fri, 06 Mar 2026 08:55:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>MDR Metrics that Matter – From Analysts to the Board of Directors</title>
+    <link>https://binarydefense.com/resources/blog/mdr-metrics-that-matter-from-analysts-to-the-board-of-directors</link>
+    <description>Metrics that Matter are data points that provide a clear understanding of threat levels, risk, impact analysis, and effectiveness in the context of MDR.</description>
+    <pubDate>Fri, 06 Mar 2026 08:55:11 GMT</pubDate>
+  </item>
   <item>
     <title>Detecting Follina Exploits Using a Remote Answer File</title>
     <link>https://binarydefense.com/resources/blog/detecting-follina-exploits-using-a-remote-answer-file</link>
@@ -94,96 +184,6 @@
     <link>https://binarydefense.com/resources/blog/shining-a-light-in-the-dark-how-binary-defense-uncovered-an-apt-lurking-in-shadows-of-it</link>
     <description>Timeline of the Attacker's Activity Attacker access one of the AIX servers using the default credentials for the Apache AXIS Admin portal Attacker…</description>
     <pubDate>Fri, 06 Mar 2026 02:48:32 GMT</pubDate>
-  </item>
-  <item>
-    <title>NightBeacon: AI as a Force Multiplier in Cybersecurity</title>
-    <link>https://binarydefense.com/resources/blog/ai-as-a-force-multiplier-in-cybersecurity</link>
-    <description>If you've spent any real time in the security trenches, you know the real enemy isn't just ransomware gangs, nation-state hackers, or relentless botnets.…</description>
-    <pubDate>Thu, 05 Mar 2026 18:18:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Windows Defender ACL Blocking: A Silent Technique With Serious Impact</title>
-    <link>https://binarydefense.com/resources/blog/windows-defender-acl-blocking-a-silent-technique-with-serious-impact</link>
-    <description>What matters to defenders (TL;DR) The PoC modifies ACLs to add Deny ACEs against kernel32.dll for targeted service identities. With administrator…</description>
-    <pubDate>Thu, 05 Mar 2026 18:18:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>NightBeacon: Rapid Deployment of AI Capabilities</title>
-    <link>https://binarydefense.com/resources/blog/nightbeacon-rapid-deployment-of-ai-capabilities</link>
-    <description>NightBeacon is Binary Defense’s AI-powered threat analysis platform built to take real-world security inputs—logs, files, and emails—and turn them into…</description>
-    <pubDate>Thu, 05 Mar 2026 18:18:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>An Incident Doesn’t Have to Be a Crisis</title>
-    <link>https://binarydefense.com/resources/blog/an-incident-doesnt-have-to-be-a-crisis</link>
-    <description>They’re about creating a world where: bad things are contained disruptions are minimized data stays protected operations keep running the business can…</description>
-    <pubDate>Thu, 05 Mar 2026 18:18:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>A Closer Look at Malicious SVG Phishing</title>
-    <link>https://binarydefense.com/resources/blog/a-closer-look-at-malicious-svg-phishing</link>
-    <description>In recent investigations, Binary Defense researchers observed multiple phishing campaigns abusing SVG files. Much like other modern phishing techniques,…</description>
-    <pubDate>Thu, 05 Mar 2026 18:18:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>When Paychecks Become the Prize: A Deeper Look at the Rise of Direct…</title>
-    <link>https://binarydefense.com/resources/blog/when-paychecks-become-the-prize-a-deeper-look-at-the-rise-of-direct-deposit-attacks</link>
-    <description>Instead, attackers are exploiting identity workflows, trusted access paths, and payroll self-service features to quietly steal money — one paycheck at a…</description>
-    <pubDate>Thu, 05 Mar 2026 18:18:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>When Access Brokers Go Interactive: ClickFixin’ to Python Your Network</title>
-    <link>https://binarydefense.com/resources/blog/when-access-brokers-go-interactive-clickfixin-to-python-your-network</link>
-    <description>ARC Labs investigated a campaign that closely resembled publicly reported CrashFix activity but critically did not stop at initial access.</description>
-    <pubDate>Thu, 05 Mar 2026 18:18:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>Slivering Through The Cracks</title>
-    <link>https://binarydefense.com/resources/blog/slivering-through-the-cracks</link>
-    <description>Patching, or more specifically, NTDLL patching, is the process of re-re-writing NTDLL in memory and removing those hooks to blind the security agents.…</description>
-    <pubDate>Thu, 05 Mar 2026 18:18:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>What Defined Defense in 2025</title>
-    <link>https://binarydefense.com/resources/blog/what-defined-defense-in-2025</link>
-    <description>Read the full blog WHAT CVE-2025-53770 TEACHES US ABOUT ZERO-DAY REALITY AND RANSOMWARE ROUTINE This blog reframes zero-day exploitation as an operational…</description>
-    <pubDate>Thu, 05 Mar 2026 18:18:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Evolutions in Offensive Toolkits: Phishing</title>
-    <link>https://binarydefense.com/resources/blog/evolutions-in-offensive-toolkits-phishing</link>
-    <description>Enter Phishing’s New Best Friend – Toolkits A Phishing Toolkit is a collection of pre-packaged software and resources that malicious actors will use to…</description>
-    <pubDate>Thu, 05 Mar 2026 18:18:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>DeedRAT: Unpacking a Modern Backdoor’s Playbook</title>
-    <link>https://binarydefense.com/resources/blog/deedrat-unpacking-a-modern-backdoors-playbook</link>
-    <description>Recently, Binary Defense researchers in ARC Labs took a deep dive into a fresh DeedRAT sample, dissecting its infection chain, sideloading tricks, and…</description>
-    <pubDate>Thu, 05 Mar 2026 18:18:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>GlytchC2: A Bug in the Livestream</title>
-    <link>https://binarydefense.com/resources/blog/glytchc2-a-bug-in-the-livestream</link>
-    <description>The GlytchC2 framework uses plaintext IRC over port 6667 to connect to irc.chat.twitch.tv, where attacker-issued commands are delivered through an…</description>
-    <pubDate>Thu, 05 Mar 2026 18:18:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>A Practical Guide to Deobfuscating a Stupidly Long JavaScript Stealer</title>
-    <link>https://binarydefense.com/resources/blog/a-practical-guide-to-deobfuscating-a-stupidly-long-javascript-stealer</link>
-    <description>At runtime the loader uses the current scope’s binding (the one visible where the code runs) to decide which function is used. This will allow the analyst…</description>
-    <pubDate>Thu, 05 Mar 2026 18:18:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>DON’T FREEZE ME OUT, BRO! ARC Labs Technical Analysis of EDR-Freeze</title>
-    <link>https://binarydefense.com/resources/blog/dont-freeze-me-out-bro-arc-labs-technical-analysis-of-edr-freeze</link>
-    <description>EDR-Freeze is a recently published proof-of-concept that automates a flow to cause a dumper process to suspend an EDR/antivirus process (via minidump…</description>
-    <pubDate>Thu, 05 Mar 2026 18:18:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>DefendNot: Turning Windows Defender Against Itself</title>
-    <link>https://binarydefense.com/resources/blog/defendnot-turning-windows-defender-against-itself</link>
-    <description>Rather than tampering with Defender processes or registry keys, DefendNot takes a different approach by registering a fake antivirus through the Windows…</description>
-    <pubDate>Thu, 05 Mar 2026 18:18:42 GMT</pubDate>
   </item>
 </channel>
 </rss>

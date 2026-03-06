@@ -4,12 +4,96 @@
   <title>BI.ZONE Blog (Custom Feed)</title>
   <link>https://bi.zone/eng/expertise/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 02:48:23 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 08:55:02 GMT</lastBuildDate>
   <item>
     <title>Technical articles</title>
     <link>https://bi.zone/eng/expertise/blog/</link>
     <description>BI.ZONE expert research and practical materials on cybersecurity</description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>A striking resemblance: Gambling Hyena and Twelfth Hyena clusters compared</title>
+    <link>https://bi.zone/eng/expertise/blog/gambling-hyena-i-twelfth-hyena-u-dvukh-khishchnikov-odin-khozyain/</link>
+    <description>What is common between two hacktivist groups attacking the Russian government sector</description>
+    <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Rare Wolf preys on sensitive data using fake 1C:Enterprise invoices as a lure</title>
+    <link>https://bi.zone/eng/expertise/blog/rare-wolf-okhotitsya-za-privatnymi-dannymi-s-pomoshchyu-falshivykh-nakladnykh-1s-predpriyatie/</link>
+    <description>How adversaries create diversions and stay invisible</description>
+    <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mysterious Werewolf attacks Russian industry</title>
+    <link>https://bi.zone/eng/expertise/blog/mysterious-werewolf-atakuet-rossiyskuyu-promyshlennost/</link>
+    <description>What is known about the WinRAR vulnerability that the group is exploiting and how to recognize the attacks</description>
+    <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>A research of attacks on public organizations involving malware-as-a-service tools</title>
+    <link>https://bi.zone/eng/expertise/blog/shpiony-sticky-werewolf-atakuyut-gosudarstvennye-organizatsii-rossii-i-belarusi/</link>
+    <description>How weak defenses allow the spies to operate without sophisticated tools</description>
+    <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>White Snake is weaponized against Russian companies</title>
+    <link>https://bi.zone/eng/expertise/blog/stiler-white-snake-rasprostranyaetsya-pod-vidom-trebovaniy-roskomnadzora/</link>
+    <description>Criminals leverage White Snake in phishing emails to steal corporate data. Such attacks do not demand much skill: all that the intruder needs is to rent out the stealer. The program's low cost and simple operation make it highly demanded on the darknet</description>
+    <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>New hacker group Quartz Wolf leverages legitimate software to attack the hospitality/hotel industry</title>
+    <link>https://bi.zone/eng/expertise/blog/novaya-gruppirovka-quartz-wolf-primenyaet-otechestvennoe-po-v-atakakh-na-gostinichnyy-biznes/</link>
+    <description>Own malware has never been the go-to for cybercriminals. The Quart Wolf hacker group has devised another way to bypass conventional defenses. By using the Assistant remote access software the group attempts to compromise its target systems. In this publication, we reveal the mechanics of this attack and share how BI.ZONE CESP was able to detect and prevent it</description>
+    <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Red Wolf is back to spy on commercial firms</title>
+    <link>https://bi.zone/eng/expertise/blog/red-wolf-vnov-shpionit-za-kommercheskimi-organizatsiyami/</link>
+    <description>Red Wolf, the hacker group that went off the radar in 2022, is back with its old tricks, leveraging classic phishing ploys to penetrate corporate infrastructures. Aiming to remain invisible as long as possible, the group breaks down its intrusion into stages to bypass conventional defenses</description>
+    <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Core Werewolf targets the defense industry and critical infrastructure</title>
+    <link>https://bi.zone/eng/expertise/blog/core-werewolf-protiv-opk-i-kriticheskoy-infrastruktury/</link>
+    <description>Amid the changing environment, Core Werewolf is one of the new cybercriminal groups actively engaged in espionage. The first attacks attempted by the adversaries can be traced back to 2021. They target Russian organizations associated with the defense industry and critical information infrastructure</description>
+    <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Malware: everybody gets one. How open-source software steals corporate passwords</title>
+    <link>https://bi.zone/eng/expertise/blog/kak-besplatnoe-po-pokhishchaet-paroli-u-rossiyskikh-kompaniy/</link>
+    <description>Stealers, malicious programs that target user credentials, have been around for a long time and are still popular among cybercriminals. In this article, we will look into the mechanics of Umbral, a new stealer that has been used against a number of Russian companies. Uniquely enough, the source code for Umbral is available to anyone at GitHub</description>
+    <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Watch Wolf targets accountants through SEO poisoning</title>
+    <link>https://bi.zone/eng/expertise/blog/seo-poisoning-obzor-ataki-watch-wolf-na-bukhgalterov/</link>
+    <description>Delivering malware through phishing emails has become a standard practice among cybercriminals. The Watch Wolf hacker group, however, has opted for a new approach. Using search engine optimization, the group promotes fraudulent websites to lure unsuspecting accountants to install a backdoor on their computers</description>
+    <pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Destructive attacks by Key Wolf: how to spot the new ransomware</title>
+    <link>https://bi.zone/eng/expertise/blog/bizone-experts-have-discovered-new-attacks-with-a-ransomware-program/</link>
+    <description>BI.ZONE's cyber intelligence unit reports on an attack campaign engineered by the Key Wolf hacker group. Aimed specifically at the users in Russia, the attack prompts them to launch malware and thus trigger file encryption on their computers. Interestingly enough, the attackers do not demand any ransom</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vulnerabilities in J-Link licensing system, or Why researching device security matters</title>
+    <link>https://bi.zone/eng/expertise/blog/vulnerabilities-in-j-link-licensing-system/</link>
+    <description>Vulnerabilities in hardware are not easy to find and sometimes are impossible to fix. However, security testing of IoT gadgets, smartphones, tablets, and other devices should not be left behind</description>
+    <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Our New Log4j Scanner to Combat Log4Shell</title>
+    <link>https://bi.zone/eng/expertise/blog/our-new-log4j-scanner-to-combat-log4shell/</link>
+    <description>The scanner will help find applications that are using the vulnerable Log4j library</description>
+    <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Insecure deserialization</title>
+    <link>https://bi.zone/eng/expertise/blog/insecure-deserialisation/</link>
+    <description>This section covers the notion of JSON Web Tokens, what they consist of, how they are exploited for user authentication and what the advantages are of JWT compared with a classic authentication scheme using sessions</description>
+    <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
   </item>
   <item>
     <title>Venture Wolf attempts to disrupt Russian businesses with MetaStealer</title>
@@ -32,7 +116,7 @@
   <item>
     <title>Wreaking havoc in cyberspace: threat actors experiment with pentest tools</title>
     <link>https://bi.zone/eng/expertise/blog/khaos-v-kiberprostranstve-gruppirovki-eksperimentiruyut-s-instrumentami/</link>
-    <description>A new research by BI.ZONE Threat Intelligence reveals how adversaries attempt to bypass cybersecurity systems </description>
+    <description>A new research by BI.ZONE Threat Intelligence reveals how adversaries attempt to bypass cybersecurity systems</description>
     <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
   </item>
   <item>
@@ -100,90 +184,6 @@
     <link>https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2025-62592-v-oracle-virtualbox-dlya-macos/</link>
     <description>We uncover a virtualization software vulnerability causing an ASLR leak</description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>UnFortune 500: most often hacked in Russia and CIS</title>
-    <link>https://bi.zone/eng/expertise/blog/unfortune-500-most-often-hacked-in-russia-and-cis/</link>
-    <description>Examining current threats and vulnerabilities in public-facing applications and explaining how to minimize risks and quickly respond to attacks</description>
-    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cavalry Werewolf raids Russia's public sector with trusted relationship attacks</title>
-    <link>https://bi.zone/eng/expertise/blog/cavalry-werewolf-atakuet-rossiyu-cherez-doveritelnye-otnosheniya-mezhdu-gosudarstvami/</link>
-    <description>The malicious actors pose as government officials and utilize own crafted malware in their attacks</description>
-    <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Deep dive into CVE-2025-29824 in Windows</title>
-    <link>https://bi.zone/eng/expertise/blog/podrobnyy-razbor-uyazvimosti-cve-2025-29824-v-os-windows/</link>
-    <description>We look into the clfs.sys driver vulnerability that allows attackers to escalate privileges within the operating system</description>
-    <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Paper Werewolf targets Russia with WinRAR zero-day vulnerability</title>
-    <link>https://bi.zone/eng/expertise/blog/paper-werewolf-atakuet-rossiyu-s-ispolzovaniem-uyazvimosti-nulevogo-dnya-v-winrar/</link>
-    <description>The cluster continues its campaign against Russian organizations—this time exploiting WinRAR flaws</description>
-    <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Rainbow Hyena strikes again: new backdoor and shift in tactics</title>
-    <link>https://bi.zone/eng/expertise/blog/rainbow-hyena-snova-atakuet-novyy-bekdor-i-smena-taktik/</link>
-    <description>A new phishing campaign targeted healthcare and IT organizations. The hacktivists were using polyglot and LNK files mimicking legitimate documents to evade detection</description>
-    <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>ClickFix makes its way into Russia</title>
-    <link>https://bi.zone/eng/expertise/blog/proydite-proverku-i-poluchite-vpo-clickfix-dobralas-do-rossii/</link>
-    <description>How adversaries leverage fake CAPTCHAs to deploy Octowave Loader and a previously unknown RAT</description>
-    <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Malware or LLM? Silent Werewolf employs new loaders to attack Russian and Moldovan organizations</title>
-    <link>https://bi.zone/eng/expertise/blog/silent-werewolf-ispolzuet-novye-zagruzchiki-v-atakakh-na-rossiyskie-i-moldavskie-organizatsii/</link>
-    <description>The threat actor hinders payload retrieval, making it harder for researchers to trace the malware and analyze the cluster</description>
-    <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Exploring CVE-2025-24364 and CVE-2025-24365 in Vaultwarden</title>
-    <link>https://bi.zone/eng/expertise/blog/analiz-uyazvimostey-v-vaultwarden-cve-2025-24364-i-cve-2025-24365/</link>
-    <description>We analyze two vulnerabilities: one stems from improper access control while the other allows the attacker to remotely execute code</description>
-    <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Sapphire Werewolf refines Amethyst stealer to attack energy companies</title>
-    <link>https://bi.zone/eng/expertise/blog/kamen-ogranennyy-sapphire-werewolf-ispolzuet-novuyu-versiyu-amethyst-stealer-dlya-atak-na-tek/</link>
-    <description>The Sapphire Werewolf cluster continues to enhance its toolkit, now leveraging a new version of the Amethyst stealer. The threat actor distributes the malware through phishing emails</description>
-    <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Squid Werewolf cyber spies masquerade as recruiters</title>
-    <link>https://bi.zone/eng/expertise/blog/sotni-tysyach-rubley-za-vashi-sekrety-kibershpiony-squid-werewolf-maskiruyutsya-pod-rekruterov/</link>
-    <description>The adversaries impersonated a legitimate company, emailing fake job descriptions to employees of targeted organizations</description>
-    <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Bloody Wolf evolution: new targets, new tools</title>
-    <link>https://bi.zone/eng/expertise/blog/evolyutsiya-bloody-wolf-novye-tseli-novye-sredstva-ataki/</link>
-    <description>The notorious cluster changes its toolkit by switching from malware to a legitimate remote administration tool</description>
-    <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>NOVA: blast from the past</title>
-    <link>https://bi.zone/eng/expertise/blog/nova-khorosho-zabytoe-staroe/</link>
-    <description>Attackers use a fork of a popular stealer to target Russian companies</description>
-    <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Espionage cluster Paper Werewolf engages in destructive behavior</title>
-    <link>https://bi.zone/eng/expertise/blog/paper-werewolf-sovmeshchaet-kibershpionazh-s-destruktivnymi-deystviyami/</link>
-    <description>The adversaries employ PowerShell and their own crafted malware to penetrate the infrastructures of Russian organizations</description>
-    <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>A striking resemblance: Gambling Hyena and Twelfth Hyena clusters compared</title>
-    <link>https://bi.zone/eng/expertise/blog/gambling-hyena-i-twelfth-hyena-u-dvukh-khishchnikov-odin-khozyain/</link>
-    <description>What is common between two hacktivist groups attacking the Russian government sector</description>
-    <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
