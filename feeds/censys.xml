@@ -4,11 +4,101 @@
   <title>Censys Blog (Custom Feed)</title>
   <link>https://censys.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 16:24:44 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 16:58:17 GMT</lastBuildDate>
+  <item>
+    <title>How Censys ASM Delivers ROI for an International Real Estate Company</title>
+    <link>https://censys.com/blog/how-censys-asm-delivers-roi-for-an-international-real-estate-company/</link>
+    <description>When a public real estate company realized they lacked a comprehensive cloud inventory and found evidence of infection, they leveraged the Censys Attack Surface Management platform to gain greater visibility into all of their Internet-based assets. Since partnering with Censys, the company achieved a full view of their attack surface and generated significant ROI. Key […]</description>
+    <pubDate>Mon, 03 Oct 2022 16:35:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Censys Blue Team Series: How to Increase Network Alert Triage Efficiency with Censys ASM’s Outside-In Visibility</title>
+    <link>https://censys.com/blog/how-to-increase-network-alert-triage-efficiency-with-censys-attack-surface-management-platform/</link>
+    <description>Issue: The mapping of external Network Address Translations (NATs) to internal infrastructure can be challenging for defenders. Oftentimes requiring complex data joins across multiple disparate logging resources. This gap of visibility presents itself when investigating threat signatures that hit external NATs and are routed to underlying infrastructure. In most cases just knowing if the underlying […]</description>
+    <pubDate>Fri, 08 Oct 2021 07:06:38 GMT</pubDate>
+  </item>
+  <item>
+    <title>HTTP/Who? CVE-2023-44487</title>
+    <link>https://censys.com/blog/http-who-cve-2023-44487/</link>
+    <description>Executive Summary Looking Closer at the Attack Mechanics On October 10, Google and Cloudflare released reports concerning abuse of a specific feature in the HTTP/2 protocol, leading to increased load and a potential denial-of-service on servers that cannot keep up with many concurrent requests. Their reports go into detail about a scenario where an actor […]</description>
+    <pubDate>Thu, 12 Oct 2023 00:00:33 GMT</pubDate>
+  </item>
+  <item>
+    <title>Identifying CISA BOD 23-02 Internet-Exposed Networked Management Interfaces with Censys</title>
+    <link>https://censys.com/blog/identifying-cisa-bod-23-02-internet-exposed-networked-management-interfaces-with-censys/</link>
+    <description>UPDATE 2023-06-28: A section of the second paragraph of this article describing the FCEB hosts we examined for this analysis was edited for clarity. Executive Summary On June 13, CISA released BOD 23-02 with the objective of mitigating the risks associated with remotely accessible management interfaces that might allow configuration or control of federal agency […]</description>
+    <pubDate>Mon, 26 Jun 2023 19:23:58 GMT</pubDate>
+  </item>
+  <item>
+    <title>In Support of the New CISA Directive (What It Means &amp;#038; How to Take Action)</title>
+    <link>https://censys.com/blog/in-support-of-the-new-cisa-directive/</link>
+    <description>Earlier this month, the federal government’s Cybersecurity and Infrastructure Security Agency (CISA) issued Binding Operational Directive 23-01: Improving Asset Visibility and Vulnerability Detection on Federal Networks. The directive applies to all Federal Civilian Executive Branch systems and the agencies operating those systems. CISA states that their directive is an effort to make more measurable progress […]</description>
+    <pubDate>Thu, 13 Oct 2022 15:21:25 GMT</pubDate>
+  </item>
+  <item>
+    <title>Internet Footprint of SOHO Devices Exploited by Volt Typhoon</title>
+    <link>https://censys.com/blog/internet-footprint-of-soho-devices-exploited-by-volt-typhoon/</link>
+    <description>Introduction On May 24, 2023, Microsoft announced that they’d discovered “stealthy and targeted malicious activity” focused on communications critical infrastructure of the US and Guam. The attacks are attributed to a Chinese state-sponsored actor dubbed Volt Typhoon, who has been active since mid-2021. One of Volt Typhoon’s primary techniques is living off the land, which […]</description>
+    <pubDate>Thu, 25 May 2023 17:43:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>Latest CISA Directive Highlights Importance of Attack Surface Visibility</title>
+    <link>https://censys.com/blog/latest-cisa-directive-highlights-importance-of-attack-surface-visibility/</link>
+    <description>Latest CISA Directive Highlights Importance of Attack Surface Visibility By Brad Brooks, Chief Executive Officer, Censys Earlier this week, the Cybersecurity and Infrastructure Security Agency (CISA) issued a new binding operational directive (BOD) requiring federal civilian agencies to enhance protections for devices on government information systems that use network protocols for remote management over public […]</description>
+    <pubDate>Fri, 16 Jun 2023 18:44:42 GMT</pubDate>
+  </item>
+  <item>
+    <title>Months after first GoAnywhere MFT zero-day attacks, Censys still sees ~180 public admin panels</title>
+    <link>https://censys.com/blog/months-after-first-goanywhere-mft-zero-day-attacks-censys-still-sees-180-public-admin-panels/</link>
+    <description>GoAnywhere MFT Breaches by high-profile ransomware groups have now affected 8 confirmed organizations (and counting) Executive Summary: Timeline: The Internet’s Response: We observe a slow and steady patch response to this actively exploited vulnerability. Since this zero-day was first disclosed, Censys has seen an approximate 46% decrease in the number of exposed GoAnywhere Admin Panels […]</description>
+    <pubDate>Mon, 01 May 2023 21:40:38 GMT</pubDate>
+  </item>
+  <item>
+    <title>MOVEit: an Industry Analysis</title>
+    <link>https://censys.com/blog/moveit-an-industry-analysis/</link>
+    <description>Note: As Censys is an internet scanner, we cannot determine if these devices are vulnerable; these are the MOVEit services we found running exposed on the internet.  Introduction Recently, Managed File Transfer (MFT) services have been gaining considerable attention in the realm of security. Although MFT may not be a regular discussion topic, it is […]</description>
+    <pubDate>Tue, 13 Jun 2023 18:53:11 GMT</pubDate>
+  </item>
+  <item>
+    <title>MOVEit Transfer Vulnerability</title>
+    <link>https://censys.com/blog/moveit-transfer/</link>
+    <description>UPDATES: SUMMARY: Another day, another MFT (Managed File Transfer) product getting pwned. On the heels of the GoAnywhere MFT 0-day, this time, it’s a vendor called Progress Software Corporation and their product, “MOVEit Transfer,” that facilitates the transfer of files between business partners and their customers using a variety of protocols such as SSH and […]</description>
+    <pubDate>Fri, 02 Jun 2023 19:42:34 GMT</pubDate>
+  </item>
+  <item>
+    <title>1, 2, 3 Owned: New Microsoft Exchange Vulnerabilities</title>
+    <link>https://censys.com/blog/new-microsoft-exchange-vulnerabilities-proxyshell-blog/</link>
+    <description>Chained vulnerabilities lead to remote command execution Authors: Mark Ellzey, Greg Gaylor  What is the Issue? The ProxyLogon vulnerabilities, publicly disclosed in March and discussed in our blog post Microsoft Exchange 0-day Vulnerabilities, have since been patched, but a similar Microsoft Exchange attack has been discovered. DEVCORE Researcher “Orange Tsai” published their findings of a […]</description>
+    <pubDate>Tue, 24 Aug 2021 19:30:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>New MySQL-Related Default Insecurity Affects 7500+ Apps</title>
+    <link>https://censys.com/blog/new-mysql-related-default-insecurity-affects-7500-apps/</link>
+    <description>Posted on August 21st, 2019 Allows for Authentication Bypass &amp; Data Leaks This week, an anonymous researcher discovered and reported an issue with the SphinxSearch application used with MySQL databases: “TL;DR: SphinxSearch comes with a insecure default configuration that opens a listener on port 9306. No auth required. Connections using a mysql client are possible.” […]</description>
+    <pubDate>Wed, 21 Aug 2019 22:59:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Censys Recognized as One of the Most Popular New Integrations in the Wiz Integration Network (WIN) Partner Index</title>
+    <link>https://censys.com/blog/censys-recognized-as-one-of-the-most-popular-new-integrations-in-the-wiz-integration-network-win-partner-index/</link>
+    <description>ANN ARBOR, Mich. — Jan. 29, 2026 — Censys, the authority for Internet intelligence and insights, today announced its recognition in the inaugural WIN Partner Index 2025. This data-driven benchmark, published by cloud security leader Wiz, highlights the integrations that are essential to modern cybersecurity based on real-world adoption and impact. Censys ASM and Wiz: Delivering […]</description>
+    <pubDate>Thu, 29 Jan 2026 21:26:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Living Off the Web: How Trust Infrastructure Became a Malware Delivery Interface</title>
+    <link>https://censys.com/blog/living-off-the-web-how-trust-infrastructure-became-a-malware-delivery-interface/</link>
+    <description>Executive Summary The Fake Captcha ecosystem can look like a monolithic, coordinated campaign, but it is better understood as a fragmented, fast-changing abuse pattern that uses trusted web infrastructure as the delivery surface.  Perceptual hashing (pHash) across thousands of Fake Captcha pages observed in the Censys dataset identifies one dominant visual cluster, closely resembling legitimate […]</description>
+    <pubDate>Thu, 22 Jan 2026 19:29:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>ErrTraffic: Inside a GlitchFix Attack Panel</title>
+    <link>https://censys.com/blog/errtraffic-inside-glitchfix-attack-panel/</link>
+    <description>What is ErrTraffic? ErrTraffic is a Traffic Distribution System (TDS) designed specifically for ClickFix-like campaigns. If you’re not familiar with ClickFix, it’s a social engineering technique where attackers display fake error messages or update prompts to trick users into running malicious commands and/or downloading malware. ErrTraffic takes it further by actually breaking the page visually […]</description>
+    <pubDate>Tue, 20 Jan 2026 13:00:00 GMT</pubDate>
+  </item>
   <item>
     <title>The Evolution of the Zero Trust Framework: The Origins</title>
     <link>https://censys.com/blog/the-evolution-of-the-zero-trust-framework-the-origins/</link>
-    <description>  For anyone who has been in the cybersecurity or tech industries for any amount of time, a year or two can feel like an eternity, and a decade tends to leave behind enough techno-fossils to fill countless warehouses.  It is therefore hard to believe that the conversation surrounding zero trust has now been taking […]</description>
+    <description>For anyone who has been in the cybersecurity or tech industries for any amount of time, a year or two can feel like an eternity, and a decade tends to leave behind enough techno-fossils to fill countless warehouses.  It is therefore hard to believe that the conversation surrounding zero trust has now been taking […]</description>
     <pubDate>Tue, 11 Oct 2022 02:28:30 GMT</pubDate>
   </item>
   <item>
@@ -50,7 +140,7 @@
   <item>
     <title>Avoiding Your Cyberattack Worst-Case Scenarios</title>
     <link>https://censys.com/blog/avoiding-your-cyberattack-worst-case-scenarios/</link>
-    <description>  Your phone rings in the middle of the night, and when you answer, it’s a call you’ve been dreading. Your company has been the target of a cyberattack. The fallout? Unknown at the moment, but a million scenarios run through your mind. Has customer data been compromised? How much will this cost our organization? […]</description>
+    <description>Your phone rings in the middle of the night, and when you answer, it’s a call you’ve been dreading. Your company has been the target of a cyberattack. The fallout? Unknown at the moment, but a million scenarios run through your mind. Has customer data been compromised? How much will this cost our organization? […]</description>
     <pubDate>Wed, 05 Oct 2022 18:00:09 GMT</pubDate>
   </item>
   <item>
@@ -68,7 +158,7 @@
   <item>
     <title>Understanding the ASM Alphabet Soup</title>
     <link>https://censys.com/blog/censys-glossary/</link>
-    <description>  If you were at Black Hat this year, or if you’ve been doing your homework online on the Internet at all, you’ve probably terms like EASM, ASM, Exposure Management, Attack Surface, and the many other variations that seem to be coming out of the woodwork. Are these tools? Capabilities? Or just the latest marketing […]</description>
+    <description>If you were at Black Hat this year, or if you’ve been doing your homework online on the Internet at all, you’ve probably terms like EASM, ASM, Exposure Management, Attack Surface, and the many other variations that seem to be coming out of the woodwork. Are these tools? Capabilities? Or just the latest marketing […]</description>
     <pubDate>Sat, 17 Sep 2022 00:04:34 GMT</pubDate>
   </item>
   <item>
@@ -94,12 +184,6 @@
     <link>https://censys.com/blog/finding-hacked-web-servers-with-censys-search-data/</link>
     <description>According to the 2022 Verizon Data Breach Investigations Report, web servers are the top asset most commonly impacted in breaches. This is not surprising – after all, web servers often make up the bulk of an organization’s Internet-facing infrastructure, and therefore are more likely to be exposed than other types of digital assets. Finding hacked […]</description>
     <pubDate>Thu, 04 Aug 2022 16:35:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>https://censys.com/resources/blog — sitemap had no items</title>
-    <link>https://censys.com/resources/blog</link>
-    <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
-    <pubDate>Tue, 24 Feb 2026 09:03:26 GMT</pubDate>
   </item>
 </channel>
 </rss>

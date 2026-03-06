@@ -4,12 +4,24 @@
   <title>Breakpoint Labs Blog (Custom Feed)</title>
   <link>https://breakpoint-labs.com/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 16:23:44 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 16:57:33 GMT</lastBuildDate>
   <item>
     <title>Blog - BreakPoint Labs</title>
     <link>https://breakpoint-labs.com/blog/</link>
     <description>Blog - BreakPoint Labs</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:31 GMT</pubDate>
+    <pubDate>Fri, 06 Mar 2026 16:57:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Hunting for Escalation Paths in AD: AdminCount </title>
+    <link>https://breakpoint-labs.com/hunting-for-escalation-paths-in-ad-admincount/</link>
+    <description>A guide to finding Active Directory privilege escalation paths using AdminCount analysis. We explore how to use BloodHound and Python to identify unprotected accounts (AdminCount: False) that expose the domain to takeover.</description>
+    <pubDate>Fri, 17 Oct 2025 13:04:37 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI Red Teaming Part 3 &amp;#8211; Attacking Claude Code using PyRIT</title>
+    <link>https://breakpoint-labs.com/ai-red-teaming-part-3-attacking-claude-code-using-pyrit/</link>
+    <description>Learn how to automate image prompt injection attacks against Claude Code using PyRIT. We explore how malicious instructions hidden in git repository images can trigger unauthorized command execution in Anthropic's CLI tool.</description>
+    <pubDate>Wed, 24 Sep 2025 13:17:49 GMT</pubDate>
   </item>
   <item>
     <title>Blog - Page 2 of 11 - BreakPoint Labs</title>
@@ -94,18 +106,6 @@
     <link>https://breakpoint-labs.com/closing-critical-cybersecurity-gaps-in-healthcare-lessons-from-an-hhs-oig-audit/</link>
     <description>In July 2025, HHS-OIG released a cybersecurity audit of a major hospital, with technical testing by BreakPoint Labs. We break down the findings—from weak authentication to web app flaws—and provide a 30/60/90-day action plan for healthcare leaders.</description>
     <pubDate>Thu, 23 Oct 2025 19:14:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Hunting for Escalation Paths in AD: AdminCount</title>
-    <link>https://breakpoint-labs.com/hunting-for-escalation-paths-in-ad-admincount/</link>
-    <description>A guide to finding Active Directory privilege escalation paths using AdminCount analysis. We explore how to use BloodHound and Python to identify unprotected accounts (AdminCount: False) that expose the domain to takeover.</description>
-    <pubDate>Fri, 17 Oct 2025 13:04:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>AI Red Teaming Part 3 &amp;#8211; Attacking Claude Code using PyRIT</title>
-    <link>https://breakpoint-labs.com/ai-red-teaming-part-3-attacking-claude-code-using-pyrit/</link>
-    <description>Learn how to automate image prompt injection attacks against Claude Code using PyRIT. We explore how malicious instructions hidden in git repository images can trigger unauthorized command execution in Anthropic's CLI tool.</description>
-    <pubDate>Wed, 24 Sep 2025 13:17:49 GMT</pubDate>
   </item>
 </channel>
 </rss>

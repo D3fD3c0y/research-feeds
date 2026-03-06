@@ -4,12 +4,96 @@
   <title>BI.ZONE News (Custom Feed)</title>
   <link>https://bi.zone/eng/news/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 16:22:41 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 16:56:56 GMT</lastBuildDate>
   <item>
     <title>News</title>
     <link>https://bi.zone/eng/news/</link>
     <description>Stay up to date on new cybersecurity solutions, as well as BI.ZONE news and events</description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Presenting an updated BI.ZONE AntiFraud solution</title>
+    <link>https://bi.zone/eng/news/predstavlyaem-obnovlennoe-reshenie-bi-zone-antifraud/</link>
+    <description>The new offline testing and advanced processing features will help more effectively detect both known and new fraudulent schemes as well as reduce the load on the hardware</description>
+    <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Deception module and macOS support: BI.ZONE EDR functionality expanded</title>
+    <link>https://bi.zone/eng/news/bi-zone-rasshirila-funktsionalnost-bi-zone-edr/</link>
+    <description>The Deception module allows you to track down even a professional attacker capable of evading detection at the initial stage of reconnaissance. Key EDR features are now available not only on Linux and Windows, but also on macOS</description>
+    <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE: threat actors use leaked source code to attack Russian companies</title>
+    <link>https://bi.zone/eng/news/zloumyshlenniki-atakuyut-rossiyskie-kompanii-s-pomoshchyu-utekshikh-iskhodnykh-kodov/</link>
+    <description>The criminal groups Battle Wolf, Twelfth Wolf, and Shadow Wolf are targeting Russian organizations with the popular ransomware programs Babuk, Conti, and LockBit, which leaked to the public domain. BI.ZONE Cyber Threat Intelligence has recorded more than 40 attacks</description>
+    <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Fourth OFFZONE conference on practical cybersecurity held in Moscow</title>
+    <link>https://bi.zone/eng/news/v-moskve-proshla-chetvertaya-konferentsiya-po-prakticheskoy-kiberbezopasnosti-offzone-2023/</link>
+    <description>In the two days of the event, 108 cybersecurity experts spoke to a crowd of over 2,500 people. The conference was supported by 50 partners, including 18 media outlets and 15 cybersecurity community groups</description>
+    <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Teams from 117 countries demonstrated ethical hacking skills in CTFZone 2023</title>
+    <link>https://bi.zone/eng/news/komandy-iz-117-stran-prinyali-uchastie-v-sorevnovaniyakh-po-etichnomu-khakingu-ctfzone-2023/</link>
+    <description>Hackers from Russia, China, Czechia, France, Indonesia, and South Korea made it to the finals. Four of the finalists belong to the world's top 10 CTF teams</description>
+    <pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE discovers new phishing campaign distributing White Snake stealer to Russian companies</title>
+    <link>https://bi.zone/eng/news/fishing-ot-litsa-roskomnadzora-soderzhit-po-dlya-krazhi-korporativnykh-uchetnykh-dannykh/</link>
+    <description>Experts from BI.ZONE Cyber Threat Intelligence have discovered a phishing campaign targeting Russian organizations. The White Snake stealer—malware that steals passwords and other data from infected devices—is distributed under the guise of legitimate notifications from the the Russian Federal Service for Supervision of Communications, Information Technology and Mass Media (Roskomnadzor)</description>
+    <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE CESP enables customized protection of corporate email</title>
+    <link>https://bi.zone/eng/news/obnovlenie-bi-zone-cesp-pozvolyaet-kastomizirovat-zashchitu-korporativnoy-pochty/</link>
+    <description>Now users can configure more than 20 parameters to filter their incoming and outgoing correspondence</description>
+    <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE Secure SD-WAN update delivers network scalability and security improvements</title>
+    <link>https://bi.zone/eng/news/s-novoy-versiey-platformy-bi-zone-secure-sd-wan-masshtabirovanie-seti-eshche-udobnee-i-bezopasnee/</link>
+    <description>BI.ZONE Secure SD-WAN is a Russian platform for building a secure network infrastructure between geographically distributed branches. Changes in version 1.4.0 simplify routine processes and network scaling, improve security, and expand the model range of equipment compatible with the platform</description>
+    <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cybercriminals debut Russian remote access software for targeted attacks</title>
+    <link>https://bi.zone/eng/news/kiberprestupniki-vpervye-ispolzuyut-rossiyskie-programmy-udalennogo-dostupa-dlya-tselevykh-atak/</link>
+    <description>The BI.ZONE Cyber Threat Intelligence team has detected attacks on the hospitality industry by a new group called Quartz Wolf. This is the first time a Russian remote access solution has been used against local companies. This is how criminals bypass conventional defenses and successfully gain a foothold in the business infrastructure.</description>
+    <pubDate>Wed, 19 Jul 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Red Wolf is back to spy against commercial firms</title>
+    <link>https://bi.zone/eng/news/bi-zone-gruppirovka-red-wolf-vnov-shpionit-za-kommercheskimi-organizatsiyami-na-territorii-rossii/</link>
+    <description>BI.ZONE has detected a new wave of attacks by the Red Wolf group (aka RedCurl) that went off the radar in 2022</description>
+    <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Surge recorded in websites offering quick earnings on Tesla</title>
+    <link>https://bi.zone/eng/news/bi-zone-chislo-moshennicheskikh-saytov-dlya-bystrogo-zarabotka-na-tesla-x-rezko-vyroslo/</link>
+    <description>Since the beginning of 2023, BI.ZONE has identified almost 3,000 fraudulent domains imitating the website of a Tesla X investment project</description>
+    <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE contributes to the International Committee of the Red Cross on the digitalization of humanitarian emblems</title>
+    <link>https://bi.zone/eng/news/bi-zone-prinyala-uchastie-v-issledovanii-mezhdunarodnogo-komiteta-krasnogo-kresta/</link>
+    <description>For two years, the International Committee of the Red Cross (ICRC) has been researching the risks of implementing a digital red cross emblem</description>
+    <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE uncovers espionage attacks on the defense industry and critical infrastructure</title>
+    <link>https://bi.zone/eng/news/bi-zone-zafiksirovala-ataki-na-oboronno-promyshlennyy-kompleks/</link>
+    <description>The Core Werewolf group takes advantage of legitimate software and phishing to gain control over the victim system, copy the files, and track the user's activities. The threat actors target confidential information about Russia's critically important facilities</description>
+    <pubDate>Tue, 13 Jun 2023 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE: cybercriminals steal corporate passwords using open‑source software</title>
+    <link>https://bi.zone/eng/news/zloumyshlenniki-kradut-paroli-u-rossiyskikh-kompaniy-s-pomoshchyu-po-s-otkrytym-iskhodnym-kodom/</link>
+    <description>BI.ZONE threat intelligence experts uncovered a malicious campaign targeting Russian organizations from different industries. It is aimed at spreading Umbral Stealer, which collects user credentials from infected computers. Note that the malware source codes are publicly available to anyone on GitHub, an internet hosting service for software development</description>
+    <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
   </item>
   <item>
     <title>Fluffy Wolf causes much damage with unsophisticated attacks</title>
@@ -100,90 +184,6 @@
     <link>https://bi.zone/eng/news/bi-zone-vystupit-na-konferentsii-po-kiberbezopasnosti-mena-isc/</link>
     <description>We will host a panel discussion with international experts, hold several workshops, open the Cyber Polygon 2024 training, and present an overview of the trends in the GCC cyber threat landscape</description>
     <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>OFFZONE 2024 attracts record attendance</title>
-    <link>https://bi.zone/eng/news/v-offzone-2024-prinyalo-uchastie-rekordnoe-kolichestvo-gostey/</link>
-    <description>In the two days of the conference, 124 experts spoke to a crowd of 4,000 people. The event was supported by 50 partners, including 9 media outlets and 17 community groups</description>
-    <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE EDR expands capabilities to better assess endpoint configuration</title>
-    <link>https://bi.zone/eng/news/bi-zone-edr-rasshiryaet-vozmozhnosti-po-otsenke-konfiguratsii-bezopasnosti-na-konechnykh-tochkakh/</link>
-    <description>The updated BI.ZONE EDR version received a new Safety Recommendations module. It is available on all operating systems and allows you to evaluate OS and software configuration on endpoints, identify their vulnerabilities and accounts with weak passwords</description>
-    <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Undercover attack: nearly 85% of phishing emails are disguised as financial and government documents</title>
-    <link>https://bi.zone/eng/news/ataka-pod-prikrytiem-okolo-85-fishingovykh-soobshcheniy-maskiruyut-pod-finansovye-dokumenty-i-pisma/</link>
-    <description>Our research shows that 68% of attacks on companies in Russia and other CIS countries last year began with phishing emails. In the first six months of 2024, this share reached 76%</description>
-    <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE Threat Intelligence offers a new analytical tool</title>
-    <link>https://bi.zone/eng/news/predstavlyaem-obnovlenie-bi-zone-threat-intelligence/</link>
-    <description>The portal's latest version features an all-in-one tool based on the MITRE ATT&amp;amp;CK matrix</description>
-    <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Participants from over 20 countries now listed for Cyber Polygon 2024 training</title>
-    <link>https://bi.zone/eng/news/na-cyber-polygon-2024-zaregistrirovalis-komandy-bolee-chem-iz-20-stran/</link>
-    <description>Teams from Colombia, France, Mexico, Switzerland, the UK, the USA, and other countries have already signed up for the training exercise</description>
-    <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Sapphire Werewolf polishes open‑source stealer to spy on Russian organizations</title>
-    <link>https://bi.zone/eng/news/sapphire-werewolf-perepisala-stiler-dlya-shpionazha-za-rossiyskimi-kompaniyami/</link>
-    <description>Since March 2024, a new criminal group Sapphire Wolf has initiated more than 300 attacks on Russian organizations. The threat actor steals sensitive data using a modified stealer. The targeted industries include education, IT, defense, and aerospace engineering</description>
-    <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Registration for Cyber Polygon 2024 now open</title>
-    <link>https://bi.zone/eng/news/my-otkryvaem-registratsiyu-na-cyber-polygon-2024/</link>
-    <description>The Cyber Polygon 2024 international training is open for registration. The exercise will run online on September 10–11 during the MENA ISC in Riyadh, Saudi Arabia</description>
-    <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE WAF counters new vulnerability in Confluence</title>
-    <link>https://bi.zone/eng/news/bi-zone-waf-zashchishchaet-ot-novoy-uyazvimosti-v-confluence/</link>
-    <description>In late May, Atlassian disclosed a new severe vulnerability that exists in multiple versions of their Confluence Data Center and Server. BI.ZONE WAF specialists quickly responded with a rule for detecting illegitimate activity and preventing the exploitation of the vulnerability</description>
-    <pubDate>Mon, 27 May 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Presenting on-prem BI.ZONE EDR endpoint security solution</title>
-    <link>https://bi.zone/eng/news/predstavlena-korobochnaya-versiya-resheniya-dlya-zashchity-konechnykh-tochek-bi-zone-edr/</link>
-    <description>The BI.ZONE EDR on-prem version contains all the features that proved effective in the BI.ZONE TDR (SOC/MDR). The agents for Linux, Windows, and macOS have also got a number of updates</description>
-    <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Haste makes waste: Scaly Wolf’s attacks fail over a major blunder</title>
-    <link>https://bi.zone/eng/news/proschitalis-no-gde-ataki-scaly-wolf-provalilis-iz-za-gruboy-oshibki/</link>
-    <description>Instead of the White Snake stealer, the group's new loader installed a legitimate file on compromised devices</description>
-    <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE WAF responds to multiple Formidator WordPress plug‑in vulnerabilities</title>
-    <link>https://bi.zone/eng/news/bi-zone-waf-zashchishchaet-ot-novykh-uyazvimostey-v-cms-wordpress/</link>
-    <description>Three critical vulnerabilities have been identified in the Formidator plug-in of the WordPress Content Management System. BI.ZONE WAF and security assessment teams have analyzed the flaws and developed rules to prevent the exploitation of vulnerabilities</description>
-    <pubDate>Sat, 27 Apr 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>New BI.ZONE CESP protects against quishing, takes into account employee cyber awareness levels</title>
-    <link>https://bi.zone/eng/news/my-obnovili-bi-zone-cesp/</link>
-    <description>We have updated our email protection service to defend organizations from more malicious scams</description>
-    <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE CPT updated to better handle threats to web applications</title>
-    <link>https://bi.zone/eng/news/v-bi-zone-cpt-poyavilsya-razdel-dlya-reagirovaniya-na-ugrozy-veb-prilozheniyam/</link>
-    <description>The updated solution enables users to identify all vulnerable web resources in one click and take protective action</description>
-    <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>OFFZONE 2025: dates and venue confirmed</title>
-    <link>https://bi.zone/eng/news/obyavlyaem-daty-i-mesto-provedeniya-offzone-2025/</link>
-    <description>The sixth international conference on practical cybersecurity OFFZONE will run on August 21–22 in Moscow's GOELRO</description>
-    <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

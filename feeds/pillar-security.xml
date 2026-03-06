@@ -4,7 +4,97 @@
   <title>Pillar Security Blog (Custom Feed)</title>
   <link>https://www.pillar.security/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 16:24:58 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 16:58:45 GMT</lastBuildDate>
+  <item>
+    <title>Red Teaming for AI Agents</title>
+    <link>https://www.pillar.security/blog/red-teaming-for-ai-agents</link>
+    <description>Red Teaming for AI Agents</description>
+    <pubDate>Fri, 06 Mar 2026 16:58:44 GMT</pubDate>
+  </item>
+  <item>
+    <title>Redefining Security Roles for the AI Era: Responsibilities and Controls</title>
+    <link>https://www.pillar.security/blog/redefining-security-roles-for-the-ai-era-responsibilities-and-controls</link>
+    <description>AI is reshaping security from the ground up - not just the tools and risks, but the entire profession. Change extends far beyond job description updates. In our latest blog, we break down how nine core security roles are evolving into AI-native positions, demanding fluency in both traditional cybersecurity and emerging threat vectors. Learn how your role is changing - and what you need to do about it</description>
+    <pubDate>Fri, 06 Mar 2026 16:58:44 GMT</pubDate>
+  </item>
+  <item>
+    <title>Rethinking AI Security: Beyond the DeepSeek R1 Vulnerability Metrics</title>
+    <link>https://www.pillar.security/blog/rethinking-ai-security-beyond-the-deepseek-r1-vulnerability-metrics</link>
+    <description>Rethinking AI Security: Beyond the DeepSeek R1 Vulnerability Metrics</description>
+    <pubDate>Fri, 06 Mar 2026 16:58:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Revolutionizing Cybersecurity: The Kill Chain in the Age of AI</title>
+    <link>https://www.pillar.security/blog/revolutionizing-cybersecurity-the-kill-chain-in-the-age-of-ai</link>
+    <description>Understand how the cyber kill chain evolves for AI applications in 2024. Explore AI-specific threats like jailbreaking and tailored attacks, and discover effective strategies to secure generative AI systems with Pillar Security’s advanced solutions.</description>
+    <pubDate>Fri, 06 Mar 2026 16:58:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Safeguarding the Future: Lessons Learned from Securing over 1,000 GenAI Apps</title>
+    <link>https://www.pillar.security/blog/safeguarding-the-future-lessons-learned-from-securing-over-1-000-genai-apps</link>
+    <description>Learn from Pillar Security’s experience protecting over 1,000 GenAI apps. Discover AI-specific threats like language-agnostic attacks and persistent jailbreaks, and see how Pillar’s all-in-one platform provides robust, model-agnostic security to safeguard your AI applications effectively.</description>
+    <pubDate>Fri, 06 Mar 2026 16:58:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Securing AI: A Blend Of Old And New Security Practices</title>
+    <link>https://www.pillar.security/blog/securing-ai-a-blend-of-old-and-new-security-practices</link>
+    <description>Securing AI: A Blend Of Old And New Security Practices</description>
+    <pubDate>Fri, 06 Mar 2026 16:58:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Securing AI On-Premise: Full Data Control with Pillar</title>
+    <link>https://www.pillar.security/blog/securing-ai-on-premise-full-data-control-with-pillar</link>
+    <description>Securing AI On-Premise: Full Data Control with Pillar</description>
+    <pubDate>Fri, 06 Mar 2026 16:58:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Securing Context Engineering</title>
+    <link>https://www.pillar.security/blog/securing-context-engineering</link>
+    <description>Securing Context Engineering</description>
+    <pubDate>Fri, 06 Mar 2026 16:58:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Securing Multimodal AI</title>
+    <link>https://www.pillar.security/blog/securing-multimodal-ai</link>
+    <description>Securing Multimodal AI</description>
+    <pubDate>Fri, 06 Mar 2026 16:58:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Securing your AI via AI Gateways</title>
+    <link>https://www.pillar.security/blog/securing-your-ai-via-ai-gateways</link>
+    <description>Securing your AI via AI Gateways</description>
+    <pubDate>Fri, 06 Mar 2026 16:58:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Security for AI Agents 101</title>
+    <link>https://www.pillar.security/blog/security-for-ai-agents-101</link>
+    <description>Security for AI Agents 101</description>
+    <pubDate>Fri, 06 Mar 2026 16:58:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Security for AI  Buyer’s Guide</title>
+    <link>https://www.pillar.security/blog/security-for-ai-buyers-guide</link>
+    <description>Security for AI  Buyer’s Guide</description>
+    <pubDate>Fri, 06 Mar 2026 16:58:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Strengthening LLM Security: Insights from OWASP's 2025 Top 10 List</title>
+    <link>https://www.pillar.security/blog/strengthening-llm-security-insights-from-owasps-2025-top-10-list</link>
+    <description>Strengthening LLM Security: Insights from OWASP's 2025 Top 10 List</description>
+    <pubDate>Fri, 06 Mar 2026 16:58:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Agent Security Paradox: When Trusted Commands in Cursor Become Attack Vectors</title>
+    <link>https://www.pillar.security/blog/the-agent-security-paradox-when-trusted-commands-in-cursor-become-attack-vectors</link>
+    <description>The Agent Security Paradox: When Trusted Commands in Cursor Become Attack Vectors</description>
+    <pubDate>Fri, 06 Mar 2026 16:58:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Cornerstone of Effective Security Platforms: Lessons from a Decade in the EDR space</title>
+    <link>https://www.pillar.security/blog/the-cornerstone-of-effective-security-platforms-lessons-from-a-decade-in-the-edr-space</link>
+    <description>This blog examines the core principles of detection and response solutions and their relevance to AI security. We'll explore the unique challenges posed by AI, compare emerging approaches in this new domain, and how Pillar Security addresses these critical issues.</description>
+    <pubDate>Fri, 06 Mar 2026 16:58:45 GMT</pubDate>
+  </item>
   <item>
     <title>n8n Sandbox Escape: Critical Vulnerabilities in n8n Exposes Hundreds of Thousands of Enterprise AI Systems to Complete Takeover</title>
     <link>https://www.pillar.security/blog/n8n-sandbox-escape-critical-vulnerabilities-in-n8n-exposes-hundreds-of-thousands-of-enterprise-ai-systems-to-complete-takeover</link>
@@ -94,96 +184,6 @@
     <link>https://www.pillar.security/blog/practical-ai-red-teaming-the-power-of-multi-turn-tests-vs-single-turn-evaluations</link>
     <description>Discover the vital role of red-teaming in securing Large Language Models (LLMs). This blog explores the differences between single-turn and multi-turn AI red-teaming, examines advanced techniques like MART and DART, highlights vulnerabilities against multi-turn human jailbreaks, and showcases Pillar Security's innovative solutions for robust AI protection. Learn how comprehensive red-teaming strategies enhance AI safety and trustworthiness in evolving technological landscapes.</description>
     <pubDate>Fri, 06 Mar 2026 16:24:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>From Static Scanning to Recursive Loops: Lessons from a Decade in Data Science and AI</title>
-    <link>https://www.pillar.security/blog/from-static-scanning-to-recursive-loops-lessons-from-a-decade-in-data-science-and-ai</link>
-    <description>From Static Scanning to Recursive Loops: Lessons from a Decade in Data Science and AI</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>GenAI tools in the workplace: 5 emerging threat scenarios</title>
-    <link>https://www.pillar.security/blog/genai-tools-in-the-workplace-5-emerging-threat-scenarios</link>
-    <description>GenAI tools in the workplace: 5 emerging threat scenarios</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Hackerbot-Claw: Adversarial Agent Targets Top GitHub Repos</title>
-    <link>https://www.pillar.security/blog/hackerbot-claw-adversarial-agent-targets-top-github-repos</link>
-    <description>Hackerbot-Claw: Adversarial Agent Targets Top GitHub Repos</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>How AI coding assistants could be compromised via rules file</title>
-    <link>https://www.pillar.security/blog/how-ai-coding-assistants-could-be-compromised-via-rules-file</link>
-    <description>How AI coding assistants could be compromised via rules file</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>How GenAI Is Becoming A Prime Target For Cyberattacks</title>
-    <link>https://www.pillar.security/blog/how-genai-is-becoming-a-prime-target-for-cyberattacks</link>
-    <description>How GenAI Is Becoming A Prime Target For Cyberattacks</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>How Will AI Change the Future of the Workforce and What are the Security Implications?</title>
-    <link>https://www.pillar.security/blog/how-will-ai-change-the-future-of-the-workforce-and-what-are-the-security-implications</link>
-    <description>How Will AI Change the Future of the Workforce and What are the Security Implications?</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>Introducing: Pillar For AI Coding Agents</title>
-    <link>https://www.pillar.security/blog/introducing-pillar-for-ai-coding-agents</link>
-    <description>Introducing: Pillar For AI Coding Agents</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>Introducing the SAIL Framework: A Practical Guide to Secure AI Systems</title>
-    <link>https://www.pillar.security/blog/introducing-the-sail-framework-a-practical-guide-to-secure-ai-systems</link>
-    <description>Introducing the SAIL Framework: A Practical Guide to Secure AI Systems</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>Key Questions for Secure Deployment of Large Language Models</title>
-    <link>https://www.pillar.security/blog/key-questions-for-secure-deployment-of-large-language-models</link>
-    <description>Key Questions for Secure Deployment of Large Language Models</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>Large Language Models are not Inventions, They're Discoveries.</title>
-    <link>https://www.pillar.security/blog/large-language-models-are-not-inventions-theyre-discoveries</link>
-    <description>Large Language Models are not Inventions, They're Discoveries.</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>LLM attacks take just 42 seconds on average, 20% of jailbreaks succeed</title>
-    <link>https://www.pillar.security/blog/llm-attacks-take-just-42-seconds-on-average-20-of-jailbreaks-succeed</link>
-    <description>LLM attacks take just 42 seconds on average, 20% of jailbreaks succeed</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>LLM Backdoors at the Inference Level: The Threat of Poisoned Templates</title>
-    <link>https://www.pillar.security/blog/llm-backdoors-at-the-inference-level-the-threat-of-poisoned-templates</link>
-    <description>LLM Backdoors at the Inference Level: The Threat of Poisoned Templates</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>LLM Jailbreaking: The New Frontier of Privilege Escalation in AI Systems</title>
-    <link>https://www.pillar.security/blog/llm-jailbreaking-the-new-frontier-of-privilege-escalation-in-ai-systems</link>
-    <description>LLM Jailbreaking: The New Frontier of Privilege Escalation in AI Systems</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>LLMs Are An Essential Kernel Process Of A New Operating System</title>
-    <link>https://www.pillar.security/blog/llms-are-an-essential-kernel-process-of-a-new-operating-system</link>
-    <description>Discover how Large Language Models (LLMs) are transforming into essential components of new operating systems. Explore their multi-modal capabilities, code execution, internet access, memory storage, and crucial security concepts. Understand the paradigm shift in computing and the need for robust, human-aligned AI security measures to build the next generation of AI-powered platforms</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>Manipulating LLM Agents: A Case Study in Prompt Injection Attacks</title>
-    <link>https://www.pillar.security/blog/manipulating-llm-agents-a-case-study-in-prompt-injection-attacks</link>
-    <description>Manipulating LLM Agents: A Case Study in Prompt Injection Attacks</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:19 GMT</pubDate>
   </item>
 </channel>
 </rss>

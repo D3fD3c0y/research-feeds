@@ -4,7 +4,97 @@
   <title>Binary Defense Blog (Custom Feed)</title>
   <link>https://binarydefense.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 16:23:06 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 16:57:07 GMT</lastBuildDate>
+  <item>
+    <title>12 Essentials for a Successful SOC Partnership</title>
+    <link>https://binarydefense.com/resources/blog/12-essentials-for-a-successful-soc-partnership</link>
+    <description>Your SOC partner should be able to understand your operating conditions, security maturity, and organizational priorities to develop a solution that…</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cyber War: Hackers' Transformation from Cyber Criminals to Hacktivists</title>
+    <link>https://binarydefense.com/resources/blog/cyber-war-hackers-transformation-from-cyber-criminals-to-hacktivists</link>
+    <description>Several criminal hacking groups supportive of Putin’s regime have transformed themselves from criminal service providers into hacktivist groups. While the…</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>The war in Ukraine and its impact on how China views Taiwan</title>
+    <link>https://binarydefense.com/resources/blog/the-war-in-ukraine-its-impact-on-how-china-views-taiwan</link>
+    <description>Leading up to the most recent Russian invasion of Ukraine in February 2022, analysts and military experts alike feared a superior Russian army would…</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>Digging through Rust to find Gold: Extracting Secrets from Rust…</title>
+    <link>https://binarydefense.com/resources/blog/digging-through-rust-to-find-gold-extracting-secrets-from-rust-malware</link>
+    <description>These newer compiled languages include Golang, Rust and Nim. Recently, there have been a few notable examples of malware written in Golang and Rust being…</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>5 Critical Criteria for evaluating Managed Detection &amp; Response (MDR)</title>
+    <link>https://binarydefense.com/resources/blog/5-critical-criteria-for-evaluating-managed-detection-response-mdr</link>
+    <description>When evaluating a Managed Detection &amp; Response (MDR) service there are 5 critical components that you should focus on. Selecting a Managed Detection &amp;…</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>Using Microsoft Sentinel to Detect Confluence CVE-2022-26134…</title>
+    <link>https://binarydefense.com/resources/blog/using-microsoft-sentinel-to-detect-confluence-cve-2022-26134-exploitation</link>
+    <description>Research Goals The end goal of the research project was to develop a custom detection query that would alert SOC analysts accurately when a Confluence…</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>Russia may be Pressing Arrested Cyber Criminals into Service</title>
+    <link>https://binarydefense.com/resources/blog/russia-may-be-pressing-arrested-cyber-criminals-into-service</link>
+    <description>The Success of the Russian Security Service in January and February 2022 The beginning of 2022 started with the arrests of various hacker groups in…</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>4 Tactics to Detect &amp; Contain Emotet’s Latest Evolution</title>
+    <link>https://binarydefense.com/resources/blog/4-tactics-to-detect-contain-emotets-latest-evolution</link>
+    <description>The threat group behind Emotet changed delivery tactics for the malware, as well as the malware payload. Block or quarantine email attachments of file…</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:06 GMT</pubDate>
+  </item>
+  <item>
+    <title>War in Ukraine and Its Impact on Hackers</title>
+    <link>https://binarydefense.com/resources/blog/war-in-ukraine-and-its-impact-on-hackers</link>
+    <description>The Russian invasion of Ukraine started on February 24th, and no one was left indifferent. Anonymous Declared a Cyberwar on Russia Anonymous, a collective…</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:06 GMT</pubDate>
+  </item>
+  <item>
+    <title>Detecting Ransomware’s Stealthy Boot Configuration Edits</title>
+    <link>https://binarydefense.com/resources/blog/detecting-ransomwares-stealthy-boot-configuration-edits</link>
+    <description>Such threat actors have often been observed altering boot loader configurations using the built-in Windows tool bcdedit.exe (Boot Configuration Data Edit)…</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:06 GMT</pubDate>
+  </item>
+  <item>
+    <title>Breaking Down Password Storage Breakdowns</title>
+    <link>https://binarydefense.com/resources/blog/breaking-down-password-storage-break-downs</link>
+    <description>(event_simpleName=*FileWritten OR event_simpleName=FileCreateInfo) (FileName=”*password*” OR FileName=”*passwd*” OR FileName=”*pass*” OR FileName=”*pswd*”…</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:06 GMT</pubDate>
+  </item>
+  <item>
+    <title>Dark Web Reactions to Russia’s Invasion of Ukraine</title>
+    <link>https://binarydefense.com/resources/blog/dark-web-reactions-to-russias-invasion-of-ukraine</link>
+    <description>Leading up to the invasion, Ukrainian government networks suffered DDoS attacks that would be attributed to Russia. During the initial invasion, Russian…</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>Take Stock of Cyber Risk in Light of Russian Cyber Activity</title>
+    <link>https://binarydefense.com/resources/blog/take-stock-of-cyber-risk-in-light-of-russian-cyber-activity</link>
+    <description>Check your data backups and test regularly Check your critical system backups and test to make sure that your backup data can be restored to new IT…</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>Scams for Scans: QR Codes See Surge in Popularity, As Well As Fraud</title>
+    <link>https://binarydefense.com/resources/blog/scams-for-scans-qr-codes-see-surge-in-popularity-as-well-as-fraud</link>
+    <description>We ignored them for years, but it looks like the QR code may be here to stay. “QR” is short for “Quick Response.” The QR code, simply put, is a type of…</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>2022: Expect the unexpected as cyberattacks continue to target…</title>
+    <link>https://binarydefense.com/resources/blog/2022-expect-the-unexpected-as-cyberattacks-continue-to-target-organizations</link>
+    <description>We saw a larger emphasis this year on supply chain attacks and going to a one-to-many type style which yielded more return on investment for adversaries.…</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:07 GMT</pubDate>
+  </item>
   <item>
     <title>Incident Response – IR Planning &amp; MDR Coordination</title>
     <link>https://binarydefense.com/resources/blog/incident-response-ir-planning-mdr-coordination</link>
@@ -94,96 +184,6 @@
     <link>https://binarydefense.com/resources/blog/unveiling-hidden-intel-why-leveraging-phishing-emails-for-intelligence-is-essential</link>
     <description>In this blog post, we'll uncover the importance of leveraging phishing emails for intelligence and how it can give your security posture a distinct edge.…</description>
     <pubDate>Fri, 06 Mar 2026 16:23:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>How Our Dedicated Resources Differ from Staff Augmentation</title>
-    <link>https://binarydefense.com/resources/blog/how-our-dedicated-resources-differ-from-staff-augmentation</link>
-    <description>Discover how Binary Defense Dedicated Resources go beyond traditional staff augmentation. This blog breaks down the key differences that set our approach…</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ransomware: what is it, and why should your organization be concerned?</title>
-    <link>https://binarydefense.com/resources/blog/ransomware-what-is-it-and-why-should-your-organization-be-concerned</link>
-    <description>Ransomware is everywhere you turn nowadays. Better understand the threat this type of cyberattack poses and how to combat it.</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Understanding Sleep Obfuscation</title>
-    <link>https://binarydefense.com/resources/blog/understanding-sleep-obfuscation</link>
-    <description>All in-memory sleep obfuscation techniques function similarly at a more abstract level, but differences in their implementations mean that they produce…</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cybersecurity Moneyball Part 2: Binary Defense’s New Paradigm in…</title>
-    <link>https://binarydefense.com/resources/blog/cybersecurity-moneyball-part-2-binary-defenses-new-paradigm-in-malware-detection</link>
-    <description>In this installment, we explore how Binary Defense is revolutionizing malware disruption by shifting the detection point to a place where common evasion…</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Imperative of Threat Hunting for a Mature Security Posture</title>
-    <link>https://binarydefense.com/resources/blog/the-imperative-of-threat-hunting-for-a-mature-security-posture</link>
-    <description>Threat Hunting should be considered a foundational component of a security strategy which can be a significant driver in an organization’s security…</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Technical Analysis: Killer Ultra Malware Targeting EDR Products in…</title>
-    <link>https://binarydefense.com/resources/blog/technical-analysis-killer-ultra-malware-targeting-edr-products-in-ransomware-attacks</link>
-    <description>Killer Ultra leverages a well-documented Zemana driver as a mechanism to terminate EDR/AV processes; however, ARC Labs have identified additional…</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cybersecurity Moneyball Part 1: Managed Deception for Easy Outs</title>
-    <link>https://binarydefense.com/resources/blog/cybersecurity-moneyball-part-1-managed-deception-for-easy-outs</link>
-    <description>In this blog, we’ll explore Binary Defense’s managed deception capabilities and why they should be a consideration when evaluating the maturity of a…</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>LetMeowIn - Analysis of a Credential Dumper</title>
-    <link>https://binarydefense.com/resources/blog/letmeowin-analysis-of-a-credential-dumper</link>
-    <description>By ARC Labs contributors, John Dwyer and Harold Tabellion In April 2024, security researcher Meowmycks released LetMeowIn which was designed to harvest…</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Communication is Key – Leveraging Business Frameworks to Develop a…</title>
-    <link>https://binarydefense.com/resources/blog/communication-is-key-leveraging-business-frameworks-to-develop-a-detection-and-response-strategy</link>
-    <description>While the continuing “businessification” of cybercrime has increased the size of the criminal ecosystem, it does provide an opportunity for non-technical…</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Diving into Hidden Scheduled Tasks</title>
-    <link>https://binarydefense.com/resources/blog/diving-into-hidden-scheduled-tasks</link>
-    <description>In April 2022, Microsoft released a report detailing how the “Tarrask” malware manipulated the Security Descriptor of Scheduled Tasks as a defense evasion…</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Sisense Data Compromise: ARC Labs Intelligence Flash</title>
-    <link>https://binarydefense.com/resources/blog/sisense-data-compromise-arc-labs-intelligence-flash</link>
-    <description>Sisense urged clients to specifically: Change all passwords associated with my.sisense.com Reset credentials in client-controlled databases and data model…</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Analyzing CryptoJS Encrypted Phishing Attempt</title>
-    <link>https://binarydefense.com/resources/blog/analyzing-cryptojs-encrypted-phishing-attempt</link>
-    <description>Analysis of the payload revealed heavily obfuscated HTML data which executed JavaScript code embedded within an SVG image when the page is rendered on the…</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Qakbot Strikes Back: Understanding the Threat</title>
-    <link>https://binarydefense.com/resources/blog/qakbot-strikes-back-understanding-the-threat</link>
-    <description>New QakBot Campaign Qakbot, also known as QBot, is a banking trojan and botnet that has been active since 2008. Recently, Binary Defense threat…</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>MalSync Teardown: From DLL Hijacking to PHP Malware for Windows</title>
-    <link>https://binarydefense.com/resources/blog/malsync-teardown-from-dll-hijacking-to-php-malware-for-windows</link>
-    <description>uniqid()); # Execute the PE $d = shell_exec($fiEnc); # Strip white space from the return of the execution $d = trim($d); # Replace an escaped double quote…</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>MDR Metrics that Matter – From Analysts to the Board of Directors</title>
-    <link>https://binarydefense.com/resources/blog/mdr-metrics-that-matter-from-analysts-to-the-board-of-directors</link>
-    <description>Metrics that Matter are data points that provide a clear understanding of threat levels, risk, impact analysis, and effectiveness in the context of MDR.</description>
-    <pubDate>Fri, 06 Mar 2026 08:55:11 GMT</pubDate>
   </item>
 </channel>
 </rss>

@@ -4,12 +4,96 @@
   <title>Blackpoint Cyber Blog (Custom Feed)</title>
   <link>https://blackpointcyber.com/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 16:23:24 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 16:57:24 GMT</lastBuildDate>
   <item>
     <title>Blog</title>
     <link>https://blackpointcyber.com/blog/</link>
     <description>Sharpen your defenses with the latest threat insights, industry trends and product updates sure to put you one step ahead of hackers – and your competition.</description>
-    <pubDate>Fri, 06 Mar 2026 16:23:18 GMT</pubDate>
+    <pubDate>Fri, 06 Mar 2026 16:57:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>LuminousMoth, Tnega Malware, Advanced IP Scanner, RDP Abuse, and SolarMarker</title>
+    <link>https://blackpointcyber.com/blog/luminousmoth-tnega-malware-advanced-ip-scanner-rdp-abuse-solarmarker-soc-incidents-blackpoint-apg/</link>
+    <description>LuminousMoth doesn’t get far with Tnega on a Blackpoint-managed environment, while we add another RDP abuse incident to the pile. And, SolarMarker returns!</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>AsyncRAT, NetSupport RAT, and VssAdmin Abuse for Shadow Copy Deletion</title>
+    <link>https://blackpointcyber.com/blog/asyncrat-netsupportrat-vssadmin-abuse-for-shadow-copy-deletion-soc-incidents-blackpoint-apg/</link>
+    <description>Blackpoint's Active SOC exterminated AsyncRATs and NetSupport RATs this week, while more threats tried to delete shadow copies with VssAdmin.</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>7 Email Security Myths That Put Your Clients at Risk</title>
+    <link>https://blackpointcyber.com/blog/7-email-security-myths-that-put-your-clients-at-risk/</link>
+    <description>Learn the outdated assumptions that may be undermining your ability to combat phishing &amp; business email compromise threats.</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>Brute Ratel, Advanced IP Scanner, and NetSupport RAT</title>
+    <link>https://blackpointcyber.com/blog/brute-ratel-advanced-ip-scanner-netsupport-rat-blackpoint-soc-apg/</link>
+    <description>Proactive threat hunting by the Blackpoint Active SOC exterminated multiple NetSupport RATs. Plus: Brute Ratel and Advanced IP Scanner stops!</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike BSOD Help, Advanced IP Scanner, TeamViewer, NetSupport RAT, and AsyncRAT</title>
+    <link>https://blackpointcyber.com/blog/crowdstrike-bsod-help-advanced-ip-scanner-teamviewer-netsupport-rat-asyncrat-soc-incidents-blackpoint-apg/</link>
+    <description>While the APG gathers CrowdStrike BSOD intel, Blackpoint’s Active SOC secures partners from RATs, Advanced IP Scanner, &amp; TeamViewer abuse.</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Market Turns its Attention to Managed Detection and Response</title>
+    <link>https://blackpointcyber.com/blog/the-market-turns-its-attention-to-managed-detection-and-response/</link>
+    <description>In this blog, Blackpoint Cyber CEO, Jon Murchinson shares his perspective on the increasingly noisy MDR market – and how MSPs can stay protected.</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>The MSP Guide to SOC Compliance</title>
+    <link>https://blackpointcyber.com/blog/the-msp-guide-to-soc-compliance/</link>
+    <description>Leverage SOC compliance as an essential tool for managing vendor risk.</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>Context Around the Crowdstrike July 2024 Outage</title>
+    <link>https://blackpointcyber.com/blog/crowdstrike-july-2024-outage/</link>
+    <description>A faulty update from CrowdStrike led to widespread disruptions, leaving businesses in turmoil and unsure of their next steps.</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:23 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blackpoint Cyber is officially GDPR Compliant</title>
+    <link>https://blackpointcyber.com/blog/blackpoint-cyber-is-officially-gdpr-compliant/</link>
+    <description>Today, we proudly support our European partners and their clients with fully implemented, comprehensive privacy policies, procedures, and controls across our enterprise.</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:23 GMT</pubDate>
+  </item>
+  <item>
+    <title>Step One in Building an Effective Security Stack: Pursue Defense in Depth</title>
+    <link>https://blackpointcyber.com/blog/step-one-in-building-an-effective-security-stack-pursue-defense-in-depth/</link>
+    <description>Stop window shopping for your security stack and take the steps to build one. CyberFOX and Blackpoint Cyber are here to tell you why identity is the starting point.</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:23 GMT</pubDate>
+  </item>
+  <item>
+    <title>Announcing our Annual SOC2 Type II Compliance</title>
+    <link>https://blackpointcyber.com/blog/announcing-our-annual-soc2-type-ii-compliance/</link>
+    <description>Blackpoint is proud to announce that we have successfully completed our annual SOC2 Type II audit, managing your data in a controlled and heavily audited environment.</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:23 GMT</pubDate>
+  </item>
+  <item>
+    <title>Potential BianLian Ransomware, TeamViewer, and BitLocker</title>
+    <link>https://blackpointcyber.com/blog/bianlian-ransomware-teamviewer-bitlocker-soc-incidents-blackpoint-apg/</link>
+    <description>BianLian ransomware, TeamViewer abuse, &amp; BitLocker encryption incidents took center stage for Blackpoint’s Active SOC team this week.</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:24 GMT</pubDate>
+  </item>
+  <item>
+    <title>SYS01 Stealer, Ratty Rat, and AsyncRAT</title>
+    <link>https://blackpointcyber.com/blog/sys01-stealer-ratty-rat-asyncrat-soc-incidents-blackpoint-apg/</link>
+    <description>SYS01 tries to persist via scheduled tasks, but Blackpoint’s Active SOC team kicks it out. (Plus, AsyncRAT &amp; Ratty RAT deployments.)</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:24 GMT</pubDate>
+  </item>
+  <item>
+    <title>Netscan.exe, Mimikatz, Angry IP Scanner, and RMM Tool Abuse</title>
+    <link>https://blackpointcyber.com/blog/netscan-exe-mimikatz-angry-ip-scanner-rmm-tool-abuse-soc-incidents-blackpoint-apg/</link>
+    <description>Threat actors continue to abuse many legitimate tools and allowlisted processes, including netscan.exe, Angry IP Scanner, and (yes) RMM tools.</description>
+    <pubDate>Fri, 06 Mar 2026 16:57:24 GMT</pubDate>
   </item>
   <item>
     <title>Blackpoint Cyber is Riding High in the Cloud in G2’s Fall 2024 Badges</title>

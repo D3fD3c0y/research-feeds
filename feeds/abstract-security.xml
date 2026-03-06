@@ -2,9 +2,15 @@
 <rss version="2.0">
 <channel>
   <title>Abstract Security Blog (Custom Feed)</title>
-  <link>https://www.abstract.security/blog/</link>
+  <link>https://www.abstract.security/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 16:22:02 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 16:56:12 GMT</lastBuildDate>
+  <item>
+    <title>Why your SIEM needs a Data Pipeline Management platform</title>
+    <link>https://www.abstract.security/blog/why-your-siem-needs-a-data-pipeline-management-platform</link>
+    <description>Why your SIEM needs a Data Pipeline Management platform</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
   <item>
     <title>Reclaiming the Pipeline: Real-Time Detection Without Blowing the Budget</title>
     <link>https://www.abstract.security/blog/reclaiming-the-pipeline-real-time-detection-without-blowing-the-budget</link>
@@ -178,12 +184,6 @@
     <link>https://www.abstract.security/blog/introducing-c2-corner</link>
     <description>Introducing C2 Corner: By Practitioners, For the Industry</description>
     <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Moving Laterally through Abuse of Managed Identities attached to VMs</title>
-    <link>https://www.abstract.security/blog/moving-laterally-through-abuse-of-managed-identities-attached-to-vms</link>
-    <description>Demonstrated Azure attack path abusing managed identities for lateral movement between VMs and Key Vaults—plus detection logic using Azure Activity and MI sign-in logs.</description>
-    <pubDate>Thu, 12 Feb 2026 13:07:15 GMT</pubDate>
   </item>
 </channel>
 </rss>

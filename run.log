@@ -5,27 +5,62 @@
  [HTTP] robots GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] sitemap GET https://abnormal.ai/sitemap_index.xml -> 404 (final: https://abnormal.ai/sitemap_index.xml) CT=text/html; charset=utf-8
  [HTTP] sitemap body snippet: <!DOCTYPE html><html><head><meta charSet="utf-8" data-next-head=""/><meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0" data-next-head=""/><m
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-categorygroup-blogCategories-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-categorygroup-blogCategories-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-notFound-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-notFound-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-aiGlossary-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-aiGlossary-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-aiGlossaryIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-aiGlossaryIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-categorygroup-aiTransformationsBuilders-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-categorygroup-aiTransformationsBuilders-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-categorygroup-aiTransformationsCategories-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-categorygroup-aiTransformationsCategories-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-aiTransformationsIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-aiTransformationsIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-abnormalAttacks-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-abnormalAttacks-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-abnormalAttacksIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-abnormalAttacksIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
  [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-blog-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-blog-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] robots-check GET https://abnormal.ai/robots.txt -> 200 (final: https://abnormal.ai/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/phishing-sense-of-urgency -> 200 (final: https://abnormal.ai/blog/phishing-sense-of-urgency) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/ai-governance-responsibilities -> 200 (final: https://abnormal.ai/blog/ai-governance-responsibilities) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/cybersecurity-regulatory-compliance -> 200 (final: https://abnormal.ai/blog/cybersecurity-regulatory-compliance) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/cybersecurity-regulations -> 200 (final: https://abnormal.ai/blog/cybersecurity-regulations) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/microsoft-office-365-security-solutions -> 200 (final: https://abnormal.ai/blog/microsoft-office-365-security-solutions) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/building-explainable-email-security -> 200 (final: https://abnormal.ai/blog/building-explainable-email-security) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/identity-threats-account-takeover-tracking-tools -> 200 (final: https://abnormal.ai/blog/identity-threats-account-takeover-tracking-tools) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/how-to-get-a-job-in-cybersecurity -> 200 (final: https://abnormal.ai/blog/how-to-get-a-job-in-cybersecurity) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/cybersecurity-operations -> 200 (final: https://abnormal.ai/blog/cybersecurity-operations) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/mttm-mean-time-to-mitigate -> 200 (final: https://abnormal.ai/blog/mttm-mean-time-to-mitigate) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/cybersecurity-automation-tools-for-enterprise -> 200 (final: https://abnormal.ai/blog/cybersecurity-automation-tools-for-enterprise) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/ai-phishing-investigations -> 200 (final: https://abnormal.ai/blog/ai-phishing-investigations) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/what-is-soc-automation -> 200 (final: https://abnormal.ai/blog/what-is-soc-automation) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/cybersecurity-career-paths -> 200 (final: https://abnormal.ai/blog/cybersecurity-career-paths) CT=text/html; charset=utf-8
- [HTTP] article GET https://abnormal.ai/blog/reduce-soc-workload-with-ai -> 200 (final: https://abnormal.ai/blog/reduce-soc-workload-with-ai) CT=text/html; charset=utf-8
- • Summary [abnormal-threat-intel]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=45, seen_added=15
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-blogIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-blogIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-competitiveCustomerStories-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-competitiveCustomerStories-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-competitiveCustomerStoriesIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-competitiveCustomerStoriesIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-categorygroup-competitor-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-categorygroup-competitor-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-customerStoriesIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-customerStoriesIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-categorygroup-customerStoryCategories-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-categorygroup-customerStoryCategories-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-employeeStories-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-employeeStories-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-employeeStoriesIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-employeeStoriesIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-eventIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-eventIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-categorygroup-eventTypes-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-categorygroup-eventTypes-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-events-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-events-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-glossary-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-glossary-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-glossaryIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-glossaryIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-tourIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-tourIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-categorygroup-tourTypes-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-categorygroup-tourTypes-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-tours-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-tours-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-categorygroup-industries-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-categorygroup-industries-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-innovations-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-innovations-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-innovationsIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-innovationsIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-press-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-press-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-categorygroup-newsTypes-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-categorygroup-newsTypes-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-pages-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-pages-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-categorygroup-postAuthors-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-categorygroup-postAuthors-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-productLaunchesIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-productLaunchesIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-categorygroup-profileTypes-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-categorygroup-profileTypes-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-profiles-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-profiles-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-publicBreaches-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-publicBreaches-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-publicBreachesIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-publicBreachesIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-releaseNotes-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-releaseNotes-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-releaseNotesIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-releaseNotesIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-resourceIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-resourceIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-categorygroup-resourceTypes-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-categorygroup-resourceTypes-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-resources-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-resources-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-categorygroup-speakers-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-categorygroup-speakers-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-teamIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-teamIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-technologyPartnerCategories-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-technologyPartnerCategories-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-attackLibrary-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-attackLibrary-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-threatIntelligenceDigestIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-threatIntelligenceDigestIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-categorygroup-topics-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-categorygroup-topics-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-whatsNew-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-whatsNew-1-sitemap.xml) CT=text/xml; charset=utf-8
+ [HTTP] sitemap GET https://abnormal.ai/sitemaps-1-section-whatsNewIndex-1-sitemap.xml -> 200 (final: https://abnormal.ai/sitemaps-1-section-whatsNewIndex-1-sitemap.xml) CT=text/xml; charset=utf-8
+ • Summary [abnormal-threat-intel]: new_fetched=0, new_used=0, reused=30, prev_cached=30, seen_before=60, seen_added=0
 Wrote feeds/abnormal-threat-intel.xml
 
-=== Processing: Abstract Security Blog (https://www.abstract.security/blog/) -> feeds/abstract-security.xml
+=== Processing: Abstract Security Blog (https://www.abstract.security/blog) -> feeds/abstract-security.xml
  robots.txt respected: True
  • using sitemap fallback …
  [HTTP] robots GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
@@ -37,22 +72,8 @@ Wrote feeds/abnormal-threat-intel.xml
  [HTTP] sitemap GET https://www.abstract.security/sitemap_index.xml.gz -> 404 (final: https://www.abstract.security/sitemap_index.xml.gz) CT=text/html; charset=utf-8
  [HTTP] sitemap body snippet: <!DOCTYPE html><!-- Last Published: Tue Mar 03 2026 19:55:15 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.abstract.security" data-wf-page="698c38cf63a1a38c4e272af9" data-wf-site=
  [HTTP] robots-check GET https://www.abstract.security/robots.txt -> 200 (final: https://www.abstract.security/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] article GET https://www.abstract.security/blog/reclaiming-the-pipeline-real-time-detection-without-blowing-the-budget -> 200 (final: https://www.abstract.security/blog/reclaiming-the-pipeline-real-time-detection-without-blowing-the-budget) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.abstract.security/blog/redefining-the-soc-why-ai-elevates-not-replaces-the-next-generation-of-analysts -> 200 (final: https://www.abstract.security/blog/redefining-the-soc-why-ai-elevates-not-replaces-the-next-generation-of-analysts) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.abstract.security/blog/salesforce-forensics-telemetry-for-detection-response -> 200 (final: https://www.abstract.security/blog/salesforce-forensics-telemetry-for-detection-response) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.abstract.security/blog/security-data-pipelines-have-become-the-center-of-the-soc-the-market-knows-it-and-so-do-we -> 200 (final: https://www.abstract.security/blog/security-data-pipelines-have-become-the-center-of-the-soc-the-market-knows-it-and-so-do-we) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.abstract.security/blog/shift-left-detections-with-abstract -> 200 (final: https://www.abstract.security/blog/shift-left-detections-with-abstract) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.abstract.security/blog/shifting-detection-left-how-to-decouple-siem-detection-criteria-for-modern-security-operations -> 200 (final: https://www.abstract.security/blog/shifting-detection-left-how-to-decouple-siem-detection-criteria-for-modern-security-operations) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.abstract.security/blog/shrinking-the-stack-of-needles -> 200 (final: https://www.abstract.security/blog/shrinking-the-stack-of-needles) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.abstract.security/blog/startup-partnerships-lessons-from-the-front-lines -> 200 (final: https://www.abstract.security/blog/startup-partnerships-lessons-from-the-front-lines) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.abstract.security/blog/strengthening-integrations-in-the-abstract-security-platform -> 200 (final: https://www.abstract.security/blog/strengthening-integrations-in-the-abstract-security-platform) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.abstract.security/blog/the-invisible-enemy-unmasking-microsoft-365s-logging-blind-spots -> 200 (final: https://www.abstract.security/blog/the-invisible-enemy-unmasking-microsoft-365s-logging-blind-spots) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.abstract.security/blog/thinking-beyond-the-budget-why-your-security-team-isnt-a-cost-center -> 200 (final: https://www.abstract.security/blog/thinking-beyond-the-budget-why-your-security-team-isnt-a-cost-center) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.abstract.security/blog/trust-and-community-the-peer-to-peer-security-advantage -> 200 (final: https://www.abstract.security/blog/trust-and-community-the-peer-to-peer-security-advantage) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.abstract.security/blog/uncovering-compromised-git-admins-how-to-detect-actors-like-thecom -> 200 (final: https://www.abstract.security/blog/uncovering-compromised-git-admins-how-to-detect-actors-like-thecom) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.abstract.security/blog/what-is-a-security-data-pipeline-platform-sdpp-and-why-do-security-teams-need-one -> 200 (final: https://www.abstract.security/blog/what-is-a-security-data-pipeline-platform-sdpp-and-why-do-security-teams-need-one) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.abstract.security/blog/why-health-isac-selected-abstract-security-to-support-its-internal-siem-operations -> 200 (final: https://www.abstract.security/blog/why-health-isac-selected-abstract-security-to-support-its-internal-siem-operations) CT=text/html; charset=utf-8
- • Summary [abstract-security]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=45, seen_added=15
+ [HTTP] article GET https://www.abstract.security/blog/why-your-siem-needs-a-data-pipeline-management-platform -> 200 (final: https://www.abstract.security/blog/why-your-siem-needs-a-data-pipeline-management-platform) CT=text/html; charset=utf-8
+ • Summary [abstract-security]: new_fetched=1, new_used=1, reused=29, prev_cached=30, seen_before=60, seen_added=1
 Wrote feeds/abstract-security.xml
 
 === Processing: AppOmni Blog (https://appomni.com/article-type/blog/) -> feeds/appomni.xml
@@ -80,23 +101,41 @@ Wrote feeds/abstract-security.xml
  [HTTP] sitemap GET https://appomni.com/workshop-type-sitemap.xml -> 200 (final: https://appomni.com/workshop-type-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] sitemap GET https://appomni.com/author-sitemap.xml -> 200 (final: https://appomni.com/author-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] robots-check GET https://appomni.com/robots.txt -> 200 (final: https://appomni.com/robots.txt) CT=text/plain
- [HTTP] article GET https://appomni.com/blog/accenture-partners-with-appomni-to-enhance-salesforce-security-and-tackle-saas-misconfiguration-risk/ -> 200 (final: https://appomni.com/blog/accenture-partners-with-appomni-to-enhance-salesforce-security-and-tackle-saas-misconfiguration-risk/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://appomni.com/blog/navigating-the-complexities-of-saas-threat-detection/ -> 200 (final: https://appomni.com/blog/navigating-the-complexities-of-saas-threat-detection/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://appomni.com/blog/elevate-saas-security-with-closed-loop-zero-trust/ -> 200 (final: https://appomni.com/blog/elevate-saas-security-with-closed-loop-zero-trust/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://appomni.com/blog/introducing-zero-trust-posture-management-ztpm/ -> 200 (final: https://appomni.com/blog/introducing-zero-trust-posture-management-ztpm/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://appomni.com/blog/2024-saas-security-forecast-and-predictions/ -> 200 (final: https://appomni.com/blog/2024-saas-security-forecast-and-predictions/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://appomni.com/blog/qlik-attack-why-sspm-is-a-must-have-for-cisos/ -> 200 (final: https://appomni.com/blog/qlik-attack-why-sspm-is-a-must-have-for-cisos/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://appomni.com/blog/okta-breach-threat-intel-advisory/ -> 200 (final: https://appomni.com/blog/okta-breach-threat-intel-advisory/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://appomni.com/blog/handling-saas-data-exposure-risks-due-to-potential-servicenow-misconfigurations/ -> 200 (final: https://appomni.com/blog/handling-saas-data-exposure-risks-due-to-potential-servicenow-misconfigurations/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://appomni.com/blog/detecting-and-preventing-okta-compromises-with-sspm/ -> 200 (final: https://appomni.com/blog/detecting-and-preventing-okta-compromises-with-sspm/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://appomni.com/blog/appomni-saas-event-maturity-matrix/ -> 200 (final: https://appomni.com/blog/appomni-saas-event-maturity-matrix/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://appomni.com/blog/lessons-learned-from-blackhat2023-on-saas-identities-ai/ -> 200 (final: https://appomni.com/blog/lessons-learned-from-blackhat2023-on-saas-identities-ai/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://appomni.com/blog/how-identity-fabric-secures-saas-identities-and-access/ -> 200 (final: https://appomni.com/blog/how-identity-fabric-secures-saas-identities-and-access/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://appomni.com/blog/follow-ncsc-cloud-security-guidance-for-saas-with-appomni/ -> 200 (final: https://appomni.com/blog/follow-ncsc-cloud-security-guidance-for-saas-with-appomni/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://appomni.com/blog/technologyone-breach-highlights-the-need-for-saas-security/ -> 200 (final: https://appomni.com/blog/technologyone-breach-highlights-the-need-for-saas-security/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://appomni.com/blog/how-to-comply-with-cyber-essentials-requirements-uk/ -> 200 (final: https://appomni.com/blog/how-to-comply-with-cyber-essentials-requirements-uk/) CT=text/html; charset=UTF-8
- • Summary [appomni]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=0, seen_added=15
+ [HTTP] article GET https://appomni.com/blog/salesforce-security-community-cloud-scanner/ -> 200 (final: https://appomni.com/risk-assessment/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://appomni.com/blog/how-cisos-make-saas-security-priority-for-business-leaders/ -> 200 (final: https://appomni.com/blog/how-cisos-make-saas-security-priority-for-business-leaders/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://appomni.com/blog/employee-spotlight-sarah-osburn-senior-technical-account-manager-at-appomni/ -> 200 (final: https://appomni.com/blog/employee-spotlight-sarah-osburn-senior-technical-account-manager-at-appomni/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://appomni.com/blog/employee-spotlight-nick-crouch-international-channel-director-appomni/ -> 200 (final: https://appomni.com/blog/employee-spotlight-nick-crouch-international-channel-director-appomni/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://appomni.com/blog/employee-spotlight-josh-rickard-senior-software-engineer-at-appomni/ -> 200 (final: https://appomni.com/blog/employee-spotlight-josh-rickard-senior-software-engineer-at-appomni/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://appomni.com/blog/lastpass-and-okta-breaches-security-steps-to-take-right-now/ -> 200 (final: https://appomni.com/blog/lastpass-and-okta-breaches-security-steps-to-take-right-now/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://appomni.com/blog/how-saas-vendors-are-handling-the-openssl-critical-flaw/ -> 200 (final: https://appomni.com/blog/how-saas-vendors-are-handling-the-openssl-critical-flaw/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://appomni.com/blog/the-need-for-privileged-identity-management-pim/ -> 200 (final: https://appomni.com/blog/the-need-for-privileged-identity-management-pim/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://appomni.com/blog/continuous-monitoring-and-automated-threat-testing-for-saas/ -> 200 (final: https://appomni.com/blog/continuous-monitoring-and-automated-threat-testing-for-saas/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://appomni.com/blog/payroll-fraud-threat-hunting-detection/ -> 200 (final: https://appomni.com/blog/payroll-fraud-threat-hunting-detection/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://appomni.com/blog/what-is-0ktapus-breach/ -> 200 (final: https://appomni.com/learn/advanced-saas-security/what-is-0ktapus-breach/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://appomni.com/blog/appomni-raises-70-million-series-c-led-by-thoma-bravo/ -> 200 (final: https://appomni.com/blog/appomni-raises-70-million-series-c-led-by-thoma-bravo/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://appomni.com/blog/salesforce-guest-user-log-analysis/ -> 200 (final: https://appomni.com/blog/salesforce-guest-user-log-analysis/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://appomni.com/blog/future-of-saas-security-with-appomni-developer-platform/ -> 200 (final: https://appomni.com/blog/future-of-saas-security-with-appomni-developer-platform/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://appomni.com/blog/how-to-address-log4js-potential-impact-on-your-saas-ecosystem/ -> 200 (final: https://appomni.com/blog/how-to-address-log4js-potential-impact-on-your-saas-ecosystem/) CT=text/html; charset=UTF-8
+ • Summary [appomni]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=15, seen_added=15
 Wrote feeds/appomni.xml
+
+=== Processing: Armis Research (https://www.armis.com/blog/) -> feeds/armis-research.xml
+ robots.txt respected: True
+ [HTTP] robots-check GET https://www.armis.com/robots.txt -> 403 (final: https://www.armis.com/robots.txt) CT=text/html; charset=UTF-8
+ [HTTP] robots-check body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ ! robots.txt disallows scraping listing; trying sitemap fallback …
+ [HTTP] robots GET https://www.armis.com/robots.txt -> 403 (final: https://www.armis.com/robots.txt) CT=text/html; charset=UTF-8
+ [HTTP] robots body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://www.armis.com/sitemap_index.xml -> 403 (final: https://www.armis.com/sitemap_index.xml) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://www.armis.com/sitemap.xml -> 403 (final: https://www.armis.com/sitemap.xml) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://www.armis.com/sitemap.xml.gz -> 403 (final: https://www.armis.com/sitemap.xml.gz) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://www.armis.com/sitemap_index.xml.gz -> 403 (final: https://www.armis.com/sitemap_index.xml.gz) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ • Summary [armis-research]: new_fetched=0, new_used=0, reused=1, prev_cached=1, seen_before=0, seen_added=0
+Wrote feeds/armis-research.xml
 
 === Processing: Bfore.ai Reports (https://bfore.ai/resources/?e-filter-63865e3-category=report) -> feeds/bfore-ai-reports.xml
  robots.txt respected: True
@@ -106,22 +145,21 @@ Wrote feeds/appomni.xml
  [HTTP] sitemap GET https://bfore.ai/post-sitemap.xml -> 200 (final: https://bfore.ai/post-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] sitemap GET https://bfore.ai/page-sitemap.xml -> 200 (final: https://bfore.ai/page-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] article GET https://bfore.ai/report/imported-risk-cybercriminals-exploit-tariff-uncertainty/ -> 200 (final: https://bfore.ai/report/imported-risk-cybercriminals-exploit-tariff-uncertainty/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bfore.ai/report/commercial-airline-industry-scam-impersonation-activity-2026/ -> 200 (final: https://bfore.ai/report/commercial-airline-industry-scam-impersonation-activity-2026/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bfore.ai/report/bybit-opportunists-malicious-infrastructure-attacks-report/ -> 200 (final: https://bfore.ai/report/bybit-opportunists-malicious-infrastructure-attacks-report/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bfore.ai/report/malicious-infrastructure-campaigns-how-iran-is-weaponized-online/ -> 200 (final: https://bfore.ai/report/malicious-infrastructure-campaigns-how-iran-is-weaponized-online/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bfore.ai/report/precrime-landscape-report-q4-2022/ -> 200 (final: https://bfore.ai/report/precrime-landscape-report-q4-2022/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bfore.ai/report/2024-online-retail-threat-report/ -> 200 (final: https://bfore.ai/report/2024-online-retail-threat-report/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bfore.ai/report/phishing-campaign-imitating-united-states-department-of-education-g5/ -> 200 (final: https://bfore.ai/report/phishing-campaign-imitating-united-states-department-of-education-g5/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bfore.ai/report/luxury-fashion-brands-threats-in-2025-holiday-shopping-season/ -> 200 (final: https://bfore.ai/report/luxury-fashion-brands-threats-in-2025-holiday-shopping-season/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bfore.ai/report/malicious-telegram-apk-campaign-advisory/ -> 200 (final: https://bfore.ai/report/malicious-telegram-apk-campaign-advisory/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bfore.ai/report/a-taxing-problem-seasonal-irs-and-tax-scams-report/ -> 200 (final: https://bfore.ai/report/a-taxing-problem-seasonal-irs-and-tax-scams-report/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bfore.ai/report/2024-online-holiday-retail-threat-report/ -> 200 (final: https://bfore.ai/report/2024-online-holiday-retail-threat-report/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bfore.ai/report/romance-scams-proliferate-domain-registrations-valentines-day/ -> 200 (final: https://bfore.ai/report/romance-scams-proliferate-domain-registrations-valentines-day/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bfore.ai/report/malicious-domain-activity-during-the-los-angeles-wildfires/ -> 200 (final: https://bfore.ai/report/malicious-domain-activity-during-the-los-angeles-wildfires/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bfore.ai/report/scam-activity-leveraging-united-states-actions-in-venezuela/ -> 200 (final: https://bfore.ai/report/scam-activity-leveraging-united-states-actions-in-venezuela/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bfore.ai/report/mass-fake-shop-campaign/ -> 200 (final: https://bfore.ai/report/mass-fake-shop-campaign/) CT=text/html; charset=UTF-8
- • Summary [bfore-ai-reports]: new_fetched=15, new_used=15, reused=1, prev_cached=1, seen_before=1, seen_added=15
+ [HTTP] article GET https://bfore.ai/report/2025-retail-holiday-threat-report-scams-impersonation-attacks/ -> 200 (final: https://bfore.ai/report/2025-retail-holiday-threat-report-scams-impersonation-attacks/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bfore.ai/report/threat-research-elon-vs-trump-feud-drives-malicious-domain-surge/ -> 200 (final: https://bfore.ai/report/threat-research-elon-vs-trump-feud-drives-malicious-domain-surge/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bfore.ai/report/malicious-activity-surrounding-perplexity-comet-browser-launch-threat-research/ -> 200 (final: https://bfore.ai/report/malicious-activity-surrounding-perplexity-comet-browser-launch-threat-research/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bfore.ai/report/h-1b-domain-activity-u-s-migration-trends-trumps-100000-h-1b-visa-fee/ -> 200 (final: https://bfore.ai/report/h-1b-domain-activity-u-s-migration-trends-trumps-100000-h-1b-visa-fee/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bfore.ai/report/suspicious-domain-activity-2026-fifa-world-cup-tournament/ -> 200 (final: https://bfore.ai/report/suspicious-domain-activity-2026-fifa-world-cup-tournament/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bfore.ai/report/advisory-2025-texas-flooding-crisis-scams/ -> 200 (final: https://bfore.ai/report/advisory-2025-texas-flooding-crisis-scams/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bfore.ai/report/bec-in-the-financial-services-sector/ -> 200 (final: https://bfore.ai/report/bec-in-the-financial-services-sector/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bfore.ai/report/financial-domain-spoofing-trends-of-2024/ -> 200 (final: https://bfore.ai/report/financial-domain-spoofing-trends-of-2024/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bfore.ai/report/dynamic-duo-lingo-mascot-death-scams-report/ -> 200 (final: https://bfore.ai/report/dynamic-duo-lingo-mascot-death-scams-report/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bfore.ai/report/2024-paris-olympic-games-infrastructure-attack-report/ -> 200 (final: https://bfore.ai/report/2024-paris-olympic-games-infrastructure-attack-report/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bfore.ai/report/precrime-landscape-report/ -> 200 (final: https://bfore.ai/report/precrime-landscape-report/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bfore.ai/report/us-elections-2024-report/ -> 200 (final: https://bfore.ai/report/us-elections-2024-report/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bfore.ai/report/crowdstrike-attack-report/ -> 200 (final: https://bfore.ai/report/crowdstrike-attack-report/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bfore.ai/report/international-pizza-chain-domain-spoofing-report/ -> 200 (final: https://bfore.ai/report/international-pizza-chain-domain-spoofing-report/) CT=text/html; charset=UTF-8
+ • Summary [bfore-ai-reports]: new_fetched=14, new_used=14, reused=16, prev_cached=16, seen_before=16, seen_added=14
 Wrote feeds/bfore-ai-reports.xml
 
 === Processing: BI.ZONE News (https://bi.zone/eng/news/) -> feeds/bizone-news.xml
@@ -130,21 +168,21 @@ Wrote feeds/bfore-ai-reports.xml
  [HTTP] robots GET https://bi.zone/robots.txt -> 200 (final: https://bi.zone/robots.txt) CT=text/plain; charset=UTF-8
  [HTTP] sitemap GET https://bi.zone/sitemap.xml -> 200 (final: https://bi.zone/sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] article GET https://bi.zone/eng/news/ -> 200 (final: https://bi.zone/eng/news/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/news/kvalifikatsiya-kiberprestupnikov-nizkaya-ugroza-dlya-kompaniy-vysokaya/ -> 200 (final: https://bi.zone/eng/news/kvalifikatsiya-kiberprestupnikov-nizkaya-ugroza-dlya-kompaniy-vysokaya/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/news/mysterious-werewolf-atakuet-rossiyskiy-vpk-sobstvennymi-instrumentami/ -> 200 (final: https://bi.zone/eng/news/mysterious-werewolf-atakuet-rossiyskiy-vpk-sobstvennymi-instrumentami/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/news/bi-zone-waf-zashchishchaet-ot-uyazvimostey-v-jetbrains-teamcity/ -> 200 (final: https://bi.zone/eng/news/bi-zone-waf-zashchishchaet-ot-uyazvimostey-v-jetbrains-teamcity/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/news/my-zapustili-bi-zone-cyber-polygon-platform-dlya-individualnykh-trenirovok-po-kiberzashchite/ -> 200 (final: https://bi.zone/eng/news/my-zapustili-bi-zone-cyber-polygon-platform-dlya-individualnykh-trenirovok-po-kiberzashchite/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/news/scaly-wolf-atakuet-rossiyskie-promyshlennye-i-logisticheskie-predpriyatiya/ -> 200 (final: https://bi.zone/eng/news/scaly-wolf-atakuet-rossiyskie-promyshlennye-i-logisticheskie-predpriyatiya/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/news/obyavlyaem-daty-offzone-2024/ -> 200 (final: https://bi.zone/eng/news/obyavlyaem-daty-offzone-2024/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/news/bi-zone-waf-zashchishchaet-ot-pyati-uyazvimostey-v-gitlab/ -> 200 (final: https://bi.zone/eng/news/bi-zone-waf-zashchishchaet-ot-pyati-uyazvimostey-v-gitlab/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/news/mkkk-vypustil-otchet-o-tsifrovykh-ugrozakh-vo-vremya-vooruzhennykh-konfliktov/ -> 200 (final: https://bi.zone/eng/news/mkkk-vypustil-otchet-o-tsifrovykh-ugrozakh-vo-vremya-vooruzhennykh-konfliktov/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/news/my-poluchili-sertifikat-po-obnovlennomu-standartu-iso-iec-27001-2022/ -> 200 (final: https://bi.zone/eng/news/my-poluchili-sertifikat-po-obnovlennomu-standartu-iso-iec-27001-2022/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/news/rare-wolf-maskiruet-vredonosnye-pisma-pod-nakladnye-1s-predpriyatie/ -> 200 (final: https://bi.zone/eng/news/rare-wolf-maskiruet-vredonosnye-pisma-pod-nakladnye-1s-predpriyatie/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/news/vyshla-polnaya-versiya-issledovaniya-sem-likov-tmy/ -> 200 (final: https://bi.zone/eng/news/vyshla-polnaya-versiya-issledovaniya-sem-likov-tmy/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/news/bi-zone-waf-zashchishchaet-ot-uyazvimosti-v-wordpress/ -> 200 (final: https://bi.zone/eng/news/bi-zone-waf-zashchishchaet-ot-uyazvimosti-v-wordpress/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/news/bi-zone-waf-zashchishchaet-ot-kriticheskoy-uyazvimosti-v-confluence/ -> 200 (final: https://bi.zone/eng/news/bi-zone-waf-zashchishchaet-ot-kriticheskoy-uyazvimosti-v-confluence/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/news/gruppirovka-sticky-werewolf-atakuet-gosudarstvennye-organizatsii-rossii-i-belarusi/ -> 200 (final: https://bi.zone/eng/news/gruppirovka-sticky-werewolf-atakuet-gosudarstvennye-organizatsii-rossii-i-belarusi/) CT=text/html; charset=UTF-8
- • Summary [bizone-news]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=42, seen_added=14
+ [HTTP] article GET https://bi.zone/eng/news/predstavlyaem-obnovlennoe-reshenie-bi-zone-antifraud/ -> 200 (final: https://bi.zone/eng/news/predstavlyaem-obnovlennoe-reshenie-bi-zone-antifraud/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/news/bi-zone-rasshirila-funktsionalnost-bi-zone-edr/ -> 200 (final: https://bi.zone/eng/news/bi-zone-rasshirila-funktsionalnost-bi-zone-edr/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/news/zloumyshlenniki-atakuyut-rossiyskie-kompanii-s-pomoshchyu-utekshikh-iskhodnykh-kodov/ -> 200 (final: https://bi.zone/eng/news/zloumyshlenniki-atakuyut-rossiyskie-kompanii-s-pomoshchyu-utekshikh-iskhodnykh-kodov/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/news/v-moskve-proshla-chetvertaya-konferentsiya-po-prakticheskoy-kiberbezopasnosti-offzone-2023/ -> 200 (final: https://bi.zone/eng/news/v-moskve-proshla-chetvertaya-konferentsiya-po-prakticheskoy-kiberbezopasnosti-offzone-2023/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/news/komandy-iz-117-stran-prinyali-uchastie-v-sorevnovaniyakh-po-etichnomu-khakingu-ctfzone-2023/ -> 200 (final: https://bi.zone/eng/news/komandy-iz-117-stran-prinyali-uchastie-v-sorevnovaniyakh-po-etichnomu-khakingu-ctfzone-2023/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/news/fishing-ot-litsa-roskomnadzora-soderzhit-po-dlya-krazhi-korporativnykh-uchetnykh-dannykh/ -> 200 (final: https://bi.zone/eng/news/fishing-ot-litsa-roskomnadzora-soderzhit-po-dlya-krazhi-korporativnykh-uchetnykh-dannykh/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/news/obnovlenie-bi-zone-cesp-pozvolyaet-kastomizirovat-zashchitu-korporativnoy-pochty/ -> 200 (final: https://bi.zone/eng/news/obnovlenie-bi-zone-cesp-pozvolyaet-kastomizirovat-zashchitu-korporativnoy-pochty/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/news/s-novoy-versiey-platformy-bi-zone-secure-sd-wan-masshtabirovanie-seti-eshche-udobnee-i-bezopasnee/ -> 200 (final: https://bi.zone/eng/news/s-novoy-versiey-platformy-bi-zone-secure-sd-wan-masshtabirovanie-seti-eshche-udobnee-i-bezopasnee/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/news/kiberprestupniki-vpervye-ispolzuyut-rossiyskie-programmy-udalennogo-dostupa-dlya-tselevykh-atak/ -> 200 (final: https://bi.zone/eng/news/kiberprestupniki-vpervye-ispolzuyut-rossiyskie-programmy-udalennogo-dostupa-dlya-tselevykh-atak/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/news/bi-zone-gruppirovka-red-wolf-vnov-shpionit-za-kommercheskimi-organizatsiyami-na-territorii-rossii/ -> 200 (final: https://bi.zone/eng/news/bi-zone-gruppirovka-red-wolf-vnov-shpionit-za-kommercheskimi-organizatsiyami-na-territorii-rossii/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/news/bi-zone-chislo-moshennicheskikh-saytov-dlya-bystrogo-zarabotka-na-tesla-x-rezko-vyroslo/ -> 200 (final: https://bi.zone/eng/news/bi-zone-chislo-moshennicheskikh-saytov-dlya-bystrogo-zarabotka-na-tesla-x-rezko-vyroslo/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/news/bi-zone-prinyala-uchastie-v-issledovanii-mezhdunarodnogo-komiteta-krasnogo-kresta/ -> 200 (final: https://bi.zone/eng/news/bi-zone-prinyala-uchastie-v-issledovanii-mezhdunarodnogo-komiteta-krasnogo-kresta/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/news/bi-zone-zafiksirovala-ataki-na-oboronno-promyshlennyy-kompleks/ -> 200 (final: https://bi.zone/eng/news/bi-zone-zafiksirovala-ataki-na-oboronno-promyshlennyy-kompleks/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://bi.zone/eng/news/zloumyshlenniki-kradut-paroli-u-rossiyskikh-kompaniy-s-pomoshchyu-po-s-otkrytym-iskhodnym-kodom/ -> 200 (final: https://bi.zone/eng/news/zloumyshlenniki-kradut-paroli-u-rossiyskikh-kompaniy-s-pomoshchyu-po-s-otkrytym-iskhodnym-kodom/) CT=text/html; charset=UTF-8
+ • Summary [bizone-news]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=56, seen_added=14
 Wrote feeds/bizone-news.xml
 
 === Processing: BI.ZONE Blog (https://bi.zone/eng/expertise/blog/) -> feeds/bizone-blog.xml
@@ -153,20 +191,7 @@ Wrote feeds/bizone-news.xml
  [HTTP] robots GET https://bi.zone/robots.txt -> 200 (final: https://bi.zone/robots.txt) CT=text/plain; charset=UTF-8
  [HTTP] sitemap GET https://bi.zone/sitemap.xml -> 200 (final: https://bi.zone/sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] article GET https://bi.zone/eng/expertise/blog/ -> 200 (final: https://bi.zone/eng/expertise/blog/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/security-of-json-web-tokens-jwt/ -> 200 (final: https://bi.zone/eng/expertise/blog/security-of-json-web-tokens-jwt/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/threat-hunting-in-action/ -> 200 (final: https://bi.zone/eng/expertise/blog/threat-hunting-in-action/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/threat-hunting-why-might-you-need-it/ -> 200 (final: https://bi.zone/eng/expertise/blog/threat-hunting-why-might-you-need-it/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/hunting-down-ms-exchange-attacks-part-1/ -> 200 (final: https://bi.zone/eng/expertise/blog/hunting-down-ms-exchange-attacks-part-1/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/hunting-for-advanced-tactics-techniques-and-procedures-ttps/ -> 200 (final: https://bi.zone/eng/expertise/blog/hunting-for-advanced-tactics-techniques-and-procedures-ttps/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/hunting-down-ms-exchange-attacks-part-2/ -> 200 (final: https://bi.zone/eng/expertise/blog/hunting-down-ms-exchange-attacks-part-2/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/kak-ispolzovat-dannye-s-tenevykh-resursov-dlya-predskazaniya-kiberatak/ -> 200 (final: https://bi.zone/eng/expertise/blog/kak-ispolzovat-dannye-s-tenevykh-resursov-dlya-predskazaniya-kiberatak/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/landshaft-kiberugroz-organizatsii-kak-opredelit-i-kak-ispolzovat-dlya-prognozirovaniya-atak/ -> 200 (final: https://bi.zone/eng/expertise/blog/landshaft-kiberugroz-organizatsii-kak-opredelit-i-kak-ispolzovat-dlya-prognozirovaniya-atak/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/kak-ugrozotsentrichnyy-podkhod-pozvolyaet-izbezhat-ushcherba-ot-kiberatak/ -> 200 (final: https://bi.zone/eng/expertise/blog/kak-ugrozotsentrichnyy-podkhod-pozvolyaet-izbezhat-ushcherba-ot-kiberatak/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/arcane-werewolf-vernulsya-s-obnovlennym-implantom-loki/ -> 200 (final: https://bi.zone/eng/expertise/blog/arcane-werewolf-vernulsya-s-obnovlennym-implantom-loki/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/zloumyshlenniki-ekspluatiruyut-uyazvimost-cve-2025-55182-v-atakakh-na-rossiyskie-kompanii/ -> 200 (final: https://bi.zone/eng/expertise/blog/zloumyshlenniki-ekspluatiruyut-uyazvimost-cve-2025-55182-v-atakakh-na-rossiyskie-kompanii/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/nadvigayushchiysya-tsiklon-vortex-werewolf-atakuet-rossiyu/ -> 200 (final: https://bi.zone/eng/expertise/blog/nadvigayushchiysya-tsiklon-vortex-werewolf-atakuet-rossiyu/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://bi.zone/eng/expertise/blog/narushit-plany-atakuyushchikh-kak-primenyat-znaniya-ob-ikh-infrastrukture-v-svoyu-polzu/ -> 200 (final: https://bi.zone/eng/expertise/blog/narushit-plany-atakuyushchikh-kak-primenyat-znaniya-ob-ikh-infrastrukture-v-svoyu-polzu/) CT=text/html; charset=UTF-8
- • Summary [bizone-blog]: new_fetched=14, new_used=14, reused=16, prev_cached=30, seen_before=42, seen_added=13
+ • Summary [bizone-blog]: new_fetched=1, new_used=1, reused=29, prev_cached=30, seen_before=55, seen_added=0
 Wrote feeds/bizone-blog.xml
 
 === Processing: BI.ZONE Research (https://bi.zone/eng/expertise/research/) -> feeds/bizone-research.xml
@@ -201,22 +226,22 @@ Wrote feeds/bizone-research.xml
  [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-webinars-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-webinars-1-sitemap.xml) CT=text/xml; charset=utf-8
  [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/resources/blog/incident-response-ir-planning-mdr-coordination -> 200 (final: https://binarydefense.com/resources/blog/incident-response-ir-planning-mdr-coordination) CT=text/html; charset=UTF-8
- [HTTP] article GET https://binarydefense.com/resources/blog/the-role-of-deception-technology-in-modern-cybersecurity -> 200 (final: https://binarydefense.com/resources/blog/the-role-of-deception-technology-in-modern-cybersecurity) CT=text/html; charset=UTF-8
- [HTTP] article GET https://binarydefense.com/resources/blog/demystifying-open-xdr-what-it-is-how-to-do-it-and-roi -> 200 (final: https://binarydefense.com/resources/blog/demystifying-open-xdr-what-it-is-how-to-do-it-and-roi) CT=text/html; charset=UTF-8
- [HTTP] article GET https://binarydefense.com/resources/blog/what-is-digital-risk-protection-drp -> 200 (final: https://binarydefense.com/resources/blog/what-is-digital-risk-protection-drp) CT=text/html; charset=UTF-8
- [HTTP] article GET https://binarydefense.com/resources/blog/beyond-alerting-finding-hidden-threats -> 200 (final: https://binarydefense.com/resources/blog/beyond-alerting-finding-hidden-threats) CT=text/html; charset=UTF-8
- [HTTP] article GET https://binarydefense.com/resources/blog/running-malware-below-the-os-the-state-of-uefi-firmware-exploitation -> 200 (final: https://binarydefense.com/resources/blog/running-malware-below-the-os-the-state-of-uefi-firmware-exploitation) CT=text/html; charset=UTF-8
- [HTTP] article GET https://binarydefense.com/resources/blog/the-role-of-ai-ml-in-security-operations -> 200 (final: https://binarydefense.com/resources/blog/the-role-of-ai-ml-in-security-operations) CT=text/html; charset=UTF-8
- [HTTP] article GET https://binarydefense.com/resources/blog/the-need-for-behavior-based-detection-strategy -> 200 (final: https://binarydefense.com/resources/blog/the-need-for-behavior-based-detection-strategy) CT=text/html; charset=UTF-8
- [HTTP] article GET https://binarydefense.com/resources/blog/uncovering-adversarial-ldap-tradecraft -> 200 (final: https://binarydefense.com/resources/blog/uncovering-adversarial-ldap-tradecraft) CT=text/html; charset=UTF-8
- [HTTP] article GET https://binarydefense.com/resources/blog/mastering-windows-access-control-understanding-sedebugprivilege -> 200 (final: https://binarydefense.com/resources/blog/mastering-windows-access-control-understanding-sedebugprivilege) CT=text/html; charset=UTF-8
- [HTTP] article GET https://binarydefense.com/resources/blog/the-client-server-relationship-a-match-made-in-heaven -> 200 (final: https://binarydefense.com/resources/blog/the-client-server-relationship-a-match-made-in-heaven) CT=text/html; charset=UTF-8
- [HTTP] article GET https://binarydefense.com/resources/blog/threadsleeper-suspending-threads-via-gmer64-driver -> 200 (final: https://binarydefense.com/resources/blog/threadsleeper-suspending-threads-via-gmer64-driver) CT=text/html; charset=UTF-8
- [HTTP] article GET https://binarydefense.com/resources/blog/laptop-on-the-screen-lock-cyber-security-data-protection-conce -> 200 (final: https://binarydefense.com/resources/blog/laptop-on-the-screen-lock-cyber-security-data-protection-conce) CT=text/html; charset=UTF-8
- [HTTP] article GET https://binarydefense.com/resources/blog/customer-perspectives-binary-defense-mdr-not-only-enhances-security-professionals-lives-but-unlocks-roi-benefits -> 200 (final: https://binarydefense.com/resources/blog/customer-perspectives-binary-defense-mdr-not-only-enhances-security-professionals-lives-but-unlocks-roi-benefits) CT=text/html; charset=UTF-8
- [HTTP] article GET https://binarydefense.com/resources/blog/unveiling-hidden-intel-why-leveraging-phishing-emails-for-intelligence-is-essential -> 200 (final: https://binarydefense.com/resources/blog/unveiling-hidden-intel-why-leveraging-phishing-emails-for-intelligence-is-essential) CT=text/html; charset=UTF-8
- • Summary [binarydefense-blog]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=45, seen_added=15
+ [HTTP] article GET https://binarydefense.com/resources/blog/12-essentials-for-a-successful-soc-partnership -> 200 (final: https://binarydefense.com/resources/blog/12-essentials-for-a-successful-soc-partnership) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/cyber-war-hackers-transformation-from-cyber-criminals-to-hacktivists -> 200 (final: https://binarydefense.com/resources/blog/cyber-war-hackers-transformation-from-cyber-criminals-to-hacktivists) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/the-war-in-ukraine-its-impact-on-how-china-views-taiwan -> 200 (final: https://binarydefense.com/resources/blog/the-war-in-ukraine-its-impact-on-how-china-views-taiwan) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/digging-through-rust-to-find-gold-extracting-secrets-from-rust-malware -> 200 (final: https://binarydefense.com/resources/blog/digging-through-rust-to-find-gold-extracting-secrets-from-rust-malware) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/5-critical-criteria-for-evaluating-managed-detection-response-mdr -> 200 (final: https://binarydefense.com/resources/blog/5-critical-criteria-for-evaluating-managed-detection-response-mdr) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/using-microsoft-sentinel-to-detect-confluence-cve-2022-26134-exploitation -> 200 (final: https://binarydefense.com/resources/blog/using-microsoft-sentinel-to-detect-confluence-cve-2022-26134-exploitation) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/russia-may-be-pressing-arrested-cyber-criminals-into-service -> 200 (final: https://binarydefense.com/resources/blog/russia-may-be-pressing-arrested-cyber-criminals-into-service) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/4-tactics-to-detect-contain-emotets-latest-evolution -> 200 (final: https://binarydefense.com/resources/blog/4-tactics-to-detect-contain-emotets-latest-evolution) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/war-in-ukraine-and-its-impact-on-hackers -> 200 (final: https://binarydefense.com/resources/blog/war-in-ukraine-and-its-impact-on-hackers) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/detecting-ransomwares-stealthy-boot-configuration-edits -> 200 (final: https://binarydefense.com/resources/blog/detecting-ransomwares-stealthy-boot-configuration-edits) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/breaking-down-password-storage-break-downs -> 200 (final: https://binarydefense.com/resources/blog/breaking-down-password-storage-break-downs) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/dark-web-reactions-to-russias-invasion-of-ukraine -> 200 (final: https://binarydefense.com/resources/blog/dark-web-reactions-to-russias-invasion-of-ukraine) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/take-stock-of-cyber-risk-in-light-of-russian-cyber-activity -> 200 (final: https://binarydefense.com/resources/blog/take-stock-of-cyber-risk-in-light-of-russian-cyber-activity) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/scams-for-scans-qr-codes-see-surge-in-popularity-as-well-as-fraud -> 200 (final: https://binarydefense.com/resources/blog/scams-for-scans-qr-codes-see-surge-in-popularity-as-well-as-fraud) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://binarydefense.com/resources/blog/2022-expect-the-unexpected-as-cyberattacks-continue-to-target-organizations -> 200 (final: https://binarydefense.com/resources/blog/2022-expect-the-unexpected-as-cyberattacks-continue-to-target-organizations) CT=text/html; charset=UTF-8
+ • Summary [binarydefense-blog]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=60, seen_added=15
 Wrote feeds/binarydefense-blog.xml
 
 === Processing: Black Kite Blog (https://blackkite.com/blog) -> feeds/blackkite.xml
@@ -240,22 +265,22 @@ Wrote feeds/binarydefense-blog.xml
  [HTTP] sitemap GET https://blackkite.com/sitemaps/solutions.xml -> 200 (final: https://blackkite.com/sitemaps/solutions.xml) CT=text/xml
  [HTTP] sitemap GET https://blackkite.com/sitemaps/videos.xml -> 200 (final: https://blackkite.com/sitemaps/videos.xml) CT=text/xml
  [HTTP] robots-check GET https://blackkite.com/robots.txt -> 200 (final: https://blackkite.com/robots.txt) CT=text/plain
- [HTTP] article GET https://blackkite.com/blog/focus-friday-tprm-insights-on-critical-vulnerabilities-in-freescout-pac4j-mongodb-django-langflow-rustfs-and-apache-superset -> 200 (final: https://blackkite.com/blog/focus-friday-tprm-insights-on-critical-vulnerabilities-in-freescout-pac4j-mongodb-django-langflow-rustfs-and-apache-superset) CT=text/html; charset=utf-8
- [HTTP] article GET https://blackkite.com/blog/four-cybersecurity-tips-for-navigating-to-a-hybrid-work-environment -> 200 (final: https://blackkite.com/blog/four-cybersecurity-tips-for-navigating-to-a-hybrid-work-environment) CT=text/html; charset=utf-8
- [HTTP] article GET https://blackkite.com/blog/top-five-third-party-breaches-in-april-2021-hackers-bite-from-apple-airlines-hit-turbulence-and-more -> 200 (final: https://blackkite.com/blog/top-five-third-party-breaches-in-april-2021-hackers-bite-from-apple-airlines-hit-turbulence-and-more) CT=text/html; charset=utf-8
- [HTTP] article GET https://blackkite.com/blog/how-protected-are-you-against-ransomware -> 200 (final: https://blackkite.com/blog/how-protected-are-you-against-ransomware) CT=text/html; charset=utf-8
- [HTTP] article GET https://blackkite.com/blog/cyber-risk-ratings-leader-normshield-rebrands-to-black-kite -> 200 (final: https://blackkite.com/blog/cyber-risk-ratings-leader-normshield-rebrands-to-black-kite) CT=text/html; charset=utf-8
- [HTTP] article GET https://blackkite.com/blog/why-reputational-risk-matters-regardless-of-company-size -> 200 (final: https://blackkite.com/blog/why-reputational-risk-matters-regardless-of-company-size) CT=text/html; charset=utf-8
- [HTTP] article GET https://blackkite.com/blog/five-reasons-why-supply-chains-need-security-monitoring -> 200 (final: https://blackkite.com/blog/five-reasons-why-supply-chains-need-security-monitoring) CT=text/html; charset=utf-8
- [HTTP] article GET https://blackkite.com/blog/are-security-rating-services-really-worth-it-for-smbs -> 200 (final: https://blackkite.com/blog/are-security-rating-services-really-worth-it-for-smbs) CT=text/html; charset=utf-8
- [HTTP] article GET https://blackkite.com/blog/artificial-intelligence-cyber-risk -> 200 (final: https://blackkite.com/blog/artificial-intelligence-cyber-risk) CT=text/html; charset=utf-8
- [HTTP] article GET https://blackkite.com/blog/final-rule-sec-to-require-companies-to-report-breaches-in-4-days -> 200 (final: https://blackkite.com/blog/final-rule-sec-to-require-companies-to-report-breaches-in-4-days) CT=text/html; charset=utf-8
- [HTTP] article GET https://blackkite.com/blog/small-business-third-party-vendors-risks -> 200 (final: https://blackkite.com/blog/small-business-third-party-vendors-risks) CT=text/html; charset=utf-8
- [HTTP] article GET https://blackkite.com/blog/rsac-2023-in-review -> 200 (final: https://blackkite.com/blog/rsac-2023-in-review) CT=text/html; charset=utf-8
- [HTTP] article GET https://blackkite.com/blog/its-time-to-make-multi-factor-authentication-mfa-part-of-your-daily-routine -> 200 (final: https://blackkite.com/blog/its-time-to-make-multi-factor-authentication-mfa-part-of-your-daily-routine) CT=text/html; charset=utf-8
- [HTTP] article GET https://blackkite.com/blog/i-like-cheese-please-stop-talking-about-cost-cutting-instead-focus-on-cost-optimization -> 200 (final: https://blackkite.com/blog/i-like-cheese-please-stop-talking-about-cost-cutting-instead-focus-on-cost-optimization) CT=text/html; charset=utf-8
- [HTTP] article GET https://blackkite.com/blog/cybersecurity-rating-vs-penetration-testing-pen-test -> 200 (final: https://blackkite.com/blog/cybersecurity-rating-vs-penetration-testing-pen-test) CT=text/html; charset=utf-8
- • Summary [blackkite]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=45, seen_added=15
+ [HTTP] article GET https://blackkite.com/blog/do-grc-requirements-truly-reduce-risk -> 200 (final: https://blackkite.com/blog/do-grc-requirements-truly-reduce-risk) CT=text/html; charset=utf-8
+ [HTTP] article GET https://blackkite.com/blog/how-to-conduct-cost-optimization-and-remain-cyber-safe-during-an-economic-downturn -> 200 (final: https://blackkite.com/blog/how-to-conduct-cost-optimization-and-remain-cyber-safe-during-an-economic-downturn) CT=text/html; charset=utf-8
+ [HTTP] article GET https://blackkite.com/blog/what-should-cyber-securitys-role-in-sourcing-and-procurement-be -> 200 (final: https://blackkite.com/blog/what-should-cyber-securitys-role-in-sourcing-and-procurement-be) CT=text/html; charset=utf-8
+ [HTTP] article GET https://blackkite.com/blog/black-kite-unveils-industrys-first-monthly-ransomware-dashboards -> 200 (final: https://blackkite.com/blog/black-kite-unveils-industrys-first-monthly-ransomware-dashboards) CT=text/html; charset=utf-8
+ [HTTP] article GET https://blackkite.com/blog/the-history-of-ransomware-where-its-been-and-where-its-going -> 200 (final: https://blackkite.com/blog/the-history-of-ransomware-where-its-been-and-where-its-going) CT=text/html; charset=utf-8
+ [HTTP] article GET https://blackkite.com/blog/ransomware-trends-2023-the-who-what-and-why -> 200 (final: https://blackkite.com/blog/ransomware-trends-2023-the-who-what-and-why) CT=text/html; charset=utf-8
+ [HTTP] article GET https://blackkite.com/blog/black-kite-gartner-peer-insights-customers-choice-north-america-segment -> 200 (final: https://blackkite.com/blog/black-kite-gartner-peer-insights-customers-choice-north-america-segment) CT=text/html; charset=utf-8
+ [HTTP] article GET https://blackkite.com/blog/security-luminaries-join-black-kites-board-of-advisors -> 200 (final: https://blackkite.com/blog/security-luminaries-join-black-kites-board-of-advisors) CT=text/html; charset=utf-8
+ [HTTP] article GET https://blackkite.com/blog/if-we-stop-worrying-about-who-gets-credit-and-focus-on-the-outcome-change-is-much-easier-to-enable -> 200 (final: https://blackkite.com/blog/if-we-stop-worrying-about-who-gets-credit-and-focus-on-the-outcome-change-is-much-easier-to-enable) CT=text/html; charset=utf-8
+ [HTTP] article GET https://blackkite.com/blog/what-you-need-to-know-about-maturing-your-third-party-risk-management-program -> 200 (final: https://blackkite.com/blog/what-you-need-to-know-about-maturing-your-third-party-risk-management-program) CT=text/html; charset=utf-8
+ [HTTP] article GET https://blackkite.com/blog/t-mobile-hacked-6-times-in-last-4-years -> 200 (final: https://blackkite.com/blog/t-mobile-hacked-6-times-in-last-4-years) CT=text/html; charset=utf-8
+ [HTTP] article GET https://blackkite.com/blog/healthcare-ransomware-attack-led-to-cancelled-surgeries-and-diverted-patients--what-is-next -> 200 (final: https://blackkite.com/blog/healthcare-ransomware-attack-led-to-cancelled-surgeries-and-diverted-patients--what-is-next) CT=text/html; charset=utf-8
+ [HTTP] article GET https://blackkite.com/blog/the-top-five-third-party-data-breaches-in-june-2021-revealed -> 200 (final: https://blackkite.com/blog/the-top-five-third-party-data-breaches-in-june-2021-revealed) CT=text/html; charset=utf-8
+ [HTTP] article GET https://blackkite.com/blog/tired-of-guessing-whether-your-ip-addresses-are-blacklisted -> 200 (final: https://blackkite.com/blog/tired-of-guessing-whether-your-ip-addresses-are-blacklisted) CT=text/html; charset=utf-8
+ [HTTP] article GET https://blackkite.com/blog/four-ways-automation-can-transform-your-third-party-cyber-risk-management-strategy -> 200 (final: https://blackkite.com/blog/four-ways-automation-can-transform-your-third-party-cyber-risk-management-strategy) CT=text/html; charset=utf-8
+ • Summary [blackkite]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=60, seen_added=15
 Wrote feeds/blackkite.xml
 
 === Processing: Blackpoint Cyber Blog (https://blackpointcyber.com/blog/) -> feeds/blackpoint-blog.xml
@@ -278,21 +303,21 @@ Wrote feeds/blackkite.xml
  [HTTP] sitemap GET https://blackpointcyber.com/bp_team-sitemap.xml -> 200 (final: https://blackpointcyber.com/bp_team-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] robots-check GET https://blackpointcyber.com/robots.txt -> 200 (final: https://blackpointcyber.com/robots.txt) CT=text/plain
  [HTTP] article GET https://blackpointcyber.com/blog/ -> 200 (final: https://blackpointcyber.com/blog/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/blog/blackpoint-cyber-is-riding-high-in-the-cloud-in-g2s-fall-2024-badges/ -> 200 (final: https://blackpointcyber.com/blog/blackpoint-cyber-is-riding-high-in-the-cloud-in-g2s-fall-2024-badges/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/blog/bringing-layered-defense-to-watchguard-partners/ -> 200 (final: https://blackpointcyber.com/blog/bringing-layered-defense-to-watchguard-partners/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/blog/be-the-boss-of-your-own-cloud-security-strategy/ -> 200 (final: https://blackpointcyber.com/blog/be-the-boss-of-your-own-cloud-security-strategy/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/blog/blackpoints-partner-program-where-security-and-scale-unite/ -> 200 (final: https://blackpointcyber.com/blog/blackpoints-partner-program-where-security-and-scale-unite/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/blog/blackpoints-pov-on-the-crowdstrike-update-incident-a-lesson-in-endpoint-protection/ -> 200 (final: https://blackpointcyber.com/blog/blackpoints-pov-on-the-crowdstrike-update-incident-a-lesson-in-endpoint-protection/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/blog/managed-application-control-is-stronger-than-ever-adding-3-additional-block-categories/ -> 200 (final: https://blackpointcyber.com/blog/managed-application-control-is-stronger-than-ever-adding-3-additional-block-categories/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/blog/critical-veeam-cves-expose-backups-ransomware-apg/ -> 200 (final: https://blackpointcyber.com/blog/critical-veeam-cves-expose-backups-ransomware-apg/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/blog/active-exploit-critical-sonicwall-cve-sslvpn-initial-access-apg-alert/ -> 200 (final: https://blackpointcyber.com/blog/active-exploit-critical-sonicwall-cve-sslvpn-initial-access-apg-alert/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/blog/raspberry-robin-screenconnect-ateraagent-rdp-whoami-sharpshares-soc-incidents-blackpoint-apg/ -> 200 (final: https://blackpointcyber.com/blog/raspberry-robin-screenconnect-ateraagent-rdp-whoami-sharpshares-soc-incidents-blackpoint-apg/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/blog/vanilla-tempest-oyster-backdoor-netsupport-unknown-infostealers-soc-incidents-blackpoint-apg/ -> 200 (final: https://blackpointcyber.com/blog/vanilla-tempest-oyster-backdoor-netsupport-unknown-infostealers-soc-incidents-blackpoint-apg/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/blog/asorult-stealer-asyncrat-trojan-malware-apg/ -> 200 (final: https://blackpointcyber.com/blog/asorult-stealer-asyncrat-trojan-malware-apg/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/blog/greenshot-anydesk-teamviewer-classroom-spy-pro-procdump-mimikatz-apg/ -> 200 (final: https://blackpointcyber.com/blog/greenshot-anydesk-teamviewer-classroom-spy-pro-procdump-mimikatz-apg/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/blog/asyncrat-lumma-stealer-infostealer-ransomhub-ransomware-soc-incidents-blackpoint-apg/ -> 200 (final: https://blackpointcyber.com/blog/asyncrat-lumma-stealer-infostealer-ransomhub-ransomware-soc-incidents-blackpoint-apg/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/blog/mitre-attck-t1091-replication-through-removable-media-threat-digest-blackpoint-apg/ -> 200 (final: https://blackpointcyber.com/blog/mitre-attck-t1091-replication-through-removable-media-threat-digest-blackpoint-apg/) CT=text/html; charset=UTF-8
- • Summary [blackpoint-blog]: new_fetched=15, new_used=15, reused=0, prev_cached=1, seen_before=0, seen_added=14
+ [HTTP] article GET https://blackpointcyber.com/blog/luminousmoth-tnega-malware-advanced-ip-scanner-rdp-abuse-solarmarker-soc-incidents-blackpoint-apg/ -> 200 (final: https://blackpointcyber.com/blog/luminousmoth-tnega-malware-advanced-ip-scanner-rdp-abuse-solarmarker-soc-incidents-blackpoint-apg/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/blog/asyncrat-netsupportrat-vssadmin-abuse-for-shadow-copy-deletion-soc-incidents-blackpoint-apg/ -> 200 (final: https://blackpointcyber.com/blog/asyncrat-netsupportrat-vssadmin-abuse-for-shadow-copy-deletion-soc-incidents-blackpoint-apg/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/blog/7-email-security-myths-that-put-your-clients-at-risk/ -> 200 (final: https://blackpointcyber.com/blog/7-email-security-myths-that-put-your-clients-at-risk/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/blog/brute-ratel-advanced-ip-scanner-netsupport-rat-blackpoint-soc-apg/ -> 200 (final: https://blackpointcyber.com/blog/brute-ratel-advanced-ip-scanner-netsupport-rat-blackpoint-soc-apg/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/blog/crowdstrike-bsod-help-advanced-ip-scanner-teamviewer-netsupport-rat-asyncrat-soc-incidents-blackpoint-apg/ -> 200 (final: https://blackpointcyber.com/blog/crowdstrike-bsod-help-advanced-ip-scanner-teamviewer-netsupport-rat-asyncrat-soc-incidents-blackpoint-apg/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/blog/the-market-turns-its-attention-to-managed-detection-and-response/ -> 200 (final: https://blackpointcyber.com/blog/the-market-turns-its-attention-to-managed-detection-and-response/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/blog/the-msp-guide-to-soc-compliance/ -> 200 (final: https://blackpointcyber.com/blog/the-msp-guide-to-soc-compliance/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/blog/crowdstrike-july-2024-outage/ -> 200 (final: https://blackpointcyber.com/blog/crowdstrike-july-2024-outage/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/blog/blackpoint-cyber-is-officially-gdpr-compliant/ -> 200 (final: https://blackpointcyber.com/blog/blackpoint-cyber-is-officially-gdpr-compliant/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/blog/step-one-in-building-an-effective-security-stack-pursue-defense-in-depth/ -> 200 (final: https://blackpointcyber.com/blog/step-one-in-building-an-effective-security-stack-pursue-defense-in-depth/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/blog/announcing-our-annual-soc2-type-ii-compliance/ -> 200 (final: https://blackpointcyber.com/blog/announcing-our-annual-soc2-type-ii-compliance/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/blog/bianlian-ransomware-teamviewer-bitlocker-soc-incidents-blackpoint-apg/ -> 200 (final: https://blackpointcyber.com/blog/bianlian-ransomware-teamviewer-bitlocker-soc-incidents-blackpoint-apg/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/blog/sys01-stealer-ratty-rat-asyncrat-soc-incidents-blackpoint-apg/ -> 200 (final: https://blackpointcyber.com/blog/sys01-stealer-ratty-rat-asyncrat-soc-incidents-blackpoint-apg/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/blog/netscan-exe-mimikatz-angry-ip-scanner-rmm-tool-abuse-soc-incidents-blackpoint-apg/ -> 200 (final: https://blackpointcyber.com/blog/netscan-exe-mimikatz-angry-ip-scanner-rmm-tool-abuse-soc-incidents-blackpoint-apg/) CT=text/html; charset=UTF-8
+ • Summary [blackpoint-blog]: new_fetched=15, new_used=15, reused=14, prev_cached=15, seen_before=14, seen_added=14
 Wrote feeds/blackpoint-blog.xml
 
 === Processing: Blackpoint Cyber Threat Intelligence &amp; Research (https://blackpointcyber.com/threat-intelligence-and-research/) -> feeds/blackpoint-ti.xml
@@ -313,22 +338,15 @@ Wrote feeds/blackpoint-blog.xml
  [HTTP] sitemap GET https://blackpointcyber.com/bp_resources_solutions-sitemap.xml -> 200 (final: https://blackpointcyber.com/bp_resources_solutions-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] sitemap GET https://blackpointcyber.com/integration_type-sitemap.xml -> 200 (final: https://blackpointcyber.com/integration_type-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] sitemap GET https://blackpointcyber.com/bp_team-sitemap.xml -> 200 (final: https://blackpointcyber.com/bp_team-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/threat-profile/socgholish-malware/ -> 200 (final: https://blackpointcyber.com/threat-profile/socgholish-malware/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/threat-profile/vidar-stealer-malware-apg/ -> 200 (final: https://blackpointcyber.com/threat-profile/vidar-stealer-malware-apg/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/threat-profile/fin7-threat-group/ -> 200 (final: https://blackpointcyber.com/threat-profile/fin7-threat-group/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/threat-profile/threat-profile-bianlian-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/threat-profile-bianlian-ransomware/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/threat-profile/abyss-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/abyss-ransomware/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/threat-profile/alphv-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/alphv-ransomware/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/threat-profile/hunters-international-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/hunters-international-ransomware/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/threat-profile/gentlemen-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/gentlemen-ransomware/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/threat-profile/sarcoma-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/sarcoma-ransomware/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/threat-profile/blacksuit-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/blacksuit-ransomware/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/threat-profile/inc-ransom-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/inc-ransom-ransomware/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/threat-profile/medusa-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/medusa-ransomware/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/threat-profile/threeam-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/threeam-ransomware/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/threat-profile/world-leaks-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/world-leaks-ransomware/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://blackpointcyber.com/threat-profile/qilin-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/qilin-ransomware/) CT=text/html; charset=UTF-8
- • Summary [blackpoint-ti]: new_fetched=15, new_used=15, reused=1, prev_cached=1, seen_before=0, seen_added=15
+ [HTTP] article GET https://blackpointcyber.com/threat-profile/akira-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/akira-ransomware/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/threat-profile/ransomhub-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/ransomhub-ransomware/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/threat-profile/clop-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/clop-ransomware/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/threat-profile/safepay-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/safepay-ransomware/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/threat-profile/threat-profile-dragonforce-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/threat-profile-dragonforce-ransomware/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/threat-profile/lynx-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/lynx-ransomware/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/threat-profile/play-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/play-ransomware/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://blackpointcyber.com/threat-profile/sinobi-ransomware/ -> 200 (final: https://blackpointcyber.com/threat-profile/sinobi-ransomware/) CT=text/html; charset=UTF-8
+ • Summary [blackpoint-ti]: new_fetched=8, new_used=8, reused=16, prev_cached=16, seen_before=15, seen_added=8
 Wrote feeds/blackpoint-ti.xml
 
 === Processing: BlueVoyant Blog (https://www.bluevoyant.com/blog) -> feeds/bluevoyant.xml
@@ -356,22 +374,9 @@ Wrote feeds/bluevoyant.xml
  • scraping listing page …
  [HTTP] scrape-listing GET https://breakpoint-labs.com/blog/ -> 200 (final: https://breakpoint-labs.com/blog/) CT=text/html; charset=UTF-8
  [HTTP] article GET https://breakpoint-labs.com/blog/ -> 200 (final: https://breakpoint-labs.com/blog/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://breakpoint-labs.com/blog/page/2/ -> 200 (final: https://breakpoint-labs.com/blog/page/2/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://breakpoint-labs.com/blog/page/3/ -> 200 (final: https://breakpoint-labs.com/blog/page/3/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://breakpoint-labs.com/blog/page/9/ -> 200 (final: https://breakpoint-labs.com/blog/page/9/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://breakpoint-labs.com/blog/page/22/ -> 404 (final: https://breakpoint-labs.com/blog/page/22/) CT=text/html; charset=UTF-8
- [HTTP] article body snippet: <!DOCTYPE html> <html lang="en-US" > <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- WP_HEAD() START --> <link rel="preload" as="style" href="
- [HTTP] article GET https://breakpoint-labs.com/hospital-security-beyond-patching-testing-workflow-and-identity-risk/ -> 200 (final: https://breakpoint-labs.com/hospital-security-beyond-patching-testing-workflow-and-identity-risk/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://breakpoint-labs.com/pci-compliance-in-higher-education-why-your-campus-payment-systems-need-annual-penetration-testing/ -> 200 (final: https://breakpoint-labs.com/pci-compliance-in-higher-education-why-your-campus-payment-systems-need-annual-penetration-testing/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://breakpoint-labs.com/ad-recon-part-ii-analyzing-attack-paths-and-transitive-rights/ -> 200 (final: https://breakpoint-labs.com/ad-recon-part-ii-analyzing-attack-paths-and-transitive-rights/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://breakpoint-labs.com/smarter-content-discovery-using-burp-suite/ -> 200 (final: https://breakpoint-labs.com/smarter-content-discovery-using-burp-suite/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://breakpoint-labs.com/streamlining-bloodhound-analysis-a-technical-guide-to-ad-recon/ -> 200 (final: https://breakpoint-labs.com/streamlining-bloodhound-analysis-a-technical-guide-to-ad-recon/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://breakpoint-labs.com/the-attackers-playbook-part-4-the-maze-within/ -> 200 (final: https://breakpoint-labs.com/the-attackers-playbook-part-4-the-maze-within/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://breakpoint-labs.com/the-attackers-playbook-part-3-the-keys-to-the-kingdom/ -> 200 (final: https://breakpoint-labs.com/the-attackers-playbook-part-3-the-keys-to-the-kingdom/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://breakpoint-labs.com/the-attackers-playbook-part-2-the-unlocked-door/ -> 200 (final: https://breakpoint-labs.com/the-attackers-playbook-part-2-the-unlocked-door/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://breakpoint-labs.com/the-attackers-playbook-part-1-the-human-element-is-the-attackers-greatest-advantage/ -> 200 (final: https://breakpoint-labs.com/the-attackers-playbook-part-1-the-human-element-is-the-attackers-greatest-advantage/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://breakpoint-labs.com/closing-critical-cybersecurity-gaps-in-healthcare-lessons-from-an-hhs-oig-audit/ -> 200 (final: https://breakpoint-labs.com/closing-critical-cybersecurity-gaps-in-healthcare-lessons-from-an-hhs-oig-audit/) CT=text/html; charset=UTF-8
- • Summary [breakpoint-labs]: new_fetched=15, new_used=15, reused=2, prev_cached=17, seen_before=0, seen_added=14
+ [HTTP] article GET https://breakpoint-labs.com/hunting-for-escalation-paths-in-ad-admincount/ -> 200 (final: https://breakpoint-labs.com/hunting-for-escalation-paths-in-ad-admincount/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://breakpoint-labs.com/ai-red-teaming-part-3-attacking-claude-code-using-pyrit/ -> 200 (final: https://breakpoint-labs.com/ai-red-teaming-part-3-attacking-claude-code-using-pyrit/) CT=text/html; charset=UTF-8
+ • Summary [breakpoint-labs]: new_fetched=3, new_used=3, reused=14, prev_cached=17, seen_before=14, seen_added=2
 Wrote feeds/breakpoint-labs.xml
 
 === Processing: Bridewell Blogs (https://www.bridewell.com/insights/blogs) -> feeds/bridewell.xml
@@ -379,22 +384,21 @@ Wrote feeds/breakpoint-labs.xml
  [HTTP] robots-check GET https://www.bridewell.com/robots.txt -> 200 (final: https://www.bridewell.com/robots.txt) CT=text/plain; charset=utf-8
  • scraping listing page …
  [HTTP] scrape-listing GET https://www.bridewell.com/insights/blogs -> 200 (final: https://www.bridewell.com/insights/blogs) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.bridewell.com/insights/blogs/detail/intelligence-insights-feb-2026 -> 200 (final: https://www.bridewell.com/insights/blogs/detail/intelligence-insights-feb-2026) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.bridewell.com/insights/blogs/detail/addressing-ai-hallucinations-in-security-operations--a-practical-framework -> 200 (final: https://www.bridewell.com/insights/blogs/detail/addressing-ai-hallucinations-in-security-operations--a-practical-framework) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.bridewell.com/insights/blogs/detail/reddit-fined--14.5m-over-children's-privacy-failures -> 200 (final: https://www.bridewell.com/insights/blogs/detail/reddit-fined--14.5m-over-children's-privacy-failures) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.bridewell.com/insights/blogs/detail/why-point-in-time-cloud-posture-assessments-are-no-longer-enough-the-case-for-continuous-cspm -> 200 (final: https://www.bridewell.com/insights/blogs/detail/why-point-in-time-cloud-posture-assessments-are-no-longer-enough-the-case-for-continuous-cspm) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.bridewell.com/insights/blogs/detail/ai-in-security-operations--separating-capability-from-hype -> 200 (final: https://www.bridewell.com/insights/blogs/detail/ai-in-security-operations--separating-capability-from-hype) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.bridewell.com/insights/blogs/detail/the-booking.com-phishing-campaign-targeting-hotels-and-customers -> 200 (final: https://www.bridewell.com/insights/blogs/detail/the-booking.com-phishing-campaign-targeting-hotels-and-customers) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.bridewell.com/insights/blogs/detail/what-is-an-agentic-soc-understanding-the-evolution-beyond-automation -> 200 (final: https://www.bridewell.com/insights/blogs/detail/what-is-an-agentic-soc-understanding-the-evolution-beyond-automation) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.bridewell.com/insights/blogs/detail/intelligence-insights-jan-2026 -> 200 (final: https://www.bridewell.com/insights/blogs/detail/intelligence-insights-jan-2026) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.bridewell.com/insights/blogs/detail/government-cyber-security-policy-cyber-incident-exercising-what-you-need-to-know -> 200 (final: https://www.bridewell.com/insights/blogs/detail/government-cyber-security-policy-cyber-incident-exercising-what-you-need-to-know) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.bridewell.com/insights/blogs/detail/how-to-stay-ahead-of-evolving-cyber-and-data-privacy-regulation-and-legislation -> 200 (final: https://www.bridewell.com/insights/blogs/detail/how-to-stay-ahead-of-evolving-cyber-and-data-privacy-regulation-and-legislation) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.bridewell.com/insights/blogs/detail/secure-by-design-delivered-a-practitioners-playbook-for-government-teams -> 200 (final: https://www.bridewell.com/insights/blogs/detail/secure-by-design-delivered-a-practitioners-playbook-for-government-teams) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.bridewell.com/insights/blogs/detail/uk-public-cyber-crime-incidents-rise-37--over-five-years -> 200 (final: https://www.bridewell.com/insights/blogs/detail/uk-public-cyber-crime-incidents-rise-37--over-five-years) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.bridewell.com/insights/blogs/2 -> 200 (final: https://www.bridewell.com/insights/blogs/2) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.bridewell.com/insights/blogs/3 -> 200 (final: https://www.bridewell.com/insights/blogs/3) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.bridewell.com/insights/blogs/4 -> 200 (final: https://www.bridewell.com/insights/blogs/4) CT=text/html; charset=utf-8
- • Summary [bridewell]: new_fetched=15, new_used=15, reused=8, prev_cached=10, seen_before=0, seen_added=15
+ [HTTP] article GET https://www.bridewell.com/insights/blogs/5 -> 200 (final: https://www.bridewell.com/insights/blogs/5) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.bridewell.com/insights/blogs/6 -> 200 (final: https://www.bridewell.com/insights/blogs/6) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.bridewell.com/insights/blogs/7 -> 200 (final: https://www.bridewell.com/insights/blogs/7) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.bridewell.com/insights/blogs/8 -> 200 (final: https://www.bridewell.com/insights/blogs/8) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.bridewell.com/insights/blogs/9 -> 200 (final: https://www.bridewell.com/insights/blogs/9) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.bridewell.com/insights/blogs/10 -> 200 (final: https://www.bridewell.com/insights/blogs/10) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.bridewell.com/insights/blogs/11 -> 200 (final: https://www.bridewell.com/insights/blogs/11) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.bridewell.com/services/24x7-incident-response-services/resources/cyber-incident-response-quick-action-flowchart -> 200 (final: https://www.bridewell.com/insights/white-papers/detail/cyber-incident-response-quick-action-flowchart) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.bridewell.com/services/24x7-incident-response-services/resources/watch-what-happens-why-it-happens-how-to-respond -> 200 (final: https://www.bridewell.com/webinars/detail/incident-response-what-happens-why-it-happens-how-to-respond) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.bridewell.com/insights/blogs -> 200 (final: https://www.bridewell.com/insights/blogs) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.bridewell.com/insights/news -> 200 (final: https://www.bridewell.com/insights/news) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.bridewell.com/insights/white-papers -> 200 (final: https://www.bridewell.com/insights/white-papers) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.bridewell.com/insights/case-studies -> 200 (final: https://www.bridewell.com/insights/case-studies) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.bridewell.com/insights/learn -> 200 (final: https://www.bridewell.com/insights/learn) CT=text/html; charset=utf-8
+ • Summary [bridewell]: new_fetched=14, new_used=14, reused=16, prev_cached=23, seen_before=15, seen_added=13
 Wrote feeds/bridewell.xml
 
 === Processing: Censys Blog (https://censys.com/resources/blog) -> feeds/censys.xml
@@ -421,29 +425,27 @@ Wrote feeds/bridewell.xml
  [HTTP] sitemap GET https://censys.com/advisory-tag-sitemap.xml -> 200 (final: https://censys.com/advisory-tag-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] sitemap GET https://censys.com/webinar-tag-sitemap.xml -> 200 (final: https://censys.com/webinar-tag-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] robots-check GET https://censys.com/robots.txt -> 200 (final: https://censys.com/robots.txt) CT=text/plain
- [HTTP] article GET https://censys.com/blog/the-evolution-of-the-zero-trust-framework-the-origins/ -> 200 (final: https://censys.com/blog/the-evolution-of-the-zero-trust-framework-the-origins/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://censys.com/blog/internet-connectivity-in-puerto-rico-post-hurricane-fiona/ -> 200 (final: https://censys.com/blog/internet-connectivity-in-puerto-rico-post-hurricane-fiona/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://censys.com/blog/think-like-an-attacker-the-importance-of-asm-in-saas-cloud-security/ -> 200 (final: https://censys.com/blog/think-like-an-attacker-the-importance-of-asm-in-saas-cloud-security/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://censys.com/blog/databases-exposed-redis/ -> 200 (final: https://censys.com/blog/databases-exposed-redis/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://censys.com/blog/the-neverending-story-of-deadbolt/ -> 200 (final: https://censys.com/blog/the-neverending-story-of-deadbolt/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://censys.com/blog/russian-ransomware-c2-network-discovered-in-censys-data/ -> 200 (final: https://censys.com/blog/russian-ransomware-c2-network-discovered-in-censys-data/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://censys.com/blog/at-censys-innovation-takes-center-stage/ -> 200 (final: https://censys.com/blog/at-censys-innovation-takes-center-stage/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://censys.com/blog/avoiding-your-cyberattack-worst-case-scenarios/ -> 200 (final: https://censys.com/blog/avoiding-your-cyberattack-worst-case-scenarios/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://censys.com/blog/attack-surface-management-inventory-search/ -> 200 (final: https://censys.com/blog/attack-surface-management-inventory-search/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://censys.com/blog/c2-when-attackers-use-our-weapons-against-us/ -> 200 (final: https://censys.com/blog/c2-when-attackers-use-our-weapons-against-us/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://censys.com/blog/censys-glossary/ -> 200 (final: https://censys.com/blog/censys-glossary/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://censys.com/blog/cert-hygiene-and-website-availability/ -> 200 (final: https://censys.com/blog/cert-hygiene-and-website-availability/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://censys.com/blog/close-security-gaps-attack-surface-management/ -> 200 (final: https://censys.com/blog/close-security-gaps-attack-surface-management/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://censys.com/blog/custom-attribution-for-your-attack-surface-using-the-censys-python-cli/ -> 200 (final: https://censys.com/blog/custom-attribution-for-your-attack-surface-using-the-censys-python-cli/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://censys.com/blog/finding-hacked-web-servers-with-censys-search-data/ -> 200 (final: https://censys.com/blog/finding-hacked-web-servers-with-censys-search-data/) CT=text/html; charset=UTF-8
- • Summary [censys]: new_fetched=15, new_used=15, reused=1, prev_cached=1, seen_before=0, seen_added=15
+ [HTTP] article GET https://censys.com/blog/how-censys-asm-delivers-roi-for-an-international-real-estate-company/ -> 200 (final: https://censys.com/blog/how-censys-asm-delivers-roi-for-an-international-real-estate-company/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://censys.com/blog/how-to-increase-network-alert-triage-efficiency-with-censys-attack-surface-management-platform/ -> 200 (final: https://censys.com/blog/how-to-increase-network-alert-triage-efficiency-with-censys-attack-surface-management-platform/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://censys.com/blog/http-who-cve-2023-44487/ -> 200 (final: https://censys.com/blog/http-who-cve-2023-44487/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://censys.com/blog/identifying-cisa-bod-23-02-internet-exposed-networked-management-interfaces-with-censys/ -> 200 (final: https://censys.com/blog/identifying-cisa-bod-23-02-internet-exposed-networked-management-interfaces-with-censys/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://censys.com/blog/in-support-of-the-new-cisa-directive/ -> 200 (final: https://censys.com/blog/in-support-of-the-new-cisa-directive/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://censys.com/blog/internet-footprint-of-soho-devices-exploited-by-volt-typhoon/ -> 200 (final: https://censys.com/blog/internet-footprint-of-soho-devices-exploited-by-volt-typhoon/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://censys.com/blog/latest-cisa-directive-highlights-importance-of-attack-surface-visibility/ -> 200 (final: https://censys.com/blog/latest-cisa-directive-highlights-importance-of-attack-surface-visibility/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://censys.com/blog/months-after-first-goanywhere-mft-zero-day-attacks-censys-still-sees-180-public-admin-panels/ -> 200 (final: https://censys.com/blog/months-after-first-goanywhere-mft-zero-day-attacks-censys-still-sees-180-public-admin-panels/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://censys.com/blog/moveit-an-industry-analysis/ -> 200 (final: https://censys.com/blog/moveit-an-industry-analysis/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://censys.com/blog/moveit-transfer/ -> 200 (final: https://censys.com/blog/moveit-transfer/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://censys.com/blog/new-microsoft-exchange-vulnerabilities-proxyshell-blog/ -> 200 (final: https://censys.com/blog/new-microsoft-exchange-vulnerabilities-proxyshell-blog/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://censys.com/blog/new-mysql-related-default-insecurity-affects-7500-apps/ -> 200 (final: https://censys.com/blog/new-mysql-related-default-insecurity-affects-7500-apps/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://censys.com/blog/censys-recognized-as-one-of-the-most-popular-new-integrations-in-the-wiz-integration-network-win-partner-index/ -> 200 (final: https://censys.com/blog/censys-recognized-as-one-of-the-most-popular-new-integrations-in-the-wiz-integration-network-win-partner-index/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://censys.com/blog/living-off-the-web-how-trust-infrastructure-became-a-malware-delivery-interface/ -> 200 (final: https://censys.com/blog/living-off-the-web-how-trust-infrastructure-became-a-malware-delivery-interface/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://censys.com/blog/errtraffic-inside-glitchfix-attack-panel/ -> 200 (final: https://censys.com/blog/errtraffic-inside-glitchfix-attack-panel/) CT=text/html; charset=UTF-8
+ • Summary [censys]: new_fetched=15, new_used=15, reused=15, prev_cached=16, seen_before=15, seen_added=15
 Wrote feeds/censys.xml
 
 === Processing: Chollima Group Blog (https://chollima-group.io/blog) -> feeds/chollima.xml
  robots.txt respected: False
- [HTTP] discover GET https://chollima-group.io/blog -> 403 (final: https://chollima-group.io/blog) CT=text/html; charset=UTF-8
- [HTTP] discover body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- ! No official feed found; scraping recent links …
+ • scraping listing page …
  [HTTP] scrape-listing GET https://chollima-group.io/blog -> 403 (final: https://chollima-group.io/blog) CT=text/html; charset=UTF-8
  [HTTP] scrape-listing body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
  ! scrape_items listing fetch error: 403 Client Error: Forbidden for url: https://chollima-group.io/blog
@@ -461,22 +463,22 @@ Wrote feeds/chollima.xml
  [HTTP] sitemap GET https://www.crowdstrike.com/adversary-universe-sitemap.xml -> 200 (final: https://www.crowdstrike.com/adversary-universe-sitemap.xml) CT=application/xml
  [HTTP] sitemap GET https://www.crowdstrike.com/cms-sitemap.xml -> 200 (final: https://www.crowdstrike.com/cms-sitemap.xml) CT=application/xml
  [HTTP] robots-check GET https://www.crowdstrike.com/robots.txt -> 200 (final: https://www.crowdstrike.com/robots.txt) CT=text/plain
- [HTTP] article GET https://www.crowdstrike.com/adversaries/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/) CT=text/html;charset=utf-8
- [HTTP] article GET https://www.crowdstrike.com/adversaries/vapor-panda/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/vapor-panda/) CT=text/html;charset=utf-8
- [HTTP] article GET https://www.crowdstrike.com/adversaries/wicked-panda/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/wicked-panda/) CT=text/html;charset=utf-8
- [HTTP] article GET https://www.crowdstrike.com/adversaries/vertigo-panda/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/vertigo-panda/) CT=text/html;charset=utf-8
- [HTTP] article GET https://www.crowdstrike.com/adversaries/vault-panda/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/vault-panda/) CT=text/html;charset=utf-8
- [HTTP] article GET https://www.crowdstrike.com/adversaries/berserk-bear/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/berserk-bear/) CT=text/html;charset=utf-8
- [HTTP] article GET https://www.crowdstrike.com/adversaries/cozy-bear/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/cozy-bear/) CT=text/html;charset=utf-8
- [HTTP] article GET https://www.crowdstrike.com/adversaries/ember-bear/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/ember-bear/) CT=text/html;charset=utf-8
- [HTTP] article GET https://www.crowdstrike.com/adversaries/fancy-bear/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/fancy-bear/) CT=text/html;charset=utf-8
- [HTTP] article GET https://www.crowdstrike.com/adversaries/gossamer-bear/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/gossamer-bear/) CT=text/html;charset=utf-8
- [HTTP] article GET https://www.crowdstrike.com/adversaries/primitive-bear/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/primitive-bear/) CT=text/html;charset=utf-8
- [HTTP] article GET https://www.crowdstrike.com/adversaries/venomous-bear/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/venomous-bear/) CT=text/html;charset=utf-8
- [HTTP] article GET https://www.crowdstrike.com/adversaries/voodoo-bear/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/voodoo-bear/) CT=text/html;charset=utf-8
- [HTTP] article GET https://www.crowdstrike.com/adversaries/ocean-buffalo/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/ocean-buffalo/) CT=text/html;charset=utf-8
- [HTTP] article GET https://www.crowdstrike.com/adversaries/labyrinth-chollima/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/labyrinth-chollima/) CT=text/html;charset=utf-8
- • Summary [crowdStrike-adversaries-universe]: new_fetched=15, new_used=15, reused=1, prev_cached=1, seen_before=0, seen_added=15
+ [HTTP] article GET https://www.crowdstrike.com/adversaries/ricochet-chollima/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/ricochet-chollima/) CT=text/html;charset=utf-8
+ [HTTP] article GET https://www.crowdstrike.com/adversaries/silent-chollima/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/silent-chollima/) CT=text/html;charset=utf-8
+ [HTTP] article GET https://www.crowdstrike.com/adversaries/stardust-chollima/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/stardust-chollima/) CT=text/html;charset=utf-8
+ [HTTP] article GET https://www.crowdstrike.com/adversaries/velvet-chollima/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/velvet-chollima/) CT=text/html;charset=utf-8
+ [HTTP] article GET https://www.crowdstrike.com/adversaries/deadeye-hawk/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/deadeye-hawk/) CT=text/html;charset=utf-8
+ [HTTP] article GET https://www.crowdstrike.com/adversaries/cruel-jackal/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/cruel-jackal/) CT=text/html;charset=utf-8
+ [HTTP] article GET https://www.crowdstrike.com/adversaries/curious-jackal/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/curious-jackal/) CT=text/html;charset=utf-8
+ [HTTP] article GET https://www.crowdstrike.com/adversaries/deadeye-jackal/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/deadeye-jackal/) CT=text/html;charset=utf-8
+ [HTTP] article GET https://www.crowdstrike.com/adversaries/extreme-jackal/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/extreme-jackal/) CT=text/html;charset=utf-8
+ [HTTP] article GET https://www.crowdstrike.com/adversaries/frontline-jackal/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/frontline-jackal/) CT=text/html;charset=utf-8
+ [HTTP] article GET https://www.crowdstrike.com/adversaries/ghost-jackal/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/ghost-jackal/) CT=text/html;charset=utf-8
+ [HTTP] article GET https://www.crowdstrike.com/adversaries/partisan-jackal/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/partisan-jackal/) CT=text/html;charset=utf-8
+ [HTTP] article GET https://www.crowdstrike.com/adversaries/renegade-jackal/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/renegade-jackal/) CT=text/html;charset=utf-8
+ [HTTP] article GET https://www.crowdstrike.com/adversaries/spoiled-jackal/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/spoiled-jackal/) CT=text/html;charset=utf-8
+ [HTTP] article GET https://www.crowdstrike.com/adversaries/thunderbolt-jackal/ -> 200 (final: https://www.crowdstrike.com/en-us/adversaries/thunderbolt-jackal/) CT=text/html;charset=utf-8
+ • Summary [crowdStrike-adversaries-universe]: new_fetched=15, new_used=15, reused=15, prev_cached=16, seen_before=15, seen_added=15
 Wrote feeds/crowdStrike-adversaries-universe.xml
 
 === Processing: CrowdStrike Blog (https://www.crowdstrike.com/en-us/blog/) -> feeds/crowdStrike-blog.xml
@@ -498,23 +500,93 @@ Wrote feeds/crowdStrike-blog.xml
  [HTTP] robots GET https://www.cyjax.com/robots.txt -> 200 (final: https://www.cyjax.com/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] sitemap GET https://www.cyjax.com/sitemap.xml -> 200 (final: https://www.cyjax.com/sitemap.xml) CT=application/rss+xml; charset=utf-8
  [HTTP] robots-check GET https://www.cyjax.com/robots.txt -> 200 (final: https://www.cyjax.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] article GET https://www.cyjax.com/resources/blog/2020-mid-year-ciso-report -> 200 (final: https://www.cyjax.com/resources/blog/2020-mid-year-ciso-report) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.cyjax.com/resources/blog/2024-year-in-review-ransomware-groups-hacktivists-and-iabs-targeting-the-middle-east -> 200 (final: https://www.cyjax.com/resources/blog/2024-year-in-review-ransomware-groups-hacktivists-and-iabs-targeting-the-middle-east) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.cyjax.com/resources/blog/a-brief-history-of-threat-intelligence-how-we-got-here -> 200 (final: https://www.cyjax.com/resources/blog/a-brief-history-of-threat-intelligence-how-we-got-here) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.cyjax.com/resources/blog/a-comprehensive-synopsis-of-217-subdomain-takeover-reports -> 200 (final: https://www.cyjax.com/resources/blog/a-comprehensive-synopsis-of-217-subdomain-takeover-reports) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.cyjax.com/resources/blog/a-dls-emergency-record-breaking-extortion-group-dls-emergence-in-2025 -> 200 (final: https://www.cyjax.com/resources/blog/a-dls-emergency-record-breaking-extortion-group-dls-emergence-in-2025) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.cyjax.com/resources/blog/a-guide-to-ransomware-identify-and-defend-against-cyberattacks -> 200 (final: https://www.cyjax.com/resources/blog/a-guide-to-ransomware-identify-and-defend-against-cyberattacks) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.cyjax.com/resources/blog/a-guide-to-working-in-threat-intelligence -> 200 (final: https://www.cyjax.com/resources/blog/a-guide-to-working-in-threat-intelligence) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.cyjax.com/resources/blog/a-new-type-of-infected-machine-new-dls-emerges-for-anthrax14 -> 200 (final: https://www.cyjax.com/resources/blog/a-new-type-of-infected-machine-new-dls-emerges-for-anthrax14) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.cyjax.com/resources/blog/a-persistent-agenttesla-campaign-is-targeting-the-uae -> 200 (final: https://www.cyjax.com/resources/blog/a-persistent-agenttesla-campaign-is-targeting-the-uae) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.cyjax.com/resources/blog/a-sting-on-bing-bumblebee-delivered-through-bing-seo-poisoning-campaign -> 200 (final: https://www.cyjax.com/resources/blog/a-sting-on-bing-bumblebee-delivered-through-bing-seo-poisoning-campaign) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.cyjax.com/resources/blog/ai-is-fast-but-humans-are-smarter-why-analyst-insight-still-wins-in-cybersecurity -> 200 (final: https://www.cyjax.com/resources/blog/ai-is-fast-but-humans-are-smarter-why-analyst-insight-still-wins-in-cybersecurity) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.cyjax.com/resources/blog/alleged-extortion-group-leakeddata-begins-to-leak-data -> 200 (final: https://www.cyjax.com/resources/blog/alleged-extortion-group-leakeddata-begins-to-leak-data) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.cyjax.com/resources/blog/an-analysis-of-the-impact-of-trumps-us-election-victory-in-the-middle-east -> 200 (final: https://www.cyjax.com/resources/blog/an-analysis-of-the-impact-of-trumps-us-election-victory-in-the-middle-east) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.cyjax.com/resources/blog/an-elephant-in-kairos-data-leak-site-emerges-for-new-extortion-group -> 200 (final: https://www.cyjax.com/resources/blog/an-elephant-in-kairos-data-leak-site-emerges-for-new-extortion-group) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.cyjax.com/resources/blog/an-exploration-of-information-exposure-on-document-sharing-platform -> 200 (final: https://www.cyjax.com/resources/blog/an-exploration-of-information-exposure-on-document-sharing-platform) CT=text/html; charset=utf-8
- • Summary [cyjax]: new_fetched=15, new_used=15, reused=15, prev_cached=20, seen_before=0, seen_added=15
+ [HTTP] article GET https://www.cyjax.com/resources/blog/araastocracy-ralord-ransomware-emerges-with-new-dls -> 200 (final: https://www.cyjax.com/resources/blog/araastocracy-ralord-ransomware-emerges-with-new-dls) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.cyjax.com/resources/blog/babuk-ba-back-potential-return-of-the-infamous-raas-group -> 200 (final: https://www.cyjax.com/resources/blog/babuk-ba-back-potential-return-of-the-infamous-raas-group) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.cyjax.com/resources/blog/behind-closed-channels-the-firearms-black-market-on-telegram -> 200 (final: https://www.cyjax.com/resources/blog/behind-closed-channels-the-firearms-black-market-on-telegram) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.cyjax.com/resources/blog/beyond-the-breach-how-businesses-can-recover-and-rebuild-trust -> 200 (final: https://www.cyjax.com/resources/blog/beyond-the-breach-how-businesses-can-recover-and-rebuild-trust) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax -> 200 (final: https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax-2 -> 200 (final: https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax-2) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax-3 -> 200 (final: https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax-3) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax-4 -> 200 (final: https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax-4) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax-5 -> 200 (final: https://www.cyjax.com/resources/blog/beyond-the-threats-the-people-of-cyjax-5) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.cyjax.com/resources/blog/bridging-the-gap-how-cisos-can-strengthen-relationships-with-the-board -> 200 (final: https://www.cyjax.com/resources/blog/bridging-the-gap-how-cisos-can-strengthen-relationships-with-the-board) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.cyjax.com/resources/blog/build-vs-buy-whats-the-best-threat-intelligence-approach -> 200 (final: https://www.cyjax.com/resources/blog/build-vs-buy-whats-the-best-threat-intelligence-approach) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.cyjax.com/resources/blog/conflict-between-us-and-iran-escalates-to-new-level -> 200 (final: https://www.cyjax.com/resources/blog/conflict-between-us-and-iran-escalates-to-new-level) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.cyjax.com/resources/blog/contfraversy-in-ransomland-tor-based-site-emerges-for-new-french-speaking-raas-operation-contfr -> 200 (final: https://www.cyjax.com/resources/blog/contfraversy-in-ransomland-tor-based-site-emerges-for-new-french-speaking-raas-operation-contfr) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.cyjax.com/resources/blog/conversations-criminal-discussion-of-vulnerabilities-and-exploits -> 200 (final: https://www.cyjax.com/resources/blog/conversations-criminal-discussion-of-vulnerabilities-and-exploits) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.cyjax.com/resources/blog/core-access-an-analysis-of-the-uk-governments-demand-to-apple -> 200 (final: https://www.cyjax.com/resources/blog/core-access-an-analysis-of-the-uk-governments-demand-to-apple) CT=text/html; charset=utf-8
+ • Summary [cyjax]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=15, seen_added=15
 Wrote feeds/cyjax.xml
+
+=== Processing: Cyberint Blog (https://cyberthint.io/resources/) -> feeds/cyberint.xml
+ robots.txt respected: True
+ • using sitemap fallback …
+ [HTTP] robots GET https://cyberthint.io/robots.txt -> 200 (final: https://cyberthint.io/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] sitemap GET https://cyberthint.io/sitemap.xml -> 403 (final: https://cyberthint.io/sitemap.xml) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/sitemap.html -> 403 (final: https://cyberthint.io/sitemap.html) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/sitemap_index.xml -> 403 (final: https://cyberthint.io/sitemap_index.xml) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/sitemap.xml.gz -> 403 (final: https://cyberthint.io/sitemap.xml.gz) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/sitemap_index.xml.gz -> 403 (final: https://cyberthint.io/sitemap_index.xml.gz) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ • Summary [cyberint]: new_fetched=0, new_used=0, reused=1, prev_cached=1, seen_before=0, seen_added=0
+Wrote feeds/cyberint.xml
+
+=== Processing: Cyberint Blog cyber-threats (https://cyberthint.io/category/cyber-threats/) -> feeds/cyberint-cyber-threats.xml
+ robots.txt respected: True
+ • using sitemap fallback …
+ [HTTP] robots GET https://cyberthint.io/robots.txt -> 200 (final: https://cyberthint.io/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] sitemap GET https://cyberthint.io/sitemap.xml -> 403 (final: https://cyberthint.io/sitemap.xml) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/sitemap.html -> 403 (final: https://cyberthint.io/sitemap.html) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/category-sitemap.xml -> 403 (final: https://cyberthint.io/category-sitemap.xml) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/sitemap_index.xml -> 403 (final: https://cyberthint.io/sitemap_index.xml) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/sitemap.xml.gz -> 403 (final: https://cyberthint.io/sitemap.xml.gz) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/sitemap_index.xml.gz -> 403 (final: https://cyberthint.io/sitemap_index.xml.gz) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ • Summary [cyberint-cyber-threats]: new_fetched=0, new_used=0, reused=1, prev_cached=1, seen_before=0, seen_added=0
+Wrote feeds/cyberint-cyber-threats.xml
+
+=== Processing: Cyberint Blog threat-intelligence-reports (https://cyberthint.io/category/threat-intelligence-reports/) -> feeds/cyberint-threat-intelligence-reports.xml
+ robots.txt respected: True
+ • using sitemap fallback …
+ [HTTP] robots GET https://cyberthint.io/robots.txt -> 200 (final: https://cyberthint.io/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] sitemap GET https://cyberthint.io/sitemap.xml -> 403 (final: https://cyberthint.io/sitemap.xml) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/sitemap.html -> 403 (final: https://cyberthint.io/sitemap.html) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/sitemap_index.xml -> 403 (final: https://cyberthint.io/sitemap_index.xml) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/sitemap.xml.gz -> 403 (final: https://cyberthint.io/sitemap.xml.gz) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/sitemap_index.xml.gz -> 403 (final: https://cyberthint.io/sitemap_index.xml.gz) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ • Summary [cyberint-threat-intelligence-reports]: new_fetched=0, new_used=0, reused=1, prev_cached=1, seen_before=0, seen_added=0
+Wrote feeds/cyberint-threat-intelligence-reports.xml
+
+=== Processing: Cyberint Blog vulnerabilities (https://cyberthint.io/category/vulnerabilities/) -> feeds/cyberint-vulnerabilities.xml
+ robots.txt respected: True
+ • using sitemap fallback …
+ [HTTP] robots GET https://cyberthint.io/robots.txt -> 200 (final: https://cyberthint.io/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] sitemap GET https://cyberthint.io/sitemap.xml -> 403 (final: https://cyberthint.io/sitemap.xml) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/sitemap.html -> 403 (final: https://cyberthint.io/sitemap.html) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/sitemap_index.xml -> 403 (final: https://cyberthint.io/sitemap_index.xml) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/sitemap.xml.gz -> 403 (final: https://cyberthint.io/sitemap.xml.gz) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://cyberthint.io/sitemap_index.xml.gz -> 403 (final: https://cyberthint.io/sitemap_index.xml.gz) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ • Summary [cyberint-vulnerabilities]: new_fetched=0, new_used=0, reused=1, prev_cached=1, seen_before=0, seen_added=0
+Wrote feeds/cyberint-vulnerabilities.xml
 
 === Processing: Pillar Security Blog (https://www.pillar.security/blog) -> feeds/pillar-security.xml
  robots.txt respected: True
@@ -522,22 +594,22 @@ Wrote feeds/cyjax.xml
  [HTTP] robots GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
  [HTTP] sitemap GET https://www.pillar.security/sitemap.xml -> 200 (final: https://www.pillar.security/sitemap.xml) CT=application/rss+xml; charset=utf-8
  [HTTP] robots-check GET https://www.pillar.security/robots.txt -> 200 (final: https://www.pillar.security/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/n8n-sandbox-escape-critical-vulnerabilities-in-n8n-exposes-hundreds-of-thousands-of-enterprise-ai-systems-to-complete-takeover -> 200 (final: https://www.pillar.security/blog/n8n-sandbox-escape-critical-vulnerabilities-in-n8n-exposes-hundreds-of-thousands-of-enterprise-ai-systems-to-complete-takeover) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/new-rules-file-backdoor-attack-lets-hackers-inject-malicious-code-via-ai-code-editors -> 200 (final: https://www.pillar.security/blog/new-rules-file-backdoor-attack-lets-hackers-inject-malicious-code-via-ai-code-editors) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents -> 200 (final: https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/not-all-ai-boms-are-created-equal -> 200 (final: https://www.pillar.security/blog/not-all-ai-boms-are-created-equal) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/operation-bizarre-bazaar-first-attributed-llmjacking-campaign-with-commercial-marketplace-monetization -> 200 (final: https://www.pillar.security/blog/operation-bizarre-bazaar-first-attributed-llmjacking-campaign-with-commercial-marketplace-monetization) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/owasp-top-10-for-llms-visualized -> 200 (final: https://www.pillar.security/blog/owasp-top-10-for-llms-visualized) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/pillar-and-portkey-join-forces-to-enhance-security-for-ai-applications -> 200 (final: https://www.pillar.security/blog/pillar-and-portkey-join-forces-to-enhance-security-for-ai-applications) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/pillar-partners-with-tavily-to-secure-web-access-for-ai-agents -> 200 (final: https://www.pillar.security/blog/pillar-partners-with-tavily-to-secure-web-access-for-ai-agents) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/pillar-security-is-now-available-in-the-aws-marketplace -> 200 (final: https://www.pillar.security/blog/pillar-security-is-now-available-in-the-aws-marketplace) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/pillar-security-is-now-available-in-the-microsoft-azure-marketplace -> 200 (final: https://www.pillar.security/blog/pillar-security-is-now-available-in-the-microsoft-azure-marketplace) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/pillar-security-raises-9m-to-help-companies-build-and-run-secure-ai-software -> 200 (final: https://www.pillar.security/blog/pillar-security-raises-9m-to-help-companies-build-and-run-secure-ai-software) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/pillar-security-unveils-redgraph-the-worlds-first-attack-surface-mapping-continuous-testing-for-ai-agents -> 200 (final: https://www.pillar.security/blog/pillar-security-unveils-redgraph-the-worlds-first-attack-surface-mapping-continuous-testing-for-ai-agents) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/pillar-securitys-enhanced-amazon-bedrock-integration-complete-ai-security-and-governance -> 200 (final: https://www.pillar.security/blog/pillar-securitys-enhanced-amazon-bedrock-integration-complete-ai-security-and-governance) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/pillar-selected-for-the-aws-crowdstrike-cybersecurity-accelerator -> 200 (final: https://www.pillar.security/blog/pillar-selected-for-the-aws-crowdstrike-cybersecurity-accelerator) CT=text/html; charset=utf-8
- [HTTP] article GET https://www.pillar.security/blog/practical-ai-red-teaming-the-power-of-multi-turn-tests-vs-single-turn-evaluations -> 200 (final: https://www.pillar.security/blog/practical-ai-red-teaming-the-power-of-multi-turn-tests-vs-single-turn-evaluations) CT=text/html; charset=utf-8
- • Summary [pillar-security]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=45, seen_added=15
+ [HTTP] article GET https://www.pillar.security/blog/red-teaming-for-ai-agents -> 200 (final: https://www.pillar.security/blog/red-teaming-for-ai-agents) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/blog/redefining-security-roles-for-the-ai-era-responsibilities-and-controls -> 200 (final: https://www.pillar.security/blog/redefining-security-roles-for-the-ai-era-responsibilities-and-controls) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/blog/rethinking-ai-security-beyond-the-deepseek-r1-vulnerability-metrics -> 200 (final: https://www.pillar.security/blog/rethinking-ai-security-beyond-the-deepseek-r1-vulnerability-metrics) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/blog/revolutionizing-cybersecurity-the-kill-chain-in-the-age-of-ai -> 200 (final: https://www.pillar.security/blog/revolutionizing-cybersecurity-the-kill-chain-in-the-age-of-ai) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/blog/safeguarding-the-future-lessons-learned-from-securing-over-1-000-genai-apps -> 200 (final: https://www.pillar.security/blog/safeguarding-the-future-lessons-learned-from-securing-over-1-000-genai-apps) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/blog/securing-ai-a-blend-of-old-and-new-security-practices -> 200 (final: https://www.pillar.security/blog/securing-ai-a-blend-of-old-and-new-security-practices) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/blog/securing-ai-on-premise-full-data-control-with-pillar -> 200 (final: https://www.pillar.security/blog/securing-ai-on-premise-full-data-control-with-pillar) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/blog/securing-context-engineering -> 200 (final: https://www.pillar.security/blog/securing-context-engineering) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/blog/securing-multimodal-ai -> 200 (final: https://www.pillar.security/blog/securing-multimodal-ai) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/blog/securing-your-ai-via-ai-gateways -> 200 (final: https://www.pillar.security/blog/securing-your-ai-via-ai-gateways) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/blog/security-for-ai-agents-101 -> 200 (final: https://www.pillar.security/blog/security-for-ai-agents-101) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/blog/security-for-ai-buyers-guide -> 200 (final: https://www.pillar.security/blog/security-for-ai-buyers-guide) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/blog/strengthening-llm-security-insights-from-owasps-2025-top-10-list -> 200 (final: https://www.pillar.security/blog/strengthening-llm-security-insights-from-owasps-2025-top-10-list) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/blog/the-agent-security-paradox-when-trusted-commands-in-cursor-become-attack-vectors -> 200 (final: https://www.pillar.security/blog/the-agent-security-paradox-when-trusted-commands-in-cursor-become-attack-vectors) CT=text/html; charset=utf-8
+ [HTTP] article GET https://www.pillar.security/blog/the-cornerstone-of-effective-security-platforms-lessons-from-a-decade-in-the-edr-space -> 200 (final: https://www.pillar.security/blog/the-cornerstone-of-effective-security-platforms-lessons-from-a-decade-in-the-edr-space) CT=text/html; charset=utf-8
+ • Summary [pillar-security]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=60, seen_added=15
 Wrote feeds/pillar-security.xml
 
 === Processing: Trellix Research Blog (https://www.trellix.com/blogs/research/) -> feeds/trellix-research.xml
