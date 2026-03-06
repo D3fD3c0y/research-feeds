@@ -4,7 +4,97 @@
   <title>Abstract Security Blog (Custom Feed)</title>
   <link>https://www.abstract.security/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 08:54:10 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 16:22:02 GMT</lastBuildDate>
+  <item>
+    <title>Reclaiming the Pipeline: Real-Time Detection Without Blowing the Budget</title>
+    <link>https://www.abstract.security/blog/reclaiming-the-pipeline-real-time-detection-without-blowing-the-budget</link>
+    <description>Stop wasting budget on unused logs and late detections. See how Abstract redefines SIEM with real-time, in-pipeline threat detection.</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Redefining the SOC: Why AI Elevates (Not Replaces) the Next Generation of Analysts</title>
+    <link>https://www.abstract.security/blog/redefining-the-soc-why-ai-elevates-not-replaces-the-next-generation-of-analysts</link>
+    <description>Redefining the SOC: Why AI Elevates (Not Replaces) the Next Generation of Analysts</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Salesforce Forensics: Telemetry for Detection &amp;amp; Response</title>
+    <link>https://www.abstract.security/blog/salesforce-forensics-telemetry-for-detection-response</link>
+    <description>Learn how to investigate intrusions in Salesforce using native telemetry like Event Monitoring, Setup Audit Trail, and Login History to detect attacker activity.</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Security Data Pipelines Have Become the Center of the SOC. The Market Knows It, and So Do We.</title>
+    <link>https://www.abstract.security/blog/security-data-pipelines-have-become-the-center-of-the-soc-the-market-knows-it-and-so-do-we</link>
+    <description>Security data pipelines have become the center of the modern SOC. This blog breaks down SACR&amp;#39;s 2025 SDPP report, industry consolidation, and how Abstract is leading with streaming detection and a composable SIEM architecture.</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Shift-Left Detections with Abstract</title>
+    <link>https://www.abstract.security/blog/shift-left-detections-with-abstract</link>
+    <description>Shift-Left Detections enables security teams to act in real time, minimizing delays and enhancing threat response with streaming analytics.</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Shifting Detection Left: How to Decouple SIEM Detection Criteria for Modern Security Operations</title>
+    <link>https://www.abstract.security/blog/shifting-detection-left-how-to-decouple-siem-detection-criteria-for-modern-security-operations</link>
+    <description>Learn why decoupling detection from SIEM is key to modernizing SOCs. Explore migration strategies, reduce technical debt, and build future-ready detections.</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Shrinking the Stack of Needles</title>
+    <link>https://www.abstract.security/blog/shrinking-the-stack-of-needles</link>
+    <description>Security teams don&amp;#39;t struggle to find threats. They struggle with too much data. Learn how reducing your log volume improves detection speed, cost, and visibility.</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Startup Partnerships: Lessons from the Front Lines</title>
+    <link>https://www.abstract.security/blog/startup-partnerships-lessons-from-the-front-lines</link>
+    <description>Startup Partnerships: Lessons from the Front Lines</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Strengthening Integrations in the Abstract Security Platform</title>
+    <link>https://www.abstract.security/blog/strengthening-integrations-in-the-abstract-security-platform</link>
+    <description>Going into 2025, Abstract Security continues to provide best-in-class technology to our customers and build upon our award-winning platfrom to eliminate the unneeded complexity involving data operations, all while enhancing threat insights. Here’s what you need to know about the latest integrations our teams have made available!</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Invisible Enemy: Unmasking Microsoft 365’s Logging Blind Spots</title>
+    <link>https://www.abstract.security/blog/the-invisible-enemy-unmasking-microsoft-365s-logging-blind-spots</link>
+    <description>The Invisible Enemy: Unmasking Microsoft 365’s Logging Blind Spots</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Thinking Beyond the Budget: Why Your Security Team Isn’t a Cost Center</title>
+    <link>https://www.abstract.security/blog/thinking-beyond-the-budget-why-your-security-team-isnt-a-cost-center</link>
+    <description>Thinking Beyond the Budget: Why Your Security Team Isn’t a Cost Center</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Trust and Community: The Peer-to-Peer Security Advantage</title>
+    <link>https://www.abstract.security/blog/trust-and-community-the-peer-to-peer-security-advantage</link>
+    <description>Trust and Community: The Peer-to-Peer Security Advantage</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Uncovering Compromised Git Admins: How to Detect actors like theCom</title>
+    <link>https://www.abstract.security/blog/uncovering-compromised-git-admins-how-to-detect-actors-like-thecom</link>
+    <description>Uncovering Compromised Git Admins: How to Detect actors like theCom</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>What Is a Security Data Pipeline Platform (SDPP) and Why Do Security Teams Need One?</title>
+    <link>https://www.abstract.security/blog/what-is-a-security-data-pipeline-platform-sdpp-and-why-do-security-teams-need-one</link>
+    <description>Security data broke traditional pipelines and SIEM-centric architectures. SDPPs emerged to control telemetry at scale, reduce cost, and move detections closer to real time.</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why Health-ISAC Selected Abstract Security to Support Its Internal SIEM Operations</title>
+    <link>https://www.abstract.security/blog/why-health-isac-selected-abstract-security-to-support-its-internal-siem-operations</link>
+    <description>Health-ISAC selected Abstract Security to support its internal SIEM operations, bringing a streaming-first approach to security data and detection.</description>
+    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
+  </item>
   <item>
     <title>Cal Poly Incubator Interview</title>
     <link>https://www.abstract.security/blog/ep-1-cal-poly-incubator-interview</link>
@@ -94,96 +184,6 @@
     <link>https://www.abstract.security/blog/moving-laterally-through-abuse-of-managed-identities-attached-to-vms</link>
     <description>Demonstrated Azure attack path abusing managed identities for lateral movement between VMs and Key Vaults—plus detection logic using Azure Activity and MI sign-in logs.</description>
     <pubDate>Thu, 12 Feb 2026 13:07:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: Rebooting Security Operations: Mission First, People Always</title>
-    <link>https://www.abstract.security/blog/c2-corner-rebooting-security-operations-mission-first-people-always</link>
-    <description>Reboot SecOps with integrated tooling, realistic training, AI as a force multiplier, and people-first leadership built for a modern SOC.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: State of Enterprise Detection Engineering for a Modern SOC</title>
-    <link>https://www.abstract.security/blog/c2-corner-state-of-enterprise-detection-engineering-for-a-modern-soc</link>
-    <description>Explore 2025’s enterprise SOC evolution—data pipelines reshape SIEM economics, CTI drives TTP-based detections, and fundamentals still win the day.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: Stop Automating the SOC. Start Automating Remediation.</title>
-    <link>https://www.abstract.security/blog/c2-corner-stop-automating-the-soc-start-automating-remediation</link>
-    <description>SOC automation often stops at detection while real fixes lag. Learn how to cut noise, align IT &amp;amp; security, and automate remediation to reduce risk.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: The Tactician and the Strategist in Cyber Threat Intelligence</title>
-    <link>https://www.abstract.security/blog/c2-corner-the-tactician-and-the-strategist-in-cyber-threat-intelligence</link>
-    <description>In Cyber Threat Intel, AI is the Tactician. Humans are the Strategists.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: Why I Mentor</title>
-    <link>https://www.abstract.security/blog/c2-corner-why-i-mentor</link>
-    <description>A reflection from Jim Routh on mentorship, leadership, and paying it forward—sharing lived experience from decades as a CISO and mentor in cybersecurity.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>C2 Corner: Climbing the Mountain Again and Again</title>
-    <link>https://www.abstract.security/blog/climbing-the-mountain-again-and-again</link>
-    <description>Cybersecurity careers are rarely linear. Explore how structure and perseverance help professionals navigate industry resets and long-term growth.</description>
-    <pubDate>Wed, 04 Mar 2026 20:52:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Contagious Interview: Evolution of VS Code and Cursor Tasks Infection Chains - Part 1</title>
-    <link>https://www.abstract.security/blog/contagious-interview-evolution-of-vscode-and-cursor-tasks-infection-chains</link>
-    <description>ASTRO tracks fresh Contagious Interview evolutions: shortened URLs masking Vercel infrastructure, NVIDIA-impersonating GitHub Gists, and Google Drive payload delivery with a virus-scan bypass. Original research with detection queries and IOCs.</description>
-    <pubDate>Mon, 02 Mar 2026 16:59:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Contagious Interview: Tracking the VS Code Tasks Infection Vector</title>
-    <link>https://www.abstract.security/blog/contagious-interview-tracking-the-vs-code-tasks-infection-vector</link>
-    <description>An in-depth analysis of the DPRK-linked Contagious Interview campaign, revealing how malicious VS Code tasks enable silent code execution, payload delivery, and developer compromise via GitHub repos.</description>
-    <pubDate>Tue, 24 Feb 2026 22:16:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Critical Apache Tika Vulnerability: CVE-2025-66516 Enables XXE Injection</title>
-    <link>https://www.abstract.security/blog/critical-apache-tika-vulnerability-cve-2025-66516-enables-xxe-injection</link>
-    <description>A critical XXE flaw in Apache Tika (CVE-2025-66516) allows file reads, SSRF, and DoS via malicious PDFs. Learn affected versions, IoCs, and required patches.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Critical Ivanti EPMM Vulnerabilities: CVE-2026-1281 &amp;amp; CVE-2026-1340</title>
-    <link>https://www.abstract.security/blog/critical-ivanti-epmm-vulnerabilities-cve-2026-1281-cve-2026-1340</link>
-    <description>CISA has added two critical Ivanti EPMM vulnerabilities to the KEV catalog. Learn how CVE-2026-1281 and CVE-2026-1340 are exploited, how to detect attacks via Apache logs, and what to do now.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Critical MongoDB Vulnerability: CVE-2025-14847 (MongoBleed)</title>
-    <link>https://www.abstract.security/blog/critical-mongodb-vulnerability-cve-2025-14847-mongobleed</link>
-    <description>CVE-2025-14847 (MongoBleed) is a critical MongoDB vulnerability enabling unauthenticated memory disclosure. Learn impact, affected versions, and detection steps.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Critical React Server Components RCE (CVE-2025-55182): What You Need to Patch Now</title>
-    <link>https://www.abstract.security/blog/critical-react-server-components-rce-cve-2025-55182-what-you-need-to-patch-now</link>
-    <description>CVE-2025-55182 exposes a deserialization flaw in React Server Components enabling unauthenticated RCE. Review affected versions, IoCs, and mitigation steps.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>DFIR-as-Code: Scaled and Repeatable Incident Response</title>
-    <link>https://www.abstract.security/blog/dfir-as-code-scaled-and-repeatable-incident-response</link>
-    <description>DFIR-as-Code: Scaled and Repeatable Incident Response</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Dune Security and Abstract Security Partner to Deliver Real-Time Detection and Automated Risk Reduction</title>
-    <link>https://www.abstract.security/blog/dune-security-and-abstract-security-partner-to-deliver-real-time-detection-and-automated-risk-reduction</link>
-    <description>Dune Security and Abstract Security Partner to Deliver Real-Time Detection and Automated Risk Reduction</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Enabling the MongoDB Logging Firehose</title>
-    <link>https://www.abstract.security/blog/enabling-the-mongodb-logging-firehose</link>
-    <description>MongoBleed exposed how quickly MongoDB logging can explode under attack. Learn which logs matter, how verbosity impacts volume, and how to preserve security signal without overwhelming your pipeline.</description>
-    <pubDate>Tue, 10 Feb 2026 21:11:12 GMT</pubDate>
   </item>
 </channel>
 </rss>

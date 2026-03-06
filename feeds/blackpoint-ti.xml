@@ -4,7 +4,97 @@
   <title>Blackpoint Cyber Threat Intelligence &amp;amp; Research (Custom Feed)</title>
   <link>https://blackpointcyber.com/threat-intelligence-and-research/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Tue, 24 Feb 2026 09:03:17 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 16:23:30 GMT</lastBuildDate>
+  <item>
+    <title>SocGholish Loader Malware</title>
+    <link>https://blackpointcyber.com/threat-profile/socgholish-malware/</link>
+    <description>Download the full SocGholish threat profile, with exploited vulnerabilities, previous campaigns, MITRE ATT&amp;CK mappings, and more.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:26 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vidar Stealer</title>
+    <link>https://blackpointcyber.com/threat-profile/vidar-stealer-malware-apg/</link>
+    <description>Download the full Vidar Stealer malware threat profile, with exploited vulnerabilities, known targets, MITRE ATT&amp;CK mappings, and more.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:26 GMT</pubDate>
+  </item>
+  <item>
+    <title>FIN7 Threat Group</title>
+    <link>https://blackpointcyber.com/threat-profile/fin7-threat-group/</link>
+    <description>Download the full FIN7 threat profile from the APG, featuring exploited vulnerabilities, known targets, MITRE ATT&amp;CK mappings, and more.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>BianLian Ransomware</title>
+    <link>https://blackpointcyber.com/threat-profile/threat-profile-bianlian-ransomware/</link>
+    <description>BianLian ransomware is written in Go language and is compiled as a 64-bit Windows system that has been active since, at least, July 2022.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>Abyss Ransomware</title>
+    <link>https://blackpointcyber.com/threat-profile/abyss-ransomware/</link>
+    <description>Abyss Ransomware</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>Alphv Ransomware</title>
+    <link>https://blackpointcyber.com/threat-profile/alphv-ransomware/</link>
+    <description>Alphv ransomware has been active since November 2021 &amp; operates using the double extortion method – where victim data is stolen &amp; leaked if a ransom is not paid.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:28 GMT</pubDate>
+  </item>
+  <item>
+    <title>Hunters International Ransomware</title>
+    <link>https://blackpointcyber.com/threat-profile/hunters-international-ransomware/</link>
+    <description>Hunters International ransomware operates in the double extortion method, where victim data is stolen and leaked if the ransom demand is not paid.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:28 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Gentlemen Ransomware</title>
+    <link>https://blackpointcyber.com/threat-profile/gentlemen-ransomware/</link>
+    <description>Download a detailed analysis of The Gentlemen ransomware — attack methods, tools, and threat intelligence insights.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:28 GMT</pubDate>
+  </item>
+  <item>
+    <title>Sarcoma Ransomware</title>
+    <link>https://blackpointcyber.com/threat-profile/sarcoma-ransomware/</link>
+    <description>Sarcoma is known for fast-moving intrusions, data theft, and double-extortion. Learn how the malware operates, their targets, and more.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:28 GMT</pubDate>
+  </item>
+  <item>
+    <title>BlackSuit Ransomware</title>
+    <link>https://blackpointcyber.com/threat-profile/blacksuit-ransomware/</link>
+    <description>BlackSuit is a double-extortion threat targeting enterprises with data theft and large-scale encryption across Windows and ESXi environments. Learn how it operates, who it targets, and more.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>INC Ransom Ransomware</title>
+    <link>https://blackpointcyber.com/threat-profile/inc-ransom-ransomware/</link>
+    <description>INC Ransom is a financially driven group using double-extortion tactics. This profile highlights their behavior and indicators for defense.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Medusa Ransomware</title>
+    <link>https://blackpointcyber.com/threat-profile/medusa-ransomware/</link>
+    <description>Medusa is a financially driven group using double-extortion tactics. This profile highlights their behavior and indicators for defense.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>ThreeAM Ransomware</title>
+    <link>https://blackpointcyber.com/threat-profile/threeam-ransomware/</link>
+    <description>ThreeAM is a financially driven group using double-extortion tactics. This profile highlights their behavior and indicators for defense.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>World Leaks Ransomware</title>
+    <link>https://blackpointcyber.com/threat-profile/world-leaks-ransomware/</link>
+    <description>World Leaks is a financially driven group using data-extortion tactics. This profile highlights their behavior and indicators for defense.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>Qilin Ransomware</title>
+    <link>https://blackpointcyber.com/threat-profile/qilin-ransomware/</link>
+    <description>Download the full Qilin ransomware threat profile, with exploited vulnerabilities, known targets, MITRE ATT&amp;CK mappings, and more.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:30 GMT</pubDate>
+  </item>
   <item>
     <title>https://blackpointcyber.com/threat-intelligence-and-research/ — sitemap had no items</title>
     <link>https://blackpointcyber.com/threat-intelligence-and-research/</link>

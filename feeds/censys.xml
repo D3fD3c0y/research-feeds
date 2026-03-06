@@ -4,7 +4,97 @@
   <title>Censys Blog (Custom Feed)</title>
   <link>https://censys.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Tue, 24 Feb 2026 09:03:26 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 16:24:44 GMT</lastBuildDate>
+  <item>
+    <title>The Evolution of the Zero Trust Framework: The Origins</title>
+    <link>https://censys.com/blog/the-evolution-of-the-zero-trust-framework-the-origins/</link>
+    <description>  For anyone who has been in the cybersecurity or tech industries for any amount of time, a year or two can feel like an eternity, and a decade tends to leave behind enough techno-fossils to fill countless warehouses.  It is therefore hard to believe that the conversation surrounding zero trust has now been taking […]</description>
+    <pubDate>Tue, 11 Oct 2022 02:28:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>Internet Connectivity in Puerto Rico Post-Hurricane Fiona</title>
+    <link>https://censys.com/blog/internet-connectivity-in-puerto-rico-post-hurricane-fiona/</link>
+    <description>September 28, 2022 Introduction On September 18, 2022, Hurricane Fiona reached Puerto Rico, almost exactly five years after Hurricane Maria devastated the island in one of the worst natural disasters in recent history. Fiona was the strongest storm to hit the island since Maria in 2017 and brought torrential rains that led to flash flooding […]</description>
+    <pubDate>Fri, 30 Sep 2022 00:12:42 GMT</pubDate>
+  </item>
+  <item>
+    <title>Think Like an Attacker: The Importance of ASM in SaaS Cloud Security</title>
+    <link>https://censys.com/blog/think-like-an-attacker-the-importance-of-asm-in-saas-cloud-security/</link>
+    <description>Cyber attackers are crawling the Internet constantly, looking for any vulnerabilities to exploit within organizations’ Internet-facing and cloud assets. Organizations and their security teams implement cloud data protection solutions, but unknown — and unsecured — assets remain. How can companies prevent and protect from attacks in a comprehensive way? They need to think like an […]</description>
+    <pubDate>Wed, 13 Jul 2022 17:20:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>Databases. EXPOSED! (Redis)</title>
+    <link>https://censys.com/blog/databases-exposed-redis/</link>
+    <description>Published on 09.19.2022 Part 1: Redis Takeaways There are 39,405 unauthenticated Redis services out of 350,675 total Redis services on the public internet. Almost 50% of unauthenticated Redis services on the internet show signs of an attempted compromise. Preface In this new series of posts, we decided to answer the question: “What is the state […]</description>
+    <pubDate>Mon, 19 Sep 2022 20:25:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Neverending Story of Deadbolt</title>
+    <link>https://censys.com/blog/the-neverending-story-of-deadbolt/</link>
+    <description>Published on 09.10.2022 Introduction Deadbolt, a ransomware campaign haunting QNAP NAS customers for the last few months, has seen a consistent number of infections on a fairly regular cadence. But recently, Censys has observed a massive uptick in Deadbolt-infected QNAP devices. The Deadbolt crew is ramping up their operations, and the victim count is growing […]</description>
+    <pubDate>Sun, 11 Sep 2022 00:06:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>Russian Ransomware C2 Network Discovered in Censys Data</title>
+    <link>https://censys.com/blog/russian-ransomware-c2-network-discovered-in-censys-data/</link>
+    <description>Around June 24 2022, out of over 4.7 million hosts Censys observed in Russia, Censys discovered two Russian hosts containing an exploitation tool, Metasploit, and Command and Control (C2) tool, Deimos C2. Historical analysis indicated one of these Russian hosts also used the tool PoshC2. These tools allow penetration testers and hackers to gain access […]</description>
+    <pubDate>Thu, 21 Jul 2022 15:59:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>At Censys, Innovation Takes Center Stage</title>
+    <link>https://censys.com/blog/at-censys-innovation-takes-center-stage/</link>
+    <description>The air was electric at Censys’ first in-person all-company event since the pandemic. It was also our first all-out multi-day hackathon event. This year’s theme: Integrate &amp; Innovate. Engineers from all teams came together in exciting new ways, even roping in some sales, marketing, and product folks along the way. This week, we eschewed tradition […]</description>
+    <pubDate>Wed, 20 Jul 2022 17:41:38 GMT</pubDate>
+  </item>
+  <item>
+    <title>Avoiding Your Cyberattack Worst-Case Scenarios</title>
+    <link>https://censys.com/blog/avoiding-your-cyberattack-worst-case-scenarios/</link>
+    <description>  Your phone rings in the middle of the night, and when you answer, it’s a call you’ve been dreading. Your company has been the target of a cyberattack. The fallout? Unknown at the moment, but a million scenarios run through your mind. Has customer data been compromised? How much will this cost our organization? […]</description>
+    <pubDate>Wed, 05 Oct 2022 18:00:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>Uncover More with Attack Surface Management Inventory Search</title>
+    <link>https://censys.com/blog/attack-surface-management-inventory-search/</link>
+    <description>A brief history of Censys Search Censys continually scans the entire public IPv4 address space using automatic protocol detection to present the most accurate representation of the internet’s current state. This means that we see the internet for what it is: the good, the bad, and the ugly. Just this year we launched a report […]</description>
+    <pubDate>Fri, 23 Sep 2022 16:29:15 GMT</pubDate>
+  </item>
+  <item>
+    <title>C2: When Attackers Use Our Weapons Against Us</title>
+    <link>https://censys.com/blog/c2-when-attackers-use-our-weapons-against-us/</link>
+    <description>Summary Super embarrassing when you’re hosting C2 infrastructure as a respectable enterprise, right? Or when the Red Team beats the Blue Team? Thanks to the popularization of Threat Intelligence, most organizations are aware of needing to block external connections to C2 infrastructure, but what happens when you’re the one hosting it? Sure, you can wait […]</description>
+    <pubDate>Wed, 07 Sep 2022 23:13:25 GMT</pubDate>
+  </item>
+  <item>
+    <title>Understanding the ASM Alphabet Soup</title>
+    <link>https://censys.com/blog/censys-glossary/</link>
+    <description>  If you were at Black Hat this year, or if you’ve been doing your homework online on the Internet at all, you’ve probably terms like EASM, ASM, Exposure Management, Attack Surface, and the many other variations that seem to be coming out of the woodwork. Are these tools? Capabilities? Or just the latest marketing […]</description>
+    <pubDate>Sat, 17 Sep 2022 00:04:34 GMT</pubDate>
+  </item>
+  <item>
+    <title>The TL;DR on Certificate Hygiene and Why It’s Important for your Website Availability</title>
+    <link>https://censys.com/blog/cert-hygiene-and-website-availability/</link>
+    <description>Have you ever visited a website and you see this instead of the webpage? If you’re like most folks, you do what your browser says and you “STOP!” What does a warning like this tell you anyway? Well, it can be a number of things, which we will flush out in more detail later in […]</description>
+    <pubDate>Fri, 05 Mar 2021 21:09:39 GMT</pubDate>
+  </item>
+  <item>
+    <title>Closing the Security Gap with ASM: Start with Complete Visibility</title>
+    <link>https://censys.com/blog/close-security-gaps-attack-surface-management/</link>
+    <description>Information Technology (IT) and Information Security (IS) teams have a number of predetermined steps and workflows in place for threat detection and response. Unfortunately, these workflows are often limited by common factors and are not as seamless or effective as they could be with the right tools in place. In fact, many IS and IT […]</description>
+    <pubDate>Fri, 22 Jul 2022 16:37:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>Custom attribution for your attack surface using the Censys Python CLI</title>
+    <link>https://censys.com/blog/custom-attribution-for-your-attack-surface-using-the-censys-python-cli/</link>
+    <description>Overview Censys has introduced a new add-seeds CLI command for the censys-python project that enables customers to automate adding seeds to their attack surface based on search terms from Censys Search. This is an extremely powerful means of customizing your attack surface. Finding unknowns is hard An organization’s attack surface can be complex. With hosts […]</description>
+    <pubDate>Thu, 19 Aug 2021 19:32:18 GMT</pubDate>
+  </item>
+  <item>
+    <title>Finding Hacked Web Servers with Censys Search</title>
+    <link>https://censys.com/blog/finding-hacked-web-servers-with-censys-search-data/</link>
+    <description>According to the 2022 Verizon Data Breach Investigations Report, web servers are the top asset most commonly impacted in breaches. This is not surprising – after all, web servers often make up the bulk of an organization’s Internet-facing infrastructure, and therefore are more likely to be exposed than other types of digital assets. Finding hacked […]</description>
+    <pubDate>Thu, 04 Aug 2022 16:35:20 GMT</pubDate>
+  </item>
   <item>
     <title>https://censys.com/resources/blog — sitemap had no items</title>
     <link>https://censys.com/resources/blog</link>

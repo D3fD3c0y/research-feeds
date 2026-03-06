@@ -4,7 +4,97 @@
   <title>CrowdStrike Adversaries Universe (Custom Feed)</title>
   <link>https://www.crowdstrike.com/en-us/adversaries/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Tue, 24 Feb 2026 09:03:32 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 16:24:53 GMT</lastBuildDate>
+  <item>
+    <title>CrowdStrike Threat Landscape: APTs &amp; Adversary Groups</title>
+    <link>https://www.crowdstrike.com/adversaries/</link>
+    <description>Explore your threat landscape by choosing your APTs and Adversary Groups to learn more about them, their origin, target industries and nations.</description>
+    <pubDate>Fri, 06 Mar 2026 16:24:47 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vapor Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/vapor-panda/</link>
+    <description>Profile VAPOR PANDA is a China-based targeted intrusion adversary CrowdStrike Intelligence initially tracked under the VexatiousTemper activity clu...</description>
+    <pubDate>Fri, 06 Mar 2026 16:24:47 GMT</pubDate>
+  </item>
+  <item>
+    <title>Wicked Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/wicked-panda/</link>
+    <description>WICKED PANDA has been one the most prolific and effective China-based adversaries from the mid 2010s into the 2020s. They have consistently expande...</description>
+    <pubDate>Fri, 06 Mar 2026 16:24:48 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vertigo Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/vertigo-panda/</link>
+    <description>Summary VERTIGO PANDA is China-nexus adversary that has likely been active since at least mid-2020 as a discrete operational group separate from—bu...</description>
+    <pubDate>Fri, 06 Mar 2026 16:24:48 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vault Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/vault-panda/</link>
+    <description>VAULT PANDA, an adversary active since at least October 2021, targets the financial services, gambling, technology, academic, defense, and governme...</description>
+    <pubDate>Fri, 06 Mar 2026 16:24:49 GMT</pubDate>
+  </item>
+  <item>
+    <title>Berserk Bear Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/berserk-bear/</link>
+    <description>BERSERK BEAR is an adversary highly likely attributable to the Federal Security Service of the Russian Federation (also known as FSB, or Федеральна...</description>
+    <pubDate>Fri, 06 Mar 2026 16:24:49 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cozy Bear Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/cozy-bear/</link>
+    <description>COZY BEAR is a Russia state-nexus adversary, assessed as likely to be acting on behalf of the Foreign Intelligence Service of the Russian Federatio...</description>
+    <pubDate>Fri, 06 Mar 2026 16:24:49 GMT</pubDate>
+  </item>
+  <item>
+    <title>Ember Bear Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/ember-bear/</link>
+    <description>EMBER BEAR is a Russia-based adversary assessed with moderate confidence to be attributable to the Main Directorate of the General Staff of the Arm...</description>
+    <pubDate>Fri, 06 Mar 2026 16:24:50 GMT</pubDate>
+  </item>
+  <item>
+    <title>Fancy Bear Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/fancy-bear/</link>
+    <description>FANCY BEAR is an adversary attributed to the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (Главное разведыва...</description>
+    <pubDate>Fri, 06 Mar 2026 16:24:50 GMT</pubDate>
+  </item>
+  <item>
+    <title>Gossamer Bear Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/gossamer-bear/</link>
+    <description>GOSSAMER BEAR is a Russian state-nexus adversary likely attributable to the Federal Security Service (FSB) of the Russian Federation assessed with ...</description>
+    <pubDate>Fri, 06 Mar 2026 16:24:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>Primitive Bear Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/primitive-bear/</link>
+    <description>PRIMITIVE BEAR is a targeted intrusion adversary operating from Simferopol, Crimea. This group is highly likely attributable to the Federal Securit...</description>
+    <pubDate>Fri, 06 Mar 2026 16:24:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Venomous Bear Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/venomous-bear/</link>
+    <description>VENOMOUS BEAR is a sophisticated Russia-based adversary assessed with high confidence to be attributable to the Federal Security Service (FSB) of t...</description>
+    <pubDate>Fri, 06 Mar 2026 16:24:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Voodoo Bear Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/voodoo-bear/</link>
+    <description>VOODOO BEAR is a Russia-based adversary assessed with high confidence to be attributable to the Main Directorate of the General Staff of the Armed...</description>
+    <pubDate>Fri, 06 Mar 2026 16:24:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Ocean Buffalo Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/ocean-buffalo/</link>
+    <description>OCEAN BUFFALO is a Vietnam-based targeted intrusion adversary reportedly active since at least 2012. This adversary is known to employ a wide range...</description>
+    <pubDate>Fri, 06 Mar 2026 16:24:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Labyrinth Chollima Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/labyrinth-chollima/</link>
+    <description>LABYRINTH CHOLLIMA is one of the most prolific Democratic People’s Republic of Korea (DPRK)-nexus adversaries tracked by CrowdStrike and has been a...</description>
+    <pubDate>Fri, 06 Mar 2026 16:24:53 GMT</pubDate>
+  </item>
   <item>
     <title>https://www.crowdstrike.com/en-us/adversaries/ — sitemap had no items</title>
     <link>https://www.crowdstrike.com/en-us/adversaries/</link>

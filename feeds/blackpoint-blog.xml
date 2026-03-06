@@ -4,12 +4,96 @@
   <title>Blackpoint Cyber Blog (Custom Feed)</title>
   <link>https://blackpointcyber.com/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Tue, 24 Feb 2026 09:03:11 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 16:23:24 GMT</lastBuildDate>
   <item>
-    <title>https://blackpointcyber.com/blog/ — sitemap had no items</title>
+    <title>Blog</title>
     <link>https://blackpointcyber.com/blog/</link>
-    <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
-    <pubDate>Tue, 24 Feb 2026 09:03:11 GMT</pubDate>
+    <description>Sharpen your defenses with the latest threat insights, industry trends and product updates sure to put you one step ahead of hackers – and your competition.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:18 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blackpoint Cyber is Riding High in the Cloud in G2’s Fall 2024 Badges</title>
+    <link>https://blackpointcyber.com/blog/blackpoint-cyber-is-riding-high-in-the-cloud-in-g2s-fall-2024-badges/</link>
+    <description>G2's Fall 2024 badge recognition highlights our dedication to delivering exceptional cybersecurity solutions and the trust our customers place in our team.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>Bringing Layered Defense to WatchGuard Partners</title>
+    <link>https://blackpointcyber.com/blog/bringing-layered-defense-to-watchguard-partners/</link>
+    <description>Blackpoint now integrates with WatchGuard EDR, bringing rapid response to WatchGuard’s endpoint detection for MSPs.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Be the Boss of Your Own Cloud Security Strategy</title>
+    <link>https://blackpointcyber.com/blog/be-the-boss-of-your-own-cloud-security-strategy/</link>
+    <description>Take control of your cloud security strategy. Learn about the shared responsibility model and how to protect your business from evolving threats in the cloud.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blackpoint’s Partner Program: Where Security and Scale Unite</title>
+    <link>https://blackpointcyber.com/blog/blackpoints-partner-program-where-security-and-scale-unite/</link>
+    <description>Now Live, Blackpoint Global Partner Program to scale MSP businesses confidently with flexible security solutions, tailored support, and growth-driven resources</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blackpoint's POV on the CrowdStrike Update Incident: A Lesson in Endpoint Protection</title>
+    <link>https://blackpointcyber.com/blog/blackpoints-pov-on-the-crowdstrike-update-incident-a-lesson-in-endpoint-protection/</link>
+    <description>Explore Blackpoint's take on the CrowdStrike incident and our unique approach to endpoint protection. Discover how we blend agility and stability in cybersecurity.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>Managed Application Control is Stronger Than Ever – Adding 3 Additional Block Categories</title>
+    <link>https://blackpointcyber.com/blog/managed-application-control-is-stronger-than-ever-adding-3-additional-block-categories/</link>
+    <description>Blackpoint Cyber’s Managed Application Control has expanded its recommended block list to enhance protection against attackers that abuse legitimate software.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>Alert: New Critical Veeam CVEs Expose Backups to Ransomware Gangs</title>
+    <link>https://blackpointcyber.com/blog/critical-veeam-cves-expose-backups-ransomware-apg/</link>
+    <description>Update Veeam VBR to avoid ransomware gangs corrupting file backups, exfiltrating credentials, and unauthenticated remote code execution.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>Alert: Active Exploit of Critical SonicWall CVE via SSLVPN for Initial Access</title>
+    <link>https://blackpointcyber.com/blog/active-exploit-critical-sonicwall-cve-sslvpn-initial-access-apg-alert/</link>
+    <description>Both SonicWall and Blackpoint's Active SOC report active exploitation of SSLVPN for initial access by threat actors. Patch immediately!</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>Raspberry Robin, ScreenConnect, AteraAgent, RDP, whoami, &amp; SharpShares</title>
+    <link>https://blackpointcyber.com/blog/raspberry-robin-screenconnect-ateraagent-rdp-whoami-sharpshares-soc-incidents-blackpoint-apg/</link>
+    <description>From compromised RDP sessions to failed installations of ScreenConnect and AteraAgent – threat actors keep abusing legitimate tools, processes, and commands.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vanilla Tempest, Oyster Backdoor, NetSupport RAT, and Unknown Infostealers</title>
+    <link>https://blackpointcyber.com/blog/vanilla-tempest-oyster-backdoor-netsupport-unknown-infostealers-soc-incidents-blackpoint-apg/</link>
+    <description>Vanilla Tempest uses Oyster Backdoor &amp; Gootloader with creative scheduled tasks, while unknown infostealers try to reach a Dutch VPS.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:23 GMT</pubDate>
+  </item>
+  <item>
+    <title>Asorult Stealer, AsyncRAT, and Trojan Malware: The Blackpoint Active SOC's Week in Review for August 30, 2024</title>
+    <link>https://blackpointcyber.com/blog/asorult-stealer-asyncrat-trojan-malware-apg/</link>
+    <description>Blackpoint's Active SOC team blocked multiple infostealer infections, from Asorult Stealer to AsyncRAT, for Technology &amp; Industrial partners.</description>
+    <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Greenshot, AnyDesk, TeamViewer, Classroom Spy Pro, ProcDump, &amp; Mimikatz</title>
+    <link>https://blackpointcyber.com/blog/greenshot-anydesk-teamviewer-classroom-spy-pro-procdump-mimikatz-apg/</link>
+    <description>Threat analysis rarely report on Greenshot and Classroom Spy Pro – until threat actors tried them against Blackpoint-protected environments.</description>
+    <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>AsyncRAT, Lumma Stealer, and Ransomhub Ransomware</title>
+    <link>https://blackpointcyber.com/blog/asyncrat-lumma-stealer-infostealer-ransomhub-ransomware-soc-incidents-blackpoint-apg/</link>
+    <description>An onboarding Legal Services client got a shock when our Active SOC uncovered an advanced, previously unknown Ransomhub infection!</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:23 GMT</pubDate>
+  </item>
+  <item>
+    <title>MITRE ATT&amp;CK T1091: Replication Through Removable Media</title>
+    <link>https://blackpointcyber.com/blog/mitre-attck-t1091-replication-through-removable-media-threat-digest-blackpoint-apg/</link>
+    <description>Review MITRE ATT&amp;CK Initial Access tactic T1091 through a recent real-life incident with a Raspberry Robin-infected USB drive.</description>
+    <pubDate>Fri, 06 Mar 2026 16:23:24 GMT</pubDate>
   </item>
 </channel>
 </rss>

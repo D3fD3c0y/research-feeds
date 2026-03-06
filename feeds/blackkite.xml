@@ -4,7 +4,97 @@
   <title>Black Kite Blog (Custom Feed)</title>
   <link>https://blackkite.com/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 08:55:17 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 16:23:14 GMT</lastBuildDate>
+  <item>
+    <title>Focus Friday: TPRM Insights on Critical Vulnerabilities in FreeScout, pac4j, MongoDB, Django, Langflow, RustFS, and Apache Superset</title>
+    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-critical-vulnerabilities-in-freescout-pac4j-mongodb-django-langflow-rustfs-and-apache-superset</link>
+    <description>Expert TPRM analysis of critical vulnerabilities in FreeScout, pac4j, MongoDB, Django, Langflow, RustFS, and Apache Superset. Stay ahead of third-party risks with Black Kite.</description>
+    <pubDate>Thu, 05 Mar 2026 21:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Four Cybersecurity Tips for Navigating to a Hybrid Work Environment</title>
+    <link>https://blackkite.com/blog/four-cybersecurity-tips-for-navigating-to-a-hybrid-work-environment</link>
+    <description>Today's new work model requires new security measures. Keep your organization and your employees safe with these tips for managing a hybrid work model</description>
+    <pubDate>Wed, 16 Jun 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Top Five Third-Party Breaches in April 2021: Hackers Bite from Apple, Airlines Hit Turbulence &amp; More</title>
+    <link>https://blackkite.com/blog/top-five-third-party-breaches-in-april-2021-hackers-bite-from-apple-airlines-hit-turbulence-and-more</link>
+    <description>Hackers take a bite from Apple, airlines hit turbulence and more from last month's major breaches.  </description>
+    <pubDate>Tue, 04 May 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How Protected Are You Against Ransomware?</title>
+    <link>https://blackkite.com/blog/how-protected-are-you-against-ransomware</link>
+    <description>By the time you're done reading this sentence, another ransomware attack will have occurred. Is your organization on the hit list?</description>
+    <pubDate>Tue, 25 May 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cyber Risk Ratings Leader NormShield Rebrands to “Black Kite”</title>
+    <link>https://blackkite.com/blog/cyber-risk-ratings-leader-normshield-rebrands-to-black-kite</link>
+    <description>Black Kite, the cyber risk ratings company formerly known as NormShield, today revealed its new name, logo, and headquarters.</description>
+    <pubDate>Mon, 11 Jan 2021 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why Reputational Risk Matters Regardless of Company Size</title>
+    <link>https://blackkite.com/blog/why-reputational-risk-matters-regardless-of-company-size</link>
+    <description>We define reputational risk and most importantly – why managing reputational risk matters in the digital era regardless of company size.</description>
+    <pubDate>Tue, 16 Feb 2021 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Five Reasons Why Supply Chains Need Security Monitoring</title>
+    <link>https://blackkite.com/blog/five-reasons-why-supply-chains-need-security-monitoring</link>
+    <description>Supply chains have evolved—and so have cybersecurity standards. Here are 5 reasons today's cyber ecosystems demand risk monitoring.</description>
+    <pubDate>Tue, 30 Mar 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Are Security Rating Services Really Worth it for SMBs?</title>
+    <link>https://blackkite.com/blog/are-security-rating-services-really-worth-it-for-smbs</link>
+    <description>Let’s take a look at some of the security challenges SMBs face and how automation can reduce the burden.</description>
+    <pubDate>Tue, 09 Feb 2021 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Evolution of Artificial Intelligence and Cyber Risk</title>
+    <link>https://blackkite.com/blog/artificial-intelligence-cyber-risk</link>
+    <description>When it comes to the evolution of artificial intelligence, things are changing rapidly. Learn more about how changes can affect your org’s cyber risk.</description>
+    <pubDate>Wed, 31 May 2023 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Final Rule: SEC to Require Companies to Report Breaches in 4 Days</title>
+    <link>https://blackkite.com/blog/final-rule-sec-to-require-companies-to-report-breaches-in-4-days</link>
+    <description>The SEC finalized new cybersecurity rules, requiring companies to report breaches within a matter of days. Discover what it all means here.</description>
+    <pubDate>Thu, 27 Jul 2023 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Unique Risks Small Businesses Face Using Third-Party Vendors</title>
+    <link>https://blackkite.com/blog/small-business-third-party-vendors-risks</link>
+    <description>Small businesses face a unique set of challenges regarding TPRM. Why it’s essential for them to implement a strong third-party vendor management process.</description>
+    <pubDate>Tue, 20 Jun 2023 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Black Kite Review: RSAC 2023</title>
+    <link>https://blackkite.com/blog/rsac-2023-in-review</link>
+    <description>Insights on RSAC 2023 from Black Kite’s Senior Vice President and Cyber Risk Evangelist, Jeffrey Wheatman, and Head of Research, Dr. Ferhat Dikbiyik.</description>
+    <pubDate>Wed, 17 May 2023 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>It’s Time to Make Multi-Factor Authentication (MFA) Part of Your Daily Routine</title>
+    <link>https://blackkite.com/blog/its-time-to-make-multi-factor-authentication-mfa-part-of-your-daily-routine</link>
+    <description>One of the four focuses this year for cybersecurity awareness month is implementing multi-factor authentication. Let’s discuss it!</description>
+    <pubDate>Wed, 05 Oct 2022 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>I Like Cheese – Please Stop Talking About Cost Cutting – Instead Focus On Cost Optimization</title>
+    <link>https://blackkite.com/blog/i-like-cheese-please-stop-talking-about-cost-cutting-instead-focus-on-cost-optimization</link>
+    <description>Cost cutting frequently results in dropping controls or tools and ends in losing layers of protection – how can we prioritize cost optimization?</description>
+    <pubDate>Fri, 11 Nov 2022 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cybersecurity Rating vs. Penetration Testing (Pen Test)</title>
+    <link>https://blackkite.com/blog/cybersecurity-rating-vs-penetration-testing-pen-test</link>
+    <description>IT leaders are responsible for keeping digital and informational assets safe and secure. Protecting employees and client data should be a priority.</description>
+    <pubDate>Fri, 22 Jul 2022 05:00:00 GMT</pubDate>
+  </item>
   <item>
     <title>Resource Roundup: Stop Drowning in CVEs &amp; Prioritize Your Supply Chain Vulnerabilities</title>
     <link>https://blackkite.com/blog/resource-roundup-stop-drowning-in-cves-prioritize-your-supply-chain-vulnerabilities</link>
@@ -44,7 +134,7 @@
   <item>
     <title>CISO on the Road with Bob Maley</title>
     <link>https://blackkite.com/blog/ciso-on-the-road-with-bob-maley</link>
-    <description>At each CISO Exec Net, CISOs from different companies meet up and discuss the most pressing and top-of-mind topics together. </description>
+    <description>At each CISO Exec Net, CISOs from different companies meet up and discuss the most pressing and top-of-mind topics together.</description>
     <pubDate>Wed, 03 Aug 2022 05:00:00 GMT</pubDate>
   </item>
   <item>
@@ -68,7 +158,7 @@
   <item>
     <title>How Are Threat Actors Leveraging AI Tools in Their Attacks?</title>
     <link>https://blackkite.com/blog/ai-tools-cyber-attacks</link>
-    <description>As AI tools grow in popularity, it’s important to consider how threat actors use AI to launch cyber attacks. </description>
+    <description>As AI tools grow in popularity, it’s important to consider how threat actors use AI to launch cyber attacks.</description>
     <pubDate>Tue, 18 Jul 2023 05:00:00 GMT</pubDate>
   </item>
   <item>
@@ -94,96 +184,6 @@
     <link>https://blackkite.com/blog/social-engineering-cybersecurity</link>
     <description>Social engineering is a type of cyber risk that predates computers. Learn more about this type of risk and how to protect your organization.</description>
     <pubDate>Thu, 15 Jun 2023 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Black Kite Named a Forbes Best Startup Employer</title>
-    <link>https://blackkite.com/blog/black-kite-named-a-forbes-best-startup-employer</link>
-    <description>Black Kite is named one of Forbes Best Startup Employers for 2026 based on research on company reputation, employee satisfaction, and growth.</description>
-    <pubDate>Thu, 05 Mar 2026 21:56:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Focus Friday: FTPRM Insights on Critical Vulnerabilities in FreeScout, pac4j, MongoDB, Django, Langflow, RustFS, and Apache Superset</title>
-    <link>https://blackkite.com/blog/focus-friday-ftprm-insights-on-critical-vulnerabilities-in-freescout-pac4j-mongodb-django-langflow-rustfs-and-apache-superset</link>
-    <description>Expert TPRM analysis of critical vulnerabilities in FreeScout, pac4j, MongoDB, Django, Langflow, RustFS, and Apache Superset. Stay ahead of third-party risks with Black Kite.</description>
-    <pubDate>Fri, 06 Mar 2026 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Your Ransomware Fatigue Is Leaving the Back Door Open</title>
-    <link>https://blackkite.com/blog/ransomware-fatigue-is-leaving-the-back-door-open</link>
-    <description>Ransomware fatigue is real – but risky. Discover how third-party risks are leaving your organization exposed and what CISOs can do now.</description>
-    <pubDate>Thu, 06 Nov 2025 15:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Focus Friday: TPRM Insights Into React2Shell and Mixpanel Data Exposure Risks</title>
-    <link>https://blackkite.com/blog/focus-friday-tprm-insights-into-react2shell-and-mixpanel-data-exposure-risks</link>
-    <description>TPRM Insights Into Focus Friday: React2Shell and Mixpanel Data Exposure Risks from the Week of December 5, 2025.</description>
-    <pubDate>Thu, 04 Dec 2025 16:38:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Focus Friday: TPRM Insights Into SonicWall SSL VPN, Grafana Enterprise SCIM, Apache SkyWalking Vulnerabilities, and Gainsight Client Incident</title>
-    <link>https://blackkite.com/blog/focus-friday-tprm-insights-into-sonicwall-ssl-vpn-grafana-enterprise-scim-apache-skywalking-vulnerabilities-and-gainsight-client-incident</link>
-    <description>TPRM Insights Into Focus Friday: SonicWall SSL VPN, Grafana, Apache SkyWalking Vulnerabilities, and Gainsight Incident from the Week of November 28, 2025.</description>
-    <pubDate>Fri, 28 Nov 2025 06:15:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Rethink What's Possible in TPRM AI: Moving from Automation to Agents</title>
-    <link>https://blackkite.com/blog/rethink-whats-possible-in-tprm-ai-moving-from-automation-to-agents</link>
-    <description>Stop confusing TPRM automation with true AI. Discover how agentic systems unlock predictive analysis, foresight, and risk detection.</description>
-    <pubDate>Mon, 24 Nov 2025 13:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Focus Friday: TPRM Insights Into FortiWeb, SolarWinds Serv-U, OAuth2 Proxy, pgAdmin, and W3 Total Cache Vulnerabilities</title>
-    <link>https://blackkite.com/blog/focus-friday-tprm-insights-into-fortiweb-solarwinds-serv-u-oauth2-proxy-pgadmin-and-w3-total-cache-vulnerabilities</link>
-    <description>TPRM Insights Into FortiWeb, SolarWinds Serv-U, OAuth2 Proxy, pgAdmin, and W3 Total Cache Vulnerabilities from the Week of November 14, 2025.</description>
-    <pubDate>Fri, 21 Nov 2025 06:27:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ransomware is Easy, And That's the Problem</title>
-    <link>https://blackkite.com/blog/ransomware-is-easy-and-thats-the-problem</link>
-    <description>Ransomware is booming as low-barrier RaaS fuels chaotic attacks and targets SMBs. Discover the new threat landscape and how to stay ahead in TPRM.</description>
-    <pubDate>Tue, 18 Nov 2025 14:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>What’s Next in Ransomware: How Threat Actors Will Weaponize AI</title>
-    <link>https://blackkite.com/blog/whats-next-in-ransomware-how-threat-actors-will-weaponize-ai</link>
-    <description>Discover the three ways AI will accelerate supply chain attacks, from real-time mapping to self-evolving malware.</description>
-    <pubDate>Mon, 17 Nov 2025 16:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Is Your Vendors’ AI Putting You at Risk?</title>
-    <link>https://blackkite.com/blog/is-your-vendors-ai-putting-you-at-risk</link>
-    <description>Your vendors are using AI, creating new risks faster than traditional TPRM can manage. Learn to adapt your vendor oversight with a new framework.</description>
-    <pubDate>Thu, 13 Nov 2025 14:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Focus Friday: TPRM Insights on SharePoint, MSSQL, Kibana, Django, and Open WebUI</title>
-    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-sharepoint-mssql-kibana-django-and-open-webui</link>
-    <description>TPRM Insights on SharePoint, MSSQL, Kibana, Django, and Open WebUI Vulnerabilities from the Week of November 14, 2025.</description>
-    <pubDate>Fri, 14 Nov 2025 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Why Ransomware Groups are Zeroing in on SMBs</title>
-    <link>https://blackkite.com/blog/why-ransomware-groups-are-zeroing-in-on-smbs</link>
-    <description>Ransomware attacks now target SMBs for maximum supply chain disruption. Learn new tactics and how to secure your organization from third-party risks.</description>
-    <pubDate>Tue, 11 Nov 2025 14:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Focus Friday: TPRM Insights on MOVEit, Redis, Control Web Panel, DNN Software, and XWiki Vulnerabilities</title>
-    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-moveit-redis-control-web-panel-dnn-software-and-xwiki-vulnerabilities</link>
-    <description>TPRM Insights on MOVEit, Redis, Control Web Panel, DNN Software, and XWiki vulnerabilities from the week of November 3, 2025.</description>
-    <pubDate>Fri, 07 Nov 2025 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Focus Friday: Critical Third-Party Risks In Mikrotik Routeros, Apache Tomcat, Hashicorp Vault, and Litespeed Plugin</title>
-    <link>https://blackkite.com/blog/focus-friday-critical-third-party-risks-in-mikrotik-routeros-apache-tomcat-hashicorp-vault-and-litespeed-plugin</link>
-    <description>Discover how Mikrotik RouterOS, Apache Tomcat, HashiCorp Vault, and LiteSpeed Plugin vulnerabilities impact third-party risk.</description>
-    <pubDate>Fri, 31 Oct 2025 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Now’s the Time for Agile, Data-Driven TPRM (and Our Latest Research Proves It)</title>
-    <link>https://blackkite.com/blog/nows-the-time-for-agile-data-driven-tprm-and-our-latest-research-proves-it</link>
-    <description>Traditional TPRM fails against modern threats. New research reveals how to build an agile third-party risk management program for supply chain resilience.</description>
-    <pubDate>Wed, 04 Jun 2025 05:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

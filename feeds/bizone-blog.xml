@@ -4,12 +4,90 @@
   <title>BI.ZONE Blog (Custom Feed)</title>
   <link>https://bi.zone/eng/expertise/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 08:55:02 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 16:22:50 GMT</lastBuildDate>
   <item>
     <title>Technical articles</title>
     <link>https://bi.zone/eng/expertise/blog/</link>
     <description>BI.ZONE expert research and practical materials on cybersecurity</description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Security of JSON Web Tokens (JWT)</title>
+    <link>https://bi.zone/eng/expertise/blog/security-of-json-web-tokens-jwt/</link>
+    <description>In this article we will see what JWTs are, compare them with a classic authentication scheme and share how to prevent the most common types of attacks</description>
+    <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Hunting in action</title>
+    <link>https://bi.zone/eng/expertise/blog/threat-hunting-in-action/</link>
+    <description>In this publication, we will dive deeper to explore Threat Hunting in action, drawing on the example of a simulated incident</description>
+    <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Hunting. Why might you need it</title>
+    <link>https://bi.zone/eng/expertise/blog/threat-hunting-why-might-you-need-it/</link>
+    <description>In this article, we will give our vision of Threat Hunting and explain what you need to have to get started. With examples, we will provide insight into various approaches to Threat Hunting and assess their pros and cons</description>
+    <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Hunting down MS Exchange attacks. Part 1. ProxyLogon (CVE-2021-26855, 26858, 27065, 26857)</title>
+    <link>https://bi.zone/eng/expertise/blog/hunting-down-ms-exchange-attacks-part-1/</link>
+    <description>Microsoft Exchange is one of the most common mail servers used by hundreds of thousands of companies around the world. Its popularity and accessibility from the Internet make it an attractive target for attackers</description>
+    <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Hunting for advanced Tactics, Techniques and Procedures (TTPs)</title>
+    <link>https://bi.zone/eng/expertise/blog/hunting-for-advanced-tactics-techniques-and-procedures-ttps/</link>
+    <description>The final part in the Threat Hunting series of articles</description>
+    <pubDate>Wed, 25 Aug 2021 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Hunting down MS Exchange attacks. Part 2 (CVE-2020-0688, CVE-2020-16875, CVE-2021-24085)</title>
+    <link>https://bi.zone/eng/expertise/blog/hunting-down-ms-exchange-attacks-part-2/</link>
+    <description>Although these vulnerabilities are not as recent as ProxyLogon, we continue to find signs of their exploitation (including successful exploitation). The sooner an exploitation attempt is detected, the more likely it is to minimise or avoid the impact of the attack on the organization</description>
+    <pubDate>Wed, 25 Aug 2021 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Leveraging darknet to predict attacks</title>
+    <link>https://bi.zone/eng/expertise/blog/kak-ispolzovat-dannye-s-tenevykh-resursov-dlya-predskazaniya-kiberatak/</link>
+    <description>In the third article of our cycle of publications on actionable threat intelligence, we delve into the insights that can be derived from darknet ads</description>
+    <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mapping and leveraging cyber threat landscape to&amp;nbsp;predict attacks</title>
+    <link>https://bi.zone/eng/expertise/blog/landshaft-kiberugroz-organizatsii-kak-opredelit-i-kak-ispolzovat-dlya-prognozirovaniya-atak/</link>
+    <description>This is the second article in our series on using cyber intelligence insights. This time, BI.ZONE Threat Intelligence explores how knowing and understanding adversaries, their methods and tools help build stronger IT infrastructure defenses</description>
+    <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Embracing adversary-centric approach to avoid impact</title>
+    <link>https://bi.zone/eng/expertise/blog/kak-ugrozotsentrichnyy-podkhod-pozvolyaet-izbezhat-ushcherba-ot-kiberatak/</link>
+    <description>This is an introductory article in our series on leveraging cyber intelligence insights in everyday practice. BI.ZONE Threat Intelligence explores a cybersecurity approach that allows organizations to prioritize the most relevant threats</description>
+    <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Arcane Werewolf revamps its arsenal with Loki 2.1 implant</title>
+    <link>https://bi.zone/eng/expertise/blog/arcane-werewolf-vernulsya-s-obnovlennym-implantom-loki/</link>
+    <description>The cluster targets Russian manufacturing companies</description>
+    <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Adversaries exploit CVE-2025-55182 to attack Russian companies</title>
+    <link>https://bi.zone/eng/expertise/blog/zloumyshlenniki-ekspluatiruyut-uyazvimost-cve-2025-55182-v-atakakh-na-rossiyskie-kompanii/</link>
+    <description>In most cases, the attacks aim to deploy the XMRig miner. However, threat actors also deliver implants, botnets, and other malware</description>
+    <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Approaching cyclone: Vortex Werewolf attacks Russia</title>
+    <link>https://bi.zone/eng/expertise/blog/nadvigayushchiysya-tsiklon-vortex-werewolf-atakuet-rossiyu/</link>
+    <description>A new threat actor leverages phishing to spread malware. In this article, we examine a Vortex Werewolf attack that employs webpages mimicking file downloads in Telegram</description>
+    <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Utilizing adversary infrastructure insights to derail attacks</title>
+    <link>https://bi.zone/eng/expertise/blog/narushit-plany-atakuyushchikh-kak-primenyat-znaniya-ob-ikh-infrastrukture-v-svoyu-polzu/</link>
+    <description>This article explains how blocking threat actors' infrastructure can disrupt their control over malware and prevent further impact</description>
+    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
   </item>
   <item>
     <title>A striking resemblance: Gambling Hyena and Twelfth Hyena clusters compared</title>
@@ -106,84 +184,6 @@
     <link>https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2024-38227-v-microsoft-sharepoint/</link>
     <description>We investigated third-party code execution in the corporate portal solution and also analyzed its architecture</description>
     <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Core Werewolf hones its arsenal against Russia's government organizations</title>
-    <link>https://bi.zone/eng/expertise/blog/ne-budi-likho-core-werewolf-sovershenstvuet-ataki-na-rossiyskie-gosorganizatsii/</link>
-    <description>Adversaries experiment with new tools and malware delivery methods</description>
-    <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Wreaking havoc in cyberspace: threat actors experiment with pentest tools</title>
-    <link>https://bi.zone/eng/expertise/blog/khaos-v-kiberprostranstve-gruppirovki-eksperimentiruyut-s-instrumentami/</link>
-    <description>A new research by BI.ZONE Threat Intelligence reveals how adversaries attempt to bypass cybersecurity systems</description>
-    <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Zooming in on CVE-2024-7965</title>
-    <link>https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2024-7965/</link>
-    <description>We have analyzed the CVE-2024-7965 vulnerability that allows adversaries to execute arbitrary code in the Google Chrome renderer</description>
-    <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Stone Wolf employs Meduza Stealer to hack Russian companies</title>
-    <link>https://bi.zone/eng/expertise/blog/stone-wolf-atakuet-rossiyskie-kompanii-stilerom-meduza/</link>
-    <description>A new cluster of activity abuses a legitimate brand to spearphish for credentials and system data</description>
-    <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Breaking down Windows critical vulnerability CVE-2024-38063</title>
-    <link>https://bi.zone/eng/expertise/blog/analiz-kriticheskoy-uyazvimosti-windows-cve-2024-38063/</link>
-    <description>We take a closer look at the Windows TCP/IP network stack flaw that could potentially lead to a full system compromise without any action on the part of the user</description>
-    <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Bloody Wolf strikes organizations in Kazakhstan with STRRAT commercial malware</title>
-    <link>https://bi.zone/eng/expertise/blog/bloody-wolf-primenyaet-kommercheskoe-vpo-strrat-protiv-organizatsiy-v-kazakhstane/</link>
-    <description>The program selling for as little as $80 on underground resources allows the adversaries to take control of corporate computers and hijack restricted data</description>
-    <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Sapphire Werewolf polishes Amethyst stealer to attack over 300 companies</title>
-    <link>https://bi.zone/eng/expertise/blog/sapphire-werewolf-ottachivaet-izvestnyy-stiler-dlya-novykh-atak/</link>
-    <description>The adversaries use the open-source SapphireStealer to create their own malware for collecting employee authentication data from Russian companies</description>
-    <pubDate>Mon, 27 May 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Scaly Wolf's new loader: the right tool for the wrong job</title>
-    <link>https://bi.zone/eng/expertise/blog/novyy-zagruzchik-scaly-wolf-okazalsya-neprigodnym-dlya-atak/</link>
-    <description>The BI.ZONE Threat Intelligence team has uncovered a fresh campaign by the group targeting Russian and Belarusian organizations</description>
-    <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cloud Werewolf spearphishes for government employees in Russia and Belarus with fake spa vouchers and federal decrees</title>
-    <link>https://bi.zone/eng/expertise/blog/cloud-werewolf-atakuet-gossluzhashchikh-rossii-i-belarusi-putevkami-na-lechenie-i-prikazami-sluzhb/</link>
-    <description>The attackers use phishing emails with seemingly legitimate documents and evade defenses by hosting the malicious payload on a remote server and limiting its downloads</description>
-    <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Fluffy Wolf sends out reconciliation reports to sneak into corporate infrastructures</title>
-    <link>https://bi.zone/eng/expertise/blog/davayte-sverimsya-kak-fluffy-wolf-ispolzuet-akty-sverki-v-atakakh/</link>
-    <description>The group has adopted a simple yet effective approach to gain initial access: phishing emails with an executable attachment. This way, Fluffy Wolf establishes remote access, steals credentials, or exploits the compromised infrastructure for mining</description>
-    <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Mysterious Werewolf hits defense industry with new RingSpy backdoor</title>
-    <link>https://bi.zone/eng/expertise/blog/mysterious-werewolf-atakuet-vpk-s-pomoshchyu-novogo-bekdora-ringspy/</link>
-    <description>The criminal group gains initial access through phishing emails with a compressed executable that unleashes RingSpy, an original remote access backdoor</description>
-    <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Scaly Wolf uses White Snake stealer against Russian industry</title>
-    <link>https://bi.zone/eng/expertise/blog/scaly-wolf-primenyaet-stiler-white-snake-protiv-rossiyskoy-promyshlennosti/</link>
-    <description>The group has been on the radar since the summer of 2023, conducted several phishing campaigns, using Russian state body and law enforcement identities</description>
-    <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Digging into CVE-2025-62592 in Oracle VirtualBox for macOS</title>
-    <link>https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2025-62592-v-oracle-virtualbox-dlya-macos/</link>
-    <description>We uncover a virtualization software vulnerability causing an ASLR leak</description>
-    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

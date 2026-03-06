@@ -4,13 +4,7 @@
   <title>AppOmni Blog (Custom Feed)</title>
   <link>https://appomni.com/article-type/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Tue, 03 Mar 2026 20:17:35 GMT</lastBuildDate>
-  <item>
-    <title>Resources</title>
-    <link>https://appomni.com/resources/</link>
-    <description>Explore our diverse collection of resources covering SaaS security, AI security, compliance, and best practices.</description>
-    <pubDate>Tue, 03 Mar 2026 20:17:08 GMT</pubDate>
-  </item>
+  <lastBuildDate>Fri, 06 Mar 2026 16:22:21 GMT</lastBuildDate>
   <item>
     <title>Accenture Partners with AppOmni to Enhance Salesforce Security and Tackle SaaS Misconfiguration Risk</title>
     <link>https://appomni.com/blog/accenture-partners-with-appomni-to-enhance-salesforce-security-and-tackle-saas-misconfiguration-risk/</link>
@@ -100,6 +94,12 @@
     <link>https://appomni.com/blog/how-to-comply-with-cyber-essentials-requirements-uk/</link>
     <description>Learn how a robust SSPM solution — like AppOmni — can help UK-based organizations to properly comply with the latest Cyber Essentials guidelines.</description>
     <pubDate>Tue, 02 May 2023 21:01:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Resources</title>
+    <link>https://appomni.com/resources/</link>
+    <description>Explore our diverse collection of resources covering SaaS security, AI security, compliance, and best practices.</description>
+    <pubDate>Tue, 03 Mar 2026 20:17:08 GMT</pubDate>
   </item>
   <item>
     <title>Risk Assessment</title>
