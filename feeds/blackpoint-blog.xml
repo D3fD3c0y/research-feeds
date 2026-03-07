@@ -4,12 +4,96 @@
   <title>Blackpoint Cyber Blog (Custom Feed)</title>
   <link>https://blackpointcyber.com/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sat, 07 Mar 2026 02:42:42 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 08:47:23 GMT</lastBuildDate>
   <item>
     <title>Blog</title>
     <link>https://blackpointcyber.com/blog/</link>
     <description>Sharpen your defenses with the latest threat insights, industry trends and product updates sure to put you one step ahead of hackers – and your competition.</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:38 GMT</pubDate>
+    <pubDate>Sat, 07 Mar 2026 08:47:18 GMT</pubDate>
+  </item>
+  <item>
+    <title>MSPs’ Role in Shining a Light on the Dark Web</title>
+    <link>https://blackpointcyber.com/blog/msps-role-in-shining-a-light-on-the-dark-web/</link>
+    <description>MSPs’ Role in Shining a Light on the Dark Web</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:18 GMT</pubDate>
+  </item>
+  <item>
+    <title>EDR &amp; SIEM: Protection of the Past</title>
+    <link>https://blackpointcyber.com/blog/edr-siem-protection-of-the-past/</link>
+    <description>Ever wondered the difference between managed EDR, SIEM-based MDRs, and true MDR? In our blog, we examine each three to help you differentiate.</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>APG Threat Digest: 22nd Edition</title>
+    <link>https://blackpointcyber.com/blog/apg-threat-digest-22nd-edition/</link>
+    <description>In the last edition of the APG Threat Digest in 2023, learn about the resurgence of Qakbot, the latest exploitation of Log4Shell, and more.</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>BlackCat Ransomware Group Taken Down, but Ransomware Threats Persist</title>
+    <link>https://blackpointcyber.com/blog/blackcat-ransomware-group-taken-down-but-ransomware-threats-persist/</link>
+    <description>The BlackCat/ALPHV ransomware group was disrupted today, but does its takedown reduce the threat of ransomware? Not so much. Read our blog to learn more!</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>Navigating Holiday Hazards</title>
+    <link>https://blackpointcyber.com/blog/navigating-holiday-hazards/</link>
+    <description>We are joined by our Director of Internal Security Compliance to discuss the spike in cybercrime during the holiday season.</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>Most Common Cyberthreats to Your Industry</title>
+    <link>https://blackpointcyber.com/blog/most-common-cyberthreats-to-your-industry/</link>
+    <description>Learn about the most common cyberthreats for healthcare, law firms, finance, retail, and manufacturing, and why they're vulnerable.</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>APG Threat Digest: 17th Edition</title>
+    <link>https://blackpointcyber.com/blog/apg-threat-digest-5/</link>
+    <description>Read the Adversary Pursuit Group's latest Threat Digest active vulnerabilities and the dangers of different malware strains.</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mapping Your Stack to a Security Framework</title>
+    <link>https://blackpointcyber.com/blog/mapping-your-stack-to-a-security-framework/</link>
+    <description>Mapping your MSP's security stack to a cybersecurity framework helps streamline your strategy &amp; increase your credibility. Learn more now.</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>APG Threat Digest: 18th Edition</title>
+    <link>https://blackpointcyber.com/blog/apg-threat-digest-6/</link>
+    <description>Read our latest Adversary Pursuit Group's Threat Digest blog for the latest exploited vulnerabilities and threat actor tactics.</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Packaging Your Pricing for Simplified Selling: The MSP's Guide</title>
+    <link>https://blackpointcyber.com/blog/packaging-your-pricing-for-simplified-selling-the-msps-guide/</link>
+    <description>Have you been struggling with how to package your MSP's pricing for simplified selling and scaling? Read our blog to learn how!</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>APG Threat Digest: 21st Edition</title>
+    <link>https://blackpointcyber.com/blog/apg-threat-digest-21th-edition/</link>
+    <description>This week, the APG looks back on malicious Russian activity, and the ongoing targeting of Atlassian products &amp; macOS devices.</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>Empowering MSPs with Blackpoint’s Cloud MDR</title>
+    <link>https://blackpointcyber.com/blog/empowering-msps-with-blackpoints-cloud-mdr/</link>
+    <description>With Cloud Response, MSPs can protect Microsoft &amp; Google users, through MDR &amp; a SOC, providing robust &amp; resilient cloud security.</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blackpoint’s 2024 Cyberthreat Predictions</title>
+    <link>https://blackpointcyber.com/blog/blackpoints-2024-cyberthreat-predictions/</link>
+    <description>Join Blackpoint's senior director of threat operations as he discusses his 2024 predictions for the cyberthreat landscape.</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>APG Threat Digest: 20th Edition</title>
+    <link>https://blackpointcyber.com/blog/apg-threat-digest-20th-edition/</link>
+    <description>In our 20th edition of the APG Threat Digest, we examine critical vulnerabilities, new ransomware strains, and zero-day threats.</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:23 GMT</pubDate>
   </item>
   <item>
     <title>This Week in Review: AnyDesk, TeamViewer, QuickBooks, and IsErIk Malware</title>
@@ -100,90 +184,6 @@
     <link>https://blackpointcyber.com/blog/driving-msp-growth-with-a-racers-mindset/</link>
     <description>A rising star in youth race car driving, Jack Murchison, shares best practices from behind the wheel that translate to the world of MSPs.</description>
     <pubDate>Fri, 06 Mar 2026 19:35:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Blackpoint Powers Up for Pax8 Beyond</title>
-    <link>https://blackpointcyber.com/blog/blackpoint-powers-up-for-pax8-beyond/</link>
-    <description>Blackpoint Cyber is going to Pax8 Beyond 2024 with a talk on why MSPs must pair AI with security, and to share our MDR+Remediation message. See how to meet us!</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>What is AI, Actually?</title>
-    <link>https://blackpointcyber.com/blog/what-is-ai-actually/</link>
-    <description>Is AI the silver bullet your IT company needs for cybersecurity? Check out Blackpoint’s perspective based on experience on the frontlines.</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>How To Bring the Best Enterprise Cybersecurity Solutions to Your Small Business Clients</title>
-    <link>https://blackpointcyber.com/blog/how-to-bring-the-best-enterprise-cybersecurity-solutions-to-your-small-business-clients/</link>
-    <description>Learn how one MSP relies on Blackpoint to enhance his Microsoft investment to bring enterprise-grade security to his small business clients.</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>WebBrowserPassView, Process Hollowing, and LotL Tool Abuse</title>
-    <link>https://blackpointcyber.com/blog/webbrowserpassview-process-hollowing-and-lotl-tool-abuse/</link>
-    <description>Blackpiont analyzes lateral movement within a real estate company's network, as well as user credential access and defense evasion incidents.</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>Threat Actors’ Heads Are in the Clouds</title>
-    <link>https://blackpointcyber.com/blog/threat-actors-heads-are-in-the-clouds/</link>
-    <description>Learn how Blackpoint’s SOC is adjusting their response capabilities and reporting workflows to detect and detain more cloud cyberattacks.</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>Vulnerable RMM Tools and Vulnerable Industries: Why Vigilance is Key</title>
-    <link>https://blackpointcyber.com/blog/vulnerable-rmm-tools-and-vulnerable-industries-why-vigilance-is-key/</link>
-    <description>Vigilance is critical in light of cyberattacks on the healthcare industry and vulnerabilities within critical IT tools.</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>An MSP Survival Guide: 3 Fundamentals for Growth</title>
-    <link>https://blackpointcyber.com/blog/an-msp-survival-guide-3-fundamentals-for-growth/</link>
-    <description>Beat the competition, instill seamless customer experience, and retain SMB partners with Blackpoint Cyber's tools.</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>MDR+R Is Coming to Music City—See You in Nashville</title>
-    <link>https://blackpointcyber.com/blog/mdr-r-is-coming-to-music-city-see-you-in-nashville/</link>
-    <description>Blackpoint Cyber will be in Nashville at Robin’s Big Seminar’s IT Sales and Marketing Boot Camp and hosting a lunch and learn.</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>3 Ways to Meet Blackpoint at Right of Boom 2024</title>
-    <link>https://blackpointcyber.com/blog/3-ways-to-meet-blackpoint-at-right-of-boom-2024/</link>
-    <description>Blackpoint Cyber will be at Right of Boom 2024 with a Ducati Monster giveaway, a Capture the Flag challenge, and a talk for MSPs on the latest threat actor trends.</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>Don’t arm the enemy. Safeguard your allies.</title>
-    <link>https://blackpointcyber.com/blog/dont-arm-the-enemy-safeguard-your-allies/</link>
-    <description>Read MacKenzie Brown's perspective on companies' rush to publish Proof-of-Concepts soon after the ConnectWise disclosures were publicized.</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Breaking Through the Screen</title>
-    <link>https://blackpointcyber.com/blog/breaking-through-the-screen/</link>
-    <description>Read a blog from our threat research team on the ConnectWise vulnerabilities, exploitation process, and how to detect these tactics.</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Why Threat Hunters Are Leaving Traditional SIEM for Real-Time Threat Disruption</title>
-    <link>https://blackpointcyber.com/blog/siem-vs-blackpoint/</link>
-    <description>Learn how to get the core functionality of a traditional SIEM along with real-time threat disruption needed for advanced cyberattacks.</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Top 5 Security Learnings from NerdioCon 2024</title>
-    <link>https://blackpointcyber.com/blog/top-5-security-learnings-from-nerdiocon-2024/</link>
-    <description>The Blackpoint team is back from NerdioCon 2024, and here’s a wrapup of our time there including security takeaways.</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Beyond Phishing: Three More Ways Adversaries Complicate Initial Intrusion</title>
-    <link>https://blackpointcyber.com/blog/beyond-phishing-3-ways-adversaries-complicate-initial-intrusion-acsension-health-checkpoint-mandiant-orb-blackpoint-apg/</link>
-    <description>The Ascension Health incident, Checkpoint's VPN CVEs, and Mandiant research on OBR networks all show initial intrusion TTPs beyond phishing.</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:19 GMT</pubDate>
   </item>
 </channel>
 </rss>

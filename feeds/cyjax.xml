@@ -4,7 +4,97 @@
   <title>Cyjax Resources (Blog filter) (Custom Feed)</title>
   <link>https://www.cyjax.com/resources?0402ca75_category_equal=Blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sat, 07 Mar 2026 02:43:37 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 08:48:35 GMT</lastBuildDate>
+  <item>
+    <title>Cyjax&amp;#39;s Top 10 of 2020 - CYJAX</title>
+    <link>https://www.cyjax.com/resources/blog/cyjaxs-top-10-of-2020</link>
+    <description>Cyjax&amp;amp;#39;s Top 10 of 2020 - CYJAX</description>
+    <pubDate>Sat, 07 Mar 2026 08:48:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>Dark Web Marketplaces 2026: Emerging Cybercrime Trends and Threats for CISOs - CYJAX</title>
+    <link>https://www.cyjax.com/resources/blog/dark-web-marketplaces-2026-emerging-cybercrime-trends-and-threats-for-cisos</link>
+    <description>Dark web marketplaces continue to fuel cybercrime in 2026. This blog explores emerging trends, what threat actors are trading, and why dark web monitoring is essential for organisations.</description>
+    <pubDate>Sat, 07 Mar 2026 08:48:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>Dark Web vs Deep Web: What’s the Difference and Why CISOs Should Care  - CYJAX</title>
+    <link>https://www.cyjax.com/resources/blog/dark-web-vs-deep-web</link>
+    <description>Understanding the Deep Web and Dark Web is essential for CISOs navigating today’s threat landscape. This blog breaks down their differences, the risks they pose, and how intelligence-led monitoring helps organisations detect, prevent, and respond to cyber threats before they escalate.</description>
+    <pubDate>Sat, 07 Mar 2026 08:48:30 GMT</pubDate>
+  </item>
+  <item>
+    <title>Darknet Quarterly Review - Q2 2020 - CYJAX</title>
+    <link>https://www.cyjax.com/resources/blog/darknet-quarterly-review-q2-2020</link>
+    <description>Darknet Quarterly Review - Q2 2020 - CYJAX</description>
+    <pubDate>Sat, 07 Mar 2026 08:48:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Darknet Quarterly Review - Q3 2021 - CYJAX</title>
+    <link>https://www.cyjax.com/resources/blog/darknet-quarterly-review-q3-2021</link>
+    <description>Darknet Quarterly Review - Q3 2021 - CYJAX</description>
+    <pubDate>Sat, 07 Mar 2026 08:48:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Darknet Quarterly Review - Q4 2021 - CYJAX</title>
+    <link>https://www.cyjax.com/resources/blog/darknet-quarterly-review-q4-2021</link>
+    <description>Darknet Quarterly Review - Q4 2021 - CYJAX</description>
+    <pubDate>Sat, 07 Mar 2026 08:48:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Darknet Review - Q1 2021 - CYJAX</title>
+    <link>https://www.cyjax.com/resources/blog/darknet-review-q1-2021</link>
+    <description>Darknet Review - Q1 2021 - CYJAX</description>
+    <pubDate>Sat, 07 Mar 2026 08:48:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Darknet Review - Q2 2021 - CYJAX</title>
+    <link>https://www.cyjax.com/resources/blog/darknet-review-q2-2021</link>
+    <description>Darknet Review - Q2 2021 - CYJAX</description>
+    <pubDate>Sat, 07 Mar 2026 08:48:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Darknet Review - Q4 2020 - CYJAX</title>
+    <link>https://www.cyjax.com/resources/blog/darknet-review-q4-2020</link>
+    <description>Darknet Review - Q4 2020 - CYJAX</description>
+    <pubDate>Sat, 07 Mar 2026 08:48:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Data-leak site emergence continues to increase - CYJAX</title>
+    <link>https://www.cyjax.com/resources/blog/data-leak-site-emergence-continues-to-increase</link>
+    <description>Data-leak site emergence continues to increase - CYJAX</description>
+    <pubDate>Sat, 07 Mar 2026 08:48:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>A New Amazonian? Data-Leak Site Emerges for New Extortion Group GD LockerSec - CYJAX</title>
+    <link>https://www.cyjax.com/resources/blog/data-leak-site-emerges-for-new-extortion-group-gd-lockersec</link>
+    <description>A New Amazonian? Data-Leak Site Emerges for New Extortion Group GD LockerSec - CYJAX</description>
+    <pubDate>Sat, 07 Mar 2026 08:48:31 GMT</pubDate>
+  </item>
+  <item>
+    <title>Decoding Threat Intelligence: A Glossary - CYJAX</title>
+    <link>https://www.cyjax.com/resources/blog/decoding-threat-intelligence-a-glossary</link>
+    <description>Decoding Threat Intelligence: A Glossary - CYJAX</description>
+    <pubDate>Sat, 07 Mar 2026 08:48:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>DefacinGit - Defacement page templates hosted on GitHub  - CYJAX</title>
+    <link>https://www.cyjax.com/resources/blog/defacingit---defacement-page-templates-hosted-on-github</link>
+    <description>As explored in CYJAX’s recent blog, “PhishinGit – GitHub.io pages abused for malware distribution”, a core feature of GitHub is that it allows users to create and host free static webpages for repositories on github.io. Whilst this service is primarily used to display legitimate projects and host functional webpages, it is known to be used to host malicious files, infrastructure, and content. </description>
+    <pubDate>Sat, 07 Mar 2026 08:48:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>Deobfuscating Ostap Downloader - CYJAX</title>
+    <link>https://www.cyjax.com/resources/blog/deobfuscating-ostap-downloader</link>
+    <description>Deobfuscating Ostap Downloader - CYJAX</description>
+    <pubDate>Sat, 07 Mar 2026 08:48:34 GMT</pubDate>
+  </item>
+  <item>
+    <title>Durov arrest and the CYJAX monitoring capability - CYJAX</title>
+    <link>https://www.cyjax.com/resources/blog/durov-arrest-and-the-cyjax-monitoring-capability</link>
+    <description>Durov arrest and the CYJAX monitoring capability - CYJAX</description>
+    <pubDate>Sat, 07 Mar 2026 08:48:35 GMT</pubDate>
+  </item>
   <item>
     <title>Cyjax Geopolitical Podcast - August 2020 - The Blog - CYJAX</title>
     <link>https://www.cyjax.com/resources/blog/cyjax-geopolitical-podcast-august-2020-the-blog</link>
@@ -94,96 +184,6 @@
     <link>https://www.cyjax.com/resources/blog/cyjax-white-paper-strategic-intelligence-report-on-latin-america-and-the-caribbean-synopsis</link>
     <description>Cyjax White Paper - Strategic Intelligence Report on Latin America and the Caribbean: Synopsis - CYJAX</description>
     <pubDate>Sat, 07 Mar 2026 02:43:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cybercriminals targeting the legal sector - CYJAX</title>
-    <link>https://www.cyjax.com/resources/blog/cybercriminals-targeting-the-legal-sector</link>
-    <description>Cybercriminals targeting the legal sector - CYJAX</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Alert Fatigue in Cybersecurity: What Is It and how do we manage it? - CYJAX</title>
-    <link>https://www.cyjax.com/resources/blog/cybersecurity-alert-fatigue</link>
-    <description>Alert Fatigue in Cybersecurity: What Is It and how do we manage it? - CYJAX</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cybersecurity and Geopolitical Vodcast (in partnership with Security Magazine) - CYJAX</title>
-    <link>https://www.cyjax.com/resources/blog/cybersecurity-and-geopolitical-vodcast-in-partnership-with-security-magazine</link>
-    <description>Cybersecurity and Geopolitical Vodcast (in partnership with Security Magazine) - CYJAX</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cybersecurity and Geopolitical Vodcast (in partnership with Security Magazine) - CYJAX</title>
-    <link>https://www.cyjax.com/resources/blog/cybersecurity-and-geopolitical-vodcast-in-partnership-with-security-magazine-2</link>
-    <description>Cybersecurity and Geopolitical Vodcast (in partnership with Security Magazine) - CYJAX</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cybersecurity certification and the &amp;#39;skills gap&amp;#39; - CYJAX</title>
-    <link>https://www.cyjax.com/resources/blog/cybersecurity-certification-and-the-skills-gap</link>
-    <description>Cybersecurity certification and the &amp;amp;#39;skills gap&amp;amp;#39; - CYJAX</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cybersecurity in the Healthcare Sector:  Importance, Challenges and Solutions - CYJAX</title>
-    <link>https://www.cyjax.com/resources/blog/cybersecurity-in-the-healthcare-sector-importance-challenges-and-solutions</link>
-    <description>Cybersecurity in the Healthcare Sector:  Importance, Challenges and Solutions - CYJAX</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Unveiling CYJAX 2.0: A Bold Rebrand and Fresh Approach to Threat Intelligence  - CYJAX</title>
-    <link>https://www.cyjax.com/resources/blog/cyjax-2-0</link>
-    <description>Our new brand identity introduces a vibrant lime green palette - representing growth, agility, and illumination. It symbolises CYJAX’s commitment to shining a light on hidden risks and empowering organisations to anticipate and act decisively against emerging threats.</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cyjax Teams Up with Cybermindz to Boost Mental Health in Cyber Teams - CYJAX</title>
-    <link>https://www.cyjax.com/resources/blog/cyjax-and-cybermindz</link>
-    <description>Cyjax Teams Up with Cybermindz to Boost Mental Health in Cyber Teams - CYJAX</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>CYJAX announces strategic partnership with Cyro Cyber to strengthen cyber threat intelligence capabilities - CYJAX</title>
-    <link>https://www.cyjax.com/resources/blog/cyjax-announces-strategic-partnership-with-cyro-cyber-to-strengthen-cyber-threat-intelligence-capabilities</link>
-    <description>CYJAX announces strategic partnership with Cyro Cyber to strengthen cyber threat intelligence capabilities - CYJAX</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>CYJAX Appoints Jonathan Bennett as Chief Executive Officer - CYJAX</title>
-    <link>https://www.cyjax.com/resources/blog/cyjax-appoints-jonathan-bennett-as-chief-executive-officer</link>
-    <description>CYJAX Appoints Jonathan Bennett as Chief Executive Officer - CYJAX</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>CYJAX Celebrates Successful Completion of First Funding Round - CYJAX</title>
-    <link>https://www.cyjax.com/resources/blog/cyjax-celebrates-successful-completion-of-first-funding-round</link>
-    <description>CYJAX Celebrates Successful Completion of First Funding Round - CYJAX</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cyjax Darknet Quarterly Review - CYJAX</title>
-    <link>https://www.cyjax.com/resources/blog/cyjax-darknet-quarterly-review</link>
-    <description>Cyjax Darknet Quarterly Review - CYJAX</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cyjax Geoplitical Podcast - June 2020 - The Blog - CYJAX</title>
-    <link>https://www.cyjax.com/resources/blog/cyjax-geoplitical-podcast-june-2020-the-blog</link>
-    <description>Cyjax Geoplitical Podcast - June 2020 - The Blog - CYJAX</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cyjax Geopolitical Podcast - 2020: A Year In Review - CYJAX</title>
-    <link>https://www.cyjax.com/resources/blog/cyjax-geopolitical-podcast-2020-a-year-in-review</link>
-    <description>Cyjax Geopolitical Podcast - 2020: A Year In Review - CYJAX</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cyjax Geopolitical Podcast - April 2020 - The Blog - CYJAX</title>
-    <link>https://www.cyjax.com/resources/blog/cyjax-geopolitical-podcast-april-2020-the-blog</link>
-    <description>Cyjax Geopolitical Podcast - April 2020 - The Blog - CYJAX</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:14 GMT</pubDate>
   </item>
 </channel>
 </rss>

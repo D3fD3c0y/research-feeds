@@ -4,7 +4,97 @@
   <title>Binary Defense Blog (Custom Feed)</title>
   <link>https://binarydefense.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sat, 07 Mar 2026 02:42:23 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 08:47:04 GMT</lastBuildDate>
+  <item>
+    <title>Cybercriminals Using Coronavirus Scare to Spread Malware</title>
+    <link>https://binarydefense.com/resources/blog/cybercriminals-using-coronavirus-scare-to-spread-malware</link>
+    <description>Many of the websites have delivered the AZORult malware, which is designed to steal passwords for online banking, email and other services. Other efforts…</description>
+    <pubDate>Sat, 07 Mar 2026 08:46:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Emotet Wi-Fi Spreader Upgraded</title>
+    <link>https://binarydefense.com/resources/blog/emotet-wi-fi-spreader-upgraded</link>
+    <description>Protocol Changes While the changes to the Wi-Fi spreader do not affect thekey functionality of the malware, the changes are still notable as theyincrease…</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Downfall of a Cyber-Criminal: “W0zniak”</title>
+    <link>https://binarydefense.com/resources/blog/the-downfall-of-a-cyber-criminal-w0zniak</link>
+    <description>Backdoor Access to MSP for Sale In late September 2019, members of our Intelligence Operations team took notice of a cybercriminal calling themselves…</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Emotet Evolves With new Wi-Fi Spreader</title>
+    <link>https://binarydefense.com/resources/blog/emotet-evolves-with-new-wi-fi-spreader</link>
+    <description>Emotet is a highly sophisticated trojan that typically alsoserves as a loader for other malware. Recently,Binary Defense has identified a new loader type…</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>An Updated ServHelper Tunnel Variant</title>
+    <link>https://binarydefense.com/resources/blog/an-updated-servhelper-tunnel-variant</link>
+    <description>Refer to the MITRE ATT&amp;CKpage on ServHelper for more background: https://attack.mitre.org/software/S0382/ Initial Analysis – a PowerShell Script Packed…</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Disney+ Account Passwords Found on Dark Web: Prevent Your Account…</title>
+    <link>https://binarydefense.com/resources/blog/disney-account-passwords-found-on-dark-web-prevent-your-account-from-being-sold</link>
+    <description>As reported by ZDNet, Fox News and other news sources this week, a large number of usernames and passwords for accounts with Disney’s new and extremely…</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Revenge is a Dish Best Served… Obfuscated?</title>
+    <link>https://binarydefense.com/resources/blog/revenge-is-a-dish-best-served-obfuscated</link>
+    <description>Researching new and emerging cyber threats is common practice for the Binary Defense Threat Hunting team. Recently, the threat hunters came across an…</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Binary Defense MDR Integrates Microsoft Antimalware Scan Interface…</title>
+    <link>https://binarydefense.com/resources/blog/binary-defense-mdr-integrates-microsoft-antimalware-scan-interface-interoperability-amsi</link>
+    <description>With the latest release of the Binary Defense Managed Detection and Response (MDR) solution, we have now fully integrated Microsoft Windows AMSI.</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>SOC Alert! Uptick in Ursnif Distribution</title>
+    <link>https://binarydefense.com/resources/blog/soc-alert-uptick-in-ursnif-distribution</link>
+    <description>Binary Defense has noticed a recent uptick in Ursnif distributed using Reply-Chain attacks and password protected .zip files across multiple clients</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>TrickBot: Ono! New Tricks!</title>
+    <link>https://binarydefense.com/resources/blog/trickbot-ono-new-tricks</link>
+    <description>The Binary Defense Threat Hunter team reveals unusual behaviors of a new TrickBot variant. Threat Hunting is an integral part of any successful…</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>Don’t Fall Victim to Wire Transfer Fraud: Tips to Stay Safe</title>
+    <link>https://binarydefense.com/resources/blog/dont-fall-victim-to-wire-transfer-fraud-tips-to-stay-safe</link>
+    <description>Stay safe from wire transfer fraud. Tips to protect your organization from this common cybercrime from infosec experts.</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>Phishing Financial Firms is Big Business</title>
+    <link>https://binarydefense.com/resources/blog/phishing-financial-firms-is-big-business</link>
+    <description>Phishing is a major threat and will continue to be a popular method of cybercrime. Financial firms are at particularly high risk when it comes to cyber…</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>Secure Your Site(s): Avoid SSL/TLS Certificate Expiration</title>
+    <link>https://binarydefense.com/resources/blog/secure-your-sites-avoid-ssl-tls-certificate-expiration</link>
+    <description>Keeping your site's SSL certificate updated is important for brand and for security. Our Counterintteligence team discusses why and even gives some tips…</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>Using Sysmon and ETW For So Much More</title>
+    <link>https://binarydefense.com/resources/blog/using-sysmon-and-etw-for-so-much-more</link>
+    <description>Hacker in chief, Dave Kennedy explains how to leverage sysmon in cybersecurity efforts for ETW, LOLBAS and more. Check out his step-by-step instructions.</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>Binary Defense Software Developer Uses Programming Expertise to Help…</title>
+    <link>https://binarydefense.com/resources/blog/binary-defense-software-developer-uses-programming-expertise-to-help-injured-veteran-regain-mobility</link>
+    <description>Learn about one of our cybersecurity team member's recent volunteer work programming a mobility device for an injured veteran.</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:04 GMT</pubDate>
+  </item>
   <item>
     <title>How healthcare organizations can ramp up defenses against ransomware…</title>
     <link>https://binarydefense.com/resources/blog/how-healthcare-organizations-can-ramp-up-defenses-against-ransomware-and-other-cyberattacks-five-essential-tips</link>
@@ -94,96 +184,6 @@
     <link>https://binarydefense.com/resources/blog/covid-19-scams-run-rampant</link>
     <description>Phishing and malware emails top 18 million in one week Google reported more than 18 million daily malware and phishing emails that are related to COVID-19…</description>
     <pubDate>Sat, 07 Mar 2026 02:42:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ransomware group targeted DC police, then sent mixed messages about…</title>
-    <link>https://binarydefense.com/resources/blog/ransomware-group-targeted-dc-police-then-sent-mixed-messages-about-shutting-down</link>
-    <description>Metro Police Department was hit with ransomware in late April. Claiming responsibility for the attack, the Babuk ransomware group posted screenshots of…</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>Emerging deepfake technology could have security implications for…</title>
-    <link>https://binarydefense.com/resources/blog/emerging-deepfake-technology-could-have-security-implications-for-businesses</link>
-    <description>The average person would not be able to pull off anything that came close to the Cruise deepfake, or this video from a few years ago in which comedian…</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Binary Defense Named a Leader by Forrester in The Forrester Wave™:…</title>
-    <link>https://binarydefense.com/resources/blog/binary-defense-named-a-leader-by-forrester-in-the-forrester-wave-managed-detection-and-response-q1-2021</link>
-    <description>Binary Defense has been named a “Leader” in the Forrester Wave™ Managed Detection &amp; Response, Q1 2021 Evaluation. The report stated, “Security buyers…</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Top 5 Reasons a SIEM Implementation Fails to Deliver Value</title>
-    <link>https://binarydefense.com/resources/blog/top-5-reasons-a-siem-implementation-fails-to-deliver-value</link>
-    <description>SIEM implementation can be a large project with multiple stakeholders. Without careful planning, the project can drag on indefinitely, or worse--be…</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>IcedID GZIPLOADER Analysis</title>
-    <link>https://binarydefense.com/resources/blog/icedid-gziploader-analysis</link>
-    <description>In addition to this analysis, Binary Defense’s analysts are also releasing a software tool to decrypt the new IcedID gziploader payloads, along with the…</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Unemployment Fraud on the Rise</title>
-    <link>https://binarydefense.com/resources/blog/unemployment-fraud-on-the-rise</link>
-    <description>Unemployment Fraud is a scam that involves people stealing personal identifying information including name, Social Security Number (SSN), Date of Birth…</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>U.S. Government Response to the Growing Threat of Ransomware</title>
-    <link>https://binarydefense.com/resources/blog/u-s-government-response-to-the-growing-threat-of-ransomware</link>
-    <description>By: Patrick Wallenhorst, Intelligence Operations Team Lead Ransomware attacks skyrocketed in 2020 and not a single industry was spared. However, due to…</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Attack on a water treatment plant highlights vulnerabilities in…</title>
-    <link>https://binarydefense.com/resources/blog/attack-on-a-water-treatment-plant-highlights-vulnerabilities-in-infrastructure</link>
-    <description>Hackers leveraged a commercially-available remote access software called Team Viewer, that enabled them to access the computer that controlled the levels…</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Third party vendors present a security risk—how your organization can…</title>
-    <link>https://binarydefense.com/resources/blog/third-party-vendors-present-a-security-risk-how-your-organization-can-stay-protected</link>
-    <description>Days later, news of a major breach at IT management software company Solarwinds Orion software impacted 30,000+ of its customers, including some of the…</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>What Do Criminal Hackers and Scammers Discuss on Forums?</title>
-    <link>https://binarydefense.com/resources/blog/what-do-criminal-hackers-and-scammers-discuss-on-forums</link>
-    <description>A message board or an internet forum is an online discussion site where users can communicate with the entire group of members via posted messages. These…</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cybersecurity predictions for 2021 after an unpredictable 2020</title>
-    <link>https://binarydefense.com/resources/blog/cybersecurity-predictions-for-2021-after-an-unpredictable-2020</link>
-    <description>PARGMAN: At the start of the year, it seemed that the biggest challenges facing IT and security professionals would be how to efficiently leverage their…</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Qakbot Upgrades to Stealthier Persistence Method</title>
-    <link>https://binarydefense.com/resources/blog/qakbot-upgrades-to-stealthier-persistence-method</link>
-    <description>Qakbot typically arrives on the system after a victim opens and enables macros on a malicious Excel workbook file. For the purpose of this analysis,…</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>What to look for in a SIEM</title>
-    <link>https://binarydefense.com/resources/blog/what-to-look-for-in-a-siem</link>
-    <description>Are you aware of every security related event happening in your server and network environment? It’s an impossible task to manually comb through event…</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>What is Carding?</title>
-    <link>https://binarydefense.com/resources/blog/what-is-carding</link>
-    <description>Carding is a term used by information security professionals to describe the actions of threat actors to steal credit card information from businesses and…</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>How to Spot a Potential Phish</title>
-    <link>https://binarydefense.com/resources/blog/how-to-spot-a-potential-phish</link>
-    <description>Phishing is an attack method which an attacker attempts to trick the users into giving-up their sensitive personal identifiable information (PII), such as…</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:27 GMT</pubDate>
   </item>
 </channel>
 </rss>

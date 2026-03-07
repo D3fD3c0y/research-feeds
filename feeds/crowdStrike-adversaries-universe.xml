@@ -4,7 +4,97 @@
   <title>CrowdStrike Adversaries Universe (Custom Feed)</title>
   <link>https://www.crowdstrike.com/en-us/adversaries/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sat, 07 Mar 2026 02:43:13 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 08:47:47 GMT</lastBuildDate>
+  <item>
+    <title>Chaotic Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/chaotic-spider/</link>
+    <description>CHAOTIC SPIDER is a criminal actor—operating under the moniker Desorden—who has been active on English-language cybercriminal forums since Septembe...</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:39 GMT</pubDate>
+  </item>
+  <item>
+    <title>Chariot Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/chariot-spider/</link>
+    <description>CHARIOT SPIDER is an opportunistic adversary that has compromised Microsoft Internet Information Services (IIS) and Adobe ColdFusion web servers si...</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:40 GMT</pubDate>
+  </item>
+  <item>
+    <title>Chef Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/chef-spider/</link>
+    <description>CHEF SPIDER is an eCrime adversary that has historically compromised point-of-sale (POS) systems in the food &amp;amp; beverage and hospitality sectors...</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:40 GMT</pubDate>
+  </item>
+  <item>
+    <title>Clockwork Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/clockwork-spider/</link>
+    <description>CLOCKWORK SPIDER was a criminal group behind the core development and distribution of the commodity banking malware commonly known as Retefe. The ...</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:41 GMT</pubDate>
+  </item>
+  <item>
+    <title>Compass Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/compass-spider/</link>
+    <description>COMPASS SPIDER is an access broker likely located in Eastern Ukraine or Russia who uses the monikers EronM, StreetSkip, Viking, Network, farnetwork...</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:42 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cookie Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/cookie-spider/</link>
+    <description>COOKIE SPIDER (active since at least October 2018) develops and rents Atomic macOS Stealer (AMOS), an information stealer targeting macOS victims v...</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:42 GMT</pubDate>
+  </item>
+  <item>
+    <title>Curly Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/curly-spider/</link>
+    <description>CURLY SPIDER is an eCrime group who has conducted intrusions targeting predominantly North America- and Western Europe-based entities across variou...</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:43 GMT</pubDate>
+  </item>
+  <item>
+    <title>Demon Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/demon-spider/</link>
+    <description>DEMON SPIDER primarily develops and sells downloaders. Currently, the adversary focuses on marketing the two-stage downloader Matanbuchus in a serv...</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:43 GMT</pubDate>
+  </item>
+  <item>
+    <title>Distant Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/distant-spider/</link>
+    <description>DISTANT SPIDER—active since at least February 2022—is an eCrime actor who has exploited vulnerable ManageEngine and KACE servers. The adversary con...</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:44 GMT</pubDate>
+  </item>
+  <item>
+    <title>Donut Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/donut-spider/</link>
+    <description>DONUT SPIDER is a financially motivated Big Game Hunting (BGH) adversary that has developed the HelloXD and D0nut ransomware families. The adversar...</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Doppel Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/doppel-spider/</link>
+    <description>DOPPEL SPIDER is a criminal actor that has been active since at least April 2019 and is responsible for the operation of the malware families Doppe...</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Frozen Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/frozen-spider/</link>
+    <description>FROZEN SPIDER is an eCrime group involved in Big Game Hunting (BGH) operations using the Medusa ransomware. Members of the team fulfill different r...</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>Graceful Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/graceful-spider/</link>
+    <description>GRACEFUL SPIDER is a financially-motivated eCrime group that used the CIop ransomware (spelled with an uppercase 'i'), which is a variant of the Cl...</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:46 GMT</pubDate>
+  </item>
+  <item>
+    <title>Hazard Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/hazard-spider/</link>
+    <description>HAZARD SPIDER—active since at least October 2018—develops and sells the Amadey malware suite, which includes the Amadey Loader downloader, Amadey S...</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:47 GMT</pubDate>
+  </item>
+  <item>
+    <title>Hermit Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/hermit-spider/</link>
+    <description>HERMIT SPIDER is the developer and operator of the PrivateLoader pay-per-install (PPI) service and the information stealer RisePro. Active since at...</description>
+    <pubDate>Sat, 07 Mar 2026 08:47:47 GMT</pubDate>
+  </item>
   <item>
     <title>Phantom Panda Adversary Profile | CrowdStrike</title>
     <link>https://www.crowdstrike.com/adversaries/phantom-panda/</link>
@@ -94,96 +184,6 @@
     <link>https://www.crowdstrike.com/adversaries/carbon-spider/</link>
     <description>CARBON SPIDER is an inactive eCrime adversary that originally targeted the hospitality and retail sectors in pursuit of payment card data, but late...</description>
     <pubDate>Sat, 07 Mar 2026 02:43:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Aquatic Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/aquatic-panda/</link>
-    <description>AQUATIC PANDA is a China-based targeted intrusion adversary with a dual mission of intelligence collection and industrial espionage. AQUATIC PANDA ...</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cascade Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/cascade-panda/</link>
-    <description>CASCADE PANDA is a China-nexus targeted intrusion adversary whose operations are identified by the unique WinDealer malware. Based on the oldest ve...</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Circuit Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/circuit-panda/</link>
-    <description>CIRCUIT PANDA is a China-based targeted intrusion adversary active since at least 2010. CIRCUIT PANDA operations primarily target a wide array of p...</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Dragnet Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/dragnet-panda/</link>
-    <description>DRAGNET PANDA is a China-based targeted intrusion adversary with a likely intelligence-collection mission focused primarily on Tibetan dissident gr...</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Emissary Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/emissary-panda/</link>
-    <description>EMISSARY PANDA is a China-nexus adversary active since at least 2013. This adversary historically leveraged strategic web compromises (SWCs), as we...</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Envoy Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/envoy-panda/</link>
-    <description>ENVOY PANDA is a China-nexus targeted intrusion adversary active since 2011. The adversary consistently targets Africa- and Middle East-based gover...</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ethereal Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/ethereal-panda/</link>
-    <description>ETHEREAL PANDA is a China-based targeted intrusion adversary, likely active since at least 2021. ETHEREAL PANDA operations primarily focus on entit...</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Horde Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/horde-panda/</link>
-    <description>HORDE PANDA is a China-based targeted intrusion adversary with a likely intelligence collection mission. HORDE PANDA has been active since at least...</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Jackpot Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/jackpot-panda/</link>
-    <description>JACKPOT PANDA is a China-nexus targeted intrusion adversary active since at least May 2020. This adversary has been observed primarily targeting en...</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Locksmith Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/locksmith-panda/</link>
-    <description>Since at least June 2023, LOCKSMITH PANDA has engaged in intrusion operations targeting the technology, gaming, energy, and telecommunications sect...</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Lotus Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/lotus-panda/</link>
-    <description>LOTUS PANDA is a targeted intrusion adversary with a suspected nexus to the People's Republic of China (PRC). CrowdStrike first identified LOTUS PA...</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Mustang Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/mustang-panda/</link>
-    <description>MUSTANG PANDA is a China-based targeted intrusion adversary tracked by CrowdStrike Intelligence since 2016, with a likely focus on Central, East an...</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Nomad Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/nomad-panda/</link>
-    <description>NOMAD PANDA is a China-nexus adversary with a demonstrated focus on Central Asian and South Asian nations. CrowdStrike Intelligence has observed NO...</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Operator Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/operator-panda/</link>
-    <description>Since at least November 2024, China-nexus targeted intrusion adversary OPERATOR PANDA has conducted operations against the telecom and professional...</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Overcast Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/overcast-panda/</link>
-    <description>OVERCAST PANDA is a China-nexus targeted intrusion adversary likely active since at least 2019. Previously tracked as the ClearVariable activity cl...</description>
-    <pubDate>Fri, 06 Mar 2026 19:36:07 GMT</pubDate>
   </item>
 </channel>
 </rss>
