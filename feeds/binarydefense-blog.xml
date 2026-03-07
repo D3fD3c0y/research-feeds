@@ -4,7 +4,97 @@
   <title>Binary Defense Blog (Custom Feed)</title>
   <link>https://binarydefense.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 19:35:27 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 02:42:23 GMT</lastBuildDate>
+  <item>
+    <title>How healthcare organizations can ramp up defenses against ransomware…</title>
+    <link>https://binarydefense.com/resources/blog/how-healthcare-organizations-can-ramp-up-defenses-against-ransomware-and-other-cyberattacks-five-essential-tips</link>
+    <description>Healthcare was no exception, and in October, Universal Health Services was hit with what some are calling the “largest cyberattack in US history.” In…</description>
+    <pubDate>Sat, 07 Mar 2026 02:42:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>Top Ten CyberSafe Tips</title>
+    <link>https://binarydefense.com/resources/blog/top-ten-cybersafe-tips</link>
+    <description>Don’t re-use the same passwords Reusing passwords opens you up to additional vulnerabilities because if a hacker gets access to one password, they will be…</description>
+    <pubDate>Sat, 07 Mar 2026 02:42:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Insider Threat: Why Your Greatest Security Risk Might Be Your…</title>
+    <link>https://binarydefense.com/resources/blog/the-insider-threat-why-your-greatest-security-risk-might-be-your-employees</link>
+    <description>That’s because insider threats, which are cyber threats coming from an employee, contractor or trusted partner, either by malicious intent or negligence,…</description>
+    <pubDate>Sat, 07 Mar 2026 02:42:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Best Practices for a Successful Vendor Onboarding Process</title>
+    <link>https://binarydefense.com/resources/blog/best-practices-for-a-successful-vendor-onboarding-process</link>
+    <description>It is very important to complete your due diligence when it comes to managed security services providers, as well as SIEM platforms. Onboarding an MSSP…</description>
+    <pubDate>Sat, 07 Mar 2026 02:42:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>What is the Darknet?</title>
+    <link>https://binarydefense.com/resources/blog/what-is-the-darknet</link>
+    <description>SecMail is a Darknet email service which provides an encrypted email service to its users and allows for a more anonymous email solution. Restricted…</description>
+    <pubDate>Sat, 07 Mar 2026 02:42:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Are you in tune? Why SIEM tuning is important</title>
+    <link>https://binarydefense.com/resources/blog/are-you-in-tune-why-siem-tuning-is-important</link>
+    <description>This is why many organizations outsource their SIEM administration and tuning to a third-party Security Operations Center that has the expert staff to…</description>
+    <pubDate>Sat, 07 Mar 2026 02:42:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>EmoCrash: Exploiting a Vulnerability in Emotet Malware for Defense</title>
+    <link>https://binarydefense.com/resources/blog/emocrash-exploiting-a-vulnerability-in-emotet-malware-for-defense</link>
+    <description>Unique threats require unique solutions, which is why Binary Defense developed a killswitch exploiting a simple buffer overflow found in Emotet’s…</description>
+    <pubDate>Sat, 07 Mar 2026 02:42:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>Creating YARA Rules Based on Code</title>
+    <link>https://binarydefense.com/resources/blog/creating-yara-rules-based-on-code</link>
+    <description>Author: Stephan Simon The first post of this two-part blog covered a simple introduction to YARA, simple rules and the basic structure around them. In…</description>
+    <pubDate>Sat, 07 Mar 2026 02:42:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>Hunting and Defeating Evasive Threats</title>
+    <link>https://binarydefense.com/resources/blog/hunting-and-defeating-evasive-threats</link>
+    <description>Written by: Randy Pargman and James Quinn Threat actors spend a lot of time and energy to evade and defeat detections on their victims’ network. In this…</description>
+    <pubDate>Sat, 07 Mar 2026 02:42:21 GMT</pubDate>
+  </item>
+  <item>
+    <title>Russian Cybercriminal Group Attempts to Steal COVID-19 Vaccine…</title>
+    <link>https://binarydefense.com/resources/blog/russian-cybercriminal-group-attempts-to-steal-covid-19-vaccine-research</link>
+    <description>Last week, as reported in Threat Watch , the APT29 threat group, attributed to Russia’s intelligence service, was found to be targeting various…</description>
+    <pubDate>Sat, 07 Mar 2026 02:42:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>An Overview of the Unethical Services Offered on the Darknet</title>
+    <link>https://binarydefense.com/resources/blog/hackers-for-hire-an-overview-of-the-unethical-services-offered-on-the-darknet</link>
+    <description>Hackers for Hire , which means customized hacking against any company or individual specified by the person paying for the service. Types of Hacker for…</description>
+    <pubDate>Sat, 07 Mar 2026 02:42:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>Intro to Threat Hunting</title>
+    <link>https://binarydefense.com/resources/blog/intro-to-threat-hunting</link>
+    <description>If you’ve been around the information security community, you’ve probably heard the term “Threat Hunting” and considered how you can apply these…</description>
+    <pubDate>Sat, 07 Mar 2026 02:42:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>What is YARA? Get to know this malware research tool</title>
+    <link>https://binarydefense.com/resources/blog/what-is-yara-get-to-know-this-malware-research-tool</link>
+    <description>A Simple “Hello, World!” Rule Before diving into the features of YARA, it may be helpful to see just how simple the rules can be. A simple YARA example As…</description>
+    <pubDate>Sat, 07 Mar 2026 02:42:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>SCAM ALERT: Sophistication, Law Enforcement, and Money - Beware</title>
+    <link>https://binarydefense.com/resources/blog/scam-alert-sophistication-law-enforcement-and-money-beware</link>
+    <description>The call originated from a (216) area code (Cuyahoga County Ohio) and Mary dismissed the call as an unknown number, sending it to voicemail. The voicemail…</description>
+    <pubDate>Sat, 07 Mar 2026 02:42:23 GMT</pubDate>
+  </item>
+  <item>
+    <title>COVID-19 Scams Run Rampant</title>
+    <link>https://binarydefense.com/resources/blog/covid-19-scams-run-rampant</link>
+    <description>Phishing and malware emails top 18 million in one week Google reported more than 18 million daily malware and phishing emails that are related to COVID-19…</description>
+    <pubDate>Sat, 07 Mar 2026 02:42:23 GMT</pubDate>
+  </item>
   <item>
     <title>Ransomware group targeted DC police, then sent mixed messages about…</title>
     <link>https://binarydefense.com/resources/blog/ransomware-group-targeted-dc-police-then-sent-mixed-messages-about-shutting-down</link>
@@ -94,96 +184,6 @@
     <link>https://binarydefense.com/resources/blog/how-to-spot-a-potential-phish</link>
     <description>Phishing is an attack method which an attacker attempts to trick the users into giving-up their sensitive personal identifiable information (PII), such as…</description>
     <pubDate>Fri, 06 Mar 2026 19:35:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Threat Hunting AWS CloudTrail with Microsoft Sentinel: Part 4</title>
-    <link>https://binarydefense.com/resources/blog/threat-hunting-aws-cloudtrail-with-microsoft-sentinel-part-4</link>
-    <description>In order to interact with the AWS environment using the AWS CLI, an access key and secret key are created for the new IAM user with the previously…</description>
-    <pubDate>Fri, 06 Mar 2026 19:18:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Advice for Defenders Responding to the log4j Vulnerability…</title>
-    <link>https://binarydefense.com/resources/blog/advice-for-defenders-responding-to-the-log4j-vulnerability-cve-2021-44228</link>
-    <description>Advice from the Trenches: Identify your vulnerable systems – this is not easy to do, but should be your first priority. Version 1.x of log4j is past its…</description>
-    <pubDate>Fri, 06 Mar 2026 19:18:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Threat Hunting AWS CloudTrail with Sentinel: Part 3</title>
-    <link>https://binarydefense.com/resources/blog/threat-hunting-aws-cloudtrail-with-sentinel-part-3</link>
-    <description>Prereq: Before initiating the attack, the AWS CLI must be installed and configured with the AWS default profile using: ~$ aws configure Attack Commands:…</description>
-    <pubDate>Fri, 06 Mar 2026 19:18:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Threat Hunting AWS CloudTrail with Sentinel: Part 2</title>
-    <link>https://binarydefense.com/resources/blog/threat-hunting-aws-cloudtrail-with-sentinel-part-2</link>
-    <description>Detecting S3 Bucket Attack By Sean Fernandez | Threat Researcher | Binary Defense In part 2 of the blog series, Threat Hunting AWS CloudTrail with…</description>
-    <pubDate>Fri, 06 Mar 2026 19:18:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Threat Hunting AWS CloudTrail with Sentinel: Part 1</title>
-    <link>https://binarydefense.com/resources/blog/threat-hunting-aws-cloudtrail-with-sentinel-part-1</link>
-    <description>Part 1: Intro to Threat Hunting AWS CloudTrail with Sentinel By Sean Fernandez | Threat Researcher | Binary Defense Note: this is a four-part blog post…</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Inside Scoop: Binary Defense Employees’ Advice to Cybersecurity…</title>
-    <link>https://binarydefense.com/resources/blog/the-inside-scoop-binary-defense-employees-advice-to-cybersecurity-newbs</link>
-    <description>To wrap up this year’s Cybersecurity Awareness Month, we asked a handful of our employees for advice they would give to someone who wanted to start a…</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Solarmarker: By Any Other Name (Mars-Deimos part 3)</title>
-    <link>https://binarydefense.com/resources/blog/solarmarker-by-any-other-name-mars-deimos-part-3</link>
-    <description>Payload SHA256: c61348ab7e5ffeb9ba5d1077b13c49bde4d841c5ada9a Backdoor SHA256: 0e673eb418c87268aa3bcb262e8e03a3f719a95a8e118ba99515c57c9aa02d38 Backdoor…</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Getting the Board on Board with Cybersecurity</title>
-    <link>https://binarydefense.com/resources/blog/getting-the-board-on-board-with-cybersecurity</link>
-    <description>With a heightened focus on keeping businesses safe from cyberattacks, particularly due to high-profile ransomware and third-party vendor supply chain…</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Mimicking Human Activity using Selenium and Python</title>
-    <link>https://binarydefense.com/resources/blog/mimicking-human-activity-using-selenium-and-python</link>
-    <description>Starting Webdriver Instance main.py from selenium import webdriverfrom selenium.webdriver.support import expected_conditions as ECfrom…</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Commodity vs Behavioral Detections</title>
-    <link>https://binarydefense.com/resources/blog/commodity-vs-behavioral-detections</link>
-    <description>They could have firewalls, antivirus, MDR, SIEM, maybe they've gone through a penetration test. This is what I’m referring to as “commodity level.” These…</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Mars-Deimos: From Jupiter to Mars and Back again (Part Two)</title>
-    <link>https://binarydefense.com/resources/blog/mars-deimos-from-jupiter-to-mars-and-back-again-part-two</link>
-    <description>Dropper SHA256: a871b7708b7dc1eb6fd959946a882a5af7dafc5ac135ac840cfbb60816024933 Backdoor SHA256:…</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Mars-Deimos: SolarMarker/Jupyter Infostealer (Part 1)</title>
-    <link>https://binarydefense.com/resources/blog/mars-deimos-solarmarker-jupyter-infostealer-part-1</link>
-    <description>Part One: Persistence Script Analysis Mars-Deimos-RS-2.MD5: 88E60DFE5045E7157D71D1CB4170C073 Mars-Deimos-RS-2:SHA256:…</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Analysis of Hancitor – When Boring Begets Beacon</title>
-    <link>https://binarydefense.com/resources/blog/analysis-of-hancitor-when-boring-begets-beacon</link>
-    <description>Hancitor is a well-known malware loader that has been observed delivering FickerStealer, Sendsafe, and Cobalt Strike Beacon if the victim targeting…</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Payment App Scammers: Stay Aware and Learn to Avoid Them</title>
-    <link>https://binarydefense.com/resources/blog/payment-app-scammers-stay-aware-and-learn-to-avoid-them</link>
-    <description>While it is convenient and becoming more popular to use virtual wallets like Venmo, PayPal, and Cash App, there is a risk of potentially being scammed by…</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Intruder Tactics: Privilege Escalation</title>
-    <link>https://binarydefense.com/resources/blog/intruder-tactics-privilege-escalation</link>
-    <description>While not all computer intrusions require privilege escalation to achieve the attacker’s goals, most of the most serious and damaging intrusions do need…</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:03 GMT</pubDate>
   </item>
 </channel>
 </rss>

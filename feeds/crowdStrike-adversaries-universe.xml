@@ -4,7 +4,97 @@
   <title>CrowdStrike Adversaries Universe (Custom Feed)</title>
   <link>https://www.crowdstrike.com/en-us/adversaries/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 19:36:07 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 02:43:13 GMT</lastBuildDate>
+  <item>
+    <title>Phantom Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/phantom-panda/</link>
+    <description>PHANTOM PANDA is a targeted intrusion adversary active since at least 2017 with a suspected Chinese state nexus. PHANTOM PANDA primarily targets th...</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>Sunrise Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/sunrise-panda/</link>
+    <description>SUNRISE PANDA is a China-nexus targeted intrusion adversary active since at least 2019. Their TTPs and operational tradecraft are consistent with p...</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Turbine Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/turbine-panda/</link>
+    <description>CrowdStrike Intelligence tracks TURBINE PANDA in relation to attacks on a number of entities in the defense, aerospace, and manufacturing sectors p...</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vanguard Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/vanguard-panda/</link>
+    <description>VANGUARD PANDA is a China-nexus targeted intrusion adversary that relies heavily on living-off-the-land (LOTL) techniques and also uses webshells i...</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>Comrade Saiga Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/comrade-saiga/</link>
+    <description>COMRADE SAIGA is a Kazakhstan-nexus adversary that has been active since at least late 2020 with a target scope that follows the Kazakh government’...</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:06 GMT</pubDate>
+  </item>
+  <item>
+    <title>Watchful Sphinx Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/watchful-sphinx/</link>
+    <description>WATCHFUL SPHINX is an Egypt state-nexus adversary that has been active since at least 2016. Historical WATCHFUL SPHINX activity, previously tracked...</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>Alchemist Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/alchemist-spider/</link>
+    <description>eCrime adversary ALCHEMIST SPIDER is attributed with the commission and development of A1Lock ransomware. Based on obtained information, the group ...</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>Alpha Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/alpha-spider/</link>
+    <description>ALPHA SPIDER is responsible for developing and operating the Alphv Ransomware-as-a-Service (RaaS) program. Alphv first emerged in November 2021, an...</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>Apothecary Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/apothecary-spider/</link>
+    <description>APOTHECARY SPIDER—active since at least March 2021—develops and rents EugenLoader, an initial infection chain loader that has been delivered via ma...</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>Aviator Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/aviator-spider/</link>
+    <description>AVIATOR SPIDER conducts high-volume opportunistic spam campaigns that primarily but not exclusively target aviation and aerospace sector entities. ...</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blind Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/blind-spider/</link>
+    <description>BLIND SPIDER is an adversary known for opportunistic phishing campaigns, targeting Colombian government and private sector organizations since at l...</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Boson Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/boson-spider/</link>
+    <description>BOSON SPIDER is a criminal group operating the commodity banking trojan most commonly known as ‘CoreBot’. The group has been actively developing th...</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:11 GMT</pubDate>
+  </item>
+  <item>
+    <title>Brain Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/brain-spider/</link>
+    <description>BRAIN SPIDER is a prolific threat actor with a history of being an initial access broker (IAB), an alleged former member of CARBON SPIDER, and a me...</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Butler Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/butler-spider/</link>
+    <description>BUTLER SPIDER is an eCrime actor who operated as an access broker, data extortion actor, and data seller. The adversary claims to have previously d...</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Carbon Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/carbon-spider/</link>
+    <description>CARBON SPIDER is an inactive eCrime adversary that originally targeted the hospitality and retail sectors in pursuit of payment card data, but late...</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:13 GMT</pubDate>
+  </item>
   <item>
     <title>Aquatic Panda Adversary Profile | CrowdStrike</title>
     <link>https://www.crowdstrike.com/adversaries/aquatic-panda/</link>
@@ -94,96 +184,6 @@
     <link>https://www.crowdstrike.com/adversaries/overcast-panda/</link>
     <description>OVERCAST PANDA is a China-nexus targeted intrusion adversary likely active since at least 2019. Previously tracked as the ClearVariable activity cl...</description>
     <pubDate>Fri, 06 Mar 2026 19:36:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Arcane Kitten Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/arcane-kitten/</link>
-    <description>ARCANE KITTEN is an Iranian state-nexus adversary who has been active since at least early 2020. The adversary compromises internet-facing servers ...</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>Banished Kitten Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/banished-kitten/</link>
-    <description>BANISHED KITTEN is an Iran-nexus adversary active since at least 2008, and with links to Iran’s Ministry of Intelligence and Security (MOIS). The a...</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>Chrono Kitten Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/chrono-kitten/</link>
-    <description>CHRONO KITTEN is an Iran-nexus adversary active since at least 2018. Previously tracked as the ScorchedEpoch activity cluster, the adversary’s acti...</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:43 GMT</pubDate>
-  </item>
-  <item>
-    <title>Haywire Kitten Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/haywire-kitten/</link>
-    <description>HAYWIRE KITTEN is an Iran-nexus adversary that likely represents Emennet Pasargad operations and has been active since at least 2020. Previously tr...</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:43 GMT</pubDate>
-  </item>
-  <item>
-    <title>Helix Kitten Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/helix-kitten/</link>
-    <description>HELIX KITTEN is an Iran-nexus adversary active since at least late 2015, with indications they are linked to Iran’s Ministry of Intelligence and Se...</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:43 GMT</pubDate>
-  </item>
-  <item>
-    <title>Imperial Kitten Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/imperial-kitten/</link>
-    <description>IMPERIAL KITTEN is an Iran-nexus adversary active since at least 2017, with links to the Islamic Revolutionary Guard Corps (IRGC). The adversary li...</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:43 GMT</pubDate>
-  </item>
-  <item>
-    <title>Nemesis Kitten Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/nemesis-kitten/</link>
-    <description>NEMESIS KITTEN is an Iran-nexus adversary active since at least 2020. Previously tracked as the DireFate activity cluster, the adversary’s activity...</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:43 GMT</pubDate>
-  </item>
-  <item>
-    <title>Pulsar Kitten Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/pulsar-kitten/</link>
-    <description>PULSAR KITTEN is an Iranian state-nexus adversary active since at least early 2023. The adversary conducts reconnaissance and remote exploitation i...</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Remix Kitten Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/remix-kitten/</link>
-    <description>REMIX KITTEN is an Iran-nexus adversary active since at least 2012, that CrowdStrike Intelligence assesses with high confidence operates in support...</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Spectral Kitten Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/spectral-kitten/</link>
-    <description>SPECTRAL KITTEN is an Iranian state-nexus adversary active since at least 2019. Previously tracked as the ProfaneTalon activity cluster, the advers...</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Static Kitten Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/static-kitten/</link>
-    <description>STATIC KITTEN is an Iran-based adversary active since at least early 2017 targeting organizations mostly in the Middle East, Eurasia, and Central A...</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>Tracer Kitten Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/tracer-kitten/</link>
-    <description>TRACER KITTEN is an Iran-based adversary active since at least 2016, with a suspected nexus to the Iranian government. The adversary likely fulfill...</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Vengeful Kitten Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/vengeful-kitten/</link>
-    <description>VENGEFUL KITTEN is an Iranian state-nexus adversary active since at least 2020. Previously tracked as the SplinteredEnvoy activity cluster, the adv...</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Mythic Leopard Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/mythic-leopard/</link>
-    <description>MYTHIC LEOPARD is a Pakistan-nexus targeted intrusion adversary which likely fulfils Pakistani strategic intelligence collection requirements, with...</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Galactic Ocelot Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/galactic-ocelot/</link>
-    <description>GALACTIC OCELOT is a targeted intrusion adversary active since at least 2010 with a nexus to the Colombian government. Over this period, this adver...</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:45 GMT</pubDate>
   </item>
 </channel>
 </rss>

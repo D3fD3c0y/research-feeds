@@ -4,7 +4,97 @@
   <title>CrowdStrike Blog (Custom Feed)</title>
   <link>https://www.crowdstrike.com/en-us/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Fri, 06 Mar 2026 19:36:12 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 02:43:33 GMT</lastBuildDate>
+  <item>
+    <title>The Prevention Continuum: Preventing Silent Failure</title>
+    <link>https://www.crowdstrike.com/blog/prevention-continuum-preventing-silent-failure/</link>
+    <description>CrowdStrike has a variety of customers, with each company being unique, one thing is always constant: at some point they had a breach, click to learn more!</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:17 GMT</pubDate>
+  </item>
+  <item>
+    <title>DEEP PANDA Uses Sakula Malware to Target Organizations</title>
+    <link>https://www.crowdstrike.com/blog/ironman-deep-panda-uses-sakula-malware-target-organizations-multiple-sectors/</link>
+    <description>Learn how the CrowdStrike Intelligence team discovered the use of Sakula Malware that targeted organizations in multiple sectors. Find out more here!</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:19 GMT</pubDate>
+  </item>
+  <item>
+    <title>Sheep Year Kernel Heap Fengshui: Spraying in the Big Kids’ Pool - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/sheep-year-kernel-heap-fengshui-spraying-big-kids-pool/</link>
+    <description>Learn about the state of kernel exploitation on the CrowdStrike blog, bringing you up-to-date news in the cyber security world!</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cyber Kung-Fu: The Great Firewall Art of DNS Poisoning - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/cyber-kung-fu-great-firewall-art-dns-poisoning/</link>
+    <description>Wing Chun, the first Chinese martial art learned by the legendary Bruce Lee, is often best known for its principles of attack and defense. Read more today!</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Parsing Sysmon Events for IR Indicators - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/sysmon-2/</link>
+    <description>A dedicated endpoint-monitoring tool is quickly becoming a necessity for organizations to combat attacks. Learn more on the CrowdStrike blog!</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Surgeon with a Shotgun! - Memory Forensics - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/surgeon-with-a-shotgun-memory-forensics/</link>
+    <description>Read up on two great tools that make processing memory evidence fast &amp; effective over the tedious manual analysis method on the CrowdStrike blog here!</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>Chopping packets: Decoding China Chopper Web shell traffic over SSL - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/chopping-packets-decoding-china-chopper-web-shell-traffic-over-ssl/</link>
+    <description>The Chopper Web shell is a widely used backdoor by Chinese and other malicious actors to remotely access a compromised Web server. Learn all about it!</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>Adversaries Set Their Sights on Oil and Gas Sector - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/adversaries-set-their-sites-on-oil-and-gas-sector/</link>
+    <description>With high profile breaches in the financial, healthcare and retail sectors making news almost daily. Learn more about the gas and oil sectors impact.</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:23 GMT</pubDate>
+  </item>
+  <item>
+    <title>Operational threat intelligence with Maltego Transform Hub - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/operational-threat-intelligence-with-maltego-transform-hub/</link>
+    <description>Learn about operational threat intelligence with Maltego Transform Hub &amp; more cybersecurity information from the CrowdStrike blog!</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:25 GMT</pubDate>
+  </item>
+  <item>
+    <title>RSA 2015 Hacking Exposed: CrowdResponse Update Released - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/crowdresponse-windows-sticky-keys/</link>
+    <description>Learn about the CrowdResponse update with the new @mal module released after the RSA 2015 Hacking Exposed session on the CrowdStrike blog.</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:25 GMT</pubDate>
+  </item>
+  <item>
+    <title>3 Tips for Operationalizing Cyber Intelligence - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/3-tips-for-operationalizing-cyber-intelligence/</link>
+    <description>One of the biggest challenges organizations face today is operationalizing intelligence and incorporating it into their processes. Read our 3 tips now!</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:25 GMT</pubDate>
+  </item>
+  <item>
+    <title>VENOM Vulnerability: Community Patching and Mitigation Update</title>
+    <link>https://www.crowdstrike.com/blog/venom-vulnerability-community-patching-and-mitigation-update/</link>
+    <description>Find out more information on CrowdStrike's finding of VENOM Vulnerability on their blog here &amp; learn more about community patching &amp; mitigation updates.</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:28 GMT</pubDate>
+  </item>
+  <item>
+    <title>Read Article "Venom Vulnerability Details" by Editorial Team</title>
+    <link>https://www.crowdstrike.com/blog/venom-vulnerability-details/</link>
+    <description>The CrowdStrike Intelligence Team’s primary focus is to track adversaries associated with nation-state actors and monitor their activity, learn more here!</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:28 GMT</pubDate>
+  </item>
+  <item>
+    <title>Rhetoric Foreshadows Cyber Activity in the South China Sea - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/rhetoric-foreshadows-cyber-activity-in-the-south-china-sea/</link>
+    <description>Read up on how rhetoric foreshadows cyber activity in the South China Sea after conflict has risen amongst the PRC and U.S. on the CrowdStrike blog!</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cloud-based Security: Future of the Industry? - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/cloud-based-security-future-of-the-industry/</link>
+    <description>Alex Stamos, formerly with Yahoo &amp; now CSO at Facebook, gave an interesting talk at AppSec California 2015 recently titled “AppSec is Eating Security.”</description>
+    <pubDate>Sat, 07 Mar 2026 02:43:33 GMT</pubDate>
+  </item>
   <item>
     <title>Native Java Bytecode Debugging without Source Code - crowdstrike.com</title>
     <link>https://www.crowdstrike.com/blog/native-java-bytecode-debugging-without-source-code/</link>
@@ -94,96 +184,6 @@
     <link>https://www.crowdstrike.com/blog/peering-around-corner/</link>
     <description>Understanding the culture of your adversaries can play a better role in combating against attacks. Learn how threat intelligence is utilized to drive decisions such as what defensive measures should be taken, what contingencies should be considered, and to do if a breach occurs.</description>
     <pubDate>Fri, 06 Mar 2026 19:36:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Read Featured Executive Viewpoint Article by George Kurtz</title>
-    <link>https://www.crowdstrike.com/blog/crowdstrike-launch/</link>
-    <description>CrowdStrike launches in stealth-mode with $26 million Series A round led b Warburg Pincus.</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>CrowdStrike Intelligence - Adversary-based Approach - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/crowdstrike-intelligence-adversary-based-approach/</link>
-    <description>Having spent the better part of the last 10 years dealing with various cyber adversaries. Learn what companies have been doing to counter these attacks.</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Unpacking Dynamically Allocated Code - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/unpacking-dynamically-allocated-code/</link>
-    <description>Most malware is obfuscated to make it more difficult for traditional antivirus engines to detect, here we discuss a non-manual method to unpack malware.</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>HTTP iframe Injecting Linux Rootkit - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/http-iframe-injecting-linux-rootkit/</link>
-    <description>Learn about the HTTP iframe injecting Linux Rootkit discovered in 2012 with CrowdStrike &amp; their personal findings on this threat.</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Free Community Tool: CrowdInspect</title>
-    <link>https://www.crowdstrike.com/blog/free-community-tool-crowdinspect/</link>
-    <description>CrowdInspect is a free community tool for Microsoft Windows systems from CrowdStrike aimed to help alert you to potential malware. Learn more!</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Anchor Panda | Threat Actor Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/blog/whois-anchor-panda/</link>
-    <description>Anchor Panda is a China-based group of hackers that target civilian and military maritime operations. Learn about their aliases, targets, methods, more.</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Read Featured Article "Whois Numbered Panda" by Adam Meyers</title>
-    <link>https://www.crowdstrike.com/blog/whois-numbered-panda/</link>
-    <description>Learn with CrowdStrike as they discuss Chinese-based hackers &amp; how there are multiple groups with different tactics, techniques, &amp; practices!</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Clever Kitten | Threat Actor Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/blog/whois-clever-kitten/</link>
-    <description>Clever Kitten is an Iran-based group of hackers that primarily target global companies with strategic importance to countries that are contrary to Iranian interests.</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Samurai Panda | Threat Actor Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/blog/whois-samurai-panda/</link>
-    <description>Operation since 2009, Samurai Panda is a China-based criminal organization that use malware to target various industries across the Asian-Pacific.</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>DNS - The Lifeblood of your Domain - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/dns-lifeblood-your-domain/</link>
-    <description>As the situation on the ground in Syria continues to deteriorate, the Syrian Electronic Army (SEA) has made quite a few waves. Learn more on the situation!</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>VICEROY TIGER Delivers New Zero-Day Exploit - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/viceroy-tiger-delivers-new-zero-day-exploit/</link>
-    <description>Learn more about how VICEROY TIGER delivers new zero-day exploit &amp; other breaking cybersecurity news here on the CrowdStrike blog!</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Analysis of a CVE-2013-3906 Exploit - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/analysis-cve-2013-3906-exploit/</link>
-    <description>Many of CrowdStrike’s customers are often targeted by email phishing campaigns and strategic web compromises. Learn more about these attacks.</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Evolution of Protected Processes Part 2 - CrowdStrike</title>
-    <link>https://www.crowdstrike.com/blog/evolution-protected-processes-part-2-exploitjailbreak-mitigations-unkillable-processes-and/</link>
-    <description>Learn how Windows protected process light guards critical system processes against modification. CrowdStrike also covers how services can now be configured to run as a PPL, and how the PPL concept brings yet another twist to the unkillable process argument and semantics.</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Protected Processes Part 3: Windows PKI Internals</title>
-    <link>https://www.crowdstrike.com/blog/protected-processes-part-3-windows-pki-internals-signing-levels-scenarios-signers-root-keys/</link>
-    <description>Protected Processes in Windows 8.1 Part Three: Taking a look at cryptographic security and how it protects a system. Click to read more!</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Through the Window: Creative Code Invocation - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/through-window-creative-code-invocation/</link>
-    <description>While analyzing a targeted attack, CrowdStrike observed an interesting code invocation technique that we want to describe here on our blog, click to read.</description>
-    <pubDate>Fri, 06 Mar 2026 19:19:52 GMT</pubDate>
   </item>
 </channel>
 </rss>
