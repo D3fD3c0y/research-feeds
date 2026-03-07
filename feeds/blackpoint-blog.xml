@@ -4,12 +4,96 @@
   <title>Blackpoint Cyber Blog (Custom Feed)</title>
   <link>https://blackpointcyber.com/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sat, 07 Mar 2026 08:47:23 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 16:41:29 GMT</lastBuildDate>
   <item>
     <title>Blog</title>
     <link>https://blackpointcyber.com/blog/</link>
     <description>Sharpen your defenses with the latest threat insights, industry trends and product updates sure to put you one step ahead of hackers – and your competition.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:18 GMT</pubDate>
+    <pubDate>Sat, 07 Mar 2026 16:41:26 GMT</pubDate>
+  </item>
+  <item>
+    <title>Ways to Win in December</title>
+    <link>https://blackpointcyber.com/blog/ways-to-win-in-december/</link>
+    <description>Join the Blackpoint team this month as we celebrate the holidays with SOC'ing Stuffers and Channel Program's Holidaze.</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:26 GMT</pubDate>
+  </item>
+  <item>
+    <title>APG Threat Digest: 13th Edition</title>
+    <link>https://blackpointcyber.com/blog/apg-threat-digest-2/</link>
+    <description>In our latest Threat Digest we discuss FIN8, DarkGate, HelloKitty, curl vulnerabilities, Wordpress malware, and US government advice.</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:26 GMT</pubDate>
+  </item>
+  <item>
+    <title>APG Threat Digest: 14th Edition</title>
+    <link>https://blackpointcyber.com/blog/apg-threat-digest-3/</link>
+    <description>Learn how threat actors are exploiting QR codes, a Confluence vulnerability, malware, LinkedIn, and cloud computing.</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>Contextualizing Identity-Based Attacks for a More Secure Cloud</title>
+    <link>https://blackpointcyber.com/blog/contextualizing-identity-based-attacks-for-a-more-secure-cloud/</link>
+    <description>Learn how Identity Response for Azure AD in Blackpoint's Cloud Response enhances security against cloud-based attacks by contextualizing Azure SSO logins.</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>Scan with Caution: The Light and Dark Sides of QR Codes</title>
+    <link>https://blackpointcyber.com/blog/scan-with-caution-the-light-and-dark-sides-of-qr-codes/</link>
+    <description>Learn all about QR codes and why the square barcodes can pose a security threat with the latest APG threat intel!</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>Shedding Light on Cyberthreats: APT34's Menorah Malware</title>
+    <link>https://blackpointcyber.com/blog/shedding-light-on-cyberthreats-apt34s-menorah-malware/</link>
+    <description>The APG discusses the discovery of the Menorah malware, attributed to APT34, and highlights the importance of monitoring scheduled tasks.</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>When Vulnerabilities Collide: Juniper’s Critical Collision</title>
+    <link>https://blackpointcyber.com/blog/when-vulnerabilities-collide-junipers-critical-collision/</link>
+    <description>Vulnerabilities have been found in Juniper Networks' EX switches and SRX firewalls that could lead to remote code execution if exploited together.</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:28 GMT</pubDate>
+  </item>
+  <item>
+    <title>Top Five Cloud Security Threats</title>
+    <link>https://blackpointcyber.com/blog/top-five-cloud-security-threats-2/</link>
+    <description>Check out Blackpoint's top five cloud security threats according to our 24/7 Security Operations Center, powered by Cloud Response.</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:28 GMT</pubDate>
+  </item>
+  <item>
+    <title>APG Threat Digest: 15th Edition</title>
+    <link>https://blackpointcyber.com/blog/apg-threat-digest-october-30/</link>
+    <description>In this week’s Threat Digest: Octo Tempest, a patch for Citrix Bleed, Hunters International ransomware, Microsoft Exchange targeted, and VMware's critical fix.</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:28 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Fatal Four: Overcoming Common MSP Pain Points</title>
+    <link>https://blackpointcyber.com/blog/the-fatal-four-overcoming-common-msp-pain-points/</link>
+    <description>Learn how to address talent shortages, lackluster GTM strategies, vendor sprawl, and customer loss with Blackpoint Cyber.</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>APG Threat Digest: 16th Edition</title>
+    <link>https://blackpointcyber.com/blog/apg-threat-digest-4/</link>
+    <description>APG Threat Digest: 16th Edition</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Top Ten Cybersecurity Best Practices</title>
+    <link>https://blackpointcyber.com/blog/top-ten-cybersecurity-best-practices/</link>
+    <description>Prepare for a more secure future with Blackpoint's top ten cybersecurity best practices. To learn about each one, read the blog.</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Join Blackpoint Cyber's Aussie Adventure!</title>
+    <link>https://blackpointcyber.com/blog/join-blackpoint-cybers-aussie-adventure/</link>
+    <description>Blackpoint Cyber will be in Australia for DattoCon APAC and more! We'd love to meet with Managed Service Providers in Sydney and Melbourne.</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>What is True MDR? (Or, How to Spot a Fake)</title>
+    <link>https://blackpointcyber.com/blog/what-is-true-mdr-or-how-to-spot-a-fake/</link>
+    <description>How do you know if your MDR service (or the one you’re considering) is true MDR or just an imitation? We break down what MDR means.</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:29 GMT</pubDate>
   </item>
   <item>
     <title>MSPs’ Role in Shining a Light on the Dark Web</title>
@@ -100,90 +184,6 @@
     <link>https://blackpointcyber.com/blog/this-week-in-review-anydesk-teamviewer-quickbooks-and-iserik-malware/</link>
     <description>In today's "This Week in Review" blog, the Adversary Pursuit Group discusses This Week in Review: AnyDesk, TeamViewer, QuickBooks, and IsErIk malware.</description>
     <pubDate>Sat, 07 Mar 2026 02:42:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>4 Big Moments from Right of Boom 2024</title>
-    <link>https://blackpointcyber.com/blog/4-big-moments-from-right-of-boom-2024/</link>
-    <description>From our Capture the Flag pre-day event to MacKenzie Brown’s attack trends session, here’s a look back at Blackpoint at Right of Boom 2024.</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Medusa and Midnight Blizzard: How Strong Passwords &amp; MFA Still Help</title>
-    <link>https://blackpointcyber.com/blog/medusa-and-midnight-blizzard-how-strong-passwords-mfa-still-help/</link>
-    <description>Tune in to our video from Blackpoint's Nick Hyatt. His team continues to see vulnerability exploitation and credential-based attacks.</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Off to the Races with the Fastest MDR Provider</title>
-    <link>https://blackpointcyber.com/blog/off-to-the-races-with-the-fastest-mdr-provider/</link>
-    <description>Blackpoint is kicking off a new race season with Andretti and Kyle Kirkwood, helping MSPs accelerate their businesses and protect their clients along the way.</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>FortiClientEMS Vulnerability, Akira Ransomware, and Gootloader: The Blackpoint SOC’s Week in Review for March 29, 2024</title>
-    <link>https://blackpointcyber.com/blog/forticlientems-vulnerability-akira-ransomware-and-gootloader-the-blackpoint-socs-week-in-review-for-march-29-2024/</link>
-    <description>In March, the SOC responded to FortiClient vulnerability exploitation, Akira ransomware deployment, and Gootloader malware execution.</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>This Week in Review: Ligolo Tunneler, Neshta, Purple Fox, and More</title>
-    <link>https://blackpointcyber.com/blog/this-week-in-review-ligolo-tunneler-neshta-purple-fox-and-more/</link>
-    <description>In today's "This Week in Review" blog, the Adversary Pursuit Group discusses Ligolo Tunneler, Neshta, Purple Fox, and More.</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>How MSPs Can Avoid a Cyberattack Knockout Punch</title>
-    <link>https://blackpointcyber.com/blog/how-msps-can-avoid-a-cyberattack-knockout-punch/</link>
-    <description>Gain visibility, stop attacks, and prevent grave business impact with Blackpoint's Active Cybersecurity solutions.</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>How Internet Access Brokers Fuel Cybercrime and What You Can Do About It</title>
-    <link>https://blackpointcyber.com/blog/how-internet-access-brokers-fuel-cybercrime-and-what-you-can-do-about-it/</link>
-    <description>Proactively take measures to protect your clients from the dark web &amp; leaked credentials with our dark web monitoring tool.</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Why Your Clients’ Cyber-Risk Is Your New Sales Tool</title>
-    <link>https://blackpointcyber.com/blog/why-your-clients-cyber-risk-is-your-new-sales-tool/</link>
-    <description>Blackpoint’s Threat Assessment Summary helps get clients more invested in their security and drives risk remediation.</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>This Week in Review: ScreenConnect “Updates,” Vidar Malware, &amp; Malicious ZIP Files</title>
-    <link>https://blackpointcyber.com/blog/this-week-in-review-screenconnect-updates-vidar-malware-malicious-zip-files/</link>
-    <description>In today's "This Week in Review" blog, the Adversary Pursuit Group discusses ScreenConnect “updates,” Vidar malware, &amp; malicious ZIP files.</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Remove the Stumbling Blocks to a Thriving MSP Business</title>
-    <link>https://blackpointcyber.com/blog/remove-the-stumbling-blocks-to-a-thriving-msp-business/</link>
-    <description>Set your MSP business sights higher with the only free ‘MBA for MSPs’ program, offering best practices, training, and practical advice.</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Blackpoint Community Protection Program</title>
-    <link>https://blackpointcyber.com/blog/blackpoint-community-protection-program/</link>
-    <description>Get your free NFR licenses today so you can focus on your customers while Blackpoint manages your threat detection and response.</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>APG Threat Digest: 19th Edition</title>
-    <link>https://blackpointcyber.com/blog/apg-threat-digest-19th-edition/</link>
-    <description>Finish out November with our APG Threat Digest on malware strains, botnets, zero-day vulnerabilities, and more!</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>Blackpoint SOC Protects Against Recent AnyDesk Compromise</title>
-    <link>https://blackpointcyber.com/blog/blackpoint-soc-protects-against-recent-anydesk-compromise/</link>
-    <description>Hear from Blackpoint's SOC leadership to learn about the AnyDesk compromise and how Blackpoint can combat these threats.</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>Driving MSP Growth With a Racer’s Mindset</title>
-    <link>https://blackpointcyber.com/blog/driving-msp-growth-with-a-racers-mindset/</link>
-    <description>A rising star in youth race car driving, Jack Murchison, shares best practices from behind the wheel that translate to the world of MSPs.</description>
-    <pubDate>Fri, 06 Mar 2026 19:35:45 GMT</pubDate>
   </item>
 </channel>
 </rss>

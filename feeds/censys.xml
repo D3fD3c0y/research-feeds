@@ -4,7 +4,97 @@
   <title>Censys Blog (Custom Feed)</title>
   <link>https://censys.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sat, 07 Mar 2026 08:47:37 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 16:41:47 GMT</lastBuildDate>
+  <item>
+    <title>2025 State of the Internet: Malware Investigations</title>
+    <link>https://censys.com/blog/2025-state-of-the-internet-malware-investigations/</link>
+    <description>Thank you for joining us for the third installment of our 2025 State of the Internet Report. Previously, we looked at the intersection of our Rapid Response vulnerability reports and threat actor activity. This report will look closely at two investigations from the Censys Research team over the past year.   At Censys, our broad scanning of […]</description>
+    <pubDate>Wed, 30 Jul 2025 17:14:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Maximize Cloud Visibility and Security: How the Censys ASM + Wiz Integration Closes the Gaps</title>
+    <link>https://censys.com/blog/maximize-cloud-visibility-and-security-how-the-censys-asm-wiz-integration-closes-the-gaps/</link>
+    <description>The Visibility Challenge in Cloud Security  Modern organizations rely heavily on cloud infrastructure to run their applications, services, and operations. But as these environments grow across providers like AWS, Azure, and GCP, the ability to monitor and secure every asset becomes increasingly difficult. Cloud resources are ephemeral by nature—spinning up and down in minutes, changing […]</description>
+    <pubDate>Mon, 28 Jul 2025 17:56:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>See What Attackers See: Introducing Web Screenshots on the Censys Platform</title>
+    <link>https://censys.com/blog/see-what-attackers-see-introducing-web-screenshots-on-the-censys-platform/</link>
+    <description>A New Visual Layer of Internet Intelligence for Security Teams We’re excited to introduce Web Screenshots, a new beta feature available to all Censys Enterprise customers. With both recurring and on-demand screenshots, this capability allows you to visually inspect exposed assets across the Internet. Whether you’re tracking rogue ICS interfaces or validating newly discovered RDP endpoints, […]</description>
+    <pubDate>Mon, 28 Jul 2025 17:37:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Introducing the new Censys MCP Server</title>
+    <link>https://censys.com/blog/introducing-the-new-censys-mcp-server/</link>
+    <description>Modern security teams and AI agents need real-time visibility into the Internet – but too often, accessing that intelligence means wrestling with rigid REST APIs, fragile scripts, or outdated integrations. The Censys MCP Server changes that. Built on the Model Context Protocol (MCP), it gives your agents and workflows secure, governed, and direct access to the entire […]</description>
+    <pubDate>Mon, 21 Jul 2025 22:50:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>ICS and Iran: Exposure of Previously Targeted Devices</title>
+    <link>https://censys.com/blog/ics-iran-exposure-of-previously-targeted-devices/</link>
+    <description>Executive Summary On June 22, 2025, the U.S. Department of Homeland Security (DHS) issued an advisory warning against a “heightened threat environment” in the United States following U.S. airstrikes over Iranian nuclear sites. Further, on June 30, CISA and partners released an alert urging critical infrastructure operators to remain vigilant for targeted activity by Iranian […]</description>
+    <pubDate>Mon, 30 Jun 2025 15:59:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The 2025 State of the Internet Report - Censys</title>
+    <link>https://censys.com/blog/2025-sotir-intro/</link>
+    <description>Understanding Adversary Infrastructure Through Real Investigations and Data In this annual report, we examine adversary infrastructure—the hidden backbone of cybercrime and espionage that allows attackers to scale operations, mask origins, and sustain campaigns. The report focuses on command-and-control (C2) services and related tools that enable control, lateral movement, and data exfiltration. Drawing from real-world incidents, […]</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>Unpacking the Oracle EBS Debacle: Industries, Geography, and MOVEit Comparisons</title>
+    <link>https://censys.com/blog/unpacking-the-oracle-ebs-debacle-industries-geography-and-moveit-comparisons/</link>
+    <description>Executive Summary On September 29, Mandiant and Google Threat Intelligence Group began tracking an extortion campaign targeting Oracle’s E-Business Suite, reminiscent in many ways of the MOVEit Transfer campaign of 2023 Extortion actor Cl0p claimed credit for the attack in emails sent to executives of affected companies, and as of October 2025, organizations are slowly […]</description>
+    <pubDate>Thu, 23 Oct 2025 20:14:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Press Release: Censys Enhances Critical Infrastructure Protection with Unmatched Internet Visibility</title>
+    <link>https://censys.com/blog/press-release-censys-enhances-critical-infrastructure-protection-with-unmatched-internet-visibility/</link>
+    <description>New ICS/OT offering delivers comprehensive vendor, protocol, and HMI coverage — empowering both commercial and government  defenders to identify, detect, and secure exposed industrial systems. October 16, 2025 – Ann Arbor, MI – Censys, the authority for Internet Intelligence and insights, today announced the release of a new ICS/OT Internet intelligence offering designed to close the […]</description>
+    <pubDate>Thu, 16 Oct 2025 13:21:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How the New White House Executive Order Can Up-Level the U.S. Cyber Game</title>
+    <link>https://censys.com/blog/how-the-new-white-house-executive-order-can-up-level-the-us-cyber-game/</link>
+    <description>In its final days, the Biden administration has issued an important executive order (EO) focused on strengthening key areas of the federal government’s approach to cybersecurity for risks such as software acquisition, supply chains, and the need for better detection and response tools. The need for secure supply chains has been a long-recognized issue but […]</description>
+    <pubDate>Thu, 16 Jan 2025 21:00:49 GMT</pubDate>
+  </item>
+  <item>
+    <title>Censeye: Gadgets!</title>
+    <link>https://censys.com/blog/censeye-gadgets/</link>
+    <description>A few weeks ago, we launched Censeye, an open-source utility designed to help researchers and threat hunters explore Censys scan data and automatically pivot into new findings. Check out our original announcement here if you haven’t seen it yet. It’s been incredibly exciting to see the screenshots and discoveries people share—some genuinely fascinating results have already come out of […]</description>
+    <pubDate>Tue, 17 Dec 2024 13:39:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>From Ransomware to Regulation - Resource Center Thumbnail</title>
+    <link>https://censys.com/blog/from-ransomware-to-regulation-resource-center-thumbnail/</link>
+    <description>From Ransomware to Regulation - Resource Center Thumbnail</description>
+    <pubDate>Fri, 13 Dec 2024 23:19:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>From Ransomware to Regulation: Lessons from the Worst Year of Healthcare Cyber Breaches</title>
+    <link>https://censys.com/blog/lessons-from-the-worst-year-of-healthcare-cyber-breaches/</link>
+    <description>In 2024, it’s estimated that the two largest healthcare cyber incidents impacted over 100 million people, including patients and vendors across an interconnected digital landscape of insurers and healthcare providers. By October of 2024, 386 cybersecurity attacks had been reported in the U.S. against healthcare and 3rd-party providers, with Change Healthcare and Kaiser Permanente being […]</description>
+    <pubDate>Fri, 13 Dec 2024 21:00:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>Is Your Next Breach Coming From a Minecraft Server?</title>
+    <link>https://censys.com/blog/is-your-next-breach-coming-from-a-minecraft-server/</link>
+    <description>In the expansive and ever-changing landscape of attack surfaces, few things surprise us anymore, but sometimes, they still manage to amuse us. Imagine discovering that part of your organization’s corporate infrastructure is hosting a Minecraft server. While it might seem innocuous or even quirky, this setup could represent a serious security risk. We will explore […]</description>
+    <pubDate>Wed, 11 Dec 2024 11:00:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>A Closer Look at Healthcare Cybersecurity Trends: New Research Shared at Health-ISAC Fall Americas Summit</title>
+    <link>https://censys.com/blog/a-closer-look-at-healthcare-cybersecurity-trends-new-research-shared-at-health-isac-fall-americas-summit/</link>
+    <description>Today at the 2024 Health-ISAC Fall Americas Summit, Censys shared the findings of cybersecurity risks affecting over 500,000 internet-facing assets in over a dozen healthcare organizations across the United States. This research underscores the pressing need for robust cybersecurity resources in an industry that navigates vast amounts of sensitive personal and medical data. Examination of […]</description>
+    <pubDate>Thu, 05 Dec 2024 17:09:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Automated Hunting</title>
+    <link>https://censys.com/blog/automated-hunting/</link>
+    <description>Summary Pivot for Profit After years of working with Censys data, you notice patterns approaching internet analysis. Through many investigations, your toolbox grows, filled with new utilities, terminology, and techniques that help you shift smoothly from one clue to the next. Whether identifying a piece of software never seen before or proactively tracking the internet-connected […]</description>
+    <pubDate>Wed, 27 Nov 2024 21:20:56 GMT</pubDate>
+  </item>
   <item>
     <title>Introducing Censys Assistant: Your AI Partner in Cybersecurity</title>
     <link>https://censys.com/blog/censys-assistant/</link>
@@ -94,96 +184,6 @@
     <link>https://censys.com/blog/streamline-security-operations-with-the-new-censys-chrome-extension/</link>
     <description>Security investigations demand speed and efficiency. Every second spent pivoting between tools or copying and pasting data can impact your team’s ability to identify and respond to threats. That’s why we’re thrilled to announce the Censys Chrome Extension, a powerful new tool designed to put internet intelligence at your fingertips, directly within your browser. Instantly Consult […]</description>
     <pubDate>Wed, 30 Jul 2025 20:40:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Highway Robbery 2.0: How Attackers Are Exploiting Toll Systems in Phishing Scams</title>
-    <link>https://censys.com/blog/highway-robbery-2-0/</link>
-    <description>Introduction A few weeks ago, I started getting messages from friends and family: “Why is E-ZPass texting me from a UK number?” “Hey, is this legit?” “Did I forget to pay a toll?” At first glance, it was just another run-of-the-mill SMS phishing scam—fake toll payment alerts designed to steal credit card details. But as […]</description>
-    <pubDate>Fri, 07 Mar 2025 22:00:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Investigating the Vast World of ICS Coverage: Part 2</title>
-    <link>https://censys.com/blog/investigating-the-vast-world-of-ics-coverage-part-2/</link>
-    <description>Last week, we discussed how we added standard port +/- 1 scanning, in order to increase our ICS coverage. We left off mentioning that we examined the three largest ports for each ICS protocol, expecting them to represent standard port, standard + 1 port, and standard – 1 port. Today, we talk about the follow […]</description>
-    <pubDate>Wed, 05 Mar 2025 19:49:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>How Realistic Is Netflix's Zero Day?</title>
-    <link>https://censys.com/blog/how-realistic-is-netflixs-zero-day/</link>
-    <description>Computers are terrifying machines and almost no one actually knows how they work. Some people know how some parts of computers work, but you know who definitely do not know how computers work? The plotters and schemers in Netflix’s Zero Day. If you’re reading this, you’ve probably seen Hackers and The Net and WarGames and […]</description>
-    <pubDate>Tue, 04 Mar 2025 18:05:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Maximizing Your Professional Developing Budget: Tips for Employees</title>
-    <link>https://censys.com/blog/maximizing-your-profession-developing-budget-tips-for-employees/</link>
-    <description>Making the most of your professional development budget can feel overwhelming, but with a little strategy, you can stretch it further and truly invest in yourself. At Censys, employees can take advantage of up to $2,000 to use towards professional development to grow their skills—using it wisely ensures you get the most value.  Here are […]</description>
-    <pubDate>Sat, 01 Mar 2025 01:57:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Investigating the Vast World of ICS Coverage: Part 1</title>
-    <link>https://censys.com/blog/investigating-the-vast-world-of-ics-coverage-part-1/</link>
-    <description>At Censys, our goal is to capture an accurate representation of the Internet at any given time. However, this is a deceivingly simple task. Not only is the Internet large, but our investigations and prior research show that many of the services on the Internet do not respond on their standard port. While you would […]</description>
-    <pubDate>Fri, 28 Feb 2025 01:53:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Lurking Threat of Edge Security Products</title>
-    <link>https://censys.com/blog/the-lurking-threat-of-edge-security-products/</link>
-    <description>The internet is dark and full of terrors, a fact that has been driven home in the last few weeks by the steady stream of serious vulnerabilities in edge security products. The same products that are meant to protect networks from threats have become favorite targets for attackers, who are often finding them to be […]</description>
-    <pubDate>Thu, 20 Feb 2025 20:29:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Unpacking the BADBOX Botnet with Censys</title>
-    <link>https://censys.com/blog/unpacking-the-badbox-botnet/</link>
-    <description>Executive Summary: BADBOX is a newly discovered botnet targeting both off-brand and well-known Android devices—often with malware that potentially came pre-installed from the factory or further down in the supply chain. Over 190,000 infected devices have been observed so far, including higher-end models like Yandex 4K QLED TVs. Using Censys, I identified a suspicious SSL/TLS […]</description>
-    <pubDate>Tue, 04 Feb 2025 19:05:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Securing the Signal and Protecting the Grid: Facing the Cybersecurity Risks Across Telecom</title>
-    <link>https://censys.com/blog/securing-the-signal-and-protecting-the-grid-facing-the-cybersecurity-risks-across-telecom/</link>
-    <description>As 2024 came to a close, the Cybersecurity and Infrastructure Security Agency (CISA), the FBI, the National Security Agency, and partner agencies in New Zealand, Australia, and Canada released a joint statement warning that Salt Typhoon, a Chinese APT group, was targeting major global telecommunications providers. As many as 80 telecommunications companies and internet service […]</description>
-    <pubDate>Mon, 03 Feb 2025 21:34:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>How Professional Development Fuels My Research</title>
-    <link>https://censys.com/blog/how-professional-development-fuels-my-research/</link>
-    <description>As a Security Researcher at Censys, I’ve learned that staying current in this industry isn’t about knowing everything—it’s about asking the right questions, understanding which data matters to different audiences, and embracing learning on the fly as both a necessity and a skill. Censys’s commitment to professional growth has been instrumental in shaping this perspective. […]</description>
-    <pubDate>Fri, 31 Jan 2025 17:05:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>CARISMATICA Cybersecurity Hackathon: Using Censys to Identify Vulnerable Medical Services</title>
-    <link>https://censys.com/blog/carismatica-cybersecurity-hackathon-using-censys-to-identify-vulnerable-medical-services/</link>
-    <description>Well, hello there! We are Prof. Dr. Pere Tuset-Peiró from TecnoCampus Mataró (Spain), and Prof. Dr. Michael Pilgermann from the Brandenburg University of Applied Sciences (Germany), and today we are writing this invited post on the Censys Blog to share with you our experience organizing a hackathon focused on cybersecurity in the medical domain and […]</description>
-    <pubDate>Thu, 30 Jan 2025 17:00:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Censys, Ten Years Later: Looking to the Next Ten Years (and Beyond)</title>
-    <link>https://censys.com/blog/next-ten-years-and-beyond/</link>
-    <description>We’ve discussed how Censys has grown, how Censys works as a platform, and how we evaluated its performance. Today, we’ll wrap up this blog series by discussing our ethical considerations while scanning, and looking forward to the next ten years (and beyond). Of course, you can read our full discourse in the original paper. Ethics and Lessons Learned Internet […]</description>
-    <pubDate>Thu, 13 Nov 2025 21:06:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Censys, Ten Years Later: Evaluating Censys’ Performance</title>
-    <link>https://censys.com/blog/evaluating-censys-performance/</link>
-    <description>We’ve discussed how Censys has grown, and how Censys works as a platform. Today, we’ll talk about how we verify we have the best data possible. Dive deeper into the data in the original paper. Comparing Censys to Ground Truth Of course, when we are often the source of ground truth for various investigations, we need to find […]</description>
-    <pubDate>Wed, 05 Nov 2025 22:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>From Evasion to Evidence: Exploiting the Funneling Behavior of Injects</title>
-    <link>https://censys.com/blog/exploiting-funneling-behavior-of-injects/</link>
-    <description>Executive Summary Over the past few years, the malware delivery landscape has shifted from static payload delivery to dynamic, URL-based attacks hosted across web infrastructure. Adversaries now rely on redirect chains, short-TTL (Time To Live) domains, and transient TDS (Traffic Directing Services) hops to fingerprint browsers and distinguish potential victims from crawlers, scanners, and researchers. […]</description>
-    <pubDate>Mon, 03 Nov 2025 17:22:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Internet Intelligence for All: New Features Available for Free Users</title>
-    <link>https://censys.com/blog/new-free-user-features/</link>
-    <description>At Censys, we pride ourselves on having the most accurate and up-to-date inventory of the Internet. We also believe that this data should be accessible to everyone who needs it—from seasoned security professionals to newcomers to the InfoSec community. That’s why we’re thrilled to announce a set of new features designed to empower our Free community […]</description>
-    <pubDate>Wed, 29 Oct 2025 13:52:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Censys, Ten Years later: An Introduction</title>
-    <link>https://censys.com/blog/censys-ten-years-later-intro/</link>
-    <description>Censys started as a dream.  Ten years ago, Internet-wide scanning was an obviously lucrative tool for research. Tools like ZMap and Masscan made individual scans fast, but building a reliable, ongoing view of the Internet was far harder.  In 2015, we launched Censys to address this challenge and democratize access to scan data. No longer did […]</description>
-    <pubDate>Mon, 20 Oct 2025 17:49:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

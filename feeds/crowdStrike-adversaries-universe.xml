@@ -4,7 +4,97 @@
   <title>CrowdStrike Adversaries Universe (Custom Feed)</title>
   <link>https://www.crowdstrike.com/en-us/adversaries/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sat, 07 Mar 2026 08:47:47 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 16:41:56 GMT</lastBuildDate>
+  <item>
+    <title>Hive Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/hive-spider/</link>
+    <description>HIVE SPIDER is the criminal adversary responsible for the development of Hive ransomware and maintaining the Hive ransomware-as-a-service program. ...</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:49 GMT</pubDate>
+  </item>
+  <item>
+    <title>Holiday Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/holiday-spider/</link>
+    <description>HOLIDAY SPIDER, self-named as Daixin Team, is an eCrime and Big Game Hunting (BGH) adversary that has conducted ransomware operations since at leas...</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:49 GMT</pubDate>
+  </item>
+  <item>
+    <title>Honey Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/honey-spider/</link>
+    <description>HONEY SPIDER—the developer of Shindig (publicly known as Bumblebee)—is a financially motivated eCrime group that likely operates on an affiliate-ba...</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:50 GMT</pubDate>
+  </item>
+  <item>
+    <title>Hook Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/hook-spider/</link>
+    <description>HOOK SPIDER is an access broker sells accesses individually and sometimes in bulk. They have highly likely facilitated ransomware operations for Bi...</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:50 GMT</pubDate>
+  </item>
+  <item>
+    <title>Indrik Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/indrik-spider/</link>
+    <description>INDRIK SPIDER is a criminal group behind the core development of the commodity banking malware most commonly known as Dridex, and the ransom...</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>Knockout Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/knockout-spider/</link>
+    <description>KNOCKOUT SPIDER is a targeted eCrime adversary that historically conducted multi-year operations exhibiting consistent tactics, techniques, and pro...</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>Lightning Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/lightning-spider/</link>
+    <description>LIGHTNING SPIDER is an eCrime adversary that has operated and developed Apolog and Satacom since at least November 2019. The Apolog malware loader ...</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Lily Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/lily-spider/</link>
+    <description>LILY SPIDER likely operates as a private access broker for other adversaries, most commonly Ransomware-as-a-Service (RaaS) operators. LILY SPIDER r...</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Lunar Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/lunar-spider/</link>
+    <description>LUNAR SPIDER is a criminal group behind the core development of the commodity banking malware called BokBot (a.k.a. IcedID), which was first obser...</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:53 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mallard Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/mallard-spider/</link>
+    <description>Since mid-2009 MALLARD SPIDER was the criminal developer and operator of Qakbot, a sophisticated banking trojan primarily used as a downloader. The...</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:53 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mangled Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/mangled-spider/</link>
+    <description>MANGLED SPIDER is a Big Game Hunting (BGH) adversary that has been active since at least August 2021 when they published their first victim to thei...</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:54 GMT</pubDate>
+  </item>
+  <item>
+    <title>Masked Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/masked-spider/</link>
+    <description>MASKED SPIDER is an opportunistic Big Game Hunting (BGH) eCrime adversary active since at least May 2022. The adversary developed and likely privat...</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:54 GMT</pubDate>
+  </item>
+  <item>
+    <title>Merchant Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/merchant-spider/</link>
+    <description>MERCHANT SPIDER is an access broker with a positive reputation within the eCrime community. While it cannot be confirmed, the adversary claims to b...</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:55 GMT</pubDate>
+  </item>
+  <item>
+    <title>Monarch Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/monarch-spider/</link>
+    <description>MONARCH SPIDER is an exploit broker who has obtained, actively developed, advertised and sold weaponized exploits for multiple vulnerabilities. The...</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:55 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mummy Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/mummy-spider/</link>
+    <description>MUMMY SPIDER is a criminal group behind the core development of the criminal malware most commonly known as Emotet or Geodo. First observed in mid-...</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:56 GMT</pubDate>
+  </item>
   <item>
     <title>Chaotic Spider Adversary Profile | CrowdStrike</title>
     <link>https://www.crowdstrike.com/adversaries/chaotic-spider/</link>
@@ -94,96 +184,6 @@
     <link>https://www.crowdstrike.com/adversaries/hermit-spider/</link>
     <description>HERMIT SPIDER is the developer and operator of the PrivateLoader pay-per-install (PPI) service and the information stealer RisePro. Active since at...</description>
     <pubDate>Sat, 07 Mar 2026 08:47:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>Phantom Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/phantom-panda/</link>
-    <description>PHANTOM PANDA is a targeted intrusion adversary active since at least 2017 with a suspected Chinese state nexus. PHANTOM PANDA primarily targets th...</description>
-    <pubDate>Sat, 07 Mar 2026 02:43:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Sunrise Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/sunrise-panda/</link>
-    <description>SUNRISE PANDA is a China-nexus targeted intrusion adversary active since at least 2019. Their TTPs and operational tradecraft are consistent with p...</description>
-    <pubDate>Sat, 07 Mar 2026 02:43:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Turbine Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/turbine-panda/</link>
-    <description>CrowdStrike Intelligence tracks TURBINE PANDA in relation to attacks on a number of entities in the defense, aerospace, and manufacturing sectors p...</description>
-    <pubDate>Sat, 07 Mar 2026 02:43:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Vanguard Panda Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/vanguard-panda/</link>
-    <description>VANGUARD PANDA is a China-nexus targeted intrusion adversary that relies heavily on living-off-the-land (LOTL) techniques and also uses webshells i...</description>
-    <pubDate>Sat, 07 Mar 2026 02:43:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>Comrade Saiga Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/comrade-saiga/</link>
-    <description>COMRADE SAIGA is a Kazakhstan-nexus adversary that has been active since at least late 2020 with a target scope that follows the Kazakh government’...</description>
-    <pubDate>Sat, 07 Mar 2026 02:43:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Watchful Sphinx Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/watchful-sphinx/</link>
-    <description>WATCHFUL SPHINX is an Egypt state-nexus adversary that has been active since at least 2016. Historical WATCHFUL SPHINX activity, previously tracked...</description>
-    <pubDate>Sat, 07 Mar 2026 02:43:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Alchemist Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/alchemist-spider/</link>
-    <description>eCrime adversary ALCHEMIST SPIDER is attributed with the commission and development of A1Lock ransomware. Based on obtained information, the group ...</description>
-    <pubDate>Sat, 07 Mar 2026 02:43:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Alpha Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/alpha-spider/</link>
-    <description>ALPHA SPIDER is responsible for developing and operating the Alphv Ransomware-as-a-Service (RaaS) program. Alphv first emerged in November 2021, an...</description>
-    <pubDate>Sat, 07 Mar 2026 02:43:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Apothecary Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/apothecary-spider/</link>
-    <description>APOTHECARY SPIDER—active since at least March 2021—develops and rents EugenLoader, an initial infection chain loader that has been delivered via ma...</description>
-    <pubDate>Sat, 07 Mar 2026 02:43:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Aviator Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/aviator-spider/</link>
-    <description>AVIATOR SPIDER conducts high-volume opportunistic spam campaigns that primarily but not exclusively target aviation and aerospace sector entities. ...</description>
-    <pubDate>Sat, 07 Mar 2026 02:43:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Blind Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/blind-spider/</link>
-    <description>BLIND SPIDER is an adversary known for opportunistic phishing campaigns, targeting Colombian government and private sector organizations since at l...</description>
-    <pubDate>Sat, 07 Mar 2026 02:43:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Boson Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/boson-spider/</link>
-    <description>BOSON SPIDER is a criminal group operating the commodity banking trojan most commonly known as ‘CoreBot’. The group has been actively developing th...</description>
-    <pubDate>Sat, 07 Mar 2026 02:43:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Brain Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/brain-spider/</link>
-    <description>BRAIN SPIDER is a prolific threat actor with a history of being an initial access broker (IAB), an alleged former member of CARBON SPIDER, and a me...</description>
-    <pubDate>Sat, 07 Mar 2026 02:43:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Butler Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/butler-spider/</link>
-    <description>BUTLER SPIDER is an eCrime actor who operated as an access broker, data extortion actor, and data seller. The adversary claims to have previously d...</description>
-    <pubDate>Sat, 07 Mar 2026 02:43:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Carbon Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/carbon-spider/</link>
-    <description>CARBON SPIDER is an inactive eCrime adversary that originally targeted the hospitality and retail sectors in pursuit of payment card data, but late...</description>
-    <pubDate>Sat, 07 Mar 2026 02:43:13 GMT</pubDate>
   </item>
 </channel>
 </rss>

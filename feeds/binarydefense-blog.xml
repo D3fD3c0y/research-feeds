@@ -4,7 +4,97 @@
   <title>Binary Defense Blog (Custom Feed)</title>
   <link>https://binarydefense.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sat, 07 Mar 2026 08:47:04 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 16:41:12 GMT</lastBuildDate>
+  <item>
+    <title>Gh0stCringe (Formerly CirenegRAT)</title>
+    <link>https://binarydefense.com/resources/blog/gh0stcringeformerly-cirenegrat</link>
+    <description>Learn more about this emerging threat. Gh0stCringe is a particularly nasty piece of malware that can override controls.</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>Binary Defense surges amid awareness, product launch</title>
+    <link>https://binarydefense.com/resources/blog/binary-defense-surges-amid-awareness-product-launch</link>
+    <description>Credit: Crain's Cleveland Business Crain's Cleveland Business recently published an article on the growth of Binary Defense.Binary Defense CEO, Mike…</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>Credential Stuffing…A Side Effect of Data Breaches</title>
+    <link>https://binarydefense.com/resources/blog/credential-stuffinga-side-effect-of-data-breaches</link>
+    <description>Learn about growing cybersecurity risk--credential stuffing from industry leading SOC-as-a-Service provider Binary Defense &amp; their Counterintelligence…</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>Protect Yourself from Password Spraying Attacks</title>
+    <link>https://binarydefense.com/resources/blog/protect-yourself-from-password-spraying-attacks</link>
+    <description>Cybersecurity alert: password spraying attacks, how they work, and simple steps to defend against them from the Binary Defense Counterintelligence team.</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>AT&amp;T Cybersecurity Names Binary Defense Global Partner of the Year</title>
+    <link>https://binarydefense.com/resources/blog/att-cybersecurity-names-binary-defense-global-partner-of-the-year</link>
+    <description>Binary Defense—a leading cybersecurity firm in Endpoint Detection and Response, SOC-as-a-Service and Counterintelligence—was named AT&amp;T Cybersecurity’s…</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Binary Defense Expands Security Operations Center in Stow, Ohio</title>
+    <link>https://binarydefense.com/resources/blog/binary-defense-expands-security-operations-center-in-stow-ohio</link>
+    <description>Binary Defense is the full-service security partner—real people, detecting real threats, in real time and a global leader in managed security solutions</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Intelligence: Employees’ Private Data Compromised in Airbus…</title>
+    <link>https://binarydefense.com/resources/blog/threat-intelligence-employees-private-data-compromised-in-airbus-data-breach</link>
+    <description>Airbus has recently discovered a breach in their system which led to unauthorized parties accessing employee information, Airbus Data Breach</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Intelligence: Verity Healthcare Suffers Multiple Phishing…</title>
+    <link>https://binarydefense.com/resources/blog/verity-healthcare-suffers-multiple-phishing-attacks</link>
+    <description>Verity Health System has informed an undisclosed number of people that their information may have been accessed due to phishing</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Intelligence: iOS Bug Gives Unauthorized Access to User’s…</title>
+    <link>https://binarydefense.com/resources/blog/threat-intelligence-ios-bug-gives-unauthorized-access-to-users-facetime-audio-and-video</link>
+    <description>An iOS bug in Apple devices running iOS 12.1 or later could leave users open to eavesdropping through Facetime. To see threat analysts notes and…</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:11 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Intelligence: Adware Installers Using Rumba Variant STOP</title>
+    <link>https://binarydefense.com/resources/blog/threat-intelligence-adware-installers-using-rumba-variant-stop</link>
+    <description>DJVU and Tro STOP ransomware varients have been seen a lot over the past month, the new Rumba variant is similar but it adjoins its .rumba extension</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:11 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Intelligence: WordPress Plugin WPML Hacked</title>
+    <link>https://binarydefense.com/resources/blog/threat-intelligence-wordpress-plugin-wpml-hacked</link>
+    <description>WP MultiLingual (WPML) is home to 600,000 users who pay for their WordPress translation services. Recently they have suffered their first security issue</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:11 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Intelligence: Nine Adware Apps Discovered on Play Store</title>
+    <link>https://binarydefense.com/resources/blog/threat-intelligence-nine-adware-apps-discovered-on-play-store</link>
+    <description>Adware Apps Discovered, unwanted ads are being hidden within nine apps found on the Google Play Store and have been flooding users’ devices.</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:11 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Intelligence: Government Websites Down Due to Non-Renewed TLS…</title>
+    <link>https://binarydefense.com/resources/blog/threat-intelligence-government-websites-down-due-to-non-renewed-tls-certificates</link>
+    <description>More than 80 government sites have been impacted due to their TLS certificates not being renewed. A good number of these sites now cannot be accessed</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Intelligence: Yokagawa Severe Vulnerability</title>
+    <link>https://binarydefense.com/resources/blog/threat-intelligence-yokagawa-severe-vulnerability</link>
+    <description>With a 7.7 rate of severity, the vulnerability (CVE-1081-16196) has been affecting multiple Yokagawa products and it exists within the Vnet/IP</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Binary Defense Predictions for 2019</title>
+    <link>https://binarydefense.com/resources/blog/binary-defense-predictions-for-2019</link>
+    <description>2018 carried a plethora of cyber-attacks, including tons of data breaches that have started to become more talked about than ever. Here are our predictions</description>
+    <pubDate>Sat, 07 Mar 2026 16:41:12 GMT</pubDate>
+  </item>
   <item>
     <title>Cybercriminals Using Coronavirus Scare to Spread Malware</title>
     <link>https://binarydefense.com/resources/blog/cybercriminals-using-coronavirus-scare-to-spread-malware</link>
@@ -94,96 +184,6 @@
     <link>https://binarydefense.com/resources/blog/binary-defense-software-developer-uses-programming-expertise-to-help-injured-veteran-regain-mobility</link>
     <description>Learn about one of our cybersecurity team member's recent volunteer work programming a mobility device for an injured veteran.</description>
     <pubDate>Sat, 07 Mar 2026 08:47:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>How healthcare organizations can ramp up defenses against ransomware…</title>
-    <link>https://binarydefense.com/resources/blog/how-healthcare-organizations-can-ramp-up-defenses-against-ransomware-and-other-cyberattacks-five-essential-tips</link>
-    <description>Healthcare was no exception, and in October, Universal Health Services was hit with what some are calling the “largest cyberattack in US history.” In…</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>Top Ten CyberSafe Tips</title>
-    <link>https://binarydefense.com/resources/blog/top-ten-cybersafe-tips</link>
-    <description>Don’t re-use the same passwords Reusing passwords opens you up to additional vulnerabilities because if a hacker gets access to one password, they will be…</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Insider Threat: Why Your Greatest Security Risk Might Be Your…</title>
-    <link>https://binarydefense.com/resources/blog/the-insider-threat-why-your-greatest-security-risk-might-be-your-employees</link>
-    <description>That’s because insider threats, which are cyber threats coming from an employee, contractor or trusted partner, either by malicious intent or negligence,…</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Best Practices for a Successful Vendor Onboarding Process</title>
-    <link>https://binarydefense.com/resources/blog/best-practices-for-a-successful-vendor-onboarding-process</link>
-    <description>It is very important to complete your due diligence when it comes to managed security services providers, as well as SIEM platforms. Onboarding an MSSP…</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>What is the Darknet?</title>
-    <link>https://binarydefense.com/resources/blog/what-is-the-darknet</link>
-    <description>SecMail is a Darknet email service which provides an encrypted email service to its users and allows for a more anonymous email solution. Restricted…</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Are you in tune? Why SIEM tuning is important</title>
-    <link>https://binarydefense.com/resources/blog/are-you-in-tune-why-siem-tuning-is-important</link>
-    <description>This is why many organizations outsource their SIEM administration and tuning to a third-party Security Operations Center that has the expert staff to…</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>EmoCrash: Exploiting a Vulnerability in Emotet Malware for Defense</title>
-    <link>https://binarydefense.com/resources/blog/emocrash-exploiting-a-vulnerability-in-emotet-malware-for-defense</link>
-    <description>Unique threats require unique solutions, which is why Binary Defense developed a killswitch exploiting a simple buffer overflow found in Emotet’s…</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Creating YARA Rules Based on Code</title>
-    <link>https://binarydefense.com/resources/blog/creating-yara-rules-based-on-code</link>
-    <description>Author: Stephan Simon The first post of this two-part blog covered a simple introduction to YARA, simple rules and the basic structure around them. In…</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Hunting and Defeating Evasive Threats</title>
-    <link>https://binarydefense.com/resources/blog/hunting-and-defeating-evasive-threats</link>
-    <description>Written by: Randy Pargman and James Quinn Threat actors spend a lot of time and energy to evade and defeat detections on their victims’ network. In this…</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Russian Cybercriminal Group Attempts to Steal COVID-19 Vaccine…</title>
-    <link>https://binarydefense.com/resources/blog/russian-cybercriminal-group-attempts-to-steal-covid-19-vaccine-research</link>
-    <description>Last week, as reported in Threat Watch , the APT29 threat group, attributed to Russia’s intelligence service, was found to be targeting various…</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>An Overview of the Unethical Services Offered on the Darknet</title>
-    <link>https://binarydefense.com/resources/blog/hackers-for-hire-an-overview-of-the-unethical-services-offered-on-the-darknet</link>
-    <description>Hackers for Hire , which means customized hacking against any company or individual specified by the person paying for the service. Types of Hacker for…</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Intro to Threat Hunting</title>
-    <link>https://binarydefense.com/resources/blog/intro-to-threat-hunting</link>
-    <description>If you’ve been around the information security community, you’ve probably heard the term “Threat Hunting” and considered how you can apply these…</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>What is YARA? Get to know this malware research tool</title>
-    <link>https://binarydefense.com/resources/blog/what-is-yara-get-to-know-this-malware-research-tool</link>
-    <description>A Simple “Hello, World!” Rule Before diving into the features of YARA, it may be helpful to see just how simple the rules can be. A simple YARA example As…</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>SCAM ALERT: Sophistication, Law Enforcement, and Money - Beware</title>
-    <link>https://binarydefense.com/resources/blog/scam-alert-sophistication-law-enforcement-and-money-beware</link>
-    <description>The call originated from a (216) area code (Cuyahoga County Ohio) and Mary dismissed the call as an unknown number, sending it to voicemail. The voicemail…</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>COVID-19 Scams Run Rampant</title>
-    <link>https://binarydefense.com/resources/blog/covid-19-scams-run-rampant</link>
-    <description>Phishing and malware emails top 18 million in one week Google reported more than 18 million daily malware and phishing emails that are related to COVID-19…</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:23 GMT</pubDate>
   </item>
 </channel>
 </rss>

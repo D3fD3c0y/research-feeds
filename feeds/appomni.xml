@@ -4,7 +4,97 @@
   <title>AppOmni Blog (Custom Feed)</title>
   <link>https://appomni.com/article-type/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sat, 07 Mar 2026 08:46:39 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 16:40:22 GMT</lastBuildDate>
+  <item>
+    <title>How to Investigate Suspicious User Activity Across Multiple SaaS Applications</title>
+    <link>https://appomni.com/blog/how-to-investigate-suspicious-user-activity-across-saas-apps/</link>
+    <description>Learn how security teams can investigate cross-SaaS threats, spot real risks, and streamline incident response with consistent, efficient strategies.</description>
+    <pubDate>Thu, 26 Jun 2025 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>SaaS Security Risks and Mitigation: How to Close Your Security Gaps</title>
+    <link>https://appomni.com/blog/saas-security-risks-and-mitigation/</link>
+    <description>Learn about SaaS security risks and mitigation to close your organizations’ security gaps, and how AppOmni’s SaaS security solution can help.</description>
+    <pubDate>Tue, 22 Jul 2025 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Risks of OAuth Tokens and 3rd Party Apps to SaaS Security</title>
+    <link>https://appomni.com/blog/the-risks-of-oauth-tokens-and-third-party-apps-to-saas-security/</link>
+    <description>Discover the risks posed by OAuth tokens and third-party apps to SaaS security in our insightful video.</description>
+    <pubDate>Wed, 31 Jan 2024 00:31:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>OAuth Token: What It Is, How It Works, and Its Vulnerabilities</title>
+    <link>https://appomni.com/blog/oauth-token-what-it-is-how-it-works-and-its-vulnerabilities/</link>
+    <description>Learn how OAuth authentication works and the risks of improper OAuth implementation that may introduce attack vectors on your SaaS estate.</description>
+    <pubDate>Wed, 14 Feb 2024 19:41:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>How Salesforce API Access Control Stops Rogue Apps Like UNC6040’s (ShinyHunters) Data Loader Attack</title>
+    <link>https://appomni.com/blog/block-rogue-salesforce-apps-unc6040-dataloader-attack/</link>
+    <description>Learn how Salesforce API Access Control strengthens OAuth security by blocking rogue apps and preventing UNC6040-style attacks.</description>
+    <pubDate>Mon, 21 Jul 2025 20:12:41 GMT</pubDate>
+  </item>
+  <item>
+    <title>OAuth Grants and Phishing: A Deadly Combination</title>
+    <link>https://appomni.com/blog/oauth-grants-and-phishing-a-deadly-combination/</link>
+    <description>In this blog, you’ll learn how OAuth phishing works, why it's harder to detect than traditional attacks, and how to protect your accounts from unauthorized access.</description>
+    <pubDate>Wed, 26 Mar 2025 17:17:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>AppOmni and Splunk SaaS: A Unified Front for Enhanced Security Insights</title>
+    <link>https://appomni.com/blog/appomni-and-splunk-a-unified-front-for-enhanced-saas-security/</link>
+    <description>AppOmni and Splunk SaaS work together to elevate SaaS security with enriched insights, streamlined investigations, and advanced AI-driven detection.</description>
+    <pubDate>Tue, 22 Apr 2025 15:53:26 GMT</pubDate>
+  </item>
+  <item>
+    <title>Unmatched Salesforce Ecosystem Security: Shield and AppOmni</title>
+    <link>https://appomni.com/blog/salesforce-ecosystem-security-shield-and-appomni/</link>
+    <description>See how AppOmni and Salesforce Shield better protect your Salesforce environment.</description>
+    <pubDate>Wed, 19 Apr 2023 20:42:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>How To Handle Increased Account Takeover Risks from Recent Credential Dumps</title>
+    <link>https://appomni.com/blog/synthient-credential-stuffing-fuels-saas-account-takeovers/</link>
+    <description>Credential-stuffing attacks are surging as billions of stolen logins resurface in Synthient’s data, putting SaaS and IdP accounts at higher risk of takeover.</description>
+    <pubDate>Fri, 14 Nov 2025 17:45:54 GMT</pubDate>
+  </item>
+  <item>
+    <title>Know Before You Go: AppOmni at RSAC 2025</title>
+    <link>https://appomni.com/blog/appomni-rsa-2025/</link>
+    <description>Check out AppOmni at RSA Conference 2025 and read up on our top picks of sessions-to-watch. There’s a lot to choose from, but don’t worry we've narrowed it down for you!</description>
+    <pubDate>Mon, 07 Apr 2025 19:36:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Security Advisory: Salesforce Gainsight Incident</title>
+    <link>https://appomni.com/blog/salesforce-gainsight-unauthorized-access-security-advisory/</link>
+    <description>Salesforce detected suspicious activity involving Gainsight apps that could impact customer data. Read AppOmni’s recommendations for securing Salesforce-Gainsight integrations.</description>
+    <pubDate>Thu, 20 Nov 2025 20:14:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Securing AI in SaaS: No New Playbook Required</title>
+    <link>https://appomni.com/blog/secure-ai-in-saas/</link>
+    <description>See how to secure AI in SaaS with AppOmni’s AI security solution, detailing discovery workflows and real-time anomaly detection.</description>
+    <pubDate>Thu, 31 Jul 2025 13:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>What to Look for in SaaS Threat Detection</title>
+    <link>https://appomni.com/blog/what-to-look-for-in-saas-threat-detection/</link>
+    <description>Read the blog for a better understanding of how to approach SaaS threat detection, what problems to look for, how to mitigate these problems and more.</description>
+    <pubDate>Thu, 06 Mar 2025 14:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Breadth vs. Depth in SaaS Security</title>
+    <link>https://appomni.com/blog/breadth-vs-depth-in-saas-application-security/</link>
+    <description>Learn the difference between breadth vs depth in SaaS security and why AppOmni’s depth-first approach can help organizations achieve both breadth and depth in their security strategies.</description>
+    <pubDate>Tue, 18 Jun 2024 18:02:54 GMT</pubDate>
+  </item>
+  <item>
+    <title>What SaaS Apps Are You Really Using? And Why It Matters (More on SaaS Discovery)</title>
+    <link>https://appomni.com/blog/saas-discovery-why-it-matters/</link>
+    <description>Learn how AppOmni Discovery captures SaaS usage, monitors shadow IT, browser-based tools, AI apps, and unauthorized third-party integrations.</description>
+    <pubDate>Wed, 14 May 2025 19:37:46 GMT</pubDate>
+  </item>
   <item>
     <title>Start Smart, Scale Fast: AppOmni’s SaaS Security Packages Explained</title>
     <link>https://appomni.com/blog/packages-for-saas-security-maturity/</link>
@@ -94,96 +184,6 @@
     <link>https://appomni.com/blog/how-to-operationalize-saas-compliance-at-scale/</link>
     <description>SaaS misconfigurations can lead to SaaS compliance failures and security risks. Learn how operationalizing compliance with AppOmni helps security teams enforce policies, monitor continuously, and stay audit-ready.</description>
     <pubDate>Thu, 01 May 2025 10:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Major Security Misconfiguration Impacting ServiceNow and Other SaaS Instances Discovered</title>
-    <link>https://appomni.com/blog/appomni-discovers-security-misconfiguration-impacting-servicenow/</link>
-    <description>AppOmni uncovered misconfigurations and over-provisioning that put PII and other data at risk.</description>
-    <pubDate>Wed, 09 Mar 2022 17:18:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Avoid Salesforce Security Vulnerabilities When Building Custom Lightning Components in Apex</title>
-    <link>https://appomni.com/blog/how-to-avoid-introducing-salesforce-security-vulnerabilities-when-building-custom-lightning-components-in-apex/</link>
-    <description>Lightning Components offer an unlimited amount of functionality and are a one of the huge benefits of the Salesforce platform. However, security vulnerabilities may be introduced within Apex code, which may then be exploited by a malicious actor.</description>
-    <pubDate>Fri, 15 Oct 2021 16:27:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Third-Party Risk in Salesforce Named Credentials</title>
-    <link>https://appomni.com/blog/third-party-risk-in-salesforce-named-credentials/</link>
-    <description>This article provides an overview of Named Credentials, a feature introduced by Salesforce in the Spring ’15 release to combat the issue of hardcoded credentials within an organization’s Apex codebase.</description>
-    <pubDate>Wed, 15 Sep 2021 21:54:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>SaaS Risks in Healthcare: Anatomy of a Data Exposure at the HSE</title>
-    <link>https://appomni.com/blog/saas-risks-in-healthcare-data-exposure-in-hse/</link>
-    <description>This blog goes over how to handle sensitive data in SaaS applications by learning from the misconfiguration in the Health Service Executive’s (HSE) portal.</description>
-    <pubDate>Thu, 14 Mar 2024 13:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Balancing Act: Navigating the Advantages and Risks of ServiceNow’s New Security Attributes</title>
-    <link>https://appomni.com/blog/navigating-the-advantages-and-risks-of-servicenows-new-security-attributes/</link>
-    <description>ServiceNow's SAs offer an alternative method for access control, designed to be human-readable and offer detailed auditing and logging.</description>
-    <pubDate>Tue, 23 Jan 2024 19:54:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Salesforce Misuse of Platform Cache Leads to Widespread Data Exposure</title>
-    <link>https://appomni.com/blog/salesforce-misuse-of-platform-cache-leads-to-widespread-data-exposure/</link>
-    <description>Learn how Salesforce Platform Cache misuse is causing information disclosure in over 80% of implementations handling sensitive data.</description>
-    <pubDate>Thu, 22 Jun 2023 22:20:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>End-to-End Zero Trust With Zero Trust Posture Management (ZTPM)</title>
-    <link>https://appomni.com/blog/end-to-end-zero-trust-with-zero-trust-posture-management/</link>
-    <description>Learn about the limitations of traditional Zero Trust with SaaS security and how organizations can implement Zero Trust Posture Management (ZTPM).</description>
-    <pubDate>Tue, 21 May 2024 15:55:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Elevating Identity Intelligence With Zero Trust Posture Management (ZTPM)</title>
-    <link>https://appomni.com/blog/elevating-identity-intelligence-with-zero-trust-posture-management/</link>
-    <description>Learn how integrating SaaS visibility and user threat detection strengthens an organization’s security measures within a Zero Trust framework.</description>
-    <pubDate>Tue, 28 May 2024 15:55:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Closing Security Gaps with AppOmni and Okta’s Integrated SaaS and Identity Protection</title>
-    <link>https://appomni.com/blog/closing-security-gaps-with-appomni-and-okta/</link>
-    <description>Read the blog on how AppOmni and Okta address the challenge of security teams correlating identity behavior with SaaS activity through the Shared Signals Framework (SSF).</description>
-    <pubDate>Tue, 15 Oct 2024 16:08:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Low-Code, High Stakes: Why Security Can’t Be an Afterthought for Customers Using Salesforce Industry Clouds</title>
-    <link>https://appomni.com/blog/low-code-high-stakes-salesforce-security/</link>
-    <description>AppOmni found 20+ security issues in Salesforce industry clouds, including zero-days. Learn the risks and how to secure your environment.</description>
-    <pubDate>Tue, 10 Jun 2025 12:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Salesforce Data Breach: Significant Leaks Identified</title>
-    <link>https://appomni.com/blog/significant-salesforce-misconfigurations-identified-april-2023/</link>
-    <description>New Salesforce data breach risks found. Learn how misconfigurations lead to Salesforce security risks and potential Salesforce breach exposure.</description>
-    <pubDate>Thu, 27 Apr 2023 22:35:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Strengthen Least Privilege with OAuth Token Manager</title>
-    <link>https://appomni.com/blog/strengthen-least-privilege-with-oauth-token-manager/</link>
-    <description>Learn how AppOmni’s OAuth Token Manager gives non-admins secure &amp; scoped API access, solving RBAC pain points without compromising admin control.</description>
-    <pubDate>Thu, 17 Jul 2025 09:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>AppOmni Guidance on the Digital Operational Resilience Act (DORA)</title>
-    <link>https://appomni.com/blog/appomni-guidance-on-dora-digital-operational-resilience-act/</link>
-    <description>Learn how traditional and non-traditional financial services institutions can comply with DORA requirements with the help of AppOmni’s SaaS security platform.</description>
-    <pubDate>Tue, 23 Apr 2024 15:55:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Simplifying SaaS Security with the Power of GenAI</title>
-    <link>https://appomni.com/blog/simplifying-saas-security-with-the-power-of-genai/</link>
-    <description>Learn how AI is transforming SaaS security and why AI-driven security is not just an advantage to your SaaS ecosystems, but a necessity that will help redefine how critical data is protected.</description>
-    <pubDate>Fri, 07 Mar 2025 14:03:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>How Using AI Simplifies SaaS Security: Smarter Investigations Start with AskOmni</title>
-    <link>https://appomni.com/blog/askomni-ai-saas-security-prompts/</link>
-    <description>Discover how AskOmni's new variable prompts simplify SaaS security investigations. AppOmni helps teams move faster with AI-driven insights.</description>
-    <pubDate>Wed, 30 Jul 2025 12:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
