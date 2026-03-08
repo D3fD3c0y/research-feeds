@@ -4,7 +4,97 @@
   <title>Censys Blog (Custom Feed)</title>
   <link>https://censys.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sun, 08 Mar 2026 08:47:32 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 16:43:30 GMT</lastBuildDate>
+  <item>
+    <title>Fortifying the Chain: Gaining Visibility into Third-Party Risk</title>
+    <link>https://censys.com/blog/fortifying-the-chain-gaining-visibility-into-third-party-risk/</link>
+    <description>“You’re only as strong as your weakest link.” This well-worn phrase rings especially true when it comes to cybersecurity. As organizations increasingly rely on a complex web of suppliers and third-party vendors to conduct business, their potential attack surface for cyber threats widens. The more links in the proverbial chain, the higher the potential risk […]</description>
+    <pubDate>Thu, 28 Mar 2024 19:12:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>Securing Federal Cloud Environments: CISA SCuBA Guidelines and Censys Solutions</title>
+    <link>https://censys.com/blog/securing-federal-cloud-environments-cisa-scuba-guidelines-and-censys-solutions/</link>
+    <description>On December 17, 2024, the CISA Secure Cloud Business Applications (SCuBA) team, who has the responsibility of providing guidance and capabilities to secure federal civilian agencies’ cloud business application environments and protect federal information that is created, accessed, shared, and stored in those environments, released a Binding Operational Directive (BOD) BOD 25-01 entitled “Implementing Secure Practices for Cloud Services.”  […]</description>
+    <pubDate>Wed, 30 Apr 2025 16:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Accelerating Security Response with CensAI™</title>
+    <link>https://censys.com/blog/accelerating-security-response-with-censai/</link>
+    <description>The New Censys Query Assistant brings the power of Natural Language Search in any language The Censys team recognized early on that GenAI can be used as a powerful tool for attackers and an equally powerful tool for cybersecurity teams. This is why we started our work with generative AI early on so that we […]</description>
+    <pubDate>Tue, 29 Apr 2025 14:59:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Evidence-Based Security Is Just Better Security: How to Accelerate Your Risk Triage and Response</title>
+    <link>https://censys.com/blog/evidence-based-security-is-just-better-security-how-to-accelerate-your-risk-triage-and-response/</link>
+    <description>SecOps teams get almost 4500 alerts daily, and then spend an average of 3 hours a day manually triaging those alerts. About 83% of security analysts report that alerts are false positives and not worth their time. These triage hours can waste massive amounts of time, while also preventing teams from addressing real threats effectively. This […]</description>
+    <pubDate>Tue, 06 May 2025 21:24:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>From Detection to Disruption: Censys Supports Global Government Threat Hunting</title>
+    <link>https://censys.com/blog/from-detection-to-disruption-censys-supports-global-government-threat-hunting/</link>
+    <description>The ability to detect adversary infrastructure before it’s used in an attack is more than an operational advantage; it’s a national security imperative. Government teams across the globe face growing pressure to not only respond to incidents but to anticipate them. Whether defending mission systems, civilian agency networks, or critical infrastructure, leaders are asking the same […]</description>
+    <pubDate>Wed, 07 May 2025 18:35:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Tracking AyySSHush: a Newly Discovered ASUS Router Botnet Campaign</title>
+    <link>https://censys.com/blog/tracking-ayysshush-a-newly-discovered-asus-router-botnet-campaign/</link>
+    <description>Executive Summary: A new, stealthy ASUS router botnet, dubbed AyySSHush, abuses trusted firmware features through a multi-stage attack sequence to backdoor routers and persist across firmware updates, evading traditional detection methods. GreyNoise observed the campaign in March 2025; Censys scan data reveals its global footprint and how it’s evolved over the past five months 4,504 ASUS devices show indicators of compromise […]</description>
+    <pubDate>Fri, 30 May 2025 12:42:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Turning Off the (Information) Flow: Working With the EPA to Secure Hundreds of Exposed Water HMIs</title>
+    <link>https://censys.com/blog/turning-off-the-information-flow-working-with-the-epa-to-secure-hundreds-of-exposed-water-hmis/</link>
+    <description>Executive Summary In October 2024, Censys researchers discovered nearly 400 web-based HMIs for U.S. water facilities exposed online. These were identified via TLS certificate analysis and confirmed through screenshot extraction. All systems used the same browser-based HMI/SCADA software and were found in one of three states: Authenticated (credentials required) Read-only (viewable without control) Unauthenticated (full access without […]</description>
+    <pubDate>Thu, 05 Jun 2025 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Introducing the New Censys Threat Hunting Module: Proactive Defense for Modern Threats</title>
+    <link>https://censys.com/blog/introducing-the-new-censys-threat-hunting-module-proactive-defense-for-modern-threats/</link>
+    <description>We’re thrilled to announce the launch of the Censys Threat Hunting Module on June 9th. This launch represents a major advancement in helping security teams proactively track and defend against adversaries — before they strike. At Censys, we’ve long been trusted by threat hunters for our unparalleled Internet visibility. Now, we’re taking things even further. […]</description>
+    <pubDate>Mon, 09 Jun 2025 14:47:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Internet-scale Proactive Threat Hunting and Detection</title>
+    <link>https://censys.com/blog/internet-scale-proactive-threat-hunting-and-detection/</link>
+    <description>The Censys Threat Hunting Module is Now Generally Available! We’re elated to announce the release of the Threat Hunting Module as part of the newly launched Censys Platform. This isn’t just another feature release—it’s a defining moment for Censys as the authority in Internet Intelligence, built from the ground up to be the world’s most […]</description>
+    <pubDate>Tue, 10 Jun 2025 13:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Unmasking the Infrastructure of a Spearphishing Campaign</title>
+    <link>https://censys.com/blog/unmasking-the-infrastructure-of-a-spearphishing-campaign/</link>
+    <description>Executive Summary A cluster of 16 open directories containing heavily obfuscated Visual Basic Script (VBS) files was discovered, all of which included a filename of “sostener.vbs”. These VBS files form a three-stage obfuscated malware installation system, which ultimately leads to the deployment of a remote access trojan (RATs). Stage 1: Executes VBScript, decodes a base64 […]</description>
+    <pubDate>Tue, 10 Jun 2025 16:16:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cert Happens. Protecting Your Brand from Phishy Lookalikes with Censys Collections</title>
+    <link>https://censys.com/blog/cert-happens-protecting-your-brand-with-censys-collections/</link>
+    <description>In today’s tech landscape, securing your web infrastructure isn’t just about throwing out certificates and then dusting off your hands.  You need to know who else might be issuing them to pretend they’re you. Someone attempting to fraudulently create legitimate-looking certificates can distribute malware, conduct Business Email Compromises or hit you with a wholesale data […]</description>
+    <pubDate>Wed, 18 Jun 2025 18:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Poking at the Flodrix Botnet</title>
+    <link>https://censys.com/blog/poking-the-flodrix-botnet/</link>
+    <description>Executive Summary Trend Micro posted a blog detailing how attackers are using CVE-2025-3248, a critical vulnerability in the Langflow AI framework, to install a botnet called Flodrix. Along with their analysis, they also disclosed the C2 server associated with the campaign. The botnet’s C2 server exposed a portmapper and an NFS (Network File System) share, allowing us […]</description>
+    <pubDate>Thu, 19 Jun 2025 15:22:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Speeding up Threat Hunting with Censys</title>
+    <link>https://censys.com/blog/speeding-up-threat-hunting-with-censys/</link>
+    <description>It’s unfortunate that when the term dwell time entered the cybersecurity lexicon, it focused solely on the attacker’s timeline—the duration an adversary remains undetected in a network. Missing from that view is an equally important metric: defender dwell time—the lag between when a threat artifact is created and when it becomes actionable by researchers, defenders, or sysadmins. […]</description>
+    <pubDate>Mon, 28 Apr 2025 12:05:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Persistent Threat of Salt Typhoon: Tracking Exposures of Potentially Targeted Devices</title>
+    <link>https://censys.com/blog/the-persistent-threat-of-salt-typhoon-tracking-exposures-of-potentially-targeted-devices/</link>
+    <description>Executive Summary Salt Typhoon (also known as FamousSparrow/GhostEmperor/RedMike/UNC2286) is a Chinese state-sponsored threat actor that has compromised major telecommunications providers worldwide Although confirmed IOCs for Salt Typhoon remain sparse, public reporting suggests that their campaigns against telecommunications providers target known vulnerabilities in publicly available network device interfaces to gain initial entry We track global exposures […]</description>
+    <pubDate>Fri, 25 Apr 2025 15:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Enhance Your Infrastructure Monitoring with Censys Attack Surface Management</title>
+    <link>https://censys.com/blog/enhance-your-infrastructure-monitoring-with-censys-attack-surface-management/</link>
+    <description>Securing your digital ecosystem requires achieving a complete, accurate, and up-to-date view of your internet-facing infrastructure. Discover: Why organizations need reliable infrastructure monitoring How infrastructure monitoring works The evolution and challenges of modern infrastructure monitoring How Attack Surface Management supports infrastructure monitoring and observability How Censys delivers unparalleled visibility The Power of Infrastructure Monitoring and […]</description>
+    <pubDate>Thu, 19 Sep 2024 07:00:00 GMT</pubDate>
+  </item>
   <item>
     <title>Leveraging Censys Data: From the Classroom to Improving an Internet Monitoring Public Service</title>
     <link>https://censys.com/blog/leveraging-censys-data-from-the-classroom-to-improving-an-internet-monitoring-public-service/</link>
@@ -94,96 +184,6 @@
     <link>https://censys.com/blog/fuzzy-matching-to-find-phishy-domains/</link>
     <description>Summary The Internet is a vast place, and there can be a lot of pitfalls for users. Technology has made it easier for malicious actors to spin up fraudulent websites quickly and easily, and threat actors can use these spoofed domains or brand impersonations to trick users into forfeiting sensitive information. Threat actors often also […]</description>
     <pubDate>Fri, 26 Jan 2024 00:50:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Global ICS Exposures: What Our 2024 State of the Internet Report Reveals About Critical Infrastructure Security</title>
-    <link>https://censys.com/blog/global-ics-exposures-what-our-2024-state-of-the-internet-report-reveals-about-critical-infrastructure-security/</link>
-    <description>The Censys Research Team identified over 145,00 exposed Industrial Control System (ICS) services globally, more than one-third of which are located in the United States. Industrial control systems are the backbone of industrial operations, making their exposure to the Internet a long-standing concern for security researchers. While direct cyberattacks on ICS remain less common due […]</description>
-    <pubDate>Tue, 26 Nov 2024 20:54:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Let's Look for Bad Stuff Using Censys' "Suspicious-Open-Directory" Label!</title>
-    <link>https://censys.com/blog/lets-look-for-bad-stuff-using-censys-suspicious-open-directory-label/</link>
-    <description>Introduction Censys has recently made improvements to their “open-dir” label and released their “suspicious-open-dir”. Previously, we only had the “open-dir” label, which allows researchers and other users to discover all indexed open directories. Open directories are essentially file servers that allow access to anyone without authentication. They often host a variety of files including executables, […]</description>
-    <pubDate>Fri, 08 Nov 2024 00:16:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>What Does the Best Data Really Mean?</title>
-    <link>https://censys.com/blog/what-does-the-best-data-really-mean/</link>
-    <description>Censys recently surpassed a remarkable milestone—over a trillion recorded scans in our historical dataset, solidifying our commitment to being the one place to understand everything on the internet. In a world where every vendor claims to have the “best” data it’s easy to get lost in the noise. But when it comes to true, actionable […]</description>
-    <pubDate>Tue, 08 Oct 2024 16:03:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Global State of Internet of Healthcare Things (IoHT) Exposures on Public-Facing Networks</title>
-    <link>https://censys.com/blog/state-of-internet-of-healthcare-things/</link>
-    <description>Healthcare data breaches are on the rise, and they have consistently been the most expensive type of breach across all industries over the past 13 years. In this sector, the disruption caused by a breach goes beyond financial loss—it can directly affect patient care and human health. Censys investigated the exposure of various healthcare devices […]</description>
-    <pubDate>Thu, 10 Oct 2024 13:00:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Understanding the CUPS Vulnerability: What’s important to know</title>
-    <link>https://censys.com/blog/understanding-the-cups-vulnerability-whats-important-to-know/</link>
-    <description>Background Four vulnerabilities in the Common Unix Printing System (CUPS), a common printing utility in many Linux distributions, have been making waves online over the past week – mostly due to its unusual disclosure process and disagreement over its severity and technical details across social media. One of these vulnerabilities in particular, CVE-2024-47176, drew a […]</description>
-    <pubDate>Mon, 30 Sep 2024 23:34:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Simplify Threat Investigations: Identify Suspicious Open Directories with Censys Search</title>
-    <link>https://censys.com/blog/simplify-threat-investigations-identify-suspicious-open-directories-with-censys-search/</link>
-    <description>Censys Search users can now identify suspicious open directories using the “suspicious-open-dir” label.  Open directories have long been targeted by threat actors looking to access and expose sensitive data. Open directories refer to HTTP hosts with directories enabled, which means all the files and directories in a specific directory are listed when you access the […]</description>
-    <pubDate>Thu, 26 Sep 2024 16:43:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Challenging Assumptions: Enhancing the Understanding of Securing Internet-Exposed Industrial Control Systems</title>
-    <link>https://censys.com/blog/challenging-assumptions-enhancing-the-understanding-of-securing-internet-exposed-industrial-control-systems/</link>
-    <description>Censys and GreyNoise teamed up for the last three months to shed new light on the real-world threats facing internet-exposed industrial control systems (ICS). At LABSCon 2024, they shared their findings, challenging some long-held assumptions about ICS security. Earlier this year, Censys researchers identified over 40,000 internet-connected ICS devices in the U.S., including over 400 […]</description>
-    <pubDate>Fri, 20 Sep 2024 21:30:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Top Targets: The Impact of Ransomware on Manufacturing</title>
-    <link>https://censys.com/blog/top-targets-the-impact-of-ransomware-on-manufacturing/</link>
-    <description>The Global Resilience Federation’s H1 2024 Semiannual Ransomware Report finds that the manufacturing industry has experienced more ransomware attacks so far this year than any other sector. Here’s what manufacturing cybersecurity teams need to know – and how to protect against this prevalent threat. Ransomware continues to dominate as one of the most pressing security […]</description>
-    <pubDate>Thu, 29 Aug 2024 21:54:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Why Censys ASM Is Your Best Line of Defense Against Ransomware</title>
-    <link>https://censys.com/blog/why-censys-asm-is-your-best-line-of-defense-against-ransomware/</link>
-    <description>In its recently released Ransomware Incident Risk Insights Study, partially funded by the U.S. Cybersecurity and Infrastructure Security Agency (CISA), the Cyentia Institute examined over 14,000 recent security incidents to better understand trends in ransomware attacks. Over the past four years, ransomware has become one of the largest problems in the security industry. As Cyentia […]</description>
-    <pubDate>Mon, 12 Aug 2024 19:15:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>The DigiCert DCV Bug: Implications and Industry Impact</title>
-    <link>https://censys.com/blog/the-digicert-dcv-bug-implications-and-industry-impact/</link>
-    <description>Last week, DigiCert disclosed a compliance issue affecting 83,267 certificates due to a Domain Control Verification (DCV) bug, prompting requirements for their revocation. This has significant implications for organizations, who must quickly reissue these certificates or face potential service disruptions and loss of user trust.  At the time of writing, Censys observed 26,373 impacted certificates […]</description>
-    <pubDate>Thu, 08 Aug 2024 00:21:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>Stumbling Upon XehookStealer C2 Instances</title>
-    <link>https://censys.com/blog/stumbling-upon-xehookstealer-c2-instances/</link>
-    <description>While recently re-evaluating C2 fingerprints I was checking the logic of Agniane Stealer which could be discovered with the following query. services: (http.response.favicons.md5_hash=”ef05ae61e6cfce0f261635b68bacd524″ and http.response.body: “https://t.me/agniane”) Historical Virtual Host – Running on Cloudflare We haven’t seen any Agniane Stealer in some time so I decided to look at hosts with the string “https://t[.]me/agniane” in the […]</description>
-    <pubDate>Fri, 26 Jul 2024 01:35:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>A Beginner's Guide to Hunting Malicious Open Directories</title>
-    <link>https://censys.com/blog/a-beginners-guide-to-hunting-open-directories/</link>
-    <description>Introduction Threat analysts investigating malicious infrastructure are likely to encounter “open directories” during their investigations. These directories, commonly referred to as “opendirs” are openly accessible servers where threat actors host malicious files related to their operations. An open directory is a simple concept that many will be familiar with. Despite this, there is little public […]</description>
-    <pubDate>Mon, 22 Jul 2024 18:06:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Securing FinServ: Exploring Cybersecurity Challenges in Financial Services</title>
-    <link>https://censys.com/blog/securing-finserv-exploring-cybersecurity-challenges-in-financial-services/</link>
-    <description>Financial services organizations are up against a particularly daunting set of cybersecurity challenges. Though it’s true that no industry is immune from the relentless pace of increasingly sophisticated cyber attacks, it’s also true that banking institutions, investment firms, payment apps, and others in the financial services realm face a unique set of challenges. The cybersecurity […]</description>
-    <pubDate>Fri, 19 Jul 2024 20:48:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Connect with Experts and Join the Discussion in the New Censys Community</title>
-    <link>https://censys.com/blog/connect-with-experts-and-join-the-discussion-in-the-new-censys-community/</link>
-    <description>If you’re looking for a place to connect with fellow Censys users, discover useful Search and ASM queries, find answers to your questions about using Censys, and share your best practices with industry experts, we’ve got great news: the brand-new Censys Community is officially live! What You’ll Find in the Censys Community The Censys Community […]</description>
-    <pubDate>Tue, 16 Jul 2024 16:00:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>How the removal of Entrust from Chrome’s Root Store will Affect the Internet</title>
-    <link>https://censys.com/blog/google-entrust-internet/</link>
-    <description>Introduction HTTPS and Certificate Authorities One of the structural pillars of the modern internet is that establishing a connection from your computer to your favorite website is incredibly secure, at least from the perspective of the underlying traffic. No person or organization can pry into your internet habits just by observing the traffic between your […]</description>
-    <pubDate>Fri, 12 Jul 2024 02:53:20 GMT</pubDate>
   </item>
 </channel>
 </rss>

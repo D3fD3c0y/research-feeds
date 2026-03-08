@@ -4,12 +4,96 @@
   <title>BI.ZONE News (Custom Feed)</title>
   <link>https://bi.zone/eng/news/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sun, 08 Mar 2026 08:46:53 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 16:42:28 GMT</lastBuildDate>
   <item>
     <title>News</title>
     <link>https://bi.zone/eng/news/</link>
     <description>Stay up to date on new cybersecurity solutions, as well as BI.ZONE news and events</description>
     <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vulnerability scanner &amp;lt;span style=&amp;quot;white-space: nowrap&amp;quot;&amp;gt;MS17-010&amp;lt;/span&amp;gt;</title>
+    <link>https://bi.zone/eng/news/vulnerability-scanner-ms17-010/</link>
+    <description>Vulnerability scanner MS17-010 | BI.ZONE: expert in digital risks management</description>
+    <pubDate>Tue, 16 May 2017 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE becomes RAEC member</title>
+    <link>https://bi.zone/eng/news/bi-zone-becomes-raec-member/</link>
+    <description>BI.ZONE becomes RAEC member | BI.ZONE: expert in digital risks management</description>
+    <pubDate>Wed, 01 Feb 2017 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE becomes FIRST member</title>
+    <link>https://bi.zone/eng/news/bi-zone-becomes-first-member/</link>
+    <description>BI.ZONE becomes FIRST member | BI.ZONE: expert in digital risks management</description>
+    <pubDate>Thu, 12 Jan 2017 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CTFzone 2016: review and results</title>
+    <link>https://bi.zone/eng/news/ctfzone-2016-review-and-results/</link>
+    <description>CTFzone 2016: review and results | BI.ZONE: expert in digital risks management</description>
+    <pubDate>Mon, 28 Nov 2016 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>CTF announcement Easter Egg &amp;lt;span style=&amp;quot;white-space: nowrap&amp;quot;&amp;gt;write-up&amp;lt;/span&amp;gt;</title>
+    <link>https://bi.zone/eng/news/ctf-announcement-easter-egg-write-up/</link>
+    <description>CTF announcement Easter Egg write-up | BI.ZONE: expert in digital risks management</description>
+    <pubDate>Tue, 15 Nov 2016 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE invites everyone to take part in CTFzone</title>
+    <link>https://bi.zone/eng/news/bi-zone-invites-everyone-to-take-part-in-ctfzone/</link>
+    <description>BI.ZONE invites everyone to take part in CTFzone | BI.ZONE: expert in digital risks management</description>
+    <pubDate>Mon, 10 Oct 2016 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE is a new partner of ZERONIGHTS 2016</title>
+    <link>https://bi.zone/eng/news/bi-zone-is-a-new-partner-of-zeronights-2016/</link>
+    <description>BI.ZONE is a new partner of ZERONIGHTS 2016 | BI.ZONE: expert in digital risks management</description>
+    <pubDate>Wed, 21 Sep 2016 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE is now a Netoscope member</title>
+    <link>https://bi.zone/eng/news/bi-zone-is-now-a-netoscope-member/</link>
+    <description>BI.ZONE is now a Netoscope member | BI.ZONE: expert in digital risks management</description>
+    <pubDate>Tue, 26 Jul 2016 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE is ready to protect Sberbank</title>
+    <link>https://bi.zone/eng/news/bi-zone-is-ready-to-protect-sberbank/</link>
+    <description>BI.ZONE is ready to protect Sberbank | BI.ZONE: expert in digital risks management</description>
+    <pubDate>Fri, 10 Jun 2016 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Manufacturing and engineering leap ahead of finance as prime cyber targets</title>
+    <link>https://bi.zone/eng/news/manufacturing-and-engineering-leap-ahead-of-finance-as-prime-cyber-targets/</link>
+    <description>This makes them the most frequently attacked industries after the public sector</description>
+    <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>React2Shell: new critical vulnerability exploited against Russian companies</title>
+    <link>https://bi.zone/eng/news/novuyu-kriticheskuyu-uyazvimost-react2shell-nachali-ispolzovat-v-atakakh-na-rossiyskie-kompanii/</link>
+    <description>Attackers have attempted to distribute the XMRig cryptocurrency miner</description>
+    <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>OFFZONE 2026: dates and venue confirmed</title>
+    <link>https://bi.zone/eng/news/obyavlyaem-daty-i-mesto-provedeniya-offzone-2026/</link>
+    <description>The seventh international conference on practical cybersecurity OFFZONE will run on August 20–21 in Moscow's GOELRO</description>
+    <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vortex Werewolf spies impersonate Telegram</title>
+    <link>https://bi.zone/eng/news/vortex-werewolf-spies-impersonate-telegram/</link>
+    <description>In the crosshairs are defense and government organizations</description>
+    <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>BI.ZONE&amp;nbsp;EDR updated to&amp;nbsp;version&amp;nbsp;1.39</title>
+    <link>https://bi.zone/eng/news/my-obnovili-bi-zone-edr-do-versii-1-39/</link>
+    <description>The new version of BI.ZONE EDR offers greater usability for cybersecurity specialists and delivers faster incident analysis through improvements in the user interface, threat hunting capabilities, and response mechanisms in Linux and Windows environments.</description>
+    <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
   </item>
   <item>
     <title>BI.ZONE and the Association of Banks of Russia launch Threat Intelligence Exchange Platform</title>
@@ -100,90 +184,6 @@
     <link>https://bi.zone/eng/news/bi-zone-and-bank-saint-petersburg-have-entered-into-an-agreement-of-cooperation/</link>
     <description>BI.ZONE and Bank Saint Petersburg enter into an agreement of cooperation | BI.ZONE: expert in digital risks management</description>
     <pubDate>Mon, 10 Jun 2019 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE makes a projection of the future of cybersecurity at the World Economic Forum in Davos</title>
-    <link>https://bi.zone/eng/news/bi-zone-makes-a-projection-of-the-future-of-cybersecurity-at-the-world-economic-forum-in-davos/</link>
-    <description>BI.ZONE makes a projection of the future of cybersecurity at the World Economic Forum in Davos | BI.ZONE: expert in digital risks management</description>
-    <pubDate>Tue, 26 Feb 2019 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE establishes a research center in Tomsk</title>
-    <link>https://bi.zone/eng/news/bi-zone-establishes-a-research-centre-in-tomsk/</link>
-    <description>BI.ZONE establishes a research center in Tomsk | BI.ZONE: expert in digital risks management</description>
-    <pubDate>Fri, 22 Feb 2019 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Association of Banks of Russia and BI.ZONE review the pilot run of Threat Intelligence Platform</title>
-    <link>https://bi.zone/eng/news/the-association-of-banks-of-russia-together-with-bi-zone-hold-a-resume-following-the-pilot-run/</link>
-    <description>The Association of Banks of Russia and BI.ZONE review the pilot run of Threat Intelligence Platform | BI.ZONE: expert in digital risks management</description>
-    <pubDate>Mon, 10 Dec 2018 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE held the international conference OFFZONE 2018</title>
-    <link>https://bi.zone/eng/news/bi-zone-held-the-international-conference-offzone-2018/</link>
-    <description>BI.ZONE held the international conference OFFZONE 2018 | BI.ZONE: expert in digital risks management</description>
-    <pubDate>Thu, 06 Dec 2018 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE participated in Sibos 2018</title>
-    <link>https://bi.zone/eng/news/bi-zone-participated-in-the-sibos-2018/</link>
-    <description>BI.ZONE participated in Sibos 2018 | BI.ZONE: expert in digital risks management</description>
-    <pubDate>Fri, 26 Oct 2018 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE holds OFFZONE 2018 in November</title>
-    <link>https://bi.zone/eng/news/bi-zone-holds-offzone-2018-in-november/</link>
-    <description>BI.ZONE holds OFFZONE 2018 in November | BI.ZONE: expert in digital risks management</description>
-    <pubDate>Mon, 08 Oct 2018 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE signed agreements with new partners at ICC 2018</title>
-    <link>https://bi.zone/eng/news/bi-zone-signed-agreements-with-new-partners-at-icc-2018/</link>
-    <description>BI.ZONE signed agreements with new partners at ICC 2018 | BI.ZONE: expert in digital risks management</description>
-    <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Threat Zone 17/18: new challenges of the digital world</title>
-    <link>https://bi.zone/eng/news/threat-zone-17-18-new-challenges-of-the-digital-world/</link>
-    <description>Threat Zone 17/18: New Challenges of the Digital World | BI.ZONE: expert in digital risks management</description>
-    <pubDate>Fri, 06 Jul 2018 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE participated in the International Cybersecurity Congress</title>
-    <link>https://bi.zone/eng/news/bi-zone-participated-in-the-international-cybersecurity-congress/</link>
-    <description>BI.ZONE participated in the International Cybersecurity Congress | BI.ZONE: expert in digital risks management</description>
-    <pubDate>Thu, 05 Jul 2018 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Association of Banks of Russia and BI.ZONE held a technical workshop on TI.Platform</title>
-    <link>https://bi.zone/eng/news/association-of-banks-of-russia-and-bi-zone-held-a-technical-workshop-on-ti-platform/</link>
-    <description>Association of Banks of Russia and BI.ZONE held a technical workshop on TI.Platform | BI.ZONE: expert in digital risks management</description>
-    <pubDate>Wed, 27 Jun 2018 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Association of Banks of Russia and BI.ZONE launch Threat Intelligence platform</title>
-    <link>https://bi.zone/eng/news/association-of-banks-of-russia-and-bi-zone-launch-threat-intelligence-platform/</link>
-    <description>Association of Banks of Russia and BI.ZONE launch Threat Intelligence Platform | BI.ZONE: expert in digital risks management</description>
-    <pubDate>Mon, 18 Jun 2018 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE introduced its products and services at RSA Conference 2018</title>
-    <link>https://bi.zone/eng/news/bi-zone-introduced-its-products-and-services-at-rsa-conference-2018/</link>
-    <description>BI.ZONE introduced its products and services at RSA Conference 2018 | BI.ZONE: expert in digital risks management</description>
-    <pubDate>Tue, 08 May 2018 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE-CERT now authorized by Carnegie Mellon University</title>
-    <link>https://bi.zone/eng/news/bi-zone-cert-now-authorized-by-carnegie-mellon-university/</link>
-    <description>BI.ZONE-CERT now authorized by Carnegie Mellon University | BI.ZONE: expert in digital risks management</description>
-    <pubDate>Wed, 25 Apr 2018 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BI.ZONE will support INTERPOL’s &amp;lt;span style=&amp;quot;white-space: nowrap&amp;quot;&amp;gt;anti-phishing&amp;lt;/span&amp;gt; campaign</title>
-    <link>https://bi.zone/eng/news/bi-zone-will-support-interpol-s-anti-phishing-campaign/</link>
-    <description>BI.ZONE will support INTERPOL’s anti-phishing campaign | BI.ZONE: expert in digital risks management</description>
-    <pubDate>Thu, 31 Oct 2019 00:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

@@ -4,12 +4,96 @@
   <title>Blackpoint Cyber Blog (Custom Feed)</title>
   <link>https://blackpointcyber.com/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sun, 08 Mar 2026 08:47:17 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 16:43:06 GMT</lastBuildDate>
   <item>
     <title>Blog</title>
     <link>https://blackpointcyber.com/blog/</link>
     <description>Sharpen your defenses with the latest threat insights, industry trends and product updates sure to put you one step ahead of hackers – and your competition.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:13 GMT</pubDate>
+    <pubDate>Sun, 08 Mar 2026 16:43:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>Midnight Blizzard Mixes Up Microsoft 365</title>
+    <link>https://blackpointcyber.com/blog/midnight-blizzard-mixes-up-microsoft-365/</link>
+    <description>A threat actor, Midnight Blizzard, conducts targeted attacks using credential theft phishing lures sent through Microsoft Teams.</description>
+    <pubDate>Sun, 08 Mar 2026 16:43:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>Meet Rhysida: The 'Helpful' Cybersecurity Team with a Dark Side</title>
+    <link>https://blackpointcyber.com/blog/meet-rhysida-the-helpful-cybersecurity-team-with-a-dark-side/</link>
+    <description>Rhysida Ransomware Group first appeared in May &amp; quickly established itself as a significant threat operation, targeting victims worldwide.</description>
+    <pubDate>Sun, 08 Mar 2026 16:43:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>Viva Las Vulnerabilities: MGM Hit by ALPHV Ransomware</title>
+    <link>https://blackpointcyber.com/blog/viva-las-vulnerabilities-mgm-hit-by-alphv-ransomware/</link>
+    <description>The ALPHV ransomware group successfully compromised MGM Resorts, using the unique tactics of LinkedIn and a phone call.</description>
+    <pubDate>Sun, 08 Mar 2026 16:43:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>In the Chaos of Lorenz, APG sORted It Out</title>
+    <link>https://blackpointcyber.com/blog/the-chaos-of-lorenz/</link>
+    <description>Blackpoint Cyber analyzed an attack conducted by the Lorenz ransomware group. Lorenz has been active since early 2021 and is known to leverage a vulnerability in MiVoice Connect. Read the blog for analysis of the malicious executable and the use of .NET DLLs.</description>
+    <pubDate>Sun, 08 Mar 2026 16:43:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Secure Your Prizes and Clients With Blackpoint Cyber</title>
+    <link>https://blackpointcyber.com/blog/secure-prizes-and-clients/</link>
+    <description>This holiday season, Blackpoint is offering two giveaways. The Holidaze is an opportunity for MSPs to win ten days of gifts, and SOC’ing Stuffers is a giveaway for those that book demos between Dec. 1-20. We hope these opportunities are a fun way to celebrate the holidays and get to know the Blackpoint ecosystem!</description>
+    <pubDate>Sun, 08 Mar 2026 16:43:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>A Toolset to Protect You Every Step of the Way</title>
+    <link>https://blackpointcyber.com/blog/a-tool-set-to-use-every-step-of-the-way/</link>
+    <description>Team up with Blackpoint and experience a streamlined, cohesive ecosystem that supports them every step of the cybersecurity journey.</description>
+    <pubDate>Sun, 08 Mar 2026 16:43:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>With .one Foot in the Door</title>
+    <link>https://blackpointcyber.com/blog/with-one-foot-in-the-door/</link>
+    <description>Blackpoint is continuing to respond to the OneNote malware found within phishing emails. The APG has released a blog featuring OneNote’s tactics, IoCs, and more.</description>
+    <pubDate>Sun, 08 Mar 2026 16:43:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>2023 Cyberthreats to Watch Out For</title>
+    <link>https://blackpointcyber.com/blog/2023-cyberthreats-to-watch-out-for/</link>
+    <description>Our SOC &amp; APG predict that many of last year's threats will persist in 2023. Read our blog for the top four cybersecurity threats this year.</description>
+    <pubDate>Sun, 08 Mar 2026 16:43:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>A Deep Dive Into the 3CXDesktopApp Security Vulnerability</title>
+    <link>https://blackpointcyber.com/blog/deep-dive-3cxdesktopapp-security-vulnerability/</link>
+    <description>For a technical deep dive into the threat actor’s sophisticated techniques behind 3CX's security vulnerability, read the APG’s latest blog.</description>
+    <pubDate>Sun, 08 Mar 2026 16:43:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>The EDR Evolution</title>
+    <link>https://blackpointcyber.com/blog/combine-edr-with-managed-security/</link>
+    <description>Threat actors can surpass your AV/EDR with advanced tradecraft. Provide endpoint backup with Managed EDR. Read about it now.</description>
+    <pubDate>Sun, 08 Mar 2026 16:43:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>Introducing Managed Application Control</title>
+    <link>https://blackpointcyber.com/blog/introducing-managed-application-control/</link>
+    <description>Introducing our modern take on Zero Trust: Managed Application Control! Partner with Blackpoint’s expertise to streamline your security stack today.</description>
+    <pubDate>Sun, 08 Mar 2026 16:43:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>An Update on the MOVEit Vulnerability</title>
+    <link>https://blackpointcyber.com/blog/an-update-on-the-moveit-vulnerability/</link>
+    <description>APG expands upon the SOC’s threat notice regarding the MOVEit Transfer critical zero-day vulnerability with research including web shell analysis.</description>
+    <pubDate>Sun, 08 Mar 2026 16:43:05 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Competitive Edge of Managed Application Control</title>
+    <link>https://blackpointcyber.com/blog/the-competitive-edge-of-managed-application-control/</link>
+    <description>Discover the selling power of Managed Application Control for MSPs. Unify security efforts, optimize resources, and build a scalable security stack with Blackpoint today.</description>
+    <pubDate>Sun, 08 Mar 2026 16:43:06 GMT</pubDate>
+  </item>
+  <item>
+    <title>Sign Here, Malware There: Forged Kernel-Mode Driver Signatures</title>
+    <link>https://blackpointcyber.com/blog/sign-here-malware-there-forged-kernel-mode-driver-signatures/</link>
+    <description>Read the latest APG Threat Intel on a security vulnerability in Windows that allows threat actors to sign and load malicious kernel-mode drivers.</description>
+    <pubDate>Sun, 08 Mar 2026 16:43:06 GMT</pubDate>
   </item>
   <item>
     <title>Okta’s Social Engineering Escalations</title>
@@ -100,90 +184,6 @@
     <link>https://blackpointcyber.com/blog/from-chrome-to-everywhere-the-ever-expanding-cve-2023-4863/</link>
     <description>CVE-2023-4863 impacts many web browsers, operating systems, and software. These far-reaching impacts emphasize the urgency of patching.</description>
     <pubDate>Sun, 08 Mar 2026 02:54:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>FBI and CISA Team Up to Combat Snatch Ransomware</title>
-    <link>https://blackpointcyber.com/blog/fbi-and-cisa-team-up-to-combat-snatch-ransomware/</link>
-    <description>Read the APG's thoughts on the FBI and CISA's advisory on Snatch Ransomware. With shared community intel, we're able to defeat cybercrime.</description>
-    <pubDate>Sun, 08 Mar 2026 02:54:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Patch It Up: WS_FTP Server's Unplanned Fixes</title>
-    <link>https://blackpointcyber.com/blog/patch-it-up-ws_ftp-servers-unplanned-fixes/</link>
-    <description>A vulnerability in Progress Software's WS_FTP Server software allows threat actors to execute remote commands &amp; perform unauthorized file operations.</description>
-    <pubDate>Sun, 08 Mar 2026 02:54:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>APG Threat Digest: 12th Edition</title>
-    <link>https://blackpointcyber.com/blog/apg-threat-digest/</link>
-    <description>Read the APG's weekly recap on Progress Software and Confluence vulnerabilities, "Menorah" malware, an unprotected RSS database, and more.</description>
-    <pubDate>Sun, 08 Mar 2026 02:54:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Blackpoint’s New Chapter with Google Workspace</title>
-    <link>https://blackpointcyber.com/blog/blackpoints-new-chapter-with-google-workspace/</link>
-    <description>Blackpoint Cyber has released its cloud security offering for Google Workspace. It is available through Cloud Response now.</description>
-    <pubDate>Sun, 08 Mar 2026 02:54:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>FIN8 Strikes Again: Advanced Tactics in Recent Cyber Assault</title>
-    <link>https://blackpointcyber.com/blog/fin8-strikes-again-advanced-tactics-in-recent-cyber-assault/</link>
-    <description>A recent cyberattack by FIN8 showcased their use of compromised RDP, network scanning, RMM disabling, &amp; the establishment of C2 channels.</description>
-    <pubDate>Sun, 08 Mar 2026 02:54:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>5 Steps to Securing the Cloud</title>
-    <link>https://blackpointcyber.com/blog/5-steps-to-securing-the-cloud/</link>
-    <description>Are you wondering how to best secure your cloud environment? Read Blackpoint's blog for five steps towards safety take immediately.</description>
-    <pubDate>Sun, 08 Mar 2026 02:54:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Understanding Business Email Compromise: A Threat to Modern Enterprises</title>
-    <link>https://blackpointcyber.com/blog/understanding-business-email-compromise-a-threat-to-modern-enterprises/</link>
-    <description>Business Email Compromise attacks can cause financial and informational loss. In our blog, learn what it entails &amp; how to defend against it.</description>
-    <pubDate>Sun, 08 Mar 2026 02:54:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Unmasking Ransomed.vc: The New Kid on the Cyber Block</title>
-    <link>https://blackpointcyber.com/blog/unmasking-ransomed-vc-the-new-kid-on-the-cyber-block/</link>
-    <description>Ransomwed.vc has been active since August, targeting Sony and working with groups like Everest Ransomware. Learn more in the APG's blog.</description>
-    <pubDate>Sun, 08 Mar 2026 02:54:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Qakbot’s Quack Attack Comes to an End</title>
-    <link>https://blackpointcyber.com/blog/qakbots-quack-attack-comes-to-an-end/</link>
-    <description>The notorious Qakbot botnet, which poisoned organizations with malware and ransomware globally, has been dismantled. Here's the story and why it matters.</description>
-    <pubDate>Sun, 08 Mar 2026 02:54:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Proxy Party of Peril: Malware and Proxy Team Up</title>
-    <link>https://blackpointcyber.com/blog/proxy-party-of-peril-malware-and-proxy-team-up/</link>
-    <description>A new threat targeting Windows systems allows hackers to use a proxy server application to install malware, turning devices into a botnet.</description>
-    <pubDate>Sun, 08 Mar 2026 02:54:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>China’s High-Stakes Cyber Shenanigans: Cert Theft &amp; DLL Hijacking</title>
-    <link>https://blackpointcyber.com/blog/chinas-high-stakes-cyber-shenanigans-cert-theft-dll-hijacking/</link>
-    <description>China-based BRONZE STARLIGHT group is conducting cyberattacks against the Southeast Asian gambling sector.</description>
-    <pubDate>Sun, 08 Mar 2026 02:54:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>MalDoc in PDF: The Word Doc and PDF Team Up</title>
-    <link>https://blackpointcyber.com/blog/maldoc-in-pdf-the-word-doc-and-pdf-team-up/</link>
-    <description>An attack method dubbed “MalDoc in PDF” involves a polyglot technique of embedding a Word document with malicious macros inside a PDF.</description>
-    <pubDate>Sun, 08 Mar 2026 02:54:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cisco ASA SSL VPN Appliances Under Fire</title>
-    <link>https://blackpointcyber.com/blog/cisco-asa-ssl-vpn-appliances-under-fire/</link>
-    <description>Attackers have been targeting Cisco ASA SSL VPN devices by exploiting weak passwords and the lack of multi-factor authentication.</description>
-    <pubDate>Sun, 08 Mar 2026 02:54:55 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ways to Win in December</title>
-    <link>https://blackpointcyber.com/blog/ways-to-win-in-december/</link>
-    <description>Join the Blackpoint team this month as we celebrate the holidays with SOC'ing Stuffers and Channel Program's Holidaze.</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:26 GMT</pubDate>
   </item>
 </channel>
 </rss>
