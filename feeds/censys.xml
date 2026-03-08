@@ -4,7 +4,97 @@
   <title>Censys Blog (Custom Feed)</title>
   <link>https://censys.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sun, 08 Mar 2026 02:55:13 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 08:47:32 GMT</lastBuildDate>
+  <item>
+    <title>Leveraging Censys Data: From the Classroom to Improving an Internet Monitoring Public Service</title>
+    <link>https://censys.com/blog/leveraging-censys-data-from-the-classroom-to-improving-an-internet-monitoring-public-service/</link>
+    <description>At Georgia Tech, Prof. Alberto Dainotti and Dr. Zachary Bischof teach a newly developed graduate course on Internet Data Science . Its goal is for students to learn about cutting-edge research on networking, with a focus on Internet measurement techniques and datasets, such that they can then perform novel analyses and execute a final project […]</description>
+    <pubDate>Mon, 08 Jul 2024 18:47:13 GMT</pubDate>
+  </item>
+  <item>
+    <title>MOVEit Transfer: Auth bypass and a look at exposure</title>
+    <link>https://censys.com/blog/moveit-transfer-auth-bypass/</link>
+    <description>Update, June 26, 2024 As of 7:15 PM ET on June 25, Progress has updated the CVSS score for CVE-2024-5806 in MOVEit Transfer from 7.4 to 9.1, changing the severity from High to Critical. Their advisory now includes reporting on additional “newly identified” vulnerabilities in a third-party component used by MOVEit Transfer. The original patch […]</description>
+    <pubDate>Wed, 26 Jun 2024 00:40:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>June 20: Improper Authentication Vulnerability in ASUS Routers</title>
+    <link>https://censys.com/blog/june-20-improper-authentication-vulnerability-in-asus-routers/</link>
+    <description>Update, June 21, 2024: As of Friday afternoon ET, we see just over 157k ASUS router models potentially affected by CVE-2024-3080, with the majority in the United States, followed by Hong Kong and China. We are still unaware of a proof of concept or exploitation of this vulnerability. Issue Name and Description: Improper Authentication Vulnerability […]</description>
+    <pubDate>Thu, 20 Jun 2024 22:07:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>Proactive Cybersecurity: How to Achieve NIST CSF 2.0 Objectives with Censys</title>
+    <link>https://censys.com/blog/proactive-cybersecurity-how-to-achieve-nist-csf-2-0-objectives-with-censys/</link>
+    <description>The newly updated NIST Cybersecurity Framework (CSF) 2.0 underscores the importance for all organizations despite their industry, size, or maturity to manage and reduce cybersecurity risks within their organization to improve their cybersecurity posture and defend against the onslaught of attacks by threat actors. The overall cybersecurity posture of an organization should be a concern […]</description>
+    <pubDate>Thu, 20 Jun 2024 19:45:49 GMT</pubDate>
+  </item>
+  <item>
+    <title>June 18, 2024: Heap Overflow Vulnerabilities in VMWare vCenter Server</title>
+    <link>https://censys.com/blog/june-18-2024-heap-overflow-vulnerabilities-in-vmware-vcenter-server/</link>
+    <description>Issue Name and Description: The vCenter Server is currently facing a critical situation with multiple heap overflow vulnerabilities in its implementation of the DCERPC protocol. VMware has evaluated these issues as Critical, with a maximum CVSSv3 base score of 9.8. Date Published: Jun 18, 2024 CVE-ID and CVSS Score: CVE-2024-37079, CVSS Score: 9.8 CVE-2024-27080, CVSS […]</description>
+    <pubDate>Tue, 18 Jun 2024 20:56:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrushFTP CVE-2024-4040: Crushed Expectations</title>
+    <link>https://censys.com/blog/crushftp-cve-2024-4040-crushed-expectations/</link>
+    <description>Executive Summary: On April 19, 2024, CrushFTP patched CVE-2024-4040, a zero day virtual file system escape vulnerability in its WebInstance software that is undergoing active exploitation in the wild. If successfully exploited, this vulnerability would allow an unauthenticated actor to potentially access any sensitive data a customer managed with the FTP client and achieve full […]</description>
+    <pubDate>Wed, 24 Apr 2024 18:03:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>7 Resources to Inform Your Next Hunt for Malicious Infrastructure</title>
+    <link>https://censys.com/blog/7-resources-malicious-infrastructure/</link>
+    <description>So you’re going on a threat hunt…and you want to catch a big (malicious) one. Identifying malicious infrastructure can be a particularly daunting threat hunting objective. Attackers who are intent enough on setting up things like C2 networks, phishing sites, and impersonated domains, are also, not surprisingly, often very good at hiding their tracks with […]</description>
+    <pubDate>Thu, 18 Apr 2024 17:47:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>Sisense: A Look at Industry and Geography</title>
+    <link>https://censys.com/blog/sisense-a-look-at-industry-and-geography/</link>
+    <description>Summary Sisense, a BI and analytics platform trusted by many enterprises, experienced a data breach, with a notification to customers sent on April 10, 2024. Few details have been made publicly available, but from what we know based on suggested mitigations for customers, this incident could have widespread impacts across a variety of industries. Censys […]</description>
+    <pubDate>Sat, 13 Apr 2024 00:32:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>Celebrating Women's Empowerment: A Closer Look at WACKAS' Women's History Month Events</title>
+    <link>https://censys.com/blog/celebrating-womens-empowerment-a-closer-look-at-womens-history-month-events/</link>
+    <description>At Censys, diversity and inclusivity aren’t just buzzwords, we hold ourselves accountable. We’re proud to have an inclusive Women’s Employee Resource Group, WACKAS, internally known as ‘Women at Censys Kick Ass’, that is dedicated to supporting and uplifting women in the workplace. WACKAS was founded by women to support Women+ in the cybersecurity industry. This […]</description>
+    <pubDate>Thu, 11 Apr 2024 00:00:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>How Asset Attribution Can Improve Your Mean-Time-to-Remediate</title>
+    <link>https://censys.com/blog/how-asset-attribution-can-improve-your-mean-time-to-remediate/</link>
+    <description>Why Asset Attribution Matters Let’s imagine for a moment that all of your organization’s internet-connected assets are stars in the galaxy. Think of each server, application, and device as a different point of light in your corner of the cosmos. In cybersecurity, we can think of asset attribution as the process of mapping each of […]</description>
+    <pubDate>Fri, 08 Mar 2024 01:25:13 GMT</pubDate>
+  </item>
+  <item>
+    <title>ConnectWise ScreenConnect - CVE-2024-1709 &amp;#038; CVE-2024-1708</title>
+    <link>https://censys.com/blog/connectwise-screenconnect-cve-2024-1709-cve-2024-1708/</link>
+    <description>Executive Summary: Introduction: On 19 February 2024, ConnectWise announced they had patched two critical vulnerabilities, tracked as CVE-2024-1709 and CVE-2024-1708. These vulnerabilities impact ScreenConnect versions 23.9.7 and earlier, posing a significant risk to on-premise users.  CVE-2024-1709 – Authentication Bypass Vulnerability: ConnectWise identified CVE-2024-1709 as a critical authentication bypass vulnerability with the highest possible CVSS severity […]</description>
+    <pubDate>Wed, 28 Feb 2024 00:28:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>A Beginner's Guide to Tracking Malware Infrastructure</title>
+    <link>https://censys.com/blog/a-beginners-guide-to-tracking-malware-infrastructure/</link>
+    <description>Building queries for malware infrastructure can be a valuable step in the security lifecycle. Sadly, there are few resources for how to get started and which indicators can be used to build queries from. Today we aim to fill this gap by demonstrating approachable and high value methods that can be used to hunt for […]</description>
+    <pubDate>Fri, 09 Feb 2024 17:14:39 GMT</pubDate>
+  </item>
+  <item>
+    <title>User Stories: Investigating Cyber Threats with Censys Search</title>
+    <link>https://censys.com/blog/user-stories-investigating-cyber-threats-with-censys-search/</link>
+    <description>The vast collection of internet scan data accessible from Censys Search is used for many different cybersecurity and research objectives. Practitioners can use Censys Search to identify vulnerable services, security teams can enrich logs with up-to-date information about hosts and certificates, and researchers can leverage the global view we offer to identify trends in internet […]</description>
+    <pubDate>Tue, 06 Feb 2024 00:19:43 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Top 5 Benefits of More Queries and Results</title>
+    <link>https://censys.com/blog/the-top-5-benefits-of-more-queries-and-results/</link>
+    <description>We’re glad to have you with us as we continue our Unleash the Power of Censys Search blog series! In this weekly series, we talk about ways that users can get the most out of our Censys Search tool, which provides access to the most comprehensive, accurate, and up-to-date view of global internet infrastructure available. […]</description>
+    <pubDate>Wed, 31 Jan 2024 03:18:55 GMT</pubDate>
+  </item>
+  <item>
+    <title>Fuzzy Matching to Find Phishy Domains</title>
+    <link>https://censys.com/blog/fuzzy-matching-to-find-phishy-domains/</link>
+    <description>Summary The Internet is a vast place, and there can be a lot of pitfalls for users. Technology has made it easier for malicious actors to spin up fraudulent websites quickly and easily, and threat actors can use these spoofed domains or brand impersonations to trick users into forfeiting sensitive information. Threat actors often also […]</description>
+    <pubDate>Fri, 26 Jan 2024 00:50:55 GMT</pubDate>
+  </item>
   <item>
     <title>Global ICS Exposures: What Our 2024 State of the Internet Report Reveals About Critical Infrastructure Security</title>
     <link>https://censys.com/blog/global-ics-exposures-what-our-2024-state-of-the-internet-report-reveals-about-critical-infrastructure-security/</link>
@@ -94,96 +184,6 @@
     <link>https://censys.com/blog/google-entrust-internet/</link>
     <description>Introduction HTTPS and Certificate Authorities One of the structural pillars of the modern internet is that establishing a connection from your computer to your favorite website is incredibly secure, at least from the perspective of the underlying traffic. No person or organization can pry into your internet habits just by observing the traffic between your […]</description>
     <pubDate>Fri, 12 Jul 2024 02:53:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>2025 State of the Internet: Malware Investigations</title>
-    <link>https://censys.com/blog/2025-state-of-the-internet-malware-investigations/</link>
-    <description>Thank you for joining us for the third installment of our 2025 State of the Internet Report. Previously, we looked at the intersection of our Rapid Response vulnerability reports and threat actor activity. This report will look closely at two investigations from the Censys Research team over the past year.   At Censys, our broad scanning of […]</description>
-    <pubDate>Wed, 30 Jul 2025 17:14:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Maximize Cloud Visibility and Security: How the Censys ASM + Wiz Integration Closes the Gaps</title>
-    <link>https://censys.com/blog/maximize-cloud-visibility-and-security-how-the-censys-asm-wiz-integration-closes-the-gaps/</link>
-    <description>The Visibility Challenge in Cloud Security  Modern organizations rely heavily on cloud infrastructure to run their applications, services, and operations. But as these environments grow across providers like AWS, Azure, and GCP, the ability to monitor and secure every asset becomes increasingly difficult. Cloud resources are ephemeral by nature—spinning up and down in minutes, changing […]</description>
-    <pubDate>Mon, 28 Jul 2025 17:56:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>See What Attackers See: Introducing Web Screenshots on the Censys Platform</title>
-    <link>https://censys.com/blog/see-what-attackers-see-introducing-web-screenshots-on-the-censys-platform/</link>
-    <description>A New Visual Layer of Internet Intelligence for Security Teams We’re excited to introduce Web Screenshots, a new beta feature available to all Censys Enterprise customers. With both recurring and on-demand screenshots, this capability allows you to visually inspect exposed assets across the Internet. Whether you’re tracking rogue ICS interfaces or validating newly discovered RDP endpoints, […]</description>
-    <pubDate>Mon, 28 Jul 2025 17:37:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Introducing the new Censys MCP Server</title>
-    <link>https://censys.com/blog/introducing-the-new-censys-mcp-server/</link>
-    <description>Modern security teams and AI agents need real-time visibility into the Internet – but too often, accessing that intelligence means wrestling with rigid REST APIs, fragile scripts, or outdated integrations. The Censys MCP Server changes that. Built on the Model Context Protocol (MCP), it gives your agents and workflows secure, governed, and direct access to the entire […]</description>
-    <pubDate>Mon, 21 Jul 2025 22:50:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>ICS and Iran: Exposure of Previously Targeted Devices</title>
-    <link>https://censys.com/blog/ics-iran-exposure-of-previously-targeted-devices/</link>
-    <description>Executive Summary On June 22, 2025, the U.S. Department of Homeland Security (DHS) issued an advisory warning against a “heightened threat environment” in the United States following U.S. airstrikes over Iranian nuclear sites. Further, on June 30, CISA and partners released an alert urging critical infrastructure operators to remain vigilant for targeted activity by Iranian […]</description>
-    <pubDate>Mon, 30 Jun 2025 15:59:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>The 2025 State of the Internet Report - Censys</title>
-    <link>https://censys.com/blog/2025-sotir-intro/</link>
-    <description>Understanding Adversary Infrastructure Through Real Investigations and Data In this annual report, we examine adversary infrastructure—the hidden backbone of cybercrime and espionage that allows attackers to scale operations, mask origins, and sustain campaigns. The report focuses on command-and-control (C2) services and related tools that enable control, lateral movement, and data exfiltration. Drawing from real-world incidents, […]</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Unpacking the Oracle EBS Debacle: Industries, Geography, and MOVEit Comparisons</title>
-    <link>https://censys.com/blog/unpacking-the-oracle-ebs-debacle-industries-geography-and-moveit-comparisons/</link>
-    <description>Executive Summary On September 29, Mandiant and Google Threat Intelligence Group began tracking an extortion campaign targeting Oracle’s E-Business Suite, reminiscent in many ways of the MOVEit Transfer campaign of 2023 Extortion actor Cl0p claimed credit for the attack in emails sent to executives of affected companies, and as of October 2025, organizations are slowly […]</description>
-    <pubDate>Thu, 23 Oct 2025 20:14:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Press Release: Censys Enhances Critical Infrastructure Protection with Unmatched Internet Visibility</title>
-    <link>https://censys.com/blog/press-release-censys-enhances-critical-infrastructure-protection-with-unmatched-internet-visibility/</link>
-    <description>New ICS/OT offering delivers comprehensive vendor, protocol, and HMI coverage — empowering both commercial and government  defenders to identify, detect, and secure exposed industrial systems. October 16, 2025 – Ann Arbor, MI – Censys, the authority for Internet Intelligence and insights, today announced the release of a new ICS/OT Internet intelligence offering designed to close the […]</description>
-    <pubDate>Thu, 16 Oct 2025 13:21:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>How the New White House Executive Order Can Up-Level the U.S. Cyber Game</title>
-    <link>https://censys.com/blog/how-the-new-white-house-executive-order-can-up-level-the-us-cyber-game/</link>
-    <description>In its final days, the Biden administration has issued an important executive order (EO) focused on strengthening key areas of the federal government’s approach to cybersecurity for risks such as software acquisition, supply chains, and the need for better detection and response tools. The need for secure supply chains has been a long-recognized issue but […]</description>
-    <pubDate>Thu, 16 Jan 2025 21:00:49 GMT</pubDate>
-  </item>
-  <item>
-    <title>Censeye: Gadgets!</title>
-    <link>https://censys.com/blog/censeye-gadgets/</link>
-    <description>A few weeks ago, we launched Censeye, an open-source utility designed to help researchers and threat hunters explore Censys scan data and automatically pivot into new findings. Check out our original announcement here if you haven’t seen it yet. It’s been incredibly exciting to see the screenshots and discoveries people share—some genuinely fascinating results have already come out of […]</description>
-    <pubDate>Tue, 17 Dec 2024 13:39:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>From Ransomware to Regulation - Resource Center Thumbnail</title>
-    <link>https://censys.com/blog/from-ransomware-to-regulation-resource-center-thumbnail/</link>
-    <description>From Ransomware to Regulation - Resource Center Thumbnail</description>
-    <pubDate>Fri, 13 Dec 2024 23:19:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>From Ransomware to Regulation: Lessons from the Worst Year of Healthcare Cyber Breaches</title>
-    <link>https://censys.com/blog/lessons-from-the-worst-year-of-healthcare-cyber-breaches/</link>
-    <description>In 2024, it’s estimated that the two largest healthcare cyber incidents impacted over 100 million people, including patients and vendors across an interconnected digital landscape of insurers and healthcare providers. By October of 2024, 386 cybersecurity attacks had been reported in the U.S. against healthcare and 3rd-party providers, with Change Healthcare and Kaiser Permanente being […]</description>
-    <pubDate>Fri, 13 Dec 2024 21:00:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Is Your Next Breach Coming From a Minecraft Server?</title>
-    <link>https://censys.com/blog/is-your-next-breach-coming-from-a-minecraft-server/</link>
-    <description>In the expansive and ever-changing landscape of attack surfaces, few things surprise us anymore, but sometimes, they still manage to amuse us. Imagine discovering that part of your organization’s corporate infrastructure is hosting a Minecraft server. While it might seem innocuous or even quirky, this setup could represent a serious security risk. We will explore […]</description>
-    <pubDate>Wed, 11 Dec 2024 11:00:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>A Closer Look at Healthcare Cybersecurity Trends: New Research Shared at Health-ISAC Fall Americas Summit</title>
-    <link>https://censys.com/blog/a-closer-look-at-healthcare-cybersecurity-trends-new-research-shared-at-health-isac-fall-americas-summit/</link>
-    <description>Today at the 2024 Health-ISAC Fall Americas Summit, Censys shared the findings of cybersecurity risks affecting over 500,000 internet-facing assets in over a dozen healthcare organizations across the United States. This research underscores the pressing need for robust cybersecurity resources in an industry that navigates vast amounts of sensitive personal and medical data. Examination of […]</description>
-    <pubDate>Thu, 05 Dec 2024 17:09:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Automated Hunting</title>
-    <link>https://censys.com/blog/automated-hunting/</link>
-    <description>Summary Pivot for Profit After years of working with Censys data, you notice patterns approaching internet analysis. Through many investigations, your toolbox grows, filled with new utilities, terminology, and techniques that help you shift smoothly from one clue to the next. Whether identifying a piece of software never seen before or proactively tracking the internet-connected […]</description>
-    <pubDate>Wed, 27 Nov 2024 21:20:56 GMT</pubDate>
   </item>
 </channel>
 </rss>

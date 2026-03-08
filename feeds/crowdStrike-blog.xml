@@ -4,7 +4,97 @@
   <title>CrowdStrike Blog (Custom Feed)</title>
   <link>https://www.crowdstrike.com/en-us/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sun, 08 Mar 2026 02:55:57 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 08:48:13 GMT</lastBuildDate>
+  <item>
+    <title>CrowdStrike Falcon® Prevents WannaCry Ransomware</title>
+    <link>https://www.crowdstrike.com/blog/falcon-endpoint-protection-blocks-the-ransomware-that-attacked-the-nhs/</link>
+    <description>The CrowdStrike Falcon® platform protects against WannaCry, a massive ransomware attack that has had far-reaching effects across a wide range of industries.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:42 GMT</pubDate>
+  </item>
+  <item>
+    <title>Falcon Report: CrowdStrike Falcon® Prevents the Attack</title>
+    <link>https://www.crowdstrike.com/blog/falcon-intelligence-report-wanna-ransomware-spreads-rapidly-continually-encrypts-victim-files/</link>
+    <description>Ransomware that spreads rapidly and continually encrypts victim files can be stopped by the CrowdStrike Falcon® platorm</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:42 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike Investors Double Down and Lead $100 Million Series D Round to Support the Company’s Global Growth</title>
+    <link>https://www.crowdstrike.com/blog/crowdstrike-investors-double-down-and-lead-100-million-series-d-round-to-support-the-companys-global-growth/</link>
+    <description>CrowdStrike has completed a $100 million Series D financing round, led by Accel.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:45 GMT</pubDate>
+  </item>
+  <item>
+    <title>A Strategy to Find and Stop Attackers Before They Do Damage</title>
+    <link>https://www.crowdstrike.com/blog/approaching-zero-dwell-time-strategy-finding-stopping-attackers-damage/</link>
+    <description>Dwell time, the period between when an attack occurs and when it is discovered, continues to be a serious problem for security professionals.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:47 GMT</pubDate>
+  </item>
+  <item>
+    <title>SANS Institute Reviews CrowdStrike Falcon® Endpoint Protection</title>
+    <link>https://www.crowdstrike.com/blog/sans-institute-reviews-crowdstrike-falcon-endpoint-protection/</link>
+    <description>SANS evaluated the CrowdStrike Falcon® platform, subjecting it to advanced cyberattacks proving Falcon protects against threats at every stage of an attack.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:47 GMT</pubDate>
+  </item>
+  <item>
+    <title>Key Characteristics of Modern Fileless Attacks</title>
+    <link>https://www.crowdstrike.com/blog/key-characteristics-of-modern-fileless-attacks/</link>
+    <description>Modern attacks use fileless, malware-free exploits that easily evade legacy antivirus and other standard security approaches.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:50 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why IT Hygiene is Critical to Your Cybersecurity Readiness</title>
+    <link>https://www.crowdstrike.com/blog/why-it-hygiene-is-critical-to-your-cybersecurity-readiness/</link>
+    <description>Learn how IT hygiene improves security posture via complete visibility into your environment and removing unknown users, systems and applications.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Defining the Value of Machine Learning for Endpoint Protection</title>
+    <link>https://www.crowdstrike.com/blog/defining-the-value-of-machine-learning-for-endpoint-protection/</link>
+    <description>CrowdStrike Chief Scientist Dr. Sven Krasser explains the importance of machine learning in a Computer Business Review interview.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:54 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike Protects Against NotPetya Attack</title>
+    <link>https://www.crowdstrike.com/blog/fast-spreading-petrwrap-ransomware-attack-combines-eternalblue-exploit-credential-stealing/</link>
+    <description>CrowdStrike provides a detailed summary on NotPetya, how they can protect you against NotPetya and other malware attacks. Read the expert analysis now!</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:54 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike CEO George Kurtz Wins Ernst &amp; Young Entrepreneur Award</title>
+    <link>https://www.crowdstrike.com/blog/crowdstrike-ceo-and-co-founder-george-kurtz-wins-ernst-young-entrepreneur-of-the-year-for-security/</link>
+    <description>CrowdStrike CEO and Co-founder George Kurtz is named Ernst &amp; Young Entrepreneur of the Year in the Security Category for Northern California</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>NotPetya Ransomware Attack [Technical Analysis]</title>
+    <link>https://www.crowdstrike.com/blog/petrwrap-ransomware-technical-analysis-triple-threat-file-encryption-mft-encryption-credential-theft/</link>
+    <description>Discover how NotPetya is a triple threat with File Encryption, MFT Encryption, and Credential Theft. Read in-depth technical analysis of NotPetya now!</description>
+    <pubDate>Sun, 08 Mar 2026 08:48:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>NotPetya Technical Analysis Part II: Further Findings</title>
+    <link>https://www.crowdstrike.com/blog/petrwrap-technical-analysis-part-2-further-findings-and-potential-for-mbr-recovery/</link>
+    <description>Review technical analysis of the NotPetya threat, it yields clues regarding how the attack unfolds, and the possibility of recovering the Master Boot Record</description>
+    <pubDate>Sun, 08 Mar 2026 08:48:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Achieving Cybersecurity Effectiveness in a World of Advanced Threats</title>
+    <link>https://www.crowdstrike.com/blog/achieving-cybersecurity-effectiveness-in-a-world-of-advanced-threats/</link>
+    <description>Security leader George Kurtz tells Forbes how to achieve cybersecurity effectiveness against today’s most sophisticated and damaging attacks.</description>
+    <pubDate>Sun, 08 Mar 2026 08:48:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>How to Decrypt NotPetya &amp; Petya After an Attack - CrowdStrike</title>
+    <link>https://www.crowdstrike.com/blog/decrypting-notpetya-tools-for-recovering-your-mft-after-an-attack/</link>
+    <description>CrowdStrike offers tools and step-by-step instructions for recovering your Master File Table (MFT) after a NotPetya or Petya attack. With the aid of the supplied tools, almost all of the Master File Table (MFT) can be successfully recovered within minutes.</description>
+    <pubDate>Sun, 08 Mar 2026 08:48:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>NY state tough cybersecurity regulations for financial institutions</title>
+    <link>https://www.crowdstrike.com/blog/new-york-state-cybersecurity-regulations-for-financial-institutions-are-tough-critical-reach-beyond-state-borders/</link>
+    <description>New York State cybersecurity regulations for financial institutions have far-reaching effects beyond NY &amp; apply to many financial orgs &amp; 3rd-party vendors</description>
+    <pubDate>Sun, 08 Mar 2026 08:48:13 GMT</pubDate>
+  </item>
   <item>
     <title>The Three Steps of Proactive Threat Hunting</title>
     <link>https://www.crowdstrike.com/blog/three-steps-proactive-threat-hunting/</link>
@@ -94,96 +184,6 @@
     <link>https://www.crowdstrike.com/blog/inside-the-takedown-of-zombie-spider-and-the-kelihos-botnet/</link>
     <description>New information about the arrest of Pyotr Levashov, the ZOMBIE SPIDER adversary, and CrowdStrike’s role in dismantling the Kelihos botnet.</description>
     <pubDate>Sun, 08 Mar 2026 02:55:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Investigating PowerShell: Command and Script Logging</title>
-    <link>https://www.crowdstrike.com/blog/investigating-powershell-command-and-script-logging/</link>
-    <description>Investigate Microsoft PowerShell and how it opens up capabilities for attackers &amp; more cybersecurity tips &amp; information on the CrowdStrike blog!</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>Are You More Interested in Stopping a Breach or Stopping Malware? - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/are-you-more-interested-in-stopping-a-breach-or-stopping-malware/</link>
-    <description>Are You More Interested in Stopping a Breach or Stopping Malware? While the obvious answer should be both, what would you choose first? Learn more!</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:58 GMT</pubDate>
-  </item>
-  <item>
-    <title>Using OS X FSEvents to Discover Deleted Malicious Artifact</title>
-    <link>https://www.crowdstrike.com/blog/using-os-x-fsevents-discover-deleted-malicious-artifact/</link>
-    <description>Using the File System Events artifact CrowdStrike explains how it can help discover the existence of deleted malware files on their blog here.</description>
-    <pubDate>Sat, 07 Mar 2026 16:42:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Open Source Active Reconnaissance (Red Team)</title>
-    <link>https://www.crowdstrike.com/blog/open-source-active-reconnaissance-red-team/</link>
-    <description>Having visibility into an attacker's reconnaissance activities enables organizations to better protect themselves from a breach. Learn more here!</description>
-    <pubDate>Sat, 07 Mar 2026 16:42:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Reconnaissance Detection (Blue Team) - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/reconnaissance-detection-blue-team/</link>
-    <description>Read up on the roles of a blue team in reconnaissance detection &amp; the few things that can be done to counter activity in the early stages of attack!</description>
-    <pubDate>Sat, 07 Mar 2026 16:42:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cyber Skirmish: Russia v. Turkey - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/cyber-skirmish-russia-v-turkey/</link>
-    <description>On the morning of 24 November 2015 an F-16 operated by the Turkish Air Force dropped into position behind a Russian Su-24 Fencer. Learn more!</description>
-    <pubDate>Sat, 07 Mar 2026 16:42:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cyber Security Due-Diligence Questionnaire - CrowdStrike</title>
-    <link>https://www.crowdstrike.com/blog/mergers-and-acquisitions-cybersecurity-due-diligence/</link>
-    <description>With the value of mergers &amp; acquisitions growing year after year, CrowdStrike has established a process to fully vet a target company’s systems, data, and environment to assess and protect those valuable assets being acquired.</description>
-    <pubDate>Sat, 07 Mar 2026 16:42:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Solving Intractable Performance Problems Through Vertical Engineering</title>
-    <link>https://www.crowdstrike.com/blog/owning-image-object-file-format-compiler-toolchain-operating-system-solving-intractable-performance-problems-vertical-engineering/</link>
-    <description>Increased Security in Windows 10 Anniversary Update (Redstone) Through Dynamic Kernel Address Space Randomization of Page Table Structures.</description>
-    <pubDate>Sat, 07 Mar 2026 16:42:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>State of the Criminal Address | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/blog/state-criminal-address/</link>
-    <description>Discovered attacks from criminal groups responsible for the delivery of NewPosThings, MalumPOS and PoSeidon point of sale Malware, as well as Carbanak.</description>
-    <pubDate>Sat, 07 Mar 2026 16:42:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>CrowdResponse Release and new @Tasks modules - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/crowdresponse-release-new-tasks-modules/</link>
-    <description>With the ongoing need to effectively &amp; quickly detect and respond to attacks, CrowdStrike is excited to release a new version of CrowdResponse. Learn more!</description>
-    <pubDate>Sat, 07 Mar 2026 16:42:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>CrowdStrike evaluated in Gartner’s Comparison of Endpoint Detection and Response Technologies and Solutions</title>
-    <link>https://www.crowdstrike.com/blog/gartners-comparison-of-endpoint-detection-and-response-technologies-and-solutions/</link>
-    <description>Gartner has recently published a comparative assessment called Comparison of Endpoint Detection and Response Technologies and Solutions.</description>
-    <pubDate>Sat, 07 Mar 2026 16:42:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>Read Featured Research &amp; Threat Intel Article by Adam Meyers</title>
-    <link>https://www.crowdstrike.com/blog/ecrime-ecosystem/</link>
-    <description>The eCrime actor’s operational profile differs greatly from that of an espionage-focused targeted intrusion actor.</description>
-    <pubDate>Sat, 07 Mar 2026 16:42:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>Delivering HOT New Features | Crowdstrike</title>
-    <link>https://www.crowdstrike.com/blog/summer-2016-falcon-platform-release/</link>
-    <description>I often hear from Chief Information Security Officers (CISOs) how hard their job is and how often they are in the ‘line of fire’ when bad things happen.</description>
-    <pubDate>Sat, 07 Mar 2026 16:42:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>CrowdStrike Machine Learning and VirusTotal - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/crowdstrike-machine-learning-virustotal/</link>
-    <description>Over the past three months, CrowdStrike worked closely with VirusTotal (VT), and we are excited to announce the integration of our anti-malware technology.</description>
-    <pubDate>Sat, 07 Mar 2026 16:42:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>Bear Hunting: Tracking Down COZY BEAR Backdoors</title>
-    <link>https://www.crowdstrike.com/blog/bear-hunting-tracking-cozybear-backdoors/</link>
-    <description>The recovery of the backdoor illuminates additional indicators organizations can leverage to further scope potential COZY BEAR activity in their networks.</description>
-    <pubDate>Sat, 07 Mar 2026 16:42:20 GMT</pubDate>
   </item>
 </channel>
 </rss>

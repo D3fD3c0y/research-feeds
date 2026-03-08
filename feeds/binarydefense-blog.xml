@@ -4,7 +4,97 @@
   <title>Binary Defense Blog (Custom Feed)</title>
   <link>https://binarydefense.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sun, 08 Mar 2026 02:54:37 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 08:47:02 GMT</lastBuildDate>
+  <item>
+    <title>Vision EDR Platform Disrupts Another Phishing Attack, Sorry Bad Guys</title>
+    <link>https://binarydefense.com/resources/blog/vision-edr-platform-disrupts-another-phishing-attack-sorry-bad-guys</link>
+    <description>Binary Defense Vision EDR can easily detect macro malware leveraging Windows PowerShell and, in this case, helped a customer defend against the Emotet…</description>
+    <pubDate>Sun, 08 Mar 2026 08:46:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Announcing Vision 4.0 Platform – Managed EDR Combined with EPP</title>
+    <link>https://binarydefense.com/resources/blog/announcing-vision-4-0-platform-managed-edr-combined-with-epp</link>
+    <description>Introducing Vision 4.0 Platform Managed Endpoint Detection and Response (EDR) with built-in Endpoint Platform Protection (EPP) by Binary Defense.</description>
+    <pubDate>Sun, 08 Mar 2026 08:46:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Social Engineering Attacks and Mitigations Part VII: Whaling</title>
+    <link>https://binarydefense.com/resources/blog/social-engineering-attacks-and-mitigations-part-vii-whaling</link>
+    <description>Phishing is the most common type of social engineering attack that has targeted companies for years. Phishing attacks get sent out to a mass amount of…</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Social Engineering Attacks and Mitigations Part V: Phishing</title>
+    <link>https://binarydefense.com/resources/blog/social-engineering-attacks-and-mitigations-part-v-phishing</link>
+    <description>How do companies protect themselves from phishing email attacks in the modern age?</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Social Engineering Attacks and Mitigations</title>
+    <link>https://binarydefense.com/resources/blog/social-engineering-attacks-and-mitigations</link>
+    <description>Social Engineering is a security term that may be thrown around in corporate offices numerous times but does everyone at your company know what it means?</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Binary Defense Acknowledged as a Representative Vendor in Gartner’s…</title>
+    <link>https://binarydefense.com/resources/blog/binary-defense-acknowledged-as-a-representative-vendor-in-gartners-market-guide-for-managed-detection-and-response-services</link>
+    <description>Binary Defense, a leading provider of Managed Detection and Response (MDR) and Managed Endpoint Detection and Response (EDR) services</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Not all Threats are Cyber</title>
+    <link>https://binarydefense.com/resources/blog/not-all-threats-are-cyber</link>
+    <description>Last week, I mentioned the assassination of a Chinese shipping executive who was killed in his car while parked near an upscale market in Karachi,…</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>EvilOSX</title>
+    <link>https://binarydefense.com/resources/blog/evilosx</link>
+    <description>On February 14th, 2018, a new variant of an OS X RAT called “EvilOSX” has appeared on Github. A RAT (Remote Access Trojan) is a type of malware</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Skiddies are Playing Dress-up</title>
+    <link>https://binarydefense.com/resources/blog/the-skiddies-are-playing-dress-up</link>
+    <description>Over the past year, there have been a number of attackers sending threats to major organizations pretending to be members of these various groups…</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Social Media: The Overlooked Critical Infrastructure of Chinese…</title>
+    <link>https://binarydefense.com/resources/blog/social-media-the-overlooked-critical-infrastructure-of-chinese-manufacturing</link>
+    <description>It is no doubt that social media has a hold on people around the world, but it has an especially mesmerizing effect on the factory workers of China’s…</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Fake Online FBI Scam</title>
+    <link>https://binarydefense.com/resources/blog/online-fbi-scam</link>
+    <description>A new cyberattack is impersonating the FBI’s Internet Crime Complaint Center and trying to scam personal data from victims or download malicious files</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Massive Botnet Turns Windows Machines into Miners</title>
+    <link>https://binarydefense.com/resources/blog/massive-botnet-turns-windows-machines-into-miners</link>
+    <description>Researchers have discovered a massive botnet that has taken over half a million Windows devices and turned them into cryptocurrency miners, Smominru</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>Digmine Virus Spreads Via Facebook Messenger</title>
+    <link>https://binarydefense.com/resources/blog/digmine-virus-spreads-via-facebook-messenger</link>
+    <description>A new cryptocurrency mining virus has risen, this time the virus is spreading through Facebook’s messenger app and is targeting Google Chrome desktop…</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>Google AdWords and Google Sites Used to Spread Malware</title>
+    <link>https://binarydefense.com/resources/blog/google-adwords-and-google-sites-used-to-spread-malware</link>
+    <description>This particular scam will trick the victim into downloading a fake Google Chrome installer however, an infected file installs “Potentially Unwanted…</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>Top Five Cyber-Security Predictions for 2018</title>
+    <link>https://binarydefense.com/resources/blog/top-five-cyber-security-predictions-for-2018</link>
+    <description>This year has shown us some of the biggest cyber threats in history, with millions of consumers and businesses having been hit by the WannaCry attack, and…</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:02 GMT</pubDate>
+  </item>
   <item>
     <title>Threat Intelligence: Netflix Phishing Scam</title>
     <link>https://binarydefense.com/resources/blog/threat-intelligence-netflix-phishing-scam</link>
@@ -94,96 +184,6 @@
     <link>https://binarydefense.com/resources/blog/binary-defense-launches-security-executive-network-s-e-n-program</link>
     <description>Our newly formed Security Executive Network (S.E.N.) is a traveling event to connect with security leaders everywhere to share insights and best…</description>
     <pubDate>Sun, 08 Mar 2026 02:54:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Gh0stCringe (Formerly CirenegRAT)</title>
-    <link>https://binarydefense.com/resources/blog/gh0stcringeformerly-cirenegrat</link>
-    <description>Learn more about this emerging threat. Gh0stCringe is a particularly nasty piece of malware that can override controls.</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Binary Defense surges amid awareness, product launch</title>
-    <link>https://binarydefense.com/resources/blog/binary-defense-surges-amid-awareness-product-launch</link>
-    <description>Credit: Crain's Cleveland Business Crain's Cleveland Business recently published an article on the growth of Binary Defense.Binary Defense CEO, Mike…</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Credential Stuffing…A Side Effect of Data Breaches</title>
-    <link>https://binarydefense.com/resources/blog/credential-stuffinga-side-effect-of-data-breaches</link>
-    <description>Learn about growing cybersecurity risk--credential stuffing from industry leading SOC-as-a-Service provider Binary Defense &amp; their Counterintelligence…</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>Protect Yourself from Password Spraying Attacks</title>
-    <link>https://binarydefense.com/resources/blog/protect-yourself-from-password-spraying-attacks</link>
-    <description>Cybersecurity alert: password spraying attacks, how they work, and simple steps to defend against them from the Binary Defense Counterintelligence team.</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>AT&amp;T Cybersecurity Names Binary Defense Global Partner of the Year</title>
-    <link>https://binarydefense.com/resources/blog/att-cybersecurity-names-binary-defense-global-partner-of-the-year</link>
-    <description>Binary Defense—a leading cybersecurity firm in Endpoint Detection and Response, SOC-as-a-Service and Counterintelligence—was named AT&amp;T Cybersecurity’s…</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Binary Defense Expands Security Operations Center in Stow, Ohio</title>
-    <link>https://binarydefense.com/resources/blog/binary-defense-expands-security-operations-center-in-stow-ohio</link>
-    <description>Binary Defense is the full-service security partner—real people, detecting real threats, in real time and a global leader in managed security solutions</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Threat Intelligence: Employees’ Private Data Compromised in Airbus…</title>
-    <link>https://binarydefense.com/resources/blog/threat-intelligence-employees-private-data-compromised-in-airbus-data-breach</link>
-    <description>Airbus has recently discovered a breach in their system which led to unauthorized parties accessing employee information, Airbus Data Breach</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Threat Intelligence: Verity Healthcare Suffers Multiple Phishing…</title>
-    <link>https://binarydefense.com/resources/blog/verity-healthcare-suffers-multiple-phishing-attacks</link>
-    <description>Verity Health System has informed an undisclosed number of people that their information may have been accessed due to phishing</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Threat Intelligence: iOS Bug Gives Unauthorized Access to User’s…</title>
-    <link>https://binarydefense.com/resources/blog/threat-intelligence-ios-bug-gives-unauthorized-access-to-users-facetime-audio-and-video</link>
-    <description>An iOS bug in Apple devices running iOS 12.1 or later could leave users open to eavesdropping through Facetime. To see threat analysts notes and…</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Threat Intelligence: Adware Installers Using Rumba Variant STOP</title>
-    <link>https://binarydefense.com/resources/blog/threat-intelligence-adware-installers-using-rumba-variant-stop</link>
-    <description>DJVU and Tro STOP ransomware varients have been seen a lot over the past month, the new Rumba variant is similar but it adjoins its .rumba extension</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Threat Intelligence: WordPress Plugin WPML Hacked</title>
-    <link>https://binarydefense.com/resources/blog/threat-intelligence-wordpress-plugin-wpml-hacked</link>
-    <description>WP MultiLingual (WPML) is home to 600,000 users who pay for their WordPress translation services. Recently they have suffered their first security issue</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Threat Intelligence: Nine Adware Apps Discovered on Play Store</title>
-    <link>https://binarydefense.com/resources/blog/threat-intelligence-nine-adware-apps-discovered-on-play-store</link>
-    <description>Adware Apps Discovered, unwanted ads are being hidden within nine apps found on the Google Play Store and have been flooding users’ devices.</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:11 GMT</pubDate>
-  </item>
-  <item>
-    <title>Threat Intelligence: Government Websites Down Due to Non-Renewed TLS…</title>
-    <link>https://binarydefense.com/resources/blog/threat-intelligence-government-websites-down-due-to-non-renewed-tls-certificates</link>
-    <description>More than 80 government sites have been impacted due to their TLS certificates not being renewed. A good number of these sites now cannot be accessed</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Threat Intelligence: Yokagawa Severe Vulnerability</title>
-    <link>https://binarydefense.com/resources/blog/threat-intelligence-yokagawa-severe-vulnerability</link>
-    <description>With a 7.7 rate of severity, the vulnerability (CVE-1081-16196) has been affecting multiple Yokagawa products and it exists within the Vnet/IP</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Binary Defense Predictions for 2019</title>
-    <link>https://binarydefense.com/resources/blog/binary-defense-predictions-for-2019</link>
-    <description>2018 carried a plethora of cyber-attacks, including tons of data breaches that have started to become more talked about than ever. Here are our predictions</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:12 GMT</pubDate>
   </item>
 </channel>
 </rss>

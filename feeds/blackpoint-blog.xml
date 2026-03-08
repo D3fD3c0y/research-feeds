@@ -4,12 +4,96 @@
   <title>Blackpoint Cyber Blog (Custom Feed)</title>
   <link>https://blackpointcyber.com/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sun, 08 Mar 2026 02:54:55 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 08:47:17 GMT</lastBuildDate>
   <item>
     <title>Blog</title>
     <link>https://blackpointcyber.com/blog/</link>
     <description>Sharpen your defenses with the latest threat insights, industry trends and product updates sure to put you one step ahead of hackers – and your competition.</description>
-    <pubDate>Sun, 08 Mar 2026 02:54:51 GMT</pubDate>
+    <pubDate>Sun, 08 Mar 2026 08:47:13 GMT</pubDate>
+  </item>
+  <item>
+    <title>Okta’s Social Engineering Escalations</title>
+    <link>https://blackpointcyber.com/blog/oktas-social-engineering-escalations/</link>
+    <description>APG analysis of an Okta article discussing social engineering attacks targeting highly privileged roles within their customer organizations.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:13 GMT</pubDate>
+  </item>
+  <item>
+    <title>Put on Your Cyber Gloves: BLISTER Loader Resurfaced</title>
+    <link>https://blackpointcyber.com/blog/put-on-your-cyber-gloves-blister-loader-resurfaced/</link>
+    <description>BLISTER malware loader is now distributed through SOCGHOLISH. Learn more about this sophisticated cyberthreat with the APG.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:14 GMT</pubDate>
+  </item>
+  <item>
+    <title>Excel-lent Phishing Campaign with Agent Tesla Variant</title>
+    <link>https://blackpointcyber.com/blog/excel-lent-phishing-campaign-with-agent-tesla-variant/</link>
+    <description>A new phishing campaign uses a variant of the Agent Tesla malware and exploits an older Microsoft Office vulnerability.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:14 GMT</pubDate>
+  </item>
+  <item>
+    <title>Top Threat Actor Tactics You Should Be Aware Of: Understanding Cyberthreats in the Digital Age</title>
+    <link>https://blackpointcyber.com/blog/top-threat-actor-tactics-you-should-be-aware-of-understanding-cyberthreats-in-the-digital-age/</link>
+    <description>Learn about top hacker tactics such as phishing emails, business email compromise, ransomware, and the exploitation of remote services.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:14 GMT</pubDate>
+  </item>
+  <item>
+    <title>Unmasking the Acquired Key: Microsoft and Storm-0558’s Tale</title>
+    <link>https://blackpointcyber.com/blog/unmasking-the-acquired-key-microsoft-and-storm-0558s-tale/</link>
+    <description>APG's update on Storm-0558's exploitation of a Microsoft account consumer key to forge tokens for unauthorized access to Outlook.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:15 GMT</pubDate>
+  </item>
+  <item>
+    <title>Azure HDInsight Battles Against XSS Vulnerabilities</title>
+    <link>https://blackpointcyber.com/blog/azure-hdinsight-battles-against-xss-vulnerabilities/</link>
+    <description>Read about the discovery and resolution of eight significant Cross-Site Scripting (XSS) vulnerabilities within Microsoft's Azure HDInsight.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:15 GMT</pubDate>
+  </item>
+  <item>
+    <title>From Interrogating Saddam Hussein to Professional Fighting: Lessons Learned with Former FBI Special Agent, George Piro</title>
+    <link>https://blackpointcyber.com/blog/lessons-learned-with-former-fbi-special-agent-george-piro/</link>
+    <description>For a glimpse into Jon Murchison's conversation with George Piro on The Unfair Fight, check out our three key takeaways!</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>Redis on the Run: P2PInfect Worm Attacks</title>
+    <link>https://blackpointcyber.com/blog/redis-on-the-run-p2pinfect-worm-attacks/</link>
+    <description>P2PInfect, a new peer-to-peer (P2P) worm, poses a significant threat to Linux and Windows cloud environments. Learn more with the APG.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>Apple Combats Zero-Day Zero-Click Campaign</title>
+    <link>https://blackpointcyber.com/blog/apple-combats-zero-day-zero-click-campaign/</link>
+    <description>Apple has addressed a critical zero-day kernel flaw, CVE-2023-38606, that is connected to a zero-click malware campaign.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>MikroTik Vulnerability Emerges from the Past</title>
+    <link>https://blackpointcyber.com/blog/mikrotik-vulnerability-emerges-from-the-past/</link>
+    <description>APG analyses recent research revealing that MikroTik's security vulnerability is more severe than originally thought.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:17 GMT</pubDate>
+  </item>
+  <item>
+    <title>Nitrogen's Malvertising Mayhem: When Ads Go Rogue!</title>
+    <link>https://blackpointcyber.com/blog/nitrogens-malvertising-mayhem-when-ads-go-rogue/</link>
+    <description>Nitrogen's Malvertising Mayhem: When Ads Go Rogue!</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:17 GMT</pubDate>
+  </item>
+  <item>
+    <title>Abusing the Microsoft “search”/”search-ms” URI Protocol</title>
+    <link>https://blackpointcyber.com/blog/abusing-the-microsoft-search-search-ms-uri-protocol/</link>
+    <description>Learn about an attack technique that leverages the "search-ms" URI protocol handler, allowing attackers to deliver harmful RAT payloads.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:17 GMT</pubDate>
+  </item>
+  <item>
+    <title>Pebbles Aren’t Alone: The Fruity Find Making Waves in Cybersecurity</title>
+    <link>https://blackpointcyber.com/blog/pebbles-arent-alone-the-fruity-find-making-waves-in-cybersecurity/</link>
+    <description>Check out a new multi-component trojan downloader known as Trojan.Fruity.1, which allows hackers to infect computers with many malware types.</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:17 GMT</pubDate>
+  </item>
+  <item>
+    <title>The SSM Agent's Secret Identity: Unmasking the RAT Within</title>
+    <link>https://blackpointcyber.com/blog/the-ssm-agents-secret-identity-unmasking-the-rat-within/</link>
+    <description>Learn about how threat actors exploit AWS' Systems Manager (SSM) agent, repurposing it as a Remote Access Trojan (RAT).</description>
+    <pubDate>Sun, 08 Mar 2026 08:47:17 GMT</pubDate>
   </item>
   <item>
     <title>From Chrome to Everywhere: The Ever-Expanding CVE-2023-4863</title>
@@ -100,90 +184,6 @@
     <link>https://blackpointcyber.com/blog/ways-to-win-in-december/</link>
     <description>Join the Blackpoint team this month as we celebrate the holidays with SOC'ing Stuffers and Channel Program's Holidaze.</description>
     <pubDate>Sat, 07 Mar 2026 16:41:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>APG Threat Digest: 13th Edition</title>
-    <link>https://blackpointcyber.com/blog/apg-threat-digest-2/</link>
-    <description>In our latest Threat Digest we discuss FIN8, DarkGate, HelloKitty, curl vulnerabilities, Wordpress malware, and US government advice.</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:26 GMT</pubDate>
-  </item>
-  <item>
-    <title>APG Threat Digest: 14th Edition</title>
-    <link>https://blackpointcyber.com/blog/apg-threat-digest-3/</link>
-    <description>Learn how threat actors are exploiting QR codes, a Confluence vulnerability, malware, LinkedIn, and cloud computing.</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Contextualizing Identity-Based Attacks for a More Secure Cloud</title>
-    <link>https://blackpointcyber.com/blog/contextualizing-identity-based-attacks-for-a-more-secure-cloud/</link>
-    <description>Learn how Identity Response for Azure AD in Blackpoint's Cloud Response enhances security against cloud-based attacks by contextualizing Azure SSO logins.</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Scan with Caution: The Light and Dark Sides of QR Codes</title>
-    <link>https://blackpointcyber.com/blog/scan-with-caution-the-light-and-dark-sides-of-qr-codes/</link>
-    <description>Learn all about QR codes and why the square barcodes can pose a security threat with the latest APG threat intel!</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>Shedding Light on Cyberthreats: APT34's Menorah Malware</title>
-    <link>https://blackpointcyber.com/blog/shedding-light-on-cyberthreats-apt34s-menorah-malware/</link>
-    <description>The APG discusses the discovery of the Menorah malware, attributed to APT34, and highlights the importance of monitoring scheduled tasks.</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>When Vulnerabilities Collide: Juniper’s Critical Collision</title>
-    <link>https://blackpointcyber.com/blog/when-vulnerabilities-collide-junipers-critical-collision/</link>
-    <description>Vulnerabilities have been found in Juniper Networks' EX switches and SRX firewalls that could lead to remote code execution if exploited together.</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>Top Five Cloud Security Threats</title>
-    <link>https://blackpointcyber.com/blog/top-five-cloud-security-threats-2/</link>
-    <description>Check out Blackpoint's top five cloud security threats according to our 24/7 Security Operations Center, powered by Cloud Response.</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>APG Threat Digest: 15th Edition</title>
-    <link>https://blackpointcyber.com/blog/apg-threat-digest-october-30/</link>
-    <description>In this week’s Threat Digest: Octo Tempest, a patch for Citrix Bleed, Hunters International ransomware, Microsoft Exchange targeted, and VMware's critical fix.</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Fatal Four: Overcoming Common MSP Pain Points</title>
-    <link>https://blackpointcyber.com/blog/the-fatal-four-overcoming-common-msp-pain-points/</link>
-    <description>Learn how to address talent shortages, lackluster GTM strategies, vendor sprawl, and customer loss with Blackpoint Cyber.</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>APG Threat Digest: 16th Edition</title>
-    <link>https://blackpointcyber.com/blog/apg-threat-digest-4/</link>
-    <description>APG Threat Digest: 16th Edition</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Top Ten Cybersecurity Best Practices</title>
-    <link>https://blackpointcyber.com/blog/top-ten-cybersecurity-best-practices/</link>
-    <description>Prepare for a more secure future with Blackpoint's top ten cybersecurity best practices. To learn about each one, read the blog.</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Join Blackpoint Cyber's Aussie Adventure!</title>
-    <link>https://blackpointcyber.com/blog/join-blackpoint-cybers-aussie-adventure/</link>
-    <description>Blackpoint Cyber will be in Australia for DattoCon APAC and more! We'd love to meet with Managed Service Providers in Sydney and Melbourne.</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>What is True MDR? (Or, How to Spot a Fake)</title>
-    <link>https://blackpointcyber.com/blog/what-is-true-mdr-or-how-to-spot-a-fake/</link>
-    <description>How do you know if your MDR service (or the one you’re considering) is true MDR or just an imitation? We break down what MDR means.</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>MSPs’ Role in Shining a Light on the Dark Web</title>
-    <link>https://blackpointcyber.com/blog/msps-role-in-shining-a-light-on-the-dark-web/</link>
-    <description>MSPs’ Role in Shining a Light on the Dark Web</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:18 GMT</pubDate>
   </item>
 </channel>
 </rss>
