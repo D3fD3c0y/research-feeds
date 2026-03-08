@@ -4,7 +4,97 @@
   <title>CrowdStrike Blog (Custom Feed)</title>
   <link>https://www.crowdstrike.com/en-us/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sat, 07 Mar 2026 16:42:20 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 02:55:57 GMT</lastBuildDate>
+  <item>
+    <title>The Three Steps of Proactive Threat Hunting</title>
+    <link>https://www.crowdstrike.com/blog/three-steps-proactive-threat-hunting/</link>
+    <description>How the CrowdStrike® Falcon OverWatch™ team uses proactive threat hunting to augment existing endpoint protection systems.</description>
+    <pubDate>Sun, 08 Mar 2026 02:55:27 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike and NIST 800-53: Now That’s What I Call a “Twofer”</title>
+    <link>https://www.crowdstrike.com/blog/crowdstrike-nist-800-53-now-thats-call-twofer/</link>
+    <description>CrowdStrike Falcon® Host helps companies comply with system protection and monitoring controls identified in NIST SP 800-53 Rev. 4</description>
+    <pubDate>Sun, 08 Mar 2026 02:55:29 GMT</pubDate>
+  </item>
+  <item>
+    <title>Falcon Certified as Legacy AV Replacement - CrowdStrike</title>
+    <link>https://www.crowdstrike.com/blog/crowdstrike-falcon-certified-as-legacy-av-replacement/</link>
+    <description>Learn how AV-Comparatives and other 3rd-party sources scored CrowdStrike Falcon® to achieve independent validation &amp; certification to separate the marketing hype from reality.</description>
+    <pubDate>Sun, 08 Mar 2026 02:55:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>Critical Infrastructure: Another Way to Thank For and Protect</title>
+    <link>https://www.crowdstrike.com/blog/critical-infrastructure-one-thing-give-thanks-protect/</link>
+    <description>November is Critical Infrastructure Security and Resilience Month, recognizing the importance of protecting our nation’s critical infrastructure.</description>
+    <pubDate>Sun, 08 Mar 2026 02:55:36 GMT</pubDate>
+  </item>
+  <item>
+    <title>Multi-Layered Prevention for the Endpoint</title>
+    <link>https://www.crowdstrike.com/blog/multi-layered-prevention-endpoint/</link>
+    <description>When it comes to cybersecurity, what an “ounce of prevention” really entails is multiple complementary functions to address the complexity of the attacks.</description>
+    <pubDate>Sun, 08 Mar 2026 02:55:36 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike Releases New Update To Falcon Orchestrator</title>
+    <link>https://www.crowdstrike.com/blog/crowdstrike-releases-new-update-to-falcon-orchestrator/</link>
+    <description>The next iteration of Orchestrator has now been released. It builds on the PowerShell-based response capabilities to provide new response features.</description>
+    <pubDate>Sun, 08 Mar 2026 02:55:39 GMT</pubDate>
+  </item>
+  <item>
+    <title>Danger Close: Fancy Bear Tracking of Ukrainian Field Artillery Units</title>
+    <link>https://www.crowdstrike.com/blog/danger-close-fancy-bear-tracking-ukrainian-field-artillery-units/</link>
+    <description>Late in the summer of '16, CrowdStrike Intelligence analysts began investigating a curious Android Package (APK) which contained Russian language artifacts.</description>
+    <pubDate>Sun, 08 Mar 2026 02:55:42 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike “Visionary” in the Gartner Magic Quadrant</title>
+    <link>https://www.crowdstrike.com/blog/crowdstrike-named-visionary-in-gartner-magic-quadrant/</link>
+    <description>Gartner has named CrowdStrike a “Visionary” in the 2017 Magic Quadrant for Endpoint Protection Platforms (EPP).</description>
+    <pubDate>Sun, 08 Mar 2026 02:55:44 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blocking Malicious PowerShell Downloads</title>
+    <link>https://www.crowdstrike.com/blog/blocking-malicious-powershell-downloads/</link>
+    <description>Suspicious PowerShell commands trigger CrowdStrike Falcon®’s behavioral-based detection to stop malware intrusions</description>
+    <pubDate>Sun, 08 Mar 2026 02:55:47 GMT</pubDate>
+  </item>
+  <item>
+    <title>VirusTotal Lookups Are Back, CrowdStrike’s Popular Free Tool</title>
+    <link>https://www.crowdstrike.com/blog/virustotal-lookups-are-back-in-crowdinspect-crowdstrikes-popular-free-tool/</link>
+    <description>VirusTotal lookups are back in the new version of CrowdStrike CrowdInspect, a free tool that lists processes and network connections running on your computer.</description>
+    <pubDate>Sun, 08 Mar 2026 02:55:47 GMT</pubDate>
+  </item>
+  <item>
+    <title>Event Stream Processing &amp; Indicators of Attack - CrowdStrike</title>
+    <link>https://www.crowdstrike.com/blog/understanding-indicators-attack-ioas-power-event-stream-processing-crowdstrike-falcon/</link>
+    <description>Event Stream Processing (ESP) has been a central component of CrowdStrike Falcon®’s IOA approach since CrowdStrike’s inception. In this post we’ll take a closer look at ESP — along with its utility and challenges — in an endpoint protection platform like CrowdStrike Falcon®.</description>
+    <pubDate>Sun, 08 Mar 2026 02:55:49 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike Falcon® named "Leader" in IDC MarketScape Report - CrowdStrike</title>
+    <link>https://www.crowdstrike.com/blog/idc-names-crowdstrike-falcon-leader-in-2017-marketscape-report-for-endpoint/</link>
+    <description>CrowdStrike has been named a “leader” in the endpoint segment of the IDC MarketScape: Worldwide 2017 Vendor Assessment. The IDC is the latest in a growing list of global analyst firms that have recognized CrowdStrike Falcon®’s best-in-class capabilities.</description>
+    <pubDate>Sun, 08 Mar 2026 02:55:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>W-2 Phishing Scam Adds a New Twist to Wire Transfer Fraud</title>
+    <link>https://www.crowdstrike.com/blog/w-2-phishing-scam-adds-new-twist-wire-transfer-fraud/</link>
+    <description>The IRS warns of a new phishing scam that combines a W-2 scheme with wire transfer fraud aimed at schools and hospitals</description>
+    <pubDate>Sun, 08 Mar 2026 02:55:55 GMT</pubDate>
+  </item>
+  <item>
+    <title>Securing the Mac-Based Organization - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/securing-the-mac-based-organization/</link>
+    <description>As more organizations switch to Macs, attacks targeting them are on the rise. A new webcast shows how CrowdStrike protects against Mac-focused threats.</description>
+    <pubDate>Sun, 08 Mar 2026 02:55:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>Inside the Takedown of ZOMBIE SPIDER and the Kelihos Botnet - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/inside-the-takedown-of-zombie-spider-and-the-kelihos-botnet/</link>
+    <description>New information about the arrest of Pyotr Levashov, the ZOMBIE SPIDER adversary, and CrowdStrike’s role in dismantling the Kelihos botnet.</description>
+    <pubDate>Sun, 08 Mar 2026 02:55:57 GMT</pubDate>
+  </item>
   <item>
     <title>Investigating PowerShell: Command and Script Logging</title>
     <link>https://www.crowdstrike.com/blog/investigating-powershell-command-and-script-logging/</link>
@@ -94,96 +184,6 @@
     <link>https://www.crowdstrike.com/blog/bear-hunting-tracking-cozybear-backdoors/</link>
     <description>The recovery of the backdoor illuminates additional indicators organizations can leverage to further scope potential COZY BEAR activity in their networks.</description>
     <pubDate>Sat, 07 Mar 2026 16:42:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Google Capital Bets Big on CrowdStrike to Accelerate Hyper-growth - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/google-capital-bets-big-on-crowdstrike/</link>
-    <description>It was almost four years ago that I co-founded CrowdStrike with intention of creating a security company that would shake up the industry. Learn more now!</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Falcon Zero-Day Flash Detection</title>
-    <link>https://www.crowdstrike.com/blog/falcon-zero-day-flash-detection/</link>
-    <description>In the wake of the Hacking Team leaks in early July, a result of an intrusion into the company’s network. Learn more about the intrusion today!</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Brian Kelly, CSO of Rackspace, Shares Why He Chose CrowdStrike - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/brian-kelly-cso-of-rackspace-shares-why-he-chose-crowdstrike/</link>
-    <description>When you're in charge of protecting your company's and customers critical business information, there's no option for a security breach.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>U.S. - China Cyber Agreement: Trust, but Verify - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/trust-but-verify/</link>
-    <description>For many years the security industry has been advocating for an agreement between 2 superpowers, do we finally have it? Read more on the CrowdStrike blog.</description>
-    <pubDate>Sat, 07 Mar 2026 08:48:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Blurring of Commodity and Targeted Attack Malware</title>
-    <link>https://www.crowdstrike.com/blog/blurring-of-commodity-and-targeted-attack-malware/</link>
-    <description>As malware and its authors continue to evolve, deciphering the purpose of specific malware-driven attacks has become more challenging. Learn more now!</description>
-    <pubDate>Sat, 07 Mar 2026 08:48:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Sakula Malware: What Is the INOCNATION Campaign? – CrowdStrike</title>
-    <link>https://www.crowdstrike.com/blog/sakula-reloaded/</link>
-    <description>Read up on the third Sakula malware variant, how it was assessed, and how it was determined if there was a connection between the “French Aerospace” campaign, the “Ironman” campaign, and the "INOCNATION" campaign.</description>
-    <pubDate>Sat, 07 Mar 2026 08:48:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Nothing else is working. Why not memory forensics? - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/nothing-else-is-working-why-not-memory-forensics/</link>
-    <description>Why memory forensics isn't the tool for central security &amp; where it does belong. Click to learn more from the CrowdStrike blog!</description>
-    <pubDate>Sat, 07 Mar 2026 08:48:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Top 5 Cybersecurity Mistakes Companies Make and How to Avoid Them</title>
-    <link>https://www.crowdstrike.com/blog/top-5-cybersecurity-mistakes-companies-make-and-how-to-avoid-them/</link>
-    <description>Click to read the top five cybersecurity mistakes companies make and how to avoid them with these solutions on the CrowdStike blog here.</description>
-    <pubDate>Sat, 07 Mar 2026 08:48:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>“You Want Me to Do What?” A Guide to Interpreting Cybersecurity Recommendations</title>
-    <link>https://www.crowdstrike.com/blog/you-want-me-to-do-what-a-guide-to-interpreting-cybersecurity-recommendations/</link>
-    <description>Important information for you and your team that will help you identify the security gaps to help keep your company safe. Learn how to get protected today!</description>
-    <pubDate>Sat, 07 Mar 2026 08:48:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>New Protection Capability of Falcon for Mac</title>
-    <link>https://www.crowdstrike.com/blog/new-protection-capability-of-falcon-for-mac/</link>
-    <description>A powerful solution to prevent threats? Read about CrowdStrike's new protection capability of Falcon for Mac here!</description>
-    <pubDate>Sat, 07 Mar 2026 08:48:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>What Sets Falcon Apart: Intelligent Host Sensors</title>
-    <link>https://www.crowdstrike.com/blog/what-sets-crowdstrike-falcon-apart/</link>
-    <description>Learn what sets CrowdStrike's Falcon apart from other endpoint security competition with its intelligent host sensors &amp; more here on our blog.</description>
-    <pubDate>Sat, 07 Mar 2026 08:48:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Importance of Logging - CrowdStrike</title>
-    <link>https://www.crowdstrike.com/blog/the-importance-of-logs/</link>
-    <description>Across the targeted attacks, thefts &amp; criminal enterprises that CrowdStrike has investigated, one thing is clear: logging is extremely important, click here to learn more!</description>
-    <pubDate>Sat, 07 Mar 2026 08:48:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>More Than Just Your eSignature: The Analysis - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/more-than-just-your-esignature-the-analysis/</link>
-    <description>Part two of CrowdStrike's investigation for a client operating in the healthcare sector on a phishing scam targeting cloud email providers, click to read!</description>
-    <pubDate>Sat, 07 Mar 2026 08:48:24 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Security Roadmap – Planning for Job Security - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/the-security-roadmap-planning-for-job-security/</link>
-    <description>A common weakness we observe in organizations is the misuse of technology that has already been purchased, learn more on the CrowdStrike blog.</description>
-    <pubDate>Sat, 07 Mar 2026 08:48:27 GMT</pubDate>
-  </item>
-  <item>
-    <title>4.0 Another Brick In The CryptoWall - crowdstrike.com</title>
-    <link>https://www.crowdstrike.com/blog/4-0-another-brick-in-the-cryptowall/</link>
-    <description>CrowdStrike will characterize the CryptoWall threat using the kill chain &amp;amp; outline practical approaches for disrupting it. See what's new with version 4.0!</description>
-    <pubDate>Sat, 07 Mar 2026 08:48:29 GMT</pubDate>
   </item>
 </channel>
 </rss>

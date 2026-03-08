@@ -4,12 +4,96 @@
   <title>Blackpoint Cyber Blog (Custom Feed)</title>
   <link>https://blackpointcyber.com/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sat, 07 Mar 2026 16:41:29 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 02:54:55 GMT</lastBuildDate>
   <item>
     <title>Blog</title>
     <link>https://blackpointcyber.com/blog/</link>
     <description>Sharpen your defenses with the latest threat insights, industry trends and product updates sure to put you one step ahead of hackers – and your competition.</description>
-    <pubDate>Sat, 07 Mar 2026 16:41:26 GMT</pubDate>
+    <pubDate>Sun, 08 Mar 2026 02:54:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>From Chrome to Everywhere: The Ever-Expanding CVE-2023-4863</title>
+    <link>https://blackpointcyber.com/blog/from-chrome-to-everywhere-the-ever-expanding-cve-2023-4863/</link>
+    <description>CVE-2023-4863 impacts many web browsers, operating systems, and software. These far-reaching impacts emphasize the urgency of patching.</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>FBI and CISA Team Up to Combat Snatch Ransomware</title>
+    <link>https://blackpointcyber.com/blog/fbi-and-cisa-team-up-to-combat-snatch-ransomware/</link>
+    <description>Read the APG's thoughts on the FBI and CISA's advisory on Snatch Ransomware. With shared community intel, we're able to defeat cybercrime.</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:51 GMT</pubDate>
+  </item>
+  <item>
+    <title>Patch It Up: WS_FTP Server's Unplanned Fixes</title>
+    <link>https://blackpointcyber.com/blog/patch-it-up-ws_ftp-servers-unplanned-fixes/</link>
+    <description>A vulnerability in Progress Software's WS_FTP Server software allows threat actors to execute remote commands &amp; perform unauthorized file operations.</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>APG Threat Digest: 12th Edition</title>
+    <link>https://blackpointcyber.com/blog/apg-threat-digest/</link>
+    <description>Read the APG's weekly recap on Progress Software and Confluence vulnerabilities, "Menorah" malware, an unprotected RSS database, and more.</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blackpoint’s New Chapter with Google Workspace</title>
+    <link>https://blackpointcyber.com/blog/blackpoints-new-chapter-with-google-workspace/</link>
+    <description>Blackpoint Cyber has released its cloud security offering for Google Workspace. It is available through Cloud Response now.</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:52 GMT</pubDate>
+  </item>
+  <item>
+    <title>FIN8 Strikes Again: Advanced Tactics in Recent Cyber Assault</title>
+    <link>https://blackpointcyber.com/blog/fin8-strikes-again-advanced-tactics-in-recent-cyber-assault/</link>
+    <description>A recent cyberattack by FIN8 showcased their use of compromised RDP, network scanning, RMM disabling, &amp; the establishment of C2 channels.</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:53 GMT</pubDate>
+  </item>
+  <item>
+    <title>5 Steps to Securing the Cloud</title>
+    <link>https://blackpointcyber.com/blog/5-steps-to-securing-the-cloud/</link>
+    <description>Are you wondering how to best secure your cloud environment? Read Blackpoint's blog for five steps towards safety take immediately.</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:53 GMT</pubDate>
+  </item>
+  <item>
+    <title>Understanding Business Email Compromise: A Threat to Modern Enterprises</title>
+    <link>https://blackpointcyber.com/blog/understanding-business-email-compromise-a-threat-to-modern-enterprises/</link>
+    <description>Business Email Compromise attacks can cause financial and informational loss. In our blog, learn what it entails &amp; how to defend against it.</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:53 GMT</pubDate>
+  </item>
+  <item>
+    <title>Unmasking Ransomed.vc: The New Kid on the Cyber Block</title>
+    <link>https://blackpointcyber.com/blog/unmasking-ransomed-vc-the-new-kid-on-the-cyber-block/</link>
+    <description>Ransomwed.vc has been active since August, targeting Sony and working with groups like Everest Ransomware. Learn more in the APG's blog.</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:54 GMT</pubDate>
+  </item>
+  <item>
+    <title>Qakbot’s Quack Attack Comes to an End</title>
+    <link>https://blackpointcyber.com/blog/qakbots-quack-attack-comes-to-an-end/</link>
+    <description>The notorious Qakbot botnet, which poisoned organizations with malware and ransomware globally, has been dismantled. Here's the story and why it matters.</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:54 GMT</pubDate>
+  </item>
+  <item>
+    <title>Proxy Party of Peril: Malware and Proxy Team Up</title>
+    <link>https://blackpointcyber.com/blog/proxy-party-of-peril-malware-and-proxy-team-up/</link>
+    <description>A new threat targeting Windows systems allows hackers to use a proxy server application to install malware, turning devices into a botnet.</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:54 GMT</pubDate>
+  </item>
+  <item>
+    <title>China’s High-Stakes Cyber Shenanigans: Cert Theft &amp; DLL Hijacking</title>
+    <link>https://blackpointcyber.com/blog/chinas-high-stakes-cyber-shenanigans-cert-theft-dll-hijacking/</link>
+    <description>China-based BRONZE STARLIGHT group is conducting cyberattacks against the Southeast Asian gambling sector.</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:54 GMT</pubDate>
+  </item>
+  <item>
+    <title>MalDoc in PDF: The Word Doc and PDF Team Up</title>
+    <link>https://blackpointcyber.com/blog/maldoc-in-pdf-the-word-doc-and-pdf-team-up/</link>
+    <description>An attack method dubbed “MalDoc in PDF” involves a polyglot technique of embedding a Word document with malicious macros inside a PDF.</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:55 GMT</pubDate>
+  </item>
+  <item>
+    <title>Cisco ASA SSL VPN Appliances Under Fire</title>
+    <link>https://blackpointcyber.com/blog/cisco-asa-ssl-vpn-appliances-under-fire/</link>
+    <description>Attackers have been targeting Cisco ASA SSL VPN devices by exploiting weak passwords and the lack of multi-factor authentication.</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:55 GMT</pubDate>
   </item>
   <item>
     <title>Ways to Win in December</title>
@@ -100,90 +184,6 @@
     <link>https://blackpointcyber.com/blog/msps-role-in-shining-a-light-on-the-dark-web/</link>
     <description>MSPs’ Role in Shining a Light on the Dark Web</description>
     <pubDate>Sat, 07 Mar 2026 08:47:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>EDR &amp; SIEM: Protection of the Past</title>
-    <link>https://blackpointcyber.com/blog/edr-siem-protection-of-the-past/</link>
-    <description>Ever wondered the difference between managed EDR, SIEM-based MDRs, and true MDR? In our blog, we examine each three to help you differentiate.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>APG Threat Digest: 22nd Edition</title>
-    <link>https://blackpointcyber.com/blog/apg-threat-digest-22nd-edition/</link>
-    <description>In the last edition of the APG Threat Digest in 2023, learn about the resurgence of Qakbot, the latest exploitation of Log4Shell, and more.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>BlackCat Ransomware Group Taken Down, but Ransomware Threats Persist</title>
-    <link>https://blackpointcyber.com/blog/blackcat-ransomware-group-taken-down-but-ransomware-threats-persist/</link>
-    <description>The BlackCat/ALPHV ransomware group was disrupted today, but does its takedown reduce the threat of ransomware? Not so much. Read our blog to learn more!</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>Navigating Holiday Hazards</title>
-    <link>https://blackpointcyber.com/blog/navigating-holiday-hazards/</link>
-    <description>We are joined by our Director of Internal Security Compliance to discuss the spike in cybercrime during the holiday season.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:19 GMT</pubDate>
-  </item>
-  <item>
-    <title>Most Common Cyberthreats to Your Industry</title>
-    <link>https://blackpointcyber.com/blog/most-common-cyberthreats-to-your-industry/</link>
-    <description>Learn about the most common cyberthreats for healthcare, law firms, finance, retail, and manufacturing, and why they're vulnerable.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>APG Threat Digest: 17th Edition</title>
-    <link>https://blackpointcyber.com/blog/apg-threat-digest-5/</link>
-    <description>Read the Adversary Pursuit Group's latest Threat Digest active vulnerabilities and the dangers of different malware strains.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Mapping Your Stack to a Security Framework</title>
-    <link>https://blackpointcyber.com/blog/mapping-your-stack-to-a-security-framework/</link>
-    <description>Mapping your MSP's security stack to a cybersecurity framework helps streamline your strategy &amp; increase your credibility. Learn more now.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>APG Threat Digest: 18th Edition</title>
-    <link>https://blackpointcyber.com/blog/apg-threat-digest-6/</link>
-    <description>Read our latest Adversary Pursuit Group's Threat Digest blog for the latest exploited vulnerabilities and threat actor tactics.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Packaging Your Pricing for Simplified Selling: The MSP's Guide</title>
-    <link>https://blackpointcyber.com/blog/packaging-your-pricing-for-simplified-selling-the-msps-guide/</link>
-    <description>Have you been struggling with how to package your MSP's pricing for simplified selling and scaling? Read our blog to learn how!</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>APG Threat Digest: 21st Edition</title>
-    <link>https://blackpointcyber.com/blog/apg-threat-digest-21th-edition/</link>
-    <description>This week, the APG looks back on malicious Russian activity, and the ongoing targeting of Atlassian products &amp; macOS devices.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:21 GMT</pubDate>
-  </item>
-  <item>
-    <title>Empowering MSPs with Blackpoint’s Cloud MDR</title>
-    <link>https://blackpointcyber.com/blog/empowering-msps-with-blackpoints-cloud-mdr/</link>
-    <description>With Cloud Response, MSPs can protect Microsoft &amp; Google users, through MDR &amp; a SOC, providing robust &amp; resilient cloud security.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>Blackpoint’s 2024 Cyberthreat Predictions</title>
-    <link>https://blackpointcyber.com/blog/blackpoints-2024-cyberthreat-predictions/</link>
-    <description>Join Blackpoint's senior director of threat operations as he discusses his 2024 predictions for the cyberthreat landscape.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>APG Threat Digest: 20th Edition</title>
-    <link>https://blackpointcyber.com/blog/apg-threat-digest-20th-edition/</link>
-    <description>In our 20th edition of the APG Threat Digest, we examine critical vulnerabilities, new ransomware strains, and zero-day threats.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>This Week in Review: AnyDesk, TeamViewer, QuickBooks, and IsErIk Malware</title>
-    <link>https://blackpointcyber.com/blog/this-week-in-review-anydesk-teamviewer-quickbooks-and-iserik-malware/</link>
-    <description>In today's "This Week in Review" blog, the Adversary Pursuit Group discusses This Week in Review: AnyDesk, TeamViewer, QuickBooks, and IsErIk malware.</description>
-    <pubDate>Sat, 07 Mar 2026 02:42:39 GMT</pubDate>
   </item>
 </channel>
 </rss>

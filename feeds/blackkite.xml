@@ -4,7 +4,97 @@
   <title>Black Kite Blog (Custom Feed)</title>
   <link>https://blackkite.com/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sat, 07 Mar 2026 16:41:24 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 02:54:46 GMT</lastBuildDate>
+  <item>
+    <title>A Preview of the 2021 Manufacturing Risk Pulse: Consumer Packaged Goods</title>
+    <link>https://blackkite.com/blog/a-preview-of-the-2021-manufacturing-risk-pulse-consumer-packaged-goods</link>
+    <description>At first glance, it looks like CPG manufacturers are hitting the mark when it comes to third-party risk management.</description>
+    <pubDate>Wed, 12 May 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>SolarWinds Breach – Gray Rhino or Black Swan?</title>
+    <link>https://blackkite.com/blog/solarwinds-breach-gray-rhino-or-black-swan</link>
+    <description>It’s clear whether an event should be classified as a gray rhino or a black swan. Instances such as the recent attack on SolarWinds however blurs the line.</description>
+    <pubDate>Tue, 19 Jan 2021 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Making the Case for Automation: Vendor Questionnaires &amp; Compliance Mapping</title>
+    <link>https://blackkite.com/blog/making-the-case-for-automation-vendor-questionnaires-compliance-mapping</link>
+    <description>How do we simplify and automate processes that truly matter? Understand the benefits of automating what matters: compliance mapping.</description>
+    <pubDate>Thu, 01 Apr 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Top 3 Actions to Take After Reading the 2025 Third-Party Breach Report</title>
+    <link>https://blackkite.com/blog/3-critical-actions-to-strengthen-third-party-risk-management</link>
+    <description>From a CSO to CISOs: How to improve your third-party risk strategy, reduce risk exposure, and apply insights from the 2025 Third-Party Breach Report.</description>
+    <pubDate>Mon, 03 Mar 2025 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Qualys &amp; Accellion: The Third-Party Breach Ripple Effect</title>
+    <link>https://blackkite.com/blog/qualys-and-accellion-the-third-party-breach-ripple-effect</link>
+    <description>What's at stake for Qualys and other FTA users?</description>
+    <pubDate>Tue, 09 Mar 2021 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Major Third-Party Data Breaches Revealed in December 2020</title>
+    <link>https://blackkite.com/blog/major-third-party-data-breaches-revealed-in-december-2020</link>
+    <description>We count down the top 9 data breaches caused by third parties in December 2020.</description>
+    <pubDate>Sat, 09 Jan 2021 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>5 Lessons Learned from the Largest Third-Party Breaches in 2020</title>
+    <link>https://blackkite.com/blog/five-lessons-learned-from-the-largest-third-party-breaches-in-2020</link>
+    <description>5 Lessons Learned from the Largest Third-Party Breaches in 2020</description>
+    <pubDate>Tue, 26 Jan 2021 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Accellion: Another Data Breach, Defined</title>
+    <link>https://blackkite.com/blog/accellion-another-data-breach-defined</link>
+    <description>Read about the attack on Accellion that continues to wreak havoc on its supply-chain.</description>
+    <pubDate>Tue, 02 Mar 2021 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Major Third-Party Data Breaches Revealed in February 2021</title>
+    <link>https://blackkite.com/blog/major-third-party-data-breaches-revealed-in-february-2021</link>
+    <description>Let’s take a closer look at the major third-party data breach developments from February 2021.</description>
+    <pubDate>Thu, 04 Mar 2021 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Black Kite Partners with Templar Shield to Expand Availability of Third-Party Risk Management and Cyber Risk Ratings Services</title>
+    <link>https://blackkite.com/blog/black-kite-partners-with-templar-shield-to-expand-availability-of-third-party-risk-management-and-cyber-risk-ratings-services_blog</link>
+    <description>Black Kite is thrilled to announce its partnership with Templar Shield.</description>
+    <pubDate>Thu, 04 Mar 2021 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Behind the Screen: Meet 5 of the Most Notorious Ransomware Groups</title>
+    <link>https://blackkite.com/blog/behind-the-screen-meet-5-of-the-most-notorious-ransomware-groups</link>
+    <description>Ransomware attacks grew by nearly 140% from 2019 to 2020. Let’s take a look at some of the most notorious groups.</description>
+    <pubDate>Tue, 23 Mar 2021 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>What Is Cyber Resilience?</title>
+    <link>https://blackkite.com/blog/what-is-cyber-resilience</link>
+    <description>Learn what makes up the essential building blocks of cyber resilience — and why true resilience is about adapting to change, not fighting against it.</description>
+    <pubDate>Fri, 08 Sep 2023 05:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Three Most Common Ways Bad Actors Target Your Digital Supply Chain</title>
+    <link>https://blackkite.com/blog/three-common-ways-bad-actors-target-digital-supply-chain</link>
+    <description>Learn about the three primary strategies that bad actors use to attack your digital supply chain – and what a breach could cost you.</description>
+    <pubDate>Thu, 23 Feb 2023 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>What is a Third-Party Risk Assessment, and Why Do They Matter?</title>
+    <link>https://blackkite.com/blog/third-party-risk-assessment</link>
+    <description>Learn why assessing risk to protect your business from disaster is crucial.</description>
+    <pubDate>Thu, 02 Mar 2023 06:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>What is Third-Party Cyber Risk?</title>
+    <link>https://blackkite.com/blog/third-party-cyber-risk</link>
+    <description>Learn how to protect against third-party attacks and communicate the risk they pose to prevent lost revenue, time, customer trust, and brand reputation.</description>
+    <pubDate>Tue, 28 Feb 2023 06:00:00 GMT</pubDate>
+  </item>
   <item>
     <title>Black Kite’s Fifth Annual Third-Party Breach Report Highlights Ripple Effects of Cyber-Ecosystem Breaches</title>
     <link>https://blackkite.com/blog/black-kites-fifth-annual-third-party-breach-report-highlights-ripple-effects-of-cyber-ecosystem-breaches</link>
@@ -94,96 +184,6 @@
     <link>https://blackkite.com/blog/the-most-common-cybersecurity-threats-facing-supply-chains-in-2021</link>
     <description>As we enter the second half of 2021 and reflect back on the previous six months, it’s clear that all eyes are now on supply chain security.</description>
     <pubDate>Wed, 30 Jun 2021 16:55:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Black Kite Added to the Department of Homeland Security’s Continuous Diagnostics and Mitigation Program’s Approved Products List (CDM APL)</title>
-    <link>https://blackkite.com/blog/black-kite-added-to-the-department-of-homeland-securitys-continuous-diagnostics-and-mitigation-programs-approved-products-list-cdm-apl</link>
-    <description>Black Kite is now on the Department of Homeland Security’s CDM Approved Products List, validating its security platform for national risk management efforts.</description>
-    <pubDate>Tue, 19 Sep 2023 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Focus Friday: Tackling Emerging Threats – Volt Typhoon, Elementor RCE, and MLflow Vulnerabilities</title>
-    <link>https://blackkite.com/blog/httpsfocus-friday-tackling-emerging-threats-volt-typhoon-elementor-rce-and-mlflow-vulnerabilities</link>
-    <description>Focus Friday: Learn more about recent cyber breaches and critical vulnerabilities from Black Kite.</description>
-    <pubDate>Fri, 15 Dec 2023 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Mitigating the Storm: Vendor Risk Management Amidst the Recent Cisco IOS XE Web UI Vulnerability (CVE-2023-20198)</title>
-    <link>https://blackkite.com/blog/mitigating-cisco-ios-xe-web-ui-vulnerability-cve-2023-20198</link>
-    <description>The critical vulnerability in the Cisco IOS XE Web UI, designated as CVE-2023-20198, has drawn significant attention in the cybersecurity community.</description>
-    <pubDate>Thu, 19 Oct 2023 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Due Diligence 5-Step Checklist</title>
-    <link>https://blackkite.com/blog/due-diligence-checklist-in-5-steps</link>
-    <description>Let’s understand what third-party due diligence is about and walk through the steps for an effective due diligence process.</description>
-    <pubDate>Tue, 28 Jun 2022 21:21:48 GMT</pubDate>
-  </item>
-  <item>
-    <title>Third Party Breach Report Commentary from Jeffrey Wheatman</title>
-    <link>https://blackkite.com/blog/a-jeffrey-wheatman-commentary-on-black-kites-third-party-breach-report</link>
-    <description>What are my thoughts on the insights of last year’s third party attacks? Numbers always tell a story. How will leaders react to that story?</description>
-    <pubDate>Tue, 31 Jan 2023 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Don’t Ignore the Smaller Partners in Your Third-Party Risk Ecosystem</title>
-    <link>https://blackkite.com/blog/dont-ignore-the-smaller-partners-in-your-third-party-risk-ecosystem</link>
-    <description>Big vendors you work with aren’t necessarily the riskiest - see why you need to pay attention to your sneaky small third parties (and their vendors).</description>
-    <pubDate>Wed, 25 Jan 2023 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>No More Best Practice</title>
-    <link>https://blackkite.com/blog/no-more-best-practice</link>
-    <description>‘We’ve always done it that way’ is no longer justifiable in a world of constant changes and modern cyber risk. Cut best practice, for the better.</description>
-    <pubDate>Thu, 19 Jan 2023 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>What Is a Brute Force Attack (And How Can You Prevent It)?</title>
-    <link>https://blackkite.com/blog/what-is-a-brute-force-attack-and-how-can-you-prevent-it</link>
-    <description>Brute force attacks use speed and smarts to quickly try many passwords - what can you and your team do to prevent this avenue of attack?</description>
-    <pubDate>Mon, 21 Nov 2022 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Introducing Black Kite’s New FAIR Model Scenarios – Ransomware and Business Interruption</title>
-    <link>https://blackkite.com/blog/fair-scenarios-ransomware-business-interruptions</link>
-    <description>In addition to data breaches, learn about the two new FAIR model scenarios Black Kite has added to its CRQ — ransomware and business interruption.</description>
-    <pubDate>Tue, 06 Jun 2023 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>FOCUS FRIDAY: TPRM INSIGHTS ON IVANTI EPMM, GOANYWHERE, AND VMWARE VULNERABILITIES</title>
-    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-ivanti-epmm-goanywhere-and-vmware-vulnerabilities</link>
-    <description>Welcome to Focus Friday: Learn more about recent cyber breaches and critical vulnerabilities from Black Kite.</description>
-    <pubDate>Fri, 26 Jan 2024 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>FOCUS FRIDAY: A TPRM Deep Dive into Outlook RCE and FortiClient EMS Vulnerabilities</title>
-    <link>https://blackkite.com/blog/focus-friday-a-tprm-deep-dive-into-outlook-rce-and-forticlient-ems-vulnerabilities</link>
-    <description>Spotlight the significant cybersecurity incident at Change Healthcare, a pivotal event that has highlighted the criticality of TPRM in the healthcare.</description>
-    <pubDate>Fri, 15 Mar 2024 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Downfall of a Digital Titan: The Global Sting That Toppled LockBit</title>
-    <link>https://blackkite.com/blog/downfall-of-a-digital-titan-the-global-sting-that-toppled-lockbit</link>
-    <description>LockBit, notorious for its ransomware rampage, has long been the digital boogeyman for businesses worldwide.</description>
-    <pubDate>Tue, 20 Feb 2024 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Major Third-Party Data Breaches Revealed in January 2021</title>
-    <link>https://blackkite.com/blog/major-third-party-data-breaches-revealed-in-january-2021</link>
-    <description>Data breaches in 2020 proved to be just as costly as they were high profile.</description>
-    <pubDate>Wed, 03 Feb 2021 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>FOCUS FRIDAY: Lockbit Shutdown Insights &amp; ScreenConnect and Exchange Server Vulnerabilities</title>
-    <link>https://blackkite.com/blog/focus-friday-lockbit-shutdown-insights--screenconnect-and-exchange-server-vulnerabilities</link>
-    <description>Comprehensive look at the cybersecurity landscape, starting with an analysis of the Lockbit ransomware group’s shutdown from a TPRM perspective.</description>
-    <pubDate>Fri, 23 Feb 2024 21:12:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Is AlphV/BlackCat Staging its Own Death for a Rich Exit?</title>
-    <link>https://blackkite.com/blog/is-alphvblackcat-staging-its-own-death-for-a-rich-exit</link>
-    <description>AlphV/BlackCat are at it again - Read more about the Change Healthcare breach from Black Kite Research.</description>
-    <pubDate>Tue, 05 Mar 2024 06:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>

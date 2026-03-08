@@ -4,7 +4,97 @@
   <title>Binary Defense Blog (Custom Feed)</title>
   <link>https://binarydefense.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sat, 07 Mar 2026 16:41:12 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 02:54:37 GMT</lastBuildDate>
+  <item>
+    <title>Threat Intelligence: Netflix Phishing Scam</title>
+    <link>https://binarydefense.com/resources/blog/threat-intelligence-netflix-phishing-scam</link>
+    <description>A new Phishing campaign has been identified by authorities in Ohio that is targeting Netflix users. The campaign sends an email to a Netflix customer</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:34 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Intelligence: Customer Information Exposed in Caribou Coffee…</title>
+    <link>https://binarydefense.com/resources/blog/threat-intelligence-customer-information-exposed-in-caribou-coffee-data-breach</link>
+    <description>Caribou Coffee suffered a data breach which was disclosed last week by the company. The breach affected more than 200 of their locations around the…</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:34 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Intelligence: NASA Hit With Data Breach</title>
+    <link>https://binarydefense.com/resources/blog/threat-intelligence-nasa-hit-with-data-breach</link>
+    <description>Current and former employees of NASA from July 2006 through October 2018 could have been affected by a data breach - Binary Defense Threat Intelligence</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:34 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Intelligence: ZipRecruiter Suffers Data Breach</title>
+    <link>https://binarydefense.com/resources/blog/threat-intelligence-ziprecruiter-suffers-data-breach</link>
+    <description>The issue is with part of ZipRecruiter's site that enables a business with authorization to access the CV database to contact the person seeking a job.</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:34 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Intelligence: New LamePyre Mac Malware</title>
+    <link>https://binarydefense.com/resources/blog/threat-intelligence-new-lamepyre-mac-malware</link>
+    <description>The third malware strain targeting MacOS this month has been discovered and dubbed LamePyre. Although it appears to still be under development</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>Binary Defense Vision with UEBA, Simpler Onboarding and 2FA, Improved…</title>
+    <link>https://binarydefense.com/resources/blog/binary-defense-vision-with-ueba</link>
+    <description>Binary Defense™ is excited to announce a new release of both Agent and Server packed with substantial new features and enhancements to the Vision platform.</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>Real People of Binary Defense: Jimmy Byrd</title>
+    <link>https://binarydefense.com/resources/blog/real-people-of-binary-defense-jimmy-byrd</link>
+    <description>Love working with him!” said Dave Kennedy, Co-founder and CTO of Binary Defense, who saw something special in Jimmy and knew he would be a tremendous…</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>Binary Defense Once Again Acknowledged as a Representative Vendor in…</title>
+    <link>https://binarydefense.com/resources/blog/binary-defense-once-again-acknowledged-as-a-representative-vendor-in-gartner-market-guide-for-endpoint-detection-and-response-solutions</link>
+    <description>Binary Defense, a leading provider of Endpoint Detection and Response (EDR) and Managed Detection and Response (MDR) services</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Intelligence: Instagram Exposes Passwords in Plaintext</title>
+    <link>https://binarydefense.com/resources/blog/threat-intelligence-instagram-exposes-passwords-in-plaintext</link>
+    <description>The popular social media photo sharing app Instagram has recently patched a bug in their website that accidentally exposed some of their users’ passwords</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:36 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Intelligence: Bitcoin Giveaway Scam Targets Google</title>
+    <link>https://binarydefense.com/resources/blog/threat-intelligence-bitcoin-giveaway-scam-targets-google</link>
+    <description>The Google Twitter account for its G Suite cloud subsidiary, which has more than 800,000 followers, has been the recent target of a growing Bitcoin scam</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:36 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Intelligence: Cisco Mistakenly Adds Dirty Cow Exploit Code to…</title>
+    <link>https://binarydefense.com/resources/blog/threat-intelligence-cisco-mistakenly-adds-dirty-cow-exploit-code-to-its-own-software</link>
+    <description>Cisco announced that they unintentionally released code when testing their TelePresence Video Communication Server. Dirty Cow (CVE-2016-5195)</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:36 GMT</pubDate>
+  </item>
+  <item>
+    <title>Threat Intelligence: WordPress Zero-day</title>
+    <link>https://binarydefense.com/resources/blog/threat-intelligence-wordpress-zero-day</link>
+    <description>A zero-day vulnerability has been discovered affecting WP GDPR Compliance. WP GDPR Compliance is a WordPress plugin</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:36 GMT</pubDate>
+  </item>
+  <item>
+    <title>Binary Defense and Ingram Micro Announce Strategic Distribution…</title>
+    <link>https://binarydefense.com/resources/blog/binary-defense-and-ingram-micro-announce-strategic-distribution-relationship</link>
+    <description>Binary Defense—a leader in Managed Endpoint Detection and Response (EDR) —today announced it has entered into a distribution relationship with Ingram…</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:37 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why We Love DerbyCon</title>
+    <link>https://binarydefense.com/resources/blog/why-we-love-derbycon</link>
+    <description>Have you seen and heard enough and are you either at DerbyCon today or planning to attend in the future? Binary Defense, Dave Kennedy, and our entire team</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:37 GMT</pubDate>
+  </item>
+  <item>
+    <title>Binary Defense Launches Security Executive Network (S.E.N.) Program</title>
+    <link>https://binarydefense.com/resources/blog/binary-defense-launches-security-executive-network-s-e-n-program</link>
+    <description>Our newly formed Security Executive Network (S.E.N.) is a traveling event to connect with security leaders everywhere to share insights and best…</description>
+    <pubDate>Sun, 08 Mar 2026 02:54:37 GMT</pubDate>
+  </item>
   <item>
     <title>Gh0stCringe (Formerly CirenegRAT)</title>
     <link>https://binarydefense.com/resources/blog/gh0stcringeformerly-cirenegrat</link>
@@ -94,96 +184,6 @@
     <link>https://binarydefense.com/resources/blog/binary-defense-predictions-for-2019</link>
     <description>2018 carried a plethora of cyber-attacks, including tons of data breaches that have started to become more talked about than ever. Here are our predictions</description>
     <pubDate>Sat, 07 Mar 2026 16:41:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cybercriminals Using Coronavirus Scare to Spread Malware</title>
-    <link>https://binarydefense.com/resources/blog/cybercriminals-using-coronavirus-scare-to-spread-malware</link>
-    <description>Many of the websites have delivered the AZORult malware, which is designed to steal passwords for online banking, email and other services. Other efforts…</description>
-    <pubDate>Sat, 07 Mar 2026 08:46:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Emotet Wi-Fi Spreader Upgraded</title>
-    <link>https://binarydefense.com/resources/blog/emotet-wi-fi-spreader-upgraded</link>
-    <description>Protocol Changes While the changes to the Wi-Fi spreader do not affect thekey functionality of the malware, the changes are still notable as theyincrease…</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Downfall of a Cyber-Criminal: “W0zniak”</title>
-    <link>https://binarydefense.com/resources/blog/the-downfall-of-a-cyber-criminal-w0zniak</link>
-    <description>Backdoor Access to MSP for Sale In late September 2019, members of our Intelligence Operations team took notice of a cybercriminal calling themselves…</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Emotet Evolves With new Wi-Fi Spreader</title>
-    <link>https://binarydefense.com/resources/blog/emotet-evolves-with-new-wi-fi-spreader</link>
-    <description>Emotet is a highly sophisticated trojan that typically alsoserves as a loader for other malware. Recently,Binary Defense has identified a new loader type…</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>An Updated ServHelper Tunnel Variant</title>
-    <link>https://binarydefense.com/resources/blog/an-updated-servhelper-tunnel-variant</link>
-    <description>Refer to the MITRE ATT&amp;CKpage on ServHelper for more background: https://attack.mitre.org/software/S0382/ Initial Analysis – a PowerShell Script Packed…</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Disney+ Account Passwords Found on Dark Web: Prevent Your Account…</title>
-    <link>https://binarydefense.com/resources/blog/disney-account-passwords-found-on-dark-web-prevent-your-account-from-being-sold</link>
-    <description>As reported by ZDNet, Fox News and other news sources this week, a large number of usernames and passwords for accounts with Disney’s new and extremely…</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Revenge is a Dish Best Served… Obfuscated?</title>
-    <link>https://binarydefense.com/resources/blog/revenge-is-a-dish-best-served-obfuscated</link>
-    <description>Researching new and emerging cyber threats is common practice for the Binary Defense Threat Hunting team. Recently, the threat hunters came across an…</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Binary Defense MDR Integrates Microsoft Antimalware Scan Interface…</title>
-    <link>https://binarydefense.com/resources/blog/binary-defense-mdr-integrates-microsoft-antimalware-scan-interface-interoperability-amsi</link>
-    <description>With the latest release of the Binary Defense Managed Detection and Response (MDR) solution, we have now fully integrated Microsoft Windows AMSI.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>SOC Alert! Uptick in Ursnif Distribution</title>
-    <link>https://binarydefense.com/resources/blog/soc-alert-uptick-in-ursnif-distribution</link>
-    <description>Binary Defense has noticed a recent uptick in Ursnif distributed using Reply-Chain attacks and password protected .zip files across multiple clients</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>TrickBot: Ono! New Tricks!</title>
-    <link>https://binarydefense.com/resources/blog/trickbot-ono-new-tricks</link>
-    <description>The Binary Defense Threat Hunter team reveals unusual behaviors of a new TrickBot variant. Threat Hunting is an integral part of any successful…</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Don’t Fall Victim to Wire Transfer Fraud: Tips to Stay Safe</title>
-    <link>https://binarydefense.com/resources/blog/dont-fall-victim-to-wire-transfer-fraud-tips-to-stay-safe</link>
-    <description>Stay safe from wire transfer fraud. Tips to protect your organization from this common cybercrime from infosec experts.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Phishing Financial Firms is Big Business</title>
-    <link>https://binarydefense.com/resources/blog/phishing-financial-firms-is-big-business</link>
-    <description>Phishing is a major threat and will continue to be a popular method of cybercrime. Financial firms are at particularly high risk when it comes to cyber…</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Secure Your Site(s): Avoid SSL/TLS Certificate Expiration</title>
-    <link>https://binarydefense.com/resources/blog/secure-your-sites-avoid-ssl-tls-certificate-expiration</link>
-    <description>Keeping your site's SSL certificate updated is important for brand and for security. Our Counterintteligence team discusses why and even gives some tips…</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Using Sysmon and ETW For So Much More</title>
-    <link>https://binarydefense.com/resources/blog/using-sysmon-and-etw-for-so-much-more</link>
-    <description>Hacker in chief, Dave Kennedy explains how to leverage sysmon in cybersecurity efforts for ETW, LOLBAS and more. Check out his step-by-step instructions.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>Binary Defense Software Developer Uses Programming Expertise to Help…</title>
-    <link>https://binarydefense.com/resources/blog/binary-defense-software-developer-uses-programming-expertise-to-help-injured-veteran-regain-mobility</link>
-    <description>Learn about one of our cybersecurity team member's recent volunteer work programming a mobility device for an injured veteran.</description>
-    <pubDate>Sat, 07 Mar 2026 08:47:04 GMT</pubDate>
   </item>
 </channel>
 </rss>
