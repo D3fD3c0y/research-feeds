@@ -100,21 +100,21 @@ Wrote feeds/deception-pro.xml
  [HTTP] sitemap GET https://www.dtex.ai/blog-by-topic-sitemap.xml -> 200 (final: https://www.dtex.ai/blog-by-topic-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] robots-check GET https://www.dtex.ai/robots.txt -> 200 (final: https://www.dtex.ai/robots.txt) CT=text/plain
  [HTTP] article GET https://www.dtex.ai/resources/reports/ -> 200 (final: https://www.dtex.ai/resources/reports/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/resources/whitepapers/ -> 200 (final: https://www.dtex.ai/resources/whitepapers/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/events/ -> 200 (final: https://www.dtex.ai/events/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/partners/technology-alliances/ -> 200 (final: https://www.dtex.ai/partners/technology-alliances/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/partners/strategic-partners/ -> 200 (final: https://www.dtex.ai/partners/strategic-partners/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/partners/marketplace/ -> 200 (final: https://www.dtex.ai/partners/marketplace/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/partners/channel-partners/ -> 200 (final: https://www.dtex.ai/partners/channel-partners/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/subscribe-now/ -> 200 (final: https://www.dtex.ai/subscribe-now/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/integrations/for-microsoft-365/ -> 200 (final: https://www.dtex.ai/integrations/for-microsoft-365/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/next-2025/ -> 200 (final: https://www.dtex.ai/next-2025/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/newsroom/ -> 200 (final: https://www.dtex.ai/newsroom/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/ -> 200 (final: https://www.dtex.ai/blog/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/integrations/for-crowdstrike/ -> 200 (final: https://www.dtex.ai/integrations/for-crowdstrike/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/newsroom/press-releases/ -> 200 (final: https://www.dtex.ai/newsroom/press-releases/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/support-policy/ -> 200 (final: https://www.dtex.ai/support-policy/) CT=text/html; charset=UTF-8
- • Summary [dtex-reports]: new_fetched=15, new_used=15, reused=14, prev_cached=15, seen_before=14, seen_added=14
+ [HTTP] article GET https://www.dtex.ai/integrations/for-citrix/ -> 200 (final: https://www.dtex.ai/integrations/for-citrix/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/gigaom-radar-reports/ -> 200 (final: https://www.dtex.ai/gigaom-radar-reports/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/ai3-risk-assistant/ -> 200 (final: https://www.dtex.ai/ai3-risk-assistant/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/integrations/ -> 200 (final: https://www.dtex.ai/integrations/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/capabilities/insider-risk-management/ -> 200 (final: https://www.dtex.ai/capabilities/insider-risk-management/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/capabilities/privacy/ -> 200 (final: https://www.dtex.ai/capabilities/privacy/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/foreign-interference/ -> 200 (final: https://www.dtex.ai/foreign-interference/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/third-party-insider-risk/ -> 200 (final: https://www.dtex.ai/third-party-insider-risk/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/technology/ -> 200 (final: https://www.dtex.ai/technology/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/partners/ -> 200 (final: https://www.dtex.ai/partners/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/healthcare/ -> 200 (final: https://www.dtex.ai/healthcare/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/capabilities/ueba/ -> 200 (final: https://www.dtex.ai/capabilities/ueba/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/privacy-policy/ -> 200 (final: https://www.dtex.ai/privacy-policy/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/exposing-dprk/ -> 200 (final: https://www.dtex.ai/exposing-dprk/) CT=text/html; charset=UTF-8
+ • Summary [dtex-reports]: new_fetched=15, new_used=15, reused=15, prev_cached=29, seen_before=28, seen_added=14
 Wrote feeds/dtex-reports.xml
 
 === Processing: LEXFO Blog (https://blog.lexfo.fr/) -> feeds/lexfo.xml
@@ -133,7 +133,7 @@ Wrote feeds/lexfo.xml
  [HTTP] sitemap GET https://prodaft.com/sitemap_index.xml -> 200 (final: https://prodaft.com/sitemap_index.xml) CT=text/html
  [HTTP] sitemap GET https://prodaft.com/sitemap.xml.gz -> 200 (final: https://prodaft.com/sitemap.xml.gz) CT=text/html
  [HTTP] sitemap GET https://prodaft.com/sitemap_index.xml.gz -> 200 (final: https://prodaft.com/sitemap_index.xml.gz) CT=text/html
- • Summary [prodaft-blogs]: new_fetched=0, new_used=0, reused=20, prev_cached=20, seen_before=15, seen_added=0
+ • Summary [prodaft-blogs]: new_fetched=0, new_used=0, reused=1, prev_cached=0, seen_before=0, seen_added=0
 Wrote feeds/prodaft-blogs.xml
 
 === Processing: PRODAFT Reports (https://prodaft.com/reports) -> feeds/prodaft-reports.xml
@@ -144,7 +144,7 @@ Wrote feeds/prodaft-blogs.xml
  [HTTP] sitemap GET https://prodaft.com/sitemap_index.xml -> 200 (final: https://prodaft.com/sitemap_index.xml) CT=text/html
  [HTTP] sitemap GET https://prodaft.com/sitemap.xml.gz -> 200 (final: https://prodaft.com/sitemap.xml.gz) CT=text/html
  [HTTP] sitemap GET https://prodaft.com/sitemap_index.xml.gz -> 200 (final: https://prodaft.com/sitemap_index.xml.gz) CT=text/html
- • Summary [prodaft-reports]: new_fetched=0, new_used=0, reused=20, prev_cached=20, seen_before=15, seen_added=0
+ • Summary [prodaft-reports]: new_fetched=0, new_used=0, reused=1, prev_cached=0, seen_before=0, seen_added=0
 Wrote feeds/prodaft-reports.xml
 
 === Processing: Profero Resources (https://profero.io/resources) -> feeds/profero.xml
@@ -152,22 +152,12 @@ Wrote feeds/prodaft-reports.xml
  [HTTP] robots-check GET https://profero.io/robots.txt -> 200 (final: https://profero.io/robots.txt) CT=text/plain; charset=utf-8
  • scraping listing page …
  [HTTP] scrape-listing GET https://profero.io/resources -> 200 (final: https://profero.io/resources) CT=text/html; charset=utf-8
- [HTTP] article GET https://profero.io/blog/cloud-security-alliance-conference-attacker-perspective-panel-overview -> 200 (final: https://profero.io/blog/cloud-security-alliance-conference-attacker-perspective-panel-overview) CT=text/html; charset=utf-8
- [HTTP] article GET https://profero.io/blog/microsoft-windows-endpoint-forensics-readiness-booster -> 200 (final: https://profero.io/blog/microsoft-windows-endpoint-forensics-readiness-booster) CT=text/html; charset=utf-8
- [HTTP] article GET https://profero.io/blog/profero-is-now-certified-for-soc-2-and-iso-27001 -> 200 (final: https://profero.io/blog/profero-is-now-certified-for-soc-2-and-iso-27001) CT=text/html; charset=utf-8
- [HTTP] article GET https://profero.io/blog/the-10-0-rated-cve-in-xz-utils-jeopardizing-ssh-security -> 200 (final: https://profero.io/blog/the-10-0-rated-cve-in-xz-utils-jeopardizing-ssh-security) CT=text/html; charset=utf-8
- [HTTP] article GET https://profero.io/blog/sysaid-on-prem-vulnerability-disclosure -> 200 (final: https://profero.io/blog/sysaid-on-prem-vulnerability-disclosure) CT=text/html; charset=utf-8
- [HTTP] article GET https://profero.io/blog/redalert2023 -> 200 (final: https://profero.io/blog/redalert2023) CT=text/html; charset=utf-8
- [HTTP] article GET https://profero.io/blog/malicious-extensions-what-they-are-and-how-to-fight-them -> 200 (final: https://profero.io/blog/malicious-extensions-what-they-are-and-how-to-fight-them) CT=text/html; charset=utf-8
- [HTTP] article GET https://profero.io/blog/lastpass-breach-and-your-sso -> 200 (final: https://profero.io/blog/lastpass-breach-and-your-sso) CT=text/html; charset=utf-8
- [HTTP] article GET https://profero.io/blog/lastpass-breach-what-went-wrong -> 200 (final: https://profero.io/blog/lastpass-breach-what-went-wrong) CT=text/html; charset=utf-8
- [HTTP] article GET https://profero.io/blog/online-programming-learning-sites-can-be-manipulated-by-hackers-to-launch-cyberattacks -> 200 (final: https://profero.io/blog/online-programming-learning-sites-can-be-manipulated-by-hackers-to-launch-cyberattacks) CT=text/html; charset=utf-8
- [HTTP] article GET https://profero.io/blog/multi-factor-authentication-in-the-wild-bypass-methods -> 200 (final: https://profero.io/blog/multi-factor-authentication-in-the-wild-bypass-methods) CT=text/html; charset=utf-8
- [HTTP] article GET https://profero.io/blog/static-unpacker-and-decoder-for-hello-kitty-packer -> 200 (final: https://profero.io/blog/static-unpacker-and-decoder-for-hello-kitty-packer) CT=text/html; charset=utf-8
- [HTTP] article GET https://profero.io/blog/oss-getting-hammered-for-bigcorp-failures -> 200 (final: https://profero.io/blog/oss-getting-hammered-for-bigcorp-failures) CT=text/html; charset=utf-8
- [HTTP] article GET https://profero.io/blog/log4jscanner -> 200 (final: https://profero.io/blog/log4jscanner) CT=text/html; charset=utf-8
- [HTTP] article GET https://profero.io/blog/log4shell-massive-kinsing-deployment -> 200 (final: https://profero.io/blog/log4shell-massive-kinsing-deployment) CT=text/html; charset=utf-8
- • Summary [profero]: new_fetched=15, new_used=15, reused=15, prev_cached=21, seen_before=15, seen_added=15
+ [HTTP] article GET https://profero.io/blog/from-the-trenches-common-sense-measures-to-prevent-cloud-incidents -> 200 (final: https://profero.io/blog/from-the-trenches-common-sense-measures-to-prevent-cloud-incidents) CT=text/html; charset=utf-8
+ [HTTP] article GET https://profero.io/blog/ransomexx-fixing-corrupted-ransom -> 200 (final: https://profero.io/blog/ransomexx-fixing-corrupted-ransom) CT=text/html; charset=utf-8
+ [HTTP] article GET https://profero.io/blog/secrets-behind-ever101-ransomware -> 200 (final: https://profero.io/blog/secrets-behind-ever101-ransomware) CT=text/html; charset=utf-8
+ [HTTP] article GET https://profero.io/blog/cuba-ransomware-group-on-a-roll -> 200 (final: https://profero.io/blog/cuba-ransomware-group-on-a-roll) CT=text/html; charset=utf-8
+ [HTTP] article GET https://profero.io/blog/apt27-turns-to-ransomware -> 200 (final: https://profero.io/blog/apt27-turns-to-ransomware) CT=text/html; charset=utf-8
+ • Summary [profero]: new_fetched=5, new_used=5, reused=25, prev_cached=30, seen_before=30, seen_added=5
 Wrote feeds/profero.xml
 
 === Processing: RansomNews Blog (https://ransomnews.online/) -> feeds/ransomnews.xml

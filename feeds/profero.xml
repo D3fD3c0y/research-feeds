@@ -4,7 +4,37 @@
  <title>Profero Resources (Custom Feed)</title>
  <link>https://profero.io/resources</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Mon, 09 Mar 2026 18:19:08 GMT</lastBuildDate>
+ <lastBuildDate>Mon, 09 Mar 2026 18:23:39 GMT</lastBuildDate>
+<item>
+ <title>From the Trenches: Common-Sense Measures to Prevent Cloud Incidents</title>
+ <link>https://profero.io/blog/from-the-trenches-common-sense-measures-to-prevent-cloud-incidents</link>
+ <description>From the Trenches: Common-Sense Measures to Prevent Cloud Incidents</description>
+ <pubDate>Mon, 09 Mar 2026 18:23:37 GMT</pubDate>
+</item>
+<item>
+ <title>RansomEXX, Fixing Corrupted Ransom</title>
+ <link>https://profero.io/blog/ransomexx-fixing-corrupted-ransom</link>
+ <description>RansomEXX, Fixing Corrupted Ransom</description>
+ <pubDate>Mon, 09 Mar 2026 18:23:37 GMT</pubDate>
+</item>
+<item>
+ <title>Secrets Behind Ever101 Ransomware</title>
+ <link>https://profero.io/blog/secrets-behind-ever101-ransomware</link>
+ <description>Secrets Behind Ever101 Ransomware</description>
+ <pubDate>Mon, 09 Mar 2026 18:23:37 GMT</pubDate>
+</item>
+<item>
+ <title>Cuba Ransomware Group on a Roll</title>
+ <link>https://profero.io/blog/cuba-ransomware-group-on-a-roll</link>
+ <description>Cuba Ransomware Group on a Roll</description>
+ <pubDate>Mon, 09 Mar 2026 18:23:38 GMT</pubDate>
+</item>
+<item>
+ <title>APT27 Turns to Ransomware</title>
+ <link>https://profero.io/blog/apt27-turns-to-ransomware</link>
+ <description>APT27 Turns to Ransomware</description>
+ <pubDate>Mon, 09 Mar 2026 18:23:39 GMT</pubDate>
+</item>
 <item>
  <title>Cloud Security Alliance Conference: Attacker Perspective Panel Overview</title>
  <link>https://profero.io/blog/cloud-security-alliance-conference-attacker-perspective-panel-overview</link>
@@ -154,36 +184,6 @@
  <link>https://profero.io/blog/understanding-quantum-cryptography-separating-fact-from-fiction</link>
  <description>Explore the intriguing world of quantum cryptography</description>
  <pubDate>Mon, 09 Mar 2026 17:18:22 GMT</pubDate>
-</item>
-<item>
- <title>A Breach Is Inevitable: Why Organizations Are Failing in Proactive Threat Detection</title>
- <link>https://profero.io/blog/a-breach-is-inevitable-why-organizations-are-failing-in-proactive-threat-detection</link>
- <description>Despite billions spent on security tools, breaches remain rampant. The post reveals cases and underscores the need for real-time monitoring and swift IR.</description>
- <pubDate>Mon, 09 Mar 2026 17:18:22 GMT</pubDate>
-</item>
-<item>
- <title>Behind the Scenes: How Pager Apps Power 24/7 Incident Response Operations</title>
- <link>https://profero.io/blog/behind-the-scenes-how-pager-apps-power-24-7-incident-response-operations</link>
- <description>Join us for a behind-the-scenes look at how pager apps are transforming 24/7 incident response operations. In this blog post, we explore the critical roles of p</description>
- <pubDate>Mon, 09 Mar 2026 17:18:22 GMT</pubDate>
-</item>
-<item>
- <title>MITRE ATT&amp;amp;CK: A Guidebook for the Cyber Jungle</title>
- <link>https://profero.io/blog/mitre-att-ck-a-guidebook-for-the-cyber-jungle</link>
- <description>Discover how the MITRE ATT&amp;amp;CK framework acts as a vital tool for navigating cyber threats.</description>
- <pubDate>Mon, 09 Mar 2026 17:18:22 GMT</pubDate>
-</item>
-<item>
- <title>Secrets leakage – A rising threat. Development Practices to Safeguard Your Secrets</title>
- <link>https://profero.io/blog/secrets-leakage-rising-threat-development-practices-to-safeguard-your-secrets</link>
- <description>Insights from the Profero incident response team on threats and strategies in managing secrets avoiding secret leakage</description>
- <pubDate>Mon, 09 Mar 2026 17:18:23 GMT</pubDate>
-</item>
-<item>
- <title>Why Cyberattacks Spike During Holidays and How to be IR Ready</title>
- <link>https://profero.io/blog/why-cyberattacks-spike-during-holidays-and-how-to-be-ir-ready</link>
- <description>Insights from the Profero incident response team on why cyberattacks spike during holidays</description>
- <pubDate>Mon, 09 Mar 2026 17:18:23 GMT</pubDate>
 </item>
 </channel>
 </rss>
