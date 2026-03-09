@@ -4,7 +4,43 @@
   <title>Binary Defense Blog (Custom Feed)</title>
   <link>https://binarydefense.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 09 Mar 2026 02:56:18 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 08:58:42 GMT</lastBuildDate>
+  <item>
+    <title>The ISIS Cyber Security Threat</title>
+    <link>https://binarydefense.com/resources/blog/isis-cyber-security-threat</link>
+    <description>ISIS has been making a hard push through both social media and hacking to recruit more people to their cause, The ISIS Cyber Security Threat</description>
+    <pubDate>Mon, 09 Mar 2026 08:58:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>Artillery version 1.3 released - new features and bug fixes.</title>
+    <link>https://binarydefense.com/resources/blog/artillery-version-1-3-released</link>
+    <description>Artillery version 1.3 is now released. This version incorporates a number of new features and bug fixes. Most specifically, when it comes to timestamp for…</description>
+    <pubDate>Mon, 09 Mar 2026 08:58:36 GMT</pubDate>
+  </item>
+  <item>
+    <title>United States Postal Service Breached</title>
+    <link>https://binarydefense.com/resources/blog/united-states-postal-service-breach</link>
+    <description>On November 10, 2014 the United States Postal Service (USPS) announced they were the victim of a cyber security intrusion</description>
+    <pubDate>Mon, 09 Mar 2026 08:58:37 GMT</pubDate>
+  </item>
+  <item>
+    <title>Project Artillery is Now a Binary Defense Project!</title>
+    <link>https://binarydefense.com/resources/blog/project-artillery-is-now-a-binary-defense-project</link>
+    <description>Artillery was a tool I created a number of years ago to create a way for early warning indicators and open source threat intelligence feeds.</description>
+    <pubDate>Mon, 09 Mar 2026 08:58:39 GMT</pubDate>
+  </item>
+  <item>
+    <title>Active Shellshock SMTP Botnet Campaign</title>
+    <link>https://binarydefense.com/resources/blog/active-shellshock-smtp-botnet</link>
+    <description>We recently became aware of a SMTP botnet campaign occurring for a number of large-scale customers targeting SMTP gateways with Shellshock based attacks.</description>
+    <pubDate>Mon, 09 Mar 2026 08:58:41 GMT</pubDate>
+  </item>
+  <item>
+    <title>Binary Defense Launches</title>
+    <link>https://binarydefense.com/resources/blog/binarydefense-launches</link>
+    <description>Binary Defense is a culmination of years of development, testing, and practicing in providing next generation detection capabilities for our customers.</description>
+    <pubDate>Mon, 09 Mar 2026 08:58:42 GMT</pubDate>
+  </item>
   <item>
     <title>4 Crucial Steps to Getting the Best Value out of Your SIEM</title>
     <link>https://binarydefense.com/resources/blog/4-crucial-steps-to-getting-the-best-value-out-of-your-siem</link>
@@ -148,42 +184,6 @@
     <link>https://binarydefense.com/resources/blog/data-breaches-during-first-half-of-2017-exceed-all-of-2016</link>
     <description>These numbers do not include last month’s Equifax and SEC breach announcements, or Yahoo’s revised report of its 2013 exposure.</description>
     <pubDate>Sun, 08 Mar 2026 16:42:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>Fake Cryptocurrency Apps Steal User Data</title>
-    <link>https://binarydefense.com/resources/blog/fake-cryptocurrency-apps-steal-user-data</link>
-    <description>In August 2017, a security researcher was able to bypass Poloniex’s 2FA (two-factor authentication) by finding a Reddit thread dubbed “Poloniex2FASucks.”</description>
-    <pubDate>Sun, 08 Mar 2026 16:42:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>New "Reaper" Malware has Infected Two Million IoT Devices</title>
-    <link>https://binarydefense.com/resources/blog/new-reaper-malware-has-infected-two-million-iot-devices</link>
-    <description>A newly-discovered malware is rapidly spreading and is thought to have already infected over two million IoT devices. It was dubbed “Reaper_IoT”</description>
-    <pubDate>Sun, 08 Mar 2026 16:42:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>DoubleLocker Android Ransomware</title>
-    <link>https://binarydefense.com/resources/blog/doublelocker-android-ransomware</link>
-    <description>A new ransomware has surfaced in the wild that’s targeting Android devices dubbed as DoubleLocker.</description>
-    <pubDate>Sun, 08 Mar 2026 16:42:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>Hackers Can Hack Kids' Smartwatches and Track Locations</title>
-    <link>https://binarydefense.com/resources/blog/hackers-can-hack-kids-smartwatches-and-track-locations</link>
-    <description>Smartwatches designed for kids are helping parents ensure the safety of their children by being able to keep track of them via secure apps.</description>
-    <pubDate>Sun, 08 Mar 2026 16:42:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>KRACK Attack WPA Vulnerabilities</title>
-    <link>https://binarydefense.com/resources/blog/krack-attack-wpa-vulnerabilities</link>
-    <description>Researchers have discovered and documented critical weaknesses in WPA2, a protocol that secures all modern protected Wi-Fi networks</description>
-    <pubDate>Sun, 08 Mar 2026 16:42:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Certainty of Uncertainty...Why Cyber Security Resiliency Matters</title>
-    <link>https://binarydefense.com/resources/blog/the-certainty-of-uncertainty-why-cyber-security-resiliency-matters</link>
-    <description>Today's hyper-crisis world demands a better way to ensure security success. Any size organization needs to be an adaptive security enterprise.</description>
-    <pubDate>Sun, 08 Mar 2026 16:42:46 GMT</pubDate>
   </item>
 </channel>
 </rss>

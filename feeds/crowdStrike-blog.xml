@@ -4,7 +4,97 @@
   <title>CrowdStrike Blog (Custom Feed)</title>
   <link>https://www.crowdstrike.com/en-us/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 09 Mar 2026 02:57:39 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 08:59:41 GMT</lastBuildDate>
+  <item>
+    <title>Taking Security to the Next Level: CrowdStrike Now Analyzes over 100 Billion Events Per Day</title>
+    <link>https://www.crowdstrike.com/blog/taking-security-to-the-next-level-crowdstrike-now-analyzes-over-100-billion-events-per-day/</link>
+    <description>CrowdStrike achieved a significant milestone of processing 100 billion events per day; learn how it increases customers’ endpoint protection.</description>
+    <pubDate>Mon, 09 Mar 2026 08:59:18 GMT</pubDate>
+  </item>
+  <item>
+    <title>Don't Even Think of Complying with the New NIST Cybersecurity Framework!</title>
+    <link>https://www.crowdstrike.com/blog/dont-even-think-of-complying-with-the-new-nist-cybersecurity-framework/</link>
+    <description>Complying with the NIST Framework is not possible. Rather, companies should strive to leverage the core functions to increase security posture.</description>
+    <pubDate>Mon, 09 Mar 2026 08:59:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike Scores Highest Overall for Use Case Type A or “Forward Leaning” Organizations in Gartner’s Critical Capabilities for EPP</title>
+    <link>https://www.crowdstrike.com/blog/crowdstrike-scores-highest-overall-for-use-case-type-a-or-forward-leaning-organizations-in-gartners-critical-capabilities-for-endpoint-protection-platforms/</link>
+    <description>The CrowdStrike endpoint protection platform (EPP) gets highest overall scores for “lean forward or Type A” organizations in Gartner's Critical Capabilities for EPP report.</description>
+    <pubDate>Mon, 09 Mar 2026 08:59:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>Taking Protection to a New Level: CrowdStrike Announces its $1 Million Breach Prevention Warranty</title>
+    <link>https://www.crowdstrike.com/blog/taking-protection-to-a-new-level-crowdstrike-announces-its-1-million-breach-prevention-warranty/</link>
+    <description>New customers of CrowdStrike Falcon® Endpoint Protection Complete now received a $1 million breach protection warranty at no charge -- learn more.</description>
+    <pubDate>Mon, 09 Mar 2026 08:59:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mustang Panda | Threat Actor Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-june-mustang-panda/</link>
+    <description>MUSTANG PANDA is a China-based adversary that has demonstrated an ability to rapidly assimilate new tools and tactics. Learn more about their operations.</description>
+    <pubDate>Mon, 09 Mar 2026 08:59:23 GMT</pubDate>
+  </item>
+  <item>
+    <title>Hiding in Plain Sight: Using the Office 365 Activities API to Investigate Business Email Compromises</title>
+    <link>https://www.crowdstrike.com/blog/hiding-in-plain-sight-using-the-office-365-activities-api-to-investigate-business-email-compromises/</link>
+    <description>Learn how CrowdStrike Services used the Office 365 Activities API to investigate Business Email Compromises (BECs) involving cyber fraud and theft.</description>
+    <pubDate>Mon, 09 Mar 2026 08:59:25 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike Announces $200 Million Series E Financing Round with New and Existing Investors</title>
+    <link>https://www.crowdstrike.com/blog/crowdstrike-closes-200-million-series-e-financing-round-with-new-and-existing-investors/</link>
+    <description>Announcing Series E financing round of $200 million, led by General Atlantic, Accel, and IVP with participation from March Capital and CapitalG.</description>
+    <pubDate>Mon, 09 Mar 2026 08:59:28 GMT</pubDate>
+  </item>
+  <item>
+    <title>Don’t Take The Vendor’s Word For It: The Importance of Third-Party Testing - crowdstrike.com</title>
+    <link>https://www.crowdstrike.com/blog/dont-take-the-vendors-word-for-it-the-importance-of-third-party-testing/</link>
+    <description>Learn why navigating the crowded endpoint security vendor landscape requires objective information from public third-party testing and a free trial program.</description>
+    <pubDate>Mon, 09 Mar 2026 08:59:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>Spark Hot Potato: Passing DataFrames Between Scala Spark and PySpark</title>
+    <link>https://www.crowdstrike.com/blog/spark-hot-potato-passing-dataframes-between-scala-spark-and-pyspark/</link>
+    <description>An introduction to interoperability of DataFrames between Scala Spark and PySpark.</description>
+    <pubDate>Mon, 09 Mar 2026 08:59:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>Global Survey Reveals Supply Chain as a Rising and Critical New Threat Vector</title>
+    <link>https://www.crowdstrike.com/blog/global-survey-reveals-supply-chain-as-a-rising-and-critical-new-threat-vector/</link>
+    <description>Learn why supply chain attacks are on the rise and how IT security professionals view this critical new threat vector in CrowdStrike supply chain survey.</description>
+    <pubDate>Mon, 09 Mar 2026 08:59:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>I Know What You Did Last Month: A New Artifact of Execution on macOS 10.13</title>
+    <link>https://www.crowdstrike.com/blog/i-know-what-you-did-last-month-a-new-artifact-of-execution-on-macos-10-13/</link>
+    <description>Learn about a new artifact, CoreAnalytics, that can help forensic investigators determine what executed on macOS systems.</description>
+    <pubDate>Mon, 09 Mar 2026 08:59:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why Cybersecurity Should be a Board-Level Discussion</title>
+    <link>https://www.crowdstrike.com/blog/why-cybersecurity-should-be-a-board-level-discussion/</link>
+    <description>Cybersecurity needs to be discussed by boards of directors and C-level executives if organizations are going to mount the best defense against modern cyberattacks.</description>
+    <pubDate>Mon, 09 Mar 2026 08:59:38 GMT</pubDate>
+  </item>
+  <item>
+    <title>Wicked Spider Adversary | Threat Actor Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-july-wicked-spider/</link>
+    <description>WICKED SPIDER is a suspected China-based adversary that conducts exploitation operations as a group-for-hire service. Learn about their targets and methods.</description>
+    <pubDate>Mon, 09 Mar 2026 08:59:38 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike Foundation Supports Next Generation of Talent in Cybersecurity</title>
+    <link>https://www.crowdstrike.com/blog/crowdstrike-foundation-supports-next-generation-of-talent-in-cybersecurity/</link>
+    <description>The CrowdStrike Foundation is a non-profit that awards scholarships for the study of cybersecurity and AI and also supports worthwhile community endeavors.</description>
+    <pubDate>Mon, 09 Mar 2026 08:59:41 GMT</pubDate>
+  </item>
+  <item>
+    <title>Qatar’s Commercial Bank Chooses CrowdStrike Falcon®: A Partnership Based on Trust [VIDEO]</title>
+    <link>https://www.crowdstrike.com/blog/qatars-commercial-bank-chooses-crowdstrike-falcon-a-partnership-based-on-trust/</link>
+    <description>Commercial Bank, Qatar trusts CrowdStrike Falcon® endpoint protection to secure its critical infrastructure and prevent cyberattacks.</description>
+    <pubDate>Mon, 09 Mar 2026 08:59:41 GMT</pubDate>
+  </item>
   <item>
     <title>Cryptomining: Harmless Nuisance or Disruptive Threat?</title>
     <link>https://www.crowdstrike.com/blog/cryptomining-harmless-nuisance-disruptive-threat/</link>
@@ -94,96 +184,6 @@
     <link>https://www.crowdstrike.com/blog/an-in-depth-analysis-of-samsam-ransomware-and-boss-spider/</link>
     <description>Gain an in-depth analysis of Samsam ransomware, associated with the adversary BOSS SPIDER; learn how it functions and how CrowdStrike Falcon® Prevent™ stops it.</description>
     <pubDate>Mon, 09 Mar 2026 02:57:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Address Zero-Day Threats Long Before an Attack Occurs</title>
-    <link>https://www.crowdstrike.com/blog/address-zero-day-threats-long-attack-occurs/</link>
-    <description>Defending against zero-days requires hardening systems and applying next-generation endpoint protection — learn the defense strategies you need.</description>
-    <pubDate>Sun, 08 Mar 2026 16:43:44 GMT</pubDate>
-  </item>
-  <item>
-    <title>HIPAA PHI Getting Tougher to Safeguard but Compliance is Still Critical</title>
-    <link>https://www.crowdstrike.com/blog/hipaa-phi-getting-tougher-to-safeguard-but-compliance-is-still-critical/</link>
-    <description>HIPAA compliance was enacted to safeguard protected healthcare information (PHI), learn why having the right endpoint protection in place is critical.</description>
-    <pubDate>Sun, 08 Mar 2026 16:43:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>CCleaner Backdoor: Analysis &amp; Recommendations - CrowdStrike</title>
-    <link>https://www.crowdstrike.com/blog/protecting-software-supply-chain-deep-insights-ccleaner-backdoor/</link>
-    <description>Learn about the CCleaner 5.33 backdoor vulnerability found embedded in signed versions of the software. CrowdStrike walks through a technical analysis, the payload, how it gathers victim information, recommendations, and more.</description>
-    <pubDate>Sun, 08 Mar 2026 16:43:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Software Supply Chain Attacks on the Rise, Undermining Customer Trust</title>
-    <link>https://www.crowdstrike.com/blog/software-supply-chain-attacks-rise-undermining-customer-trust/</link>
-    <description>Supply chain attacks that exploit the trust between software and hardware vendors and their customers are on the rise.</description>
-    <pubDate>Sun, 08 Mar 2026 16:43:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Full Decryption of Systems Encrypted by Petya/NotPetya</title>
-    <link>https://www.crowdstrike.com/blog/full-decryption-systems-encrypted-petya-notpetya/</link>
-    <description>CrowdStrike researcher shows how to fully recover files encrypted by Petya/NotPetya attacks.</description>
-    <pubDate>Sun, 08 Mar 2026 16:43:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>How Artificial Intelligence is Becoming a Key Weapon in the Cybersecurity War</title>
-    <link>https://www.crowdstrike.com/blog/how-artificial-intelligence-is-becoming-a-key-weapon-in-the-cybersecurity-war/</link>
-    <description>As ransomware has grown more advanced it's gained the ability to bring down hospitals, healthcare organizations, manufacturers, corporate firms, and more. CrowdStrike walks you through how artificial intelligence will be a key component in winning the war against sophisticated cyberattacks.</description>
-    <pubDate>Sun, 08 Mar 2026 16:43:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>5 Steps Endpoint Security Buyers are Taking to Improve Protection</title>
-    <link>https://www.crowdstrike.com/blog/5-steps-endpoint-security-buyers-are-taking-to-improve-protection/</link>
-    <description>Learn how security professionals view today’s endpoint protection solutions and the steps they’re taking to improve security</description>
-    <pubDate>Sun, 08 Mar 2026 16:43:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>CrowdStrike Falcon®: Vulnerability Management Comes of Age</title>
-    <link>https://www.crowdstrike.com/blog/introducing-crowdstrike-falcon-spotlight/</link>
-    <description>CrowdStrike Falcon® Spotlight, the latest addition to the CrowdStrike Falcon® platform, represents a major evolution in the field of vulnerability management.</description>
-    <pubDate>Sun, 08 Mar 2026 16:43:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>CCleaner Stage 2: In-Depth Analysis of the Payload</title>
-    <link>https://www.crowdstrike.com/blog/in-depth-analysis-of-the-ccleaner-backdoor-stage-2-dropper-and-its-payload/</link>
-    <description>Get in-depth analysis of the CCleaner 5.33 backdoor found embedded in signed versions of the software</description>
-    <pubDate>Sun, 08 Mar 2026 16:43:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>BadRabbit MS17-010 Exploitation Part One: Leak and Control</title>
-    <link>https://www.crowdstrike.com/blog/badrabbit-ms17-010-exploitation-part-one-leak-and-control/</link>
-    <description>A new type of ransomware, Bad Rabbit, has been analyzed by the CrowdStrike Security Response team. Get in-depth analysis of this stealthy new threat in a two-part series.</description>
-    <pubDate>Sun, 08 Mar 2026 16:43:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>BadRabbit MS17-010 Exploitation Part Two: Elevate Privileges</title>
-    <link>https://www.crowdstrike.com/blog/badrabbit-ms17-010-exploitation-part-two-elevate-privileges/</link>
-    <description>Read part two of a new type of ransomware, Bad Rabbit. CrowdStrike Security Response team goes in-depth for an analysis of this stealthy new threat.</description>
-    <pubDate>Sun, 08 Mar 2026 16:44:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>The 6 Requirements of True Next-Gen Endpoint Protection</title>
-    <link>https://www.crowdstrike.com/blog/the-6-requirements-of-true-next-gen-endpoint-protection/</link>
-    <description>Finding true next-gen endpoint protection means looking behind vendor claims. Learn the elements that make endpoint security truly next-generation.</description>
-    <pubDate>Sun, 08 Mar 2026 16:44:03 GMT</pubDate>
-  </item>
-  <item>
-    <title>New Gartner Report Redefines Endpoint Protection for 2018</title>
-    <link>https://www.crowdstrike.com/blog/new-gartner-report-redefines-endpoint-protection-for-2018/</link>
-    <description>A new Gartner report redefines endpoint protection for 2018, with recommendations for organizations seeking more effective cyber threat defenses.</description>
-    <pubDate>Sun, 08 Mar 2026 16:44:05 GMT</pubDate>
-  </item>
-  <item>
-    <title>What are the Spectre &amp; Meltdown Chip Flaws? - CrowdStrike</title>
-    <link>https://www.crowdstrike.com/blog/chip-flaws-spectre-and-meltdown-are-actually-three-vulnerabilities-and-proving-hard-to-mitigate/</link>
-    <description>Learn about the Spectre and Meltdown computer chip design flaws, the fixes available, and CrowdStrike's recommendations and tools to track mitigation status.</description>
-    <pubDate>Sun, 08 Mar 2026 16:44:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>Spectre &amp; Meltdown Dashboards: Mitigate CPU Flaws - CrowdStrike</title>
-    <link>https://www.crowdstrike.com/blog/crowdstrike-provides-spectre-meltdown-dashboard-to-help-customers-mitigate-cpu-flaws/</link>
-    <description>Learn how a CrowdStrike Falcon® dashboard helps customers mitigate Spectre &amp; Meltdown CPU vulnerabilities with instant visibility across patches and performance.</description>
-    <pubDate>Sun, 08 Mar 2026 16:44:10 GMT</pubDate>
   </item>
 </channel>
 </rss>
