@@ -135,7 +135,7 @@
     "seen_urls": []
   },
   "appomni": {
-    "last_success_utc": "2026-03-09T17:05:39.065419+00:00",
+    "last_success_utc": "2026-03-09T17:17:51.773563+00:00",
     "seen_urls": [
       "https://appomni.com/blog/saas-supply-chain-attacks-mitre-attck-mapping/",
       "https://appomni.com/blog/saas-security-controls-framework-sscf/",
@@ -276,7 +276,7 @@
     "seen_urls": []
   },
   "bfore-ai-reports": {
-    "last_success_utc": "2026-03-09T17:05:40.843294+00:00",
+    "last_success_utc": "2026-03-09T17:17:52.465474+00:00",
     "seen_urls": [
       "https://bfore.ai/report/2025-retail-holiday-threat-report-scams-impersonation-attacks/",
       "https://bfore.ai/report/threat-research-elon-vs-trump-feud-drives-malicious-domain-surge/",
@@ -311,7 +311,7 @@
     ]
   },
   "binarydefense-blog": {
-    "last_success_utc": "2026-03-09T17:06:47.325310+00:00",
+    "last_success_utc": "2026-03-09T17:17:57.957891+00:00",
     "seen_urls": [
       "https://binarydefense.com/resources/blog/isis-cyber-security-threat",
       "https://binarydefense.com/resources/blog/artillery-version-1-3-released",
@@ -1100,7 +1100,7 @@
     ]
   },
   "blackpoint-ti": {
-    "last_success_utc": "2026-03-09T17:07:03.738920+00:00",
+    "last_success_utc": "2026-03-09T17:18:03.502058+00:00",
     "seen_urls": [
       "https://blackpointcyber.com/threat-profile/akira-ransomware/",
       "https://blackpointcyber.com/threat-profile/ransomhub-ransomware/",
@@ -1132,7 +1132,7 @@
     "seen_urls": []
   },
   "breakpoint-labs": {
-    "last_success_utc": "2026-03-09T17:07:05.541096+00:00",
+    "last_success_utc": "2026-03-09T17:18:03.727597+00:00",
     "seen_urls": [
       "https://breakpoint-labs.com/hunting-for-escalation-paths-in-ad-admincount/",
       "https://breakpoint-labs.com/ai-red-teaming-part-3-attacking-claude-code-using-pyrit/",
@@ -2086,6 +2086,47 @@
       "https://www.cyjax.com/resources/blog/an-exploration-of-information-exposure-on-document-sharing-platform"
     ]
   },
+  "deception-pro": {
+    "last_success_utc": "2026-03-09T17:18:04.708334+00:00",
+    "seen_urls": [
+      "https://blog.deception.pro/blog/clickfix-hok-velvet-tempest-termite",
+      "https://blog.deception.pro/blog/hok-intrusion-abusing-multiple-rmms-jan2026",
+      "https://blog.deception.pro/blog/deceptionpro-platform-update-jan-2026",
+      "https://blog.deception.pro/blog/castlerat-dec2025-hok-ato",
+      "https://blog.deception.pro/blog/oyster-vidar-hok-dec2025",
+      "https://blog.deception.pro/blog/updated-nov4-2025"
+    ]
+  },
+  "dtex-reports": {
+    "last_success_utc": "2026-03-09T17:18:08.508524+00:00",
+    "seen_urls": [
+      "https://www.dtex.ai/",
+      "https://www.dtex.ai/resources/",
+      "https://www.dtex.ai/resources/webinars/",
+      "https://www.dtex.ai/careers/",
+      "https://www.dtex.ai/resources/case-studies/",
+      "https://www.dtex.ai/resources/datasheets/",
+      "https://www.dtex.ai/integrations/for-splunk/",
+      "https://www.dtex.ai/resources/e-books/",
+      "https://www.dtex.ai/resources/guides/",
+      "https://www.dtex.ai/resources/infographics/",
+      "https://www.dtex.ai/resources/solution-brief/",
+      "https://www.dtex.ai/resources/threat-advisories/",
+      "https://www.dtex.ai/resources/videos/",
+      "https://www.dtex.ai/webinars/"
+    ]
+  },
+  "lexfo": {
+    "last_success_utc": "2026-03-09T17:18:10.722757+00:00",
+    "seen_urls": [
+      "https://blog.lexfo.fr/munge-heap-buffer-overflow.html",
+      "https://blog.lexfo.fr/wso2.html",
+      "https://blog.lexfo.fr/sniffing-ble-sdr.html",
+      "https://blog.lexfo.fr/analysis-of-secp0-ransomware.html",
+      "https://blog.lexfo.fr/world-leaks-an-extortion-platform.html",
+      "https://blog.lexfo.fr/glpi-sql-to-rce.html"
+    ]
+  },
   "pillar-security": {
     "last_success_utc": "2026-03-09T17:08:02.093481+00:00",
     "seen_urls": [
@@ -2182,6 +2223,74 @@
       "https://www.pillar.security/blog/analyzing-the-amazon-q-incident-using-the-sail-framework",
       "https://www.pillar.security/blog/anatomy-of-an-indirect-prompt-injection"
     ]
+  },
+  "prodaft-blogs": {
+    "last_success_utc": "2026-03-09T17:18:16.694244+00:00",
+    "seen_urls": [
+      "https://www.prodaft.com/",
+      "https://www.prodaft.com/usta-cyber-threat-intelligence-platform",
+      "https://www.prodaft.com/catalyst-comprehensive-apt-threat-insight",
+      "https://www.prodaft.com/blindspot-cybersecurity-risk-intelligence-management",
+      "https://www.prodaft.com/cyber-security-aviation-industry",
+      "https://www.prodaft.com/brand-protection-cyber-security-teams",
+      "https://www.prodaft.com/cyber-security-defence-industry",
+      "https://www.prodaft.com/ecommerce-cyber-security-service",
+      "https://www.prodaft.com/cyber-security-energy-industry",
+      "https://www.prodaft.com/cyber-security-for-finance-banking",
+      "https://www.prodaft.com/cyber-security-for-fintech-companies",
+      "https://www.prodaft.com/fraud-prevention-solutions-services",
+      "https://www.prodaft.com/cyber-security-healthcare-industry",
+      "https://www.prodaft.com/cyber-security-insurance-industry",
+      "https://www.prodaft.com/corporate-business-cybersecurity-teams"
+    ]
+  },
+  "prodaft-reports": {
+    "last_success_utc": "2026-03-09T17:18:20.860388+00:00",
+    "seen_urls": [
+      "https://www.prodaft.com/",
+      "https://www.prodaft.com/usta-cyber-threat-intelligence-platform",
+      "https://www.prodaft.com/catalyst-comprehensive-apt-threat-insight",
+      "https://www.prodaft.com/blindspot-cybersecurity-risk-intelligence-management",
+      "https://www.prodaft.com/cyber-security-aviation-industry",
+      "https://www.prodaft.com/brand-protection-cyber-security-teams",
+      "https://www.prodaft.com/cyber-security-defence-industry",
+      "https://www.prodaft.com/ecommerce-cyber-security-service",
+      "https://www.prodaft.com/cyber-security-energy-industry",
+      "https://www.prodaft.com/cyber-security-for-finance-banking",
+      "https://www.prodaft.com/cyber-security-for-fintech-companies",
+      "https://www.prodaft.com/fraud-prevention-solutions-services",
+      "https://www.prodaft.com/cyber-security-healthcare-industry",
+      "https://www.prodaft.com/cyber-security-insurance-industry",
+      "https://www.prodaft.com/corporate-business-cybersecurity-teams"
+    ]
+  },
+  "profero": {
+    "last_success_utc": "2026-03-09T17:18:23.115691+00:00",
+    "seen_urls": [
+      "https://profero.io/blog/p4tr-0t3ch-channel-doxxing-disinfo-assessment",
+      "https://profero.io/blog/dit-me-may-morphisec-when-malware-authors-taunt-security-researchers",
+      "https://profero.io/blog/atomicstealer-spreading-via-fake-apple-support-websites",
+      "https://profero.io/blog/the-5-million-letter-when-physical-mail-becomes-digital-extortion",
+      "https://profero.io/blog/new-attack-vector--ai-induced-destruction",
+      "https://profero.io/blog/from-drone-strike-to-file-recovery-outsmarting-a-nation-state",
+      "https://profero.io/blog/the-blurring-lines-between-financially-motivated-attacks-and-nation-state-cyber-operations",
+      "https://profero.io/blog/ivanti-epmm-attacks",
+      "https://profero.io/blog/unmasking-a-sophisticated-phishing-campaign-profero-irts-deep-dive-into-a-global-microsoft-identity-attack",
+      "https://profero.io/blog/understanding-quantum-cryptography-separating-fact-from-fiction",
+      "https://profero.io/blog/a-breach-is-inevitable-why-organizations-are-failing-in-proactive-threat-detection",
+      "https://profero.io/blog/behind-the-scenes-how-pager-apps-power-24-7-incident-response-operations",
+      "https://profero.io/blog/mitre-att-ck-a-guidebook-for-the-cyber-jungle",
+      "https://profero.io/blog/secrets-leakage-rising-threat-development-practices-to-safeguard-your-secrets",
+      "https://profero.io/blog/why-cyberattacks-spike-during-holidays-and-how-to-be-ir-ready"
+    ]
+  },
+  "ransomnews": {
+    "last_success_utc": "2026-03-09T17:18:24.330701+00:00",
+    "seen_urls": []
+  },
+  "sequretek": {
+    "last_success_utc": "2026-03-09T17:18:24.856306+00:00",
+    "seen_urls": []
   },
   "trellix-research": {
     "last_success_utc": "2026-03-06T17:07:04.729505+00:00",

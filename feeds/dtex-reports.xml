@@ -1,15 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>DTEX Reports (Custom Feed)</title>
-  <link>https://www.dtex.ai/resources/reports/</link>
-  <description>Auto-generated periodically</description>
-  <lastBuildDate>Tue, 24 Feb 2026 09:04:34 GMT</lastBuildDate>
-  <item>
-    <title>https://www.dtex.ai/resources/reports/ — sitemap had no items</title>
-    <link>https://www.dtex.ai/resources/reports/</link>
-    <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
-    <pubDate>Tue, 24 Feb 2026 09:04:34 GMT</pubDate>
-  </item>
+ <title>DTEX Reports (Custom Feed)</title>
+ <link>https://www.dtex.ai/resources/reports/</link>
+ <description>Auto-generated periodically</description>
+ <lastBuildDate>Mon, 09 Mar 2026 17:18:08 GMT</lastBuildDate>
+<item>
+ <title>Reports</title>
+ <link>https://www.dtex.ai/resources/reports/</link>
+ <description>DTEX publishes comprehensive insider risk management reports, from the cost of insider threats to nation-state operations and more.</description>
+ <pubDate>Mon, 09 Mar 2026 17:18:06 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX| The Risk-Adaptive Security Platform for the Human and AI Enterprise</title>
+ <link>https://www.dtex.ai/</link>
+ <description>Only DTEX unifies DLP, behavioral analytics and user activity monitoring with AI to stop insider risks from becoming data breaches.</description>
+ <pubDate>Mon, 09 Mar 2026 17:18:06 GMT</pubDate>
+</item>
+<item>
+ <title>Resource Center</title>
+ <link>https://www.dtex.ai/resources/</link>
+ <description>The DTEX Resource Center provides in depth information and marketing assets on a range of insider risk management topics.</description>
+ <pubDate>Mon, 09 Mar 2026 17:18:06 GMT</pubDate>
+</item>
+<item>
+ <title>Resource Webinars</title>
+ <link>https://www.dtex.ai/resources/webinars/</link>
+ <description>DTEX webinars provide in depth information and guidance on the most important aspects of insider risk management.</description>
+ <pubDate>Mon, 09 Mar 2026 17:18:06 GMT</pubDate>
+</item>
+<item>
+ <title>Careers</title>
+ <link>https://www.dtex.ai/careers/</link>
+ <description>DTEX depends on bright, energetic, talented people who share a passion for building the next generation of insider risk management solutions.</description>
+ <pubDate>Mon, 09 Mar 2026 17:18:06 GMT</pubDate>
+</item>
+<item>
+ <title>Case Studies</title>
+ <link>https://www.dtex.ai/resources/case-studies/</link>
+ <description>See how DTEX has helped enterprise organizations across industries, like healthcare, telecommunications and government to stop cyber threats.</description>
+ <pubDate>Mon, 09 Mar 2026 17:18:06 GMT</pubDate>
+</item>
+<item>
+ <title>Datasheets</title>
+ <link>https://www.dtex.ai/resources/datasheets/</link>
+ <description>DTEX datasheets provide in depth explanations of the features and capabilities of the DTEX Platform.</description>
+ <pubDate>Mon, 09 Mar 2026 17:18:07 GMT</pubDate>
+</item>
+<item>
+ <title>For Splunk</title>
+ <link>https://www.dtex.ai/integrations/for-splunk/</link>
+ <description>Together, DTEX and Splunk more effectively manage insider threats and extend visibility through a single pane of glass.</description>
+ <pubDate>Mon, 09 Mar 2026 17:18:07 GMT</pubDate>
+</item>
+<item>
+ <title>E-Books</title>
+ <link>https://www.dtex.ai/resources/e-books/</link>
+ <description>DTEX e-books provide in depth information and guidance on the most important aspects of insider risk management.</description>
+ <pubDate>Mon, 09 Mar 2026 17:18:07 GMT</pubDate>
+</item>
+<item>
+ <title>Guides</title>
+ <link>https://www.dtex.ai/resources/guides/</link>
+ <description>DTEX provides comprehensive insider risk management guides to help organizations protect against data loss.</description>
+ <pubDate>Mon, 09 Mar 2026 17:18:07 GMT</pubDate>
+</item>
+<item>
+ <title>Infographics</title>
+ <link>https://www.dtex.ai/resources/infographics/</link>
+ <description>DTEX infographics of the most important and pressing issues concerning insider risk management and data loss prevetion.</description>
+ <pubDate>Mon, 09 Mar 2026 17:18:07 GMT</pubDate>
+</item>
+<item>
+ <title>Solution Briefs</title>
+ <link>https://www.dtex.ai/resources/solution-brief/</link>
+ <description>DTEX solution briefs provide highlight the features and capabilities of the DTEX Platform and solutions for insider risk management and DLP.</description>
+ <pubDate>Mon, 09 Mar 2026 17:18:08 GMT</pubDate>
+</item>
+<item>
+ <title>Threat Advisories</title>
+ <link>https://www.dtex.ai/resources/threat-advisories/</link>
+ <description>DTEX publishes regular insider threat advisors to help organizations protectively protect against insider threats.</description>
+ <pubDate>Mon, 09 Mar 2026 17:18:08 GMT</pubDate>
+</item>
+<item>
+ <title>Videos</title>
+ <link>https://www.dtex.ai/resources/videos/</link>
+ <description>DTEX videos provide in depth information and guidance on the most important aspects of insider risk management.</description>
+ <pubDate>Mon, 09 Mar 2026 17:18:08 GMT</pubDate>
+</item>
+<item>
+ <title>Webinars</title>
+ <link>https://www.dtex.ai/webinars/</link>
+ <description>DTEX webinars provide the most important and up to date information about how to tackle the challenges of insider risk management.</description>
+ <pubDate>Mon, 09 Mar 2026 17:18:08 GMT</pubDate>
+</item>
 </channel>
 </rss>
