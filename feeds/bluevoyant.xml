@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>BlueVoyant Blog (Custom Feed)</title>
-  <link>https://www.bluevoyant.com/blog</link>
-  <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 09 Mar 2026 08:58:57 GMT</lastBuildDate>
-  <item>
-    <title>https://www.bluevoyant.com/blog — sitemap had no items</title>
-    <link>https://www.bluevoyant.com/blog</link>
-    <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
-    <pubDate>Tue, 24 Feb 2026 09:03:17 GMT</pubDate>
-  </item>
+ <title>BlueVoyant Blog (Custom Feed)</title>
+ <link>https://www.bluevoyant.com/blog</link>
+ <description>Auto-generated periodically</description>
+ <lastBuildDate>Mon, 09 Mar 2026 13:32:12 GMT</lastBuildDate>
+<item>
+ <title>https://www.bluevoyant.com/blog — sitemap had no items</title>
+ <link>https://www.bluevoyant.com/blog</link>
+ <description>No items were discoverable via sitemap(s) or they pointed to non-article URLs.</description>
+ <pubDate>Tue, 24 Feb 2026 09:03:17 GMT</pubDate>
+</item>
 </channel>
 </rss>

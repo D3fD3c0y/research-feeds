@@ -1,189 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Black Kite Blog (Custom Feed)</title>
-  <link>https://blackkite.com/blog</link>
-  <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 09 Mar 2026 08:58:46 GMT</lastBuildDate>
-  <item>
-    <title>Free GDPR Compliance Checker</title>
-    <link>https://blackkite.com/blog/gdpr-compliance-checker</link>
-    <description>See the compliance levels of your organization according to GDPR standards.</description>
-    <pubDate>Sat, 15 Sep 2018 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>How to Prevent Software Supply-Chain Attacks</title>
-    <link>https://blackkite.com/blog/how-to-prevent-software-supply-chain-attacks</link>
-    <description>Do you want to learn about how to prevent software supply chain attacks? Learn your supply-chain risk before it’s too late.</description>
-    <pubDate>Sun, 02 Sep 2018 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Focus Friday: Third-Party Risks In DrayTek Vigor Routers, VMware ESXi, Apache Tomcat, and Axios HTTP Client Vulnerabilities</title>
-    <link>https://blackkite.com/blog/focus-friday-third-party-risks-in-draytek-vigor-routers-vmware-esxi-apache-tomcat-and-axios-http-client-vulnerabilities</link>
-    <description>Explore key vulnerabilities in DrayTek routers, VMware ESXi, Apache Tomcat, and Axios HTTP Client from a TPRM perspective.</description>
-    <pubDate>Fri, 14 Mar 2025 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ransomware Review December 2024: FunkSec’s Meteoric Rise and the Growing Threat of RaaS</title>
-    <link>https://blackkite.com/blog/ransomware-review-december-2024-funksecs-meteoric-rise-and-the-growing-threat-of-raas</link>
-    <description>Discover key ransomware trends from December 2024, including FunkSec’s rise, RaaS innovations, and LockBit's bold new pricing strategy.</description>
-    <pubDate>Thu, 30 Jan 2025 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Focus Friday: Fortifying TPRM Against Kernel Compromise, Buffer Overflow, and Directory Traversal Vulnerabilities</title>
-    <link>https://blackkite.com/blog/focus-friday-fortifying-tprm-against-kernel-compromise-buffer-overflow-and-directory-traversal-vulnerabilities</link>
-    <description>Strengthen TPRM against kernel, buffer overflow, and directory traversal vulnerabilities in Juniper, MongoDB, and SAP with targeted insights.</description>
-    <pubDate>Fri, 21 Mar 2025 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Focus Friday: Third-Party Risks In PostgreSQL and Zimbra Vulnerabilities</title>
-    <link>https://blackkite.com/blog/focus-friday-third-party-risks-in-postgresql-and-zimbra-vulnerabilities</link>
-    <description>Explore third-party risk impacts of CVE-2025-1094 in PostgreSQL and CVE-2023-34192 in Zimbra Collaboration Suite (ZCS), plus steps to mitigate them.</description>
-    <pubDate>Fri, 28 Feb 2025 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>FOCUS FRIDAY: TPRM Insights on FortiGate, QNAP, Mongoose, and W3 Total Cache Vulnerabilities with Black Kite’s FocusTags™</title>
-    <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-fortigate-qnap-mongoose-and-w3-total-cache-vulnerabilities-with-black-kites-focustags</link>
-    <description>TPRM insights into vulnerabilities in FortiGate, QNAP, Mongoose, and W3 Total Cache. Learn how Black Kite’s FocusTags enhance vendor risk management.</description>
-    <pubDate>Fri, 24 Jan 2025 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>BLACK KITE RESEARCH EXPOSES THE “SILENT BREACHES” LURKING WITHIN INTERCONNECTED ECOSYSTEMS</title>
-    <link>https://blackkite.com/blog/black-kite-research-exposes-the-silent-breaches-lurking-within-interconnected-ecosystems</link>
-    <description>Discover Black Kite’s latest research exposing hidden breaches within interconnected ecosystems and the risks they pose to your supply chain.</description>
-    <pubDate>Tue, 11 Feb 2025 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ransomware Review January 2025: Clop’s CLEO Exploit Fuels a Record Month</title>
-    <link>https://blackkite.com/blog/ransomware-review-january-2025-clops-cleo-exploit-fuels-a-record-month</link>
-    <description>Get the latest insights from our monthly ransomware roundup: 546 incidents in January 2025, Clop’s CLEO exploit continues, and tips to reduce risk.</description>
-    <pubDate>Fri, 21 Feb 2025 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Focus Friday: Addressing Third-Party Risks in PAN-OS, Ivanti Connect Secure, Zimbra, and Cacti Vulnerabilities</title>
-    <link>https://blackkite.com/blog/focus-friday-addressing-third-party-risks-in-pan-os-ivanti-connect-secure-zimbra-and-cacti-vulnerabilities</link>
-    <description>Explore third-party risk impacts of PAN-OS, Ivanti, Zimbra, and Cacti vulnerabilities, plus how Black Kite’s FocusTags help mitigate them efficiently.</description>
-    <pubDate>Fri, 14 Feb 2025 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Infographic: Healthcare Under Siege – The Ransomware Epidemic</title>
-    <link>https://blackkite.com/blog/infographic-healthcare-under-siege--the-ransomware-epidemic</link>
-    <description>Explore why healthcare is a top ransomware target, with attacks rising 32.16% and patient safety at risk. Learn how to stay protected.</description>
-    <pubDate>Mon, 27 Jan 2025 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Silent Breach: Why Third Parties Are Cybersecurity’s Greatest Hidden Threat</title>
-    <link>https://blackkite.com/blog/the-silent-breach-why-third-parties-are-cybersecuritys-greatest-hidden-threat</link>
-    <description>Silent breaches expose hidden vulnerabilities in third-party networks. Learn why they happen, their impact, and how to protect against them in 2025.</description>
-    <pubDate>Mon, 24 Feb 2025 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Focus Friday: TPRM Implications of Kubernetes Ingress NGINX, Synology DSM, and Synapse Server Vulnerabilities</title>
-    <link>https://blackkite.com/blog/focus-friday-tprm-implications-of-kubernetes-ingress-nginx-synology-dsm-and-synapse-server-vulnerabilities</link>
-    <description>Explore critical vulnerabilities in Kubernetes, Synology, and Synapse. Learn TPRM implications and how to streamline risk management with vendors.</description>
-    <pubDate>Fri, 28 Mar 2025 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Key Takeaways from the 2025 Third-Party Breach Report</title>
-    <link>https://blackkite.com/blog/2025-third-party-breach-report-key-takeaways</link>
-    <description>Discover key trends from the 2025 Third-Party Breach Report, including ransomware shifts, regulatory impacts, the rise of continuous risk monitoring.</description>
-    <pubDate>Thu, 13 Feb 2025 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Oracle Cloud Breach: Claims, Denials, and the Reality of Cloud Security Risks in TPRM</title>
-    <link>https://blackkite.com/blog/oracle-cloud-breach-claims-denials-and-the-reality-of-cloud-security-risks-in-tprm</link>
-    <description>Claims of an Oracle Cloud breach conflict with official denials. Explore the cloud security risks and leaked data with analysis on the TPRM impact.</description>
-    <pubDate>Thu, 27 Mar 2025 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>3.8 Billion Stolen Credentials are out there! How about yours?</title>
-    <link>https://blackkite.com/blog/38-billion-stolen-credentials-are-out-there-how-about-yours</link>
-    <description>According to the 4iQ Identity Breach Report, 8.7 billion raw identity-record data are on the surface, deep, and dark web in 2017.</description>
-    <pubDate>Sun, 08 Jul 2018 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Artificial Intelligence for Cyber Security</title>
-    <link>https://blackkite.com/blog/artificial-intelligence-for-cyber-security</link>
-    <description>Artificial intelligence for cyber security opens up new opportunities to protect organizations.</description>
-    <pubDate>Tue, 03 Jul 2018 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Lesson from TicketMaster Breach: CDN Security of third-party suppliers</title>
-    <link>https://blackkite.com/blog/lesson-from-ticketmaster-breach-cdn-security-of-third-party-suppliers</link>
-    <description>UK-based company TicketMaster, a ticket sales and distribution company, experienced a major breach as they announced on June 27.</description>
-    <pubDate>Sun, 22 Jul 2018 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>3rd Party Vendors of Healthcare Providers Must Meet HIPAA Regulations</title>
-    <link>https://blackkite.com/blog/3rd-party-vendors-of-healthcare-providers-must-meet-hipaa-regulations</link>
-    <description>The HIPAA aims to protect health-related and personal information of individuals, including medical records, health insurance data, SSNs, etc.</description>
-    <pubDate>Mon, 13 Aug 2018 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Do You Monitor Your Suppliers? ISO/IEC 27001 Regulations Say You Should</title>
-    <link>https://blackkite.com/blog/do-you-monitor-your-suppliers-isoiec-27001-regulations-say-you-should</link>
-    <description>Suppliers have become one of the weaker links in the system. thus, they should be constantly monitored as ISO 27001 standard suggests.</description>
-    <pubDate>Fri, 24 Aug 2018 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Your company accounts may be breached. Find out with Free Account Breach Search</title>
-    <link>https://blackkite.com/blog/your-company-accounts-may-be-breached-find-out-with-free-account-breach-search</link>
-    <description>Employees may use their same credentials (e-mail/username/password) used in their company accounts to register third-party services.</description>
-    <pubDate>Mon, 10 Sep 2018 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Major Third-Party Breaches Revealed in September 2018</title>
-    <link>https://blackkite.com/blog/major-third-party-breaches-revealed-in-september-2018</link>
-    <description>We regularly update the list of major third-party (aka supply-chain) attacks and breaches that are revealed in September 2018.</description>
-    <pubDate>Wed, 10 Oct 2018 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Outsmart Your Hackers</title>
-    <link>https://blackkite.com/blog/outsmart-your-hackers</link>
-    <description>lack Kite Cyber Risk Scorecards give you the visibility to outsmart your hackers.</description>
-    <pubDate>Sun, 15 Jul 2018 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>British Airways Breach: Is it a third-party attack?</title>
-    <link>https://blackkite.com/blog/british-airways-breach-is-it-a-third-party-attack</link>
-    <description>British Airways announced that 380,000 customer records containing credit card details had been taken during the cyber attack executed.</description>
-    <pubDate>Tue, 11 Sep 2018 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Open Invitation to Hackers: Misconfigured Cloud Servers</title>
-    <link>https://blackkite.com/blog/open-invitation-to-hackers-misconfigured-cloud-servers</link>
-    <description>Many companies use cloud servers to store their data Misconfigured servers may expose sensitive data, a mistake which is an open invitation to hackers</description>
-    <pubDate>Sun, 21 Oct 2018 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Third-Party Risk Management from COBIT’s perspective</title>
-    <link>https://blackkite.com/blog/third-party-risk-management-from-cobits-perspective</link>
-    <description>Black Kite Cyber Risk Scorecard check compliance to well-known cyber security frameworks including COBIT framework.</description>
-    <pubDate>Fri, 24 Aug 2018 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Reduce Your Cyber Exposure to Mitigate Your Cyber Risk</title>
-    <link>https://blackkite.com/blog/reduce-your-cyber-exposure-to-mitigate-your-cyber-risk</link>
-    <description>Explore how digital transformation enhances business efficiency while addressing the rising cyber risks associated with cloud services and IoT systems</description>
-    <pubDate>Sun, 04 Nov 2018 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Major third-party breaches revealed in October 2018</title>
-    <link>https://blackkite.com/blog/major-third-party-breaches-revealed-in-october-2018</link>
-    <description>We regularly update the list of major third-party (aka supply-chain) attacks and breaches that are revealed in October 2018.</description>
-    <pubDate>Mon, 05 Nov 2018 06:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>How Strong is Your SSL/TLS? 6 Simple Steps to Make it Stronger</title>
-    <link>https://blackkite.com/blog/how-strong-is-your-ssltls-6-simple-steps-to-make-it-stronger</link>
-    <description>Do you want to learn about how strong your SSL/TLS is? Here are the 6 simple steps to make it stronger.</description>
-    <pubDate>Tue, 31 Jul 2018 05:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Check Whether Your IP Assets Are Blacklisted Or Not For Free</title>
-    <link>https://blackkite.com/blog/check-whether-your-ip-assets-are-blacklisted-or-not</link>
-    <description>To learn whether your company’s IP addresses are blacklisted, check Black Kite’s free IP Blacklist Search service.</description>
-    <pubDate>Tue, 16 Oct 2018 05:00:00 GMT</pubDate>
-  </item>
+ <title>Black Kite Blog (Custom Feed)</title>
+ <link>https://blackkite.com/blog</link>
+ <description>Auto-generated periodically</description>
+ <lastBuildDate>Mon, 09 Mar 2026 13:31:59 GMT</lastBuildDate>
+<item>
+ <title>Ransomware Review February 2025: Clop’s CLEO Attack Pushes Victim Count to Historic High</title>
+ <link>https://blackkite.com/blog/ransomware-review-february-2025-clops-cleo-attack-pushes-victim-count-to-historic-high</link>
+ <description>Learn about February’s ransomware activity: a record 809 victims, Clop's CLEO attack peaks, 8Base shutdown, and essential defense insights.</description>
+ <pubDate>Fri, 07 Mar 2025 06:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>BLACK KITE RESEARCH REVEALS TRADITIONAL APPROACHES TO VULNERABILITY MANAGEMENT FALL SHORT IN THIRD-PARTY RISK MANAGEMENT (TPRM)</title>
+ <link>https://blackkite.com/blog/black-kite-research-reveals-traditional-approaches-to-vulnerability-management-fall-short-in-third-party-risk-management-tprm</link>
+ <description>New research from Black Kite shows traditional vulnerability management falls short for third-party risk — and what to do next.</description>
+ <pubDate>Tue, 08 Apr 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>How to Prioritize Vulnerabilities in Your Supply Chain: A Proven Approach to Cut Through the Noise</title>
+ <link>https://blackkite.com/blog/how-to-prioritize-vulnerabilities-in-your-supply-chain</link>
+ <description>Overwhelmed by CVEs? Learn a proven 3D approach to prioritize supply chain vulnerabilities beyond severity. Watch our video and read the report.</description>
+ <pubDate>Wed, 23 Apr 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>BLACK KITE UNVEILS VULNERABILITY INTELLIGENCE BRIEFS TO PROVIDE VISIBILITY INTO THIRD-PARTY VULNERABILITY RISKS</title>
+ <link>https://blackkite.com/blog/black-kite-unveils-vulnerability-intelligence-briefs-to-provide-visibility-into-third-party-vulnerability-risks</link>
+ <description>Discover how Black Kite’s Vulnerability Intelligence Briefs offer visibility into third-party vulnerability risks and enhance security decision-making</description>
+ <pubDate>Tue, 29 Apr 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Focus Friday: TPRM Insights Into SysAid, ActiveMQ, Webmin, and Couchbase Server Vulnerabilities</title>
+ <link>https://blackkite.com/blog/focus-friday-tprm-insights-into-sysaid-activemq-webmin-and-couchbase-server-vulnerabilities</link>
+ <description>Explore critical vulnerabilities in SysAid, ActiveMQ, Webmin, and Couchbase Server through a TPRM lens. Learn how to identify and manage vendor risks.</description>
+ <pubDate>Fri, 09 May 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Focus Friday: TPRM Insights Into Fortinet Backdoors, SonicWall SSLVPN, and Redis DoS Vulnerabilities</title>
+ <link>https://blackkite.com/blog/focus-friday-tprm-insights-into-fortinet-backdoors-sonicwall-sslvpn-and-redis-dos-vulnerabilities</link>
+ <description>Understand the TPRM impact of the Fortinet backdoor, SonicWall SSLVPN DoS, and Redis DoS vulnerabilities. Actionable insights from a TPRM perspective.</description>
+ <pubDate>Fri, 25 Apr 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Infographic: Key Stats from the 2025 Third-Party Breach Report</title>
+ <link>https://blackkite.com/blog/infographic-key-stats-from-the-2025-third-party-breach-report</link>
+ <description>Get the essential numbers from the 2025 Third-Party Breach Report. See the biggest trends, attack methods, and impacts in one infographic.</description>
+ <pubDate>Mon, 31 Mar 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Infographic: Takeaways from the 8 Most Noteworthy Cyber Incidents of 2024</title>
+ <link>https://blackkite.com/blog/infographic-takeaways-from-the-8-most-noteworthy-cyber-incidents-of-2024</link>
+ <description>Discover 2024’s biggest cyber incidents and how they disrupted third-party cyber ecosystems.</description>
+ <pubDate>Wed, 02 Apr 2025 14:13:29 GMT</pubDate>
+</item>
+<item>
+ <title>Your Friendly Neighborhood Ransomware Syndicate Will See You Now</title>
+ <link>https://blackkite.com/blog/your-friendly-neighborhood-ransomware-syndicate-will-see-you-now</link>
+ <description>Discover how LockBit ran ransomware like a business before getting hacked themselves. Understand the implications for TPRM.</description>
+ <pubDate>Thu, 08 May 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Focus Friday: TPRM Perspectives On Ivanti Connect Secure, FortiSwitch, and MinIO Vulnerabilities</title>
+ <link>https://blackkite.com/blog/focus-friday-tprm-perspectives-on-ivanti-connect-secure-fortiswitch-and-minio-vulnerabilities</link>
+ <description>Understand the TPRM implications of Ivanti, FortiSwitch, and MinIO vulnerabilities. Get vendor questions and remediation steps. Read our analysis now!</description>
+ <pubDate>Fri, 11 Apr 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>FOCUS FRIDAY: THIRD-PARTY RISKS FROM ADOBE COLDFUSION AND BEEGO XSS VULNERABILITIES</title>
+ <link>https://blackkite.com/blog/focus-friday-third-party-risks-from-adobe-coldfusion-and-beego-xss-vulnerabilities</link>
+ <description>Understand the TPRM implications of Adobe ColdFusion and Beego XSS vulnerabilities. Get vendor questions and remediation steps. Read our analysis now!</description>
+ <pubDate>Fri, 18 Apr 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Focus Friday: TPRM Approach to SAP NetWeaver VCFRAMEWORK RCE and Apache Tomcat HTTP/2 DoS and Rewrite-Rule Bypass</title>
+ <link>https://blackkite.com/blog/focus-friday-tprm-approach-to-sat-netweaver-vcframework-rce-and-apache-tomcat-http-2-dos-and-rewrite-rule-bypass</link>
+ <description>Learn TPRM implications of SAP NetWeaver RCE (CVE-2025-31324) and Apache Tomcat DoS/bypass (CVE-2025-31650/51) along with remediation guidance.</description>
+ <pubDate>Fri, 02 May 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>EY US UNVEILS PAUL PAGET OF BLACK KITE AS AN ENTREPRENEUR OF THE YEAR® 2025 NEW ENGLAND AWARD FINALIST</title>
+ <link>https://blackkite.com/blog/ey-us-unveils-paul-paget-of-black-kite-as-an-entrepreneur-of-the-year-2025-new-england-award-finalist</link>
+ <description>Paul Paget, CEO of Black Kite, is named a finalist for EY US’s prestigious Entrepreneur of the Year 2025 New England award.</description>
+ <pubDate>Mon, 21 Apr 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>FOCUS FRIDAY: Addressing the PHP-CGI, Microsoft MSMQ, and Rejetto HFS Vulnerabilities: A TPRM Approach</title>
+ <link>https://blackkite.com/blog/focus-friday-addressing-the-php-cgi-microsoft-msmq-and-rejetto-hfs-vulnerabilities-a-tprm-approach</link>
+ <description>Welcome to this week’s Focus Friday, where we delve into critical vulnerabilities that are reshaping Third-Party Risk Management (TPRM) practices.</description>
+ <pubDate>Fri, 14 Jun 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>What We Learned at RSAC 2024</title>
+ <link>https://blackkite.com/blog/what-we-learned-at-rsac-2024</link>
+ <description>Black Kite SVP and Cyber Risk Evangelist Jeffrey Wheatman shares takeaways from RSAC 2024. Read more from the cybersecurity conference.</description>
+ <pubDate>Tue, 04 Jun 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Free GDPR Compliance Checker</title>
+ <link>https://blackkite.com/blog/gdpr-compliance-checker</link>
+ <description>See the compliance levels of your organization according to GDPR standards.</description>
+ <pubDate>Sat, 15 Sep 2018 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>How to Prevent Software Supply-Chain Attacks</title>
+ <link>https://blackkite.com/blog/how-to-prevent-software-supply-chain-attacks</link>
+ <description>Do you want to learn about how to prevent software supply chain attacks? Learn your supply-chain risk before it’s too late.</description>
+ <pubDate>Sun, 02 Sep 2018 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Focus Friday: Third-Party Risks In DrayTek Vigor Routers, VMware ESXi, Apache Tomcat, and Axios HTTP Client Vulnerabilities</title>
+ <link>https://blackkite.com/blog/focus-friday-third-party-risks-in-draytek-vigor-routers-vmware-esxi-apache-tomcat-and-axios-http-client-vulnerabilities</link>
+ <description>Explore key vulnerabilities in DrayTek routers, VMware ESXi, Apache Tomcat, and Axios HTTP Client from a TPRM perspective.</description>
+ <pubDate>Fri, 14 Mar 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Ransomware Review December 2024: FunkSec’s Meteoric Rise and the Growing Threat of RaaS</title>
+ <link>https://blackkite.com/blog/ransomware-review-december-2024-funksecs-meteoric-rise-and-the-growing-threat-of-raas</link>
+ <description>Discover key ransomware trends from December 2024, including FunkSec’s rise, RaaS innovations, and LockBit's bold new pricing strategy.</description>
+ <pubDate>Thu, 30 Jan 2025 06:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Focus Friday: Fortifying TPRM Against Kernel Compromise, Buffer Overflow, and Directory Traversal Vulnerabilities</title>
+ <link>https://blackkite.com/blog/focus-friday-fortifying-tprm-against-kernel-compromise-buffer-overflow-and-directory-traversal-vulnerabilities</link>
+ <description>Strengthen TPRM against kernel, buffer overflow, and directory traversal vulnerabilities in Juniper, MongoDB, and SAP with targeted insights.</description>
+ <pubDate>Fri, 21 Mar 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Focus Friday: Third-Party Risks In PostgreSQL and Zimbra Vulnerabilities</title>
+ <link>https://blackkite.com/blog/focus-friday-third-party-risks-in-postgresql-and-zimbra-vulnerabilities</link>
+ <description>Explore third-party risk impacts of CVE-2025-1094 in PostgreSQL and CVE-2023-34192 in Zimbra Collaboration Suite (ZCS), plus steps to mitigate them.</description>
+ <pubDate>Fri, 28 Feb 2025 06:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>FOCUS FRIDAY: TPRM Insights on FortiGate, QNAP, Mongoose, and W3 Total Cache Vulnerabilities with Black Kite’s FocusTags™</title>
+ <link>https://blackkite.com/blog/focus-friday-tprm-insights-on-fortigate-qnap-mongoose-and-w3-total-cache-vulnerabilities-with-black-kites-focustags</link>
+ <description>TPRM insights into vulnerabilities in FortiGate, QNAP, Mongoose, and W3 Total Cache. Learn how Black Kite’s FocusTags enhance vendor risk management.</description>
+ <pubDate>Fri, 24 Jan 2025 06:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>BLACK KITE RESEARCH EXPOSES THE “SILENT BREACHES” LURKING WITHIN INTERCONNECTED ECOSYSTEMS</title>
+ <link>https://blackkite.com/blog/black-kite-research-exposes-the-silent-breaches-lurking-within-interconnected-ecosystems</link>
+ <description>Discover Black Kite’s latest research exposing hidden breaches within interconnected ecosystems and the risks they pose to your supply chain.</description>
+ <pubDate>Tue, 11 Feb 2025 06:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Ransomware Review January 2025: Clop’s CLEO Exploit Fuels a Record Month</title>
+ <link>https://blackkite.com/blog/ransomware-review-january-2025-clops-cleo-exploit-fuels-a-record-month</link>
+ <description>Get the latest insights from our monthly ransomware roundup: 546 incidents in January 2025, Clop’s CLEO exploit continues, and tips to reduce risk.</description>
+ <pubDate>Fri, 21 Feb 2025 06:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Focus Friday: Addressing Third-Party Risks in PAN-OS, Ivanti Connect Secure, Zimbra, and Cacti Vulnerabilities</title>
+ <link>https://blackkite.com/blog/focus-friday-addressing-third-party-risks-in-pan-os-ivanti-connect-secure-zimbra-and-cacti-vulnerabilities</link>
+ <description>Explore third-party risk impacts of PAN-OS, Ivanti, Zimbra, and Cacti vulnerabilities, plus how Black Kite’s FocusTags help mitigate them efficiently.</description>
+ <pubDate>Fri, 14 Feb 2025 06:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Infographic: Healthcare Under Siege – The Ransomware Epidemic</title>
+ <link>https://blackkite.com/blog/infographic-healthcare-under-siege--the-ransomware-epidemic</link>
+ <description>Explore why healthcare is a top ransomware target, with attacks rising 32.16% and patient safety at risk. Learn how to stay protected.</description>
+ <pubDate>Mon, 27 Jan 2025 06:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>The Silent Breach: Why Third Parties Are Cybersecurity’s Greatest Hidden Threat</title>
+ <link>https://blackkite.com/blog/the-silent-breach-why-third-parties-are-cybersecuritys-greatest-hidden-threat</link>
+ <description>Silent breaches expose hidden vulnerabilities in third-party networks. Learn why they happen, their impact, and how to protect against them in 2025.</description>
+ <pubDate>Mon, 24 Feb 2025 06:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Focus Friday: TPRM Implications of Kubernetes Ingress NGINX, Synology DSM, and Synapse Server Vulnerabilities</title>
+ <link>https://blackkite.com/blog/focus-friday-tprm-implications-of-kubernetes-ingress-nginx-synology-dsm-and-synapse-server-vulnerabilities</link>
+ <description>Explore critical vulnerabilities in Kubernetes, Synology, and Synapse. Learn TPRM implications and how to streamline risk management with vendors.</description>
+ <pubDate>Fri, 28 Mar 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Key Takeaways from the 2025 Third-Party Breach Report</title>
+ <link>https://blackkite.com/blog/2025-third-party-breach-report-key-takeaways</link>
+ <description>Discover key trends from the 2025 Third-Party Breach Report, including ransomware shifts, regulatory impacts, the rise of continuous risk monitoring.</description>
+ <pubDate>Thu, 13 Feb 2025 06:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Oracle Cloud Breach: Claims, Denials, and the Reality of Cloud Security Risks in TPRM</title>
+ <link>https://blackkite.com/blog/oracle-cloud-breach-claims-denials-and-the-reality-of-cloud-security-risks-in-tprm</link>
+ <description>Claims of an Oracle Cloud breach conflict with official denials. Explore the cloud security risks and leaked data with analysis on the TPRM impact.</description>
+ <pubDate>Thu, 27 Mar 2025 05:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>

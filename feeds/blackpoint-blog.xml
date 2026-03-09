@@ -1,189 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Blackpoint Cyber Blog (Custom Feed)</title>
-  <link>https://blackpointcyber.com/blog/</link>
-  <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 09 Mar 2026 08:58:54 GMT</lastBuildDate>
-  <item>
-    <title>Blog</title>
-    <link>https://blackpointcyber.com/blog/</link>
-    <description>Sharpen your defenses with the latest threat insights, industry trends and product updates sure to put you one step ahead of hackers – and your competition.</description>
-    <pubDate>Mon, 09 Mar 2026 08:58:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Tech Tuesday: Eye Spy – The Dangers of Legal Malware</title>
-    <link>https://blackpointcyber.com/blog/eye-spy-the-dangers-of-legal-malware/</link>
-    <description>What happens when your enterprise-level monitoring software is used maliciously? In our latest Tech Tuesday blog post, Blackpoint's Adversary Pursuit Group dives deep into the malicious activity occurring on a server located in Iran, determined to belong to SecondEye.</description>
-    <pubDate>Mon, 09 Mar 2026 08:58:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Combatting Industry Myths with MDR Intel</title>
-    <link>https://blackpointcyber.com/blog/combatting-industry-myths-with-mdr-intel/</link>
-    <description>Industry myths surrounding price, company size, and other solutions can cause apprehension and confusion around MDR solutions. It is important to understand the threat landscape and what types of tools are necessary to protect your business. Read our latest blog to learn more.</description>
-    <pubDate>Mon, 09 Mar 2026 08:58:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Core Four for Q4: Change the Way You Do Business</title>
-    <link>https://blackpointcyber.com/blog/core-four-q4-products/</link>
-    <description>Blackpoint Cyber kicked off September at DattoCon with four product launches and updates. Driven to create easy products our partners need, we launched managed Microsoft Defender for Endpoint, our first product bundle, MDR for macOS, and a reengineered Vulnerability Scan. Check out this blog to learn more as we round out 2022!</description>
-    <pubDate>Mon, 09 Mar 2026 08:58:51 GMT</pubDate>
-  </item>
-  <item>
-    <title>Blackpoint Overwatch: Executive Summary of Ratting Out Arechclient2</title>
-    <link>https://blackpointcyber.com/blog/ratting-out-arechclient2-summary/</link>
-    <description>Blackpoint Cyber recently uncovered an ISO file containing a malicious Windows executable being downloaded to a customer endpoint that wasn’t detected by antivirus. Through the Adversary Pursuit Group’s research, we were able to identify a remote access tool (RAT) being utilized named Arechclient2. To learn more about the APG’s research, read our executive summary.</description>
-    <pubDate>Mon, 09 Mar 2026 08:58:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cybersecurity in a Changing Insurance Landscape</title>
-    <link>https://blackpointcyber.com/blog/cybersecurity-in-insurance-landscape/</link>
-    <description>Having data means having cyber risk. Learn how to navigate cyber liability insurance and why Blackpoint RISK - the perfect combination of 24/7 MDR security and cyber insurance for your business.</description>
-    <pubDate>Mon, 09 Mar 2026 08:58:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Webinar Summary – Compliance + 24/7 MDR: A Match Made in LogIC</title>
-    <link>https://blackpointcyber.com/blog/webinar-summary-compliance-24-7-mdr-a-match-made-in-logic/</link>
-    <description>Read our recap of Blackpoint's debut webinar on LogIC, their newest MDR add-on designed to help the MSP community streamline compliance and bolster security.</description>
-    <pubDate>Mon, 09 Mar 2026 08:58:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Combating Lateral Movement and the Rise of Ransomware</title>
-    <link>https://blackpointcyber.com/blog/combating-lateral-movement-and-the-rise-of-ransomware/</link>
-    <description>Blackpoint explains how a 24/7 MDR is positioned to stop lateral movement and detect hidden adversaries before they have the chance to launch their attack.</description>
-    <pubDate>Mon, 09 Mar 2026 08:58:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Zero-Day Exploit Found in Kaseya VSA</title>
-    <link>https://blackpointcyber.com/blog/zero-day-exploit-found-in-kaseya-vsa/</link>
-    <description>Zero-Day exploit found in Kaseya VSA. Blackpoint’s 24/7 security operations center (SOC) is actively monitoring the development of this security event.</description>
-    <pubDate>Mon, 09 Mar 2026 08:58:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Critical Microsoft Print Spooler Service Vulnerability Exposed</title>
-    <link>https://blackpointcyber.com/blog/critical-microsoft-print-spooler-service-vulnerability-exposed/</link>
-    <description>Blackpoint's SOC and patented MDR tech protects MSPs against the recently leaked "PrintNightmare" zero-day vulnerability. Read on for our recommendations.</description>
-    <pubDate>Mon, 09 Mar 2026 08:58:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>LogIC Webinar Summary – Adapt to the Future of Compliance</title>
-    <link>https://blackpointcyber.com/blog/logic-webinar-summary-adapt-to-the-future-of-compliance/</link>
-    <description>Hyper-efficient, simple, and automated. Read here for a recap of Blackpoint Cyber's webinar on LogIC our new MDR add-on!</description>
-    <pubDate>Mon, 09 Mar 2026 08:58:53 GMT</pubDate>
-  </item>
-  <item>
-    <title>Understanding Detection &amp; Response Acronyms</title>
-    <link>https://blackpointcyber.com/blog/understanding-detection-response-acronyms/</link>
-    <description>Cyber threat detection and response are key factors in staying ahead of cybercriminals. Learn how Blackpoint’s 24/7 MDR stacks up against other D&amp;R solutions.</description>
-    <pubDate>Mon, 09 Mar 2026 08:58:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>5 Ways to Ward Off Ransomware</title>
-    <link>https://blackpointcyber.com/blog/5-ways-to-ward-off-ransomware/</link>
-    <description>For Cybersecurity Awareness Month, Blackpoint shares top 5 ways MSPs can prevent ransomware attacks. Learn how to fight back against rising cyberattacks!</description>
-    <pubDate>Mon, 09 Mar 2026 08:58:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>LogIC Webinar Summary – HIPAA For MSPs</title>
-    <link>https://blackpointcyber.com/blog/logic-webinar-summary-hipaa-for-msps/</link>
-    <description>In this webinar summary Blackpoint and HIPAA experts, Compliancy Group, discuss what MSPs can do to bolster their compliance and cybersecurity posture to help protect clients in healthcare.</description>
-    <pubDate>Mon, 09 Mar 2026 08:58:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Blackpoint Cyber Team is Hiring!</title>
-    <link>https://blackpointcyber.com/blog/the-blackpoint-cyber-team-is-hiring/</link>
-    <description>Blackpoint Cyber is looking for driven professionals to join our team! We value quality execution, ownership, and strong morals. Apply now!</description>
-    <pubDate>Mon, 09 Mar 2026 08:58:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>Zero-Day Fireworks: Microsoft’s July Patch Party</title>
-    <link>https://blackpointcyber.com/blog/zero-day-fireworks-microsofts-july-patch-party/</link>
-    <description>Microsoft released its July 2023 Patch Tuesday updates, featuring 132 vulnerabilities. Six of them are zero days. Learn more from the APG.</description>
-    <pubDate>Mon, 09 Mar 2026 02:56:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Blackpoint Cyber Helps MSPs and SMB Customers Maximize Cybersecurity</title>
-    <link>https://blackpointcyber.com/blog/blackpoint-cyber-helps-msps-and-smb-customers-maximize-cybersecurity/</link>
-    <description>Blackpoint helps MSPs using Microsoft Defender maximize their security investments with our SOC and MDR for the endpoint and the cloud.</description>
-    <pubDate>Mon, 09 Mar 2026 02:56:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>SocGholish: Haunting the Digital Realm for Over Five Years</title>
-    <link>https://blackpointcyber.com/blog/socgholish-haunting-the-digital-realm-for-over-five-years/</link>
-    <description>The SocGholish malware family has been around for years, using a variety of advanced tactics to elude detection. Learn more from the APG.</description>
-    <pubDate>Mon, 09 Mar 2026 02:56:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Exploding Back into the Picture: TeamTNT Makes a Comeback</title>
-    <link>https://blackpointcyber.com/blog/exploding-back-into-the-picture-teamtnt-makes-a-comeback/</link>
-    <description>TeamTNT, a hacking group, seems to have made a comeback with a fresh botnet campaign aimed at infiltrating cloud-native environments.</description>
-    <pubDate>Mon, 09 Mar 2026 02:56:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>WormGPT: The New Bait in Phishing and BEC Attacks</title>
-    <link>https://blackpointcyber.com/blog/wormgpt-new-bait-phishing-bec-attacks/</link>
-    <description>Cybercriminals are maliciously using AI to auto-generate highly persuasive and personalized fake emails to avoid being flagged as suspicious.</description>
-    <pubDate>Mon, 09 Mar 2026 02:56:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>FIN8's Latest Remix: Sardonic with Noberus</title>
-    <link>https://blackpointcyber.com/blog/fin8-latest-remix-with-sardonic-and-noberus/</link>
-    <description>FIN8 has new TTPs, utilizing a modified version of the Sardonic backdoor to deliver the Noberus ransomware. Learn more from the APG.</description>
-    <pubDate>Mon, 09 Mar 2026 02:56:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Identity Crisis in the Cloud: Storm-0558 and the Forged Access Key</title>
-    <link>https://blackpointcyber.com/blog/identity-crisis-in-the-cloud-storm-0558-and-the-forged-access-key/</link>
-    <description>Examine research regarding a significant security incident, attributed to China, affecting multiple Exchange Online &amp; Outlook.com customers.</description>
-    <pubDate>Mon, 09 Mar 2026 02:56:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>In-House Technology Ensures Speed, Security, and Synchronization</title>
-    <link>https://blackpointcyber.com/blog/in-house-tech-ensures-security/</link>
-    <description>Add detection and response capabilities to your cybersecurity arsenal within minutes. Learn more about SNAP-Defense, the in-house technology that powers Blackpoint’s cybersecurity ecosystem.</description>
-    <pubDate>Mon, 09 Mar 2026 02:56:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>How Remote Desktop Protocol (RDP) Attacks Go Down</title>
-    <link>https://blackpointcyber.com/blog/how-rdp-attacks-go-down/</link>
-    <description>RDP attacks aren't new, but are becoming increasingly common. Used mainly to target smaller businesses, RDP can be a serious liability if improperly configured. Learn how to avoid insecurities here.</description>
-    <pubDate>Mon, 09 Mar 2026 02:56:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Examining the Conti Group, Leaks &amp; Evolving Ransomware</title>
-    <link>https://blackpointcyber.com/blog/examining-the-conti-group-leaks-evolving-ransomware/</link>
-    <description>After a leak of 60K documents, the infosec community got a glimpse into the Conti Group. In this blog, Blackpoint examines the leak’s role in the evolution of ransomware in the threat landscape.</description>
-    <pubDate>Mon, 09 Mar 2026 02:56:38 GMT</pubDate>
-  </item>
-  <item>
-    <title>The State of Cloud Security: Zero Trust and Managed Response</title>
-    <link>https://blackpointcyber.com/blog/blog-the-state-of-cloud-security/</link>
-    <description>The state of cloud security is shifting as the scope of both its usage and its power continues to expand. Businesses should create security strategies around cloud implementation to ensure sustainability and efficiency. Maintain your cloud security with Zero Trust Architecture and Blackpoint's purpose-build cloud security solution. Read on to learn more.</description>
-    <pubDate>Mon, 09 Mar 2026 02:56:38 GMT</pubDate>
-  </item>
-  <item>
-    <title>5 Reasons You Won’t Want to Miss ReCON 2022</title>
-    <link>https://blackpointcyber.com/blog/5-rexasons-for-recon/</link>
-    <description>As we count down the days till ReCON, we're also counting the reasons why you should attend. Blackpoint is providing the cyber community with a free day of learning from the experts. Empower your company with cyber threat intel, valuable networking, MSP sales training, and innovative technology! Read more about it and register here.</description>
-    <pubDate>Mon, 09 Mar 2026 02:56:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Don't Take the Bait This Summer: Remote Work, Social Media &amp; Limited Staff</title>
-    <link>https://blackpointcyber.com/blog/blog-dont-take-the-bait/</link>
-    <description>Security practices can become lax in the summer months, but that is actually when employees should be on high alert. Phishing attacks continue to be prevalent, using social media, remote work vulnerabilities, and decreased staff to penetrate business networks. Protect your company by implementing these practices and deploying Cloud Response to your network.</description>
-    <pubDate>Mon, 09 Mar 2026 02:56:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Blackpoint Road Trip 2022</title>
-    <link>https://blackpointcyber.com/blog/blackpoint-road-trip-2022/</link>
-    <description>The 2022 event season is upon us. Read our latest blog to see where you can talk shop with Blackpoint Cyber and the greater MSP community. Our team is finishing out the year with over 10 in-person events in the next six months. We look forward to reconnecting or meeting you there!</description>
-    <pubDate>Mon, 09 Mar 2026 02:56:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Midnight Blizzard Mixes Up Microsoft 365</title>
-    <link>https://blackpointcyber.com/blog/midnight-blizzard-mixes-up-microsoft-365/</link>
-    <description>A threat actor, Midnight Blizzard, conducts targeted attacks using credential theft phishing lures sent through Microsoft Teams.</description>
-    <pubDate>Sun, 08 Mar 2026 16:43:02 GMT</pubDate>
-  </item>
+ <title>Blackpoint Cyber Blog (Custom Feed)</title>
+ <link>https://blackpointcyber.com/blog/</link>
+ <description>Auto-generated periodically</description>
+ <lastBuildDate>Mon, 09 Mar 2026 13:32:10 GMT</lastBuildDate>
+<item>
+ <title>Blog</title>
+ <link>https://blackpointcyber.com/blog/</link>
+ <description>Sharpen your defenses with the latest threat insights, industry trends and product updates sure to put you one step ahead of hackers – and your competition.</description>
+ <pubDate>Mon, 09 Mar 2026 13:32:05 GMT</pubDate>
+</item>
+<item>
+ <title>How to Evaluate &amp; Invest in a SOC Service</title>
+ <link>https://blackpointcyber.com/blog/how-to-evaluate-invest-in-a-soc-service/</link>
+ <description>Looking to invest in a SOC? Blackpoint breaks down the ins and outs of what a Security Operations Center is and how it fits into your growing cybersecurity strategy.</description>
+ <pubDate>Mon, 09 Mar 2026 13:32:05 GMT</pubDate>
+</item>
+<item>
+ <title>Blackpoint Ranks #1 in Summer 2021 G2 Report</title>
+ <link>https://blackpointcyber.com/blog/blackpoint-ranks-1-in-summer-2021-g2-report/</link>
+ <description>Blackpoint ranks #1 in the High Performer category on G2’s Summer 2021 Grid Report. See where we stand amongst other system security software platforms.</description>
+ <pubDate>Mon, 09 Mar 2026 13:32:06 GMT</pubDate>
+</item>
+<item>
+ <title>Summer Treat Wave 2021 Is Here!</title>
+ <link>https://blackpointcyber.com/blog/summer-treat-wave-2021-is-here/</link>
+ <description>We're excited to be co-sponsoring Summer Treat Wave 2021 to recognize the consistent effort MSPs take to be agile and stay ahead of the bad guys.</description>
+ <pubDate>Mon, 09 Mar 2026 13:32:06 GMT</pubDate>
+</item>
+<item>
+ <title>Blackpoint Cyber Welcomes Paul Barnes, VP of Product</title>
+ <link>https://blackpointcyber.com/blog/welcome-paul-barnes-vp-of-product/</link>
+ <description>Blackpoint welcomes Paul Barnes as VP of Product. Learn more about his 15+ years building strong product strategies to serve the cybersecurity community.</description>
+ <pubDate>Mon, 09 Mar 2026 13:32:06 GMT</pubDate>
+</item>
+<item>
+ <title>VMware vCenter Server Security Vulnerability (CVE-2020-3952)</title>
+ <link>https://blackpointcyber.com/blog/vmware-vcenter-server-security-vulnerability-cve-2020-3952/</link>
+ <description>VMWare issued a warning and patch for vulnerability CVE-2020-3952 in its VMware vCenter Server that maxed out the CVSS rating system by garnering a 10.0</description>
+ <pubDate>Mon, 09 Mar 2026 13:32:07 GMT</pubDate>
+</item>
+<item>
+ <title>Critical Microsoft DNS Server Vulnerability (CVE-2020-1350)</title>
+ <link>https://blackpointcyber.com/blog/critical-microsoft-dns-server-vulnerability-cve-2020-1350/</link>
+ <description>Microsoft has released a patch for a Critical Vulnerability in the Windows DNS Service that can lead to Remote Code Execution (RCE).</description>
+ <pubDate>Mon, 09 Mar 2026 13:32:07 GMT</pubDate>
+</item>
+<item>
+ <title>Critical Windows “MS-NRPC” Exploit ZeroLogon (CVE-2020-1472)</title>
+ <link>https://blackpointcyber.com/blog/critical-windows-ms-nrpc-exploit-zerologon-cve-2020-1472/</link>
+ <description>Microsoft issued a security patch for a vulnerability in MS-NRPC that allows attackers to gain domain administrator access to the Active Directory server.</description>
+ <pubDate>Mon, 09 Mar 2026 13:32:08 GMT</pubDate>
+</item>
+<item>
+ <title>Critical Vulnerability for SonicWall VPN (CVE-2020-5135)</title>
+ <link>https://blackpointcyber.com/blog/critical-vulnerability-for-sonicwall-vpn-cve-2020-5135/</link>
+ <description>According to a Security Advisory released by SonicWall, there are various vulnerabilities which impact SonicWall Network Security Appliances (NSA)</description>
+ <pubDate>Mon, 09 Mar 2026 13:32:08 GMT</pubDate>
+</item>
+<item>
+ <title>HAFNIUM Hackers Attack Microsoft Exchange Servers using Multiple Zero-day Vulnerabilities</title>
+ <link>https://blackpointcyber.com/blog/hafnium-attacks-microsoft-servers-using-zeroday-vulnerabilities/</link>
+ <description>Microsoft reports that the state-sponsored group known as HAFNIUM has actively exploited four zero-day vulnerabilities to attack Exchange Server products.</description>
+ <pubDate>Mon, 09 Mar 2026 13:32:08 GMT</pubDate>
+</item>
+<item>
+ <title>Significant Increase in Cyber Attacks Targeting Accounting Firms</title>
+ <link>https://blackpointcyber.com/blog/significant-increase-in-cyber-attacks-targeting-accounting-firms/</link>
+ <description>Significant Increase in Cyber Attacks Targeting Accounting Firms</description>
+ <pubDate>Mon, 09 Mar 2026 13:32:08 GMT</pubDate>
+</item>
+<item>
+ <title>Learn Their Lesson, They Did Not</title>
+ <link>https://blackpointcyber.com/blog/learn-their-lesson-they-did-not/</link>
+ <description>This May 4th, let's discuss Star Wars cyber security and some lessons learned for the Galactic Empire's repeatedly failing Death Star plans.</description>
+ <pubDate>Mon, 09 Mar 2026 13:32:09 GMT</pubDate>
+</item>
+<item>
+ <title>What are Events, Alerts, and Incidents</title>
+ <link>https://blackpointcyber.com/blog/what-are-events-alerts-and-incidents/</link>
+ <description>Infosec terminology doesn't have to be confusing. Blackpoint Cyber helps define events, alerts, and incidents from an MSP standpoint.</description>
+ <pubDate>Mon, 09 Mar 2026 13:32:09 GMT</pubDate>
+</item>
+<item>
+ <title>Ransomware attack shuts down critical US pipeline</title>
+ <link>https://blackpointcyber.com/blog/ransomware-attack-shuts-down-critical-us-pipeline/</link>
+ <description>Major US pipeline was hit with a Darkside ransomware cyber attack resulting in an ongoing network shutdown. Learn how Blackpoint Cyber can protect your MSP!</description>
+ <pubDate>Mon, 09 Mar 2026 13:32:09 GMT</pubDate>
+</item>
+<item>
+ <title>7 Key Cybersecurity Practices for MSPs</title>
+ <link>https://blackpointcyber.com/blog/7-key-cybersecurity-practices-for-msps/</link>
+ <description>The cybersecurity landscape is always evolving, and MSPs are finding themselves under attack. Blackpoint recommends these 7 cybersecurity best practices!</description>
+ <pubDate>Mon, 09 Mar 2026 13:32:10 GMT</pubDate>
+</item>
+<item>
+ <title>Tech Tuesday: Eye Spy – The Dangers of Legal Malware</title>
+ <link>https://blackpointcyber.com/blog/eye-spy-the-dangers-of-legal-malware/</link>
+ <description>What happens when your enterprise-level monitoring software is used maliciously? In our latest Tech Tuesday blog post, Blackpoint's Adversary Pursuit Group dives deep into the malicious activity occurring on a server located in Iran, determined to belong to SecondEye.</description>
+ <pubDate>Mon, 09 Mar 2026 08:58:51 GMT</pubDate>
+</item>
+<item>
+ <title>Combatting Industry Myths with MDR Intel</title>
+ <link>https://blackpointcyber.com/blog/combatting-industry-myths-with-mdr-intel/</link>
+ <description>Industry myths surrounding price, company size, and other solutions can cause apprehension and confusion around MDR solutions. It is important to understand the threat landscape and what types of tools are necessary to protect your business. Read our latest blog to learn more.</description>
+ <pubDate>Mon, 09 Mar 2026 08:58:51 GMT</pubDate>
+</item>
+<item>
+ <title>The Core Four for Q4: Change the Way You Do Business</title>
+ <link>https://blackpointcyber.com/blog/core-four-q4-products/</link>
+ <description>Blackpoint Cyber kicked off September at DattoCon with four product launches and updates. Driven to create easy products our partners need, we launched managed Microsoft Defender for Endpoint, our first product bundle, MDR for macOS, and a reengineered Vulnerability Scan. Check out this blog to learn more as we round out 2022!</description>
+ <pubDate>Mon, 09 Mar 2026 08:58:51 GMT</pubDate>
+</item>
+<item>
+ <title>Blackpoint Overwatch: Executive Summary of Ratting Out Arechclient2</title>
+ <link>https://blackpointcyber.com/blog/ratting-out-arechclient2-summary/</link>
+ <description>Blackpoint Cyber recently uncovered an ISO file containing a malicious Windows executable being downloaded to a customer endpoint that wasn’t detected by antivirus. Through the Adversary Pursuit Group’s research, we were able to identify a remote access tool (RAT) being utilized named Arechclient2. To learn more about the APG’s research, read our executive summary.</description>
+ <pubDate>Mon, 09 Mar 2026 08:58:52 GMT</pubDate>
+</item>
+<item>
+ <title>Cybersecurity in a Changing Insurance Landscape</title>
+ <link>https://blackpointcyber.com/blog/cybersecurity-in-insurance-landscape/</link>
+ <description>Having data means having cyber risk. Learn how to navigate cyber liability insurance and why Blackpoint RISK - the perfect combination of 24/7 MDR security and cyber insurance for your business.</description>
+ <pubDate>Mon, 09 Mar 2026 08:58:52 GMT</pubDate>
+</item>
+<item>
+ <title>Webinar Summary – Compliance + 24/7 MDR: A Match Made in LogIC</title>
+ <link>https://blackpointcyber.com/blog/webinar-summary-compliance-24-7-mdr-a-match-made-in-logic/</link>
+ <description>Read our recap of Blackpoint's debut webinar on LogIC, their newest MDR add-on designed to help the MSP community streamline compliance and bolster security.</description>
+ <pubDate>Mon, 09 Mar 2026 08:58:52 GMT</pubDate>
+</item>
+<item>
+ <title>Combating Lateral Movement and the Rise of Ransomware</title>
+ <link>https://blackpointcyber.com/blog/combating-lateral-movement-and-the-rise-of-ransomware/</link>
+ <description>Blackpoint explains how a 24/7 MDR is positioned to stop lateral movement and detect hidden adversaries before they have the chance to launch their attack.</description>
+ <pubDate>Mon, 09 Mar 2026 08:58:52 GMT</pubDate>
+</item>
+<item>
+ <title>Zero-Day Exploit Found in Kaseya VSA</title>
+ <link>https://blackpointcyber.com/blog/zero-day-exploit-found-in-kaseya-vsa/</link>
+ <description>Zero-Day exploit found in Kaseya VSA. Blackpoint’s 24/7 security operations center (SOC) is actively monitoring the development of this security event.</description>
+ <pubDate>Mon, 09 Mar 2026 08:58:53 GMT</pubDate>
+</item>
+<item>
+ <title>Critical Microsoft Print Spooler Service Vulnerability Exposed</title>
+ <link>https://blackpointcyber.com/blog/critical-microsoft-print-spooler-service-vulnerability-exposed/</link>
+ <description>Blackpoint's SOC and patented MDR tech protects MSPs against the recently leaked "PrintNightmare" zero-day vulnerability. Read on for our recommendations.</description>
+ <pubDate>Mon, 09 Mar 2026 08:58:53 GMT</pubDate>
+</item>
+<item>
+ <title>LogIC Webinar Summary – Adapt to the Future of Compliance</title>
+ <link>https://blackpointcyber.com/blog/logic-webinar-summary-adapt-to-the-future-of-compliance/</link>
+ <description>Hyper-efficient, simple, and automated. Read here for a recap of Blackpoint Cyber's webinar on LogIC our new MDR add-on!</description>
+ <pubDate>Mon, 09 Mar 2026 08:58:53 GMT</pubDate>
+</item>
+<item>
+ <title>Understanding Detection &amp; Response Acronyms</title>
+ <link>https://blackpointcyber.com/blog/understanding-detection-response-acronyms/</link>
+ <description>Cyber threat detection and response are key factors in staying ahead of cybercriminals. Learn how Blackpoint’s 24/7 MDR stacks up against other D&amp;R solutions.</description>
+ <pubDate>Mon, 09 Mar 2026 08:58:54 GMT</pubDate>
+</item>
+<item>
+ <title>5 Ways to Ward Off Ransomware</title>
+ <link>https://blackpointcyber.com/blog/5-ways-to-ward-off-ransomware/</link>
+ <description>For Cybersecurity Awareness Month, Blackpoint shares top 5 ways MSPs can prevent ransomware attacks. Learn how to fight back against rising cyberattacks!</description>
+ <pubDate>Mon, 09 Mar 2026 08:58:54 GMT</pubDate>
+</item>
+<item>
+ <title>LogIC Webinar Summary – HIPAA For MSPs</title>
+ <link>https://blackpointcyber.com/blog/logic-webinar-summary-hipaa-for-msps/</link>
+ <description>In this webinar summary Blackpoint and HIPAA experts, Compliancy Group, discuss what MSPs can do to bolster their compliance and cybersecurity posture to help protect clients in healthcare.</description>
+ <pubDate>Mon, 09 Mar 2026 08:58:54 GMT</pubDate>
+</item>
+<item>
+ <title>The Blackpoint Cyber Team is Hiring!</title>
+ <link>https://blackpointcyber.com/blog/the-blackpoint-cyber-team-is-hiring/</link>
+ <description>Blackpoint Cyber is looking for driven professionals to join our team! We value quality execution, ownership, and strong morals. Apply now!</description>
+ <pubDate>Mon, 09 Mar 2026 08:58:54 GMT</pubDate>
+</item>
+<item>
+ <title>Zero-Day Fireworks: Microsoft’s July Patch Party</title>
+ <link>https://blackpointcyber.com/blog/zero-day-fireworks-microsofts-july-patch-party/</link>
+ <description>Microsoft released its July 2023 Patch Tuesday updates, featuring 132 vulnerabilities. Six of them are zero days. Learn more from the APG.</description>
+ <pubDate>Mon, 09 Mar 2026 02:56:34 GMT</pubDate>
+</item>
 </channel>
 </rss>

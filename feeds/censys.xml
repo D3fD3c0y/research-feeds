@@ -1,189 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Censys Blog (Custom Feed)</title>
-  <link>https://censys.com/resources/blog</link>
-  <description>Auto-generated periodically</description>
-  <lastBuildDate>Mon, 09 Mar 2026 08:59:07 GMT</lastBuildDate>
-  <item>
-    <title>The Spectrum of Risk: Where Engineers and Executives Can Come Together</title>
-    <link>https://censys.com/blog/the-spectrum-of-risk-where-engineers-and-executives-can-come-together/</link>
-    <description>Another year, another Black Hat! I’ve been attending Black Hat for several years. This year I’ve been reflecting on what made the event unique for engineers and executives alike, and where these two groups have opportunities to work together. A couple of things I heard mentioned by engineers at our booth included how they use […]</description>
-    <pubDate>Mon, 18 Dec 2023 22:32:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>Censys Assistant Is Now Generally Available</title>
-    <link>https://censys.com/blog/censys-assistant-is-now-ga-faster-insights-with-natural-language-search/</link>
-    <description>We are thrilled to announce the General Availability (GA) of the Censys Assistant, your AI partner in cybersecurity. This powerful tool transforms how you interact with the Censys Platform. No more spending valuable time writing queries or navigating multiple pages to analyze search results — simply ask a question in natural language, and let the assistant do […]</description>
-    <pubDate>Fri, 16 Jan 2026 20:01:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Top Ransomware Attack Vectors: How to Defend Against Them</title>
-    <link>https://censys.com/blog/top-ransomware-attack-vectors/</link>
-    <description>Though ransomware has been a persistent cybersecurity threat for years, it’s recently experienced a notable resurgence. Ransomware attacks increased 70% from 2022 to 2023, highlighting the need for robust antivirus software. The average cost of a ransomware attack has risen to nearly $3 million. How can organizations bolster their defenses? In this blog, we dive […]</description>
-    <pubDate>Tue, 30 Jan 2024 01:40:56 GMT</pubDate>
-  </item>
-  <item>
-    <title>Two Key Ways to Collaborate in Censys Search</title>
-    <link>https://censys.com/blog/two-key-ways-to-collaborate-in-censys-search/</link>
-    <description>Welcome back to another installment of Unleash the Power of Censys Search, the blog series that helps Censys Search users make the most of their Search experience! If you’ve been with us throughout this series, you may have read our previous posts about writing queries and using historical data, as well as our most recent […]</description>
-    <pubDate>Wed, 17 Jan 2024 02:11:43 GMT</pubDate>
-  </item>
-  <item>
-    <title>Weakening Encryption Does Not Strengthen Security</title>
-    <link>https://censys.com/blog/weakening-encryption-does-not-strengthen-security/</link>
-    <description>The U.K. office of the Home Secretary has reportedly handed Apple a secret order requiring the company to essentially cripple its strongest encrypted data storage offering in order to allow the country’s law enforcement agencies to access users’ data backups during investigations. The order, which was issued last month, would affect Apple customers not just […]</description>
-    <pubDate>Wed, 12 Feb 2025 01:24:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>Subtle Air Movements and Femtosecond Response Times</title>
-    <link>https://censys.com/blog/subtle-air-movements-and-femtosecond-response-times/</link>
-    <description>  I’m a huge movie fan. Korean and French cinema are current favorites, but there’s a special place in my heart for old martial arts flicks. You know the ones, utterly campy and unrealistic, but hugely entertaining.  I’m thinking of those movies that showcase Jean Claude Van Damme delivering a perfectly executed head kick. He […]</description>
-    <pubDate>Mon, 27 Nov 2023 17:49:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>User Resources: How to Get Started in Censys Search</title>
-    <link>https://censys.com/blog/user-resources-how-to-get-started-censys-search/</link>
-    <description>  Make the most of Censys Search with helpful resources from our Getting Started library! On the Censys Search home page, you can now access a library of curated resources focused on how to leverage Censys Search. Whether you’re brand new to Censys Search or are a more seasoned user, our Getting Started resources are […]</description>
-    <pubDate>Wed, 22 Nov 2023 18:39:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Unleash the Power of Censys Search: A Look at Censys Search in Action</title>
-    <link>https://censys.com/blog/unleash-the-power-of-censys-search-a-look-at-censys-search-in-action/</link>
-    <description>  In Part I of our “Unleash the Power of Censys Search” blog series, you read that enterprises, governments, and researchers can access our industry-leading internet intelligence by using the Censys Search tool. (If you haven’t had a chance to check out the blog, give it a read! Within you’ll find tips for how to […]</description>
-    <pubDate>Wed, 01 Nov 2023 20:37:43 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cisco IOS XE: Ten days later</title>
-    <link>https://censys.com/blog/cisco-ios-xe-ten-days-later/</link>
-    <description>Executive Summary Last week, we shared information about an ongoing event with Cisco devices and a backdoor installed on tens of thousands of Cisco hosts. And in our last update, we noted a significant drop in the number of infections. And would you believe that number has dropped to zero? Well, sort of… Since then, […]</description>
-    <pubDate>Thu, 26 Oct 2023 19:32:06 GMT</pubDate>
-  </item>
-  <item>
-    <title>Unleash the Power of Censys Search: A Quick Guide to Queries</title>
-    <link>https://censys.com/blog/unleash-the-power-censys-search-quick-guide-to-queries/</link>
-    <description>  Whether you’re brand new to Censys Search and are looking for tips to get started, or are a seasoned user seeking inspiration, in this blog you’ll find examples of queries you can use to maximize your experience with Censys Search. The public-facing internet is a vast, interesting, and complex space, and at Censys, we’ve […]</description>
-    <pubDate>Tue, 24 Oct 2023 17:59:37 GMT</pubDate>
-  </item>
-  <item>
-    <title>Unmasking Deception: Navigating Red Herrings and Honeypots</title>
-    <link>https://censys.com/blog/red-herrings-and-honeypots/</link>
-    <description>Introduction Here at Censys, our mission is to craft the ultimate blueprint of the web, map all the strange anomalies, and unearth where the wild things roam. We scan the internet indiscriminately and do an excellent job, too. And when you look at this data all day, like us, you tend to become accustomed to […]</description>
-    <pubDate>Wed, 11 Oct 2023 20:14:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>Tips to #SecureOurWorld This Cybersecurity Awareness Month</title>
-    <link>https://censys.com/blog/tips-to-secureourworld-this-cybersecurity-awareness-month/</link>
-    <description>  This year marks the 20th anniversary of Cybersecurity Awareness Month. In recognition of the federal designation, we’re taking a closer look at cybersecurity recommendations from the Cybersecurity and Infrastructure Security Agency (CISA) and adding in a few of our own. What can organizations do to better protect what they own? CISA’s Recommendations Cybersecurity Awareness […]</description>
-    <pubDate>Fri, 06 Oct 2023 21:27:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Key Metrics for Measuring Success: Introducing New Trends and Benchmarks in Censys Exposure Management</title>
-    <link>https://censys.com/blog/key-metrics-for-measuring-success-introducing-new-trends-and-benchmarks-in-censys-exposure-management/</link>
-    <description>Users of Censys’ Exposure Management solution can now leverage trends and benchmarks metrics to measure the impact of their security initiatives. These new metrics, accessible in Exposure Management dashboards, empower security leaders and their teams with the actionable insights they need to confidently report on security posture, demonstrate ROI, and align their strategies with broader […]</description>
-    <pubDate>Tue, 03 Oct 2023 23:30:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Managing Shadow IT Assets with External Attack Surface Management</title>
-    <link>https://censys.com/blog/shedding-light-on-shadow-it-with-external-attack-surface-management/</link>
-    <description>“You can’t protect what you can’t see.” We say this often at Censys because it’s true. Cybersecurity teams can only monitor, manage, and defend the digital assets they know about. Though most enterprise IT teams have protocols in place for proper tech procurement and onboarding, in today’s rapidly expanding cyber landscape, unauthorized digital assets inevitably […]</description>
-    <pubDate>Fri, 15 Sep 2023 19:13:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Can You Answer These 10 Questions About Your Attack Surface?</title>
-    <link>https://censys.com/blog/can-you-answer-these-10-questions-about-your-attack-surface/</link>
-    <description>  Attack surfaces are top of mind for today’s security leaders, according to the recent Censys 2023 State of Security Leadership report. Surveyed security leaders say that understanding the entirety of the organization’s attack surface is their number one priority for the next 12 months. These leaders know that if they don’t understand all of […]</description>
-    <pubDate>Thu, 17 Aug 2023 22:16:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Attack Surface Discovery: Without Visibility, Security Is Just Guesswork</title>
-    <link>https://censys.com/blog/attack-surface-discovery-without-visibility-security-is-just-guesswork/</link>
-    <description>Understanding and managing your organization’s internet-facing assets is crucial to minimizing cybersecurity risk. Attack Surface Discovery takes inventory of every asset—including the ones your team may not be aware of— and allows security teams to quickly identify vulnerabilities and remediate critical exposures before attackers can exploit them. A new CISA-sponsored report from the Cyentia Institute […]</description>
-    <pubDate>Thu, 12 Sep 2024 22:43:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>Continuous Attack Surface Management with Censys</title>
-    <link>https://censys.com/blog/continuous-attack-surface-management-with-censys/</link>
-    <description>Protect Your Digital Assets with Total Visibility for Vulnerabilities Discover: Why organizations need a continuous view of their attack surface What Attack Surface Management is, and why it benefits security teams How to choose a trusted Attack Surface Management solution How Censys ASM can help The Need for an Up-to-Date View of the Attack Surface […]</description>
-    <pubDate>Wed, 24 Jul 2024 19:45:18 GMT</pubDate>
-  </item>
-  <item>
-    <title>Unlock Total Visibility: How Attack Surface Management &amp;#038; Vulnerability Management Tools Work Together</title>
-    <link>https://censys.com/blog/unlock-total-visibility-how-attack-surface-management-vulnerability-management-tools-work-together/</link>
-    <description>Discover how combining Attack Surface Management (ASM) with vulnerability management tools can strengthen your cybersecurity defense. The Critical Role of Vulnerability Management Solutions Vulnerability management tools are an integral part of the modern security tech stack, especially for compliance and patch management. In a threat landscape wrought with increasingly frequent attacks, the best vulnerability management software […]</description>
-    <pubDate>Tue, 16 Jul 2024 19:40:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Actionable Threat Intelligence</title>
-    <link>https://censys.com/blog/actionable-threat-intelligence/</link>
-    <description>Actionable Threat Intelligence: Reducing Risk with Data In the world of cybersecurity, staying ahead of emerging threats is paramount. Cyber threat intelligence (CTI) plays a pivotal role in this endeavor, offering organizations invaluable insights into potential risks and vulnerabilities. The Censys Platform empowers threat hunters and their security teams with the actionable threat intelligence they […]</description>
-    <pubDate>Wed, 06 Mar 2024 18:09:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Superior Internet Intelligence for Advanced Cyber Threat Intelligence Services</title>
-    <link>https://censys.com/blog/superior-internet-intelligence/</link>
-    <description>Enhancing Cyber Defense with Censys’ Internet Insights In the dynamic field of cyber security, the precision and depth of internet intelligence are key to effective cyber threat intelligence services. Censys Search leads the industry in scanning capabilities to provide the largest, most comprehensive dataset of internet intelligence available. This groundbreaking tool is not just a […]</description>
-    <pubDate>Fri, 01 Mar 2024 18:00:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>From Reactive to Proactive: How to Reinforce Security Compliance with Exposure Management</title>
-    <link>https://censys.com/blog/from-reactive-to-proactive-how-to-reinforce-security-compliance-with-exposure-management/</link>
-    <description>In cybersecurity the term “compliance” often conjures images of regulatory checklists and bureaucratic hurdles. Adhering to industry standards and government regulations is undeniably crucial for safeguarding sensitive data and mitigating risks. In a constantly shifting threat landscape, noncompliance can put organizations at risk for vulnerabilities, cyberattacks, and security breaches – not to mention regulatory fines. […]</description>
-    <pubDate>Wed, 21 Feb 2024 18:31:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Continuous Threat Exposure Management (CTEM)</title>
-    <link>https://censys.com/blog/continuous-threat-exposure-management/</link>
-    <description>In the fast-paced world of cybersecurity, the landscape is constantly evolving. Traditional methods of managing security threats often involve a reactive approach, waiting for breaches to occur before addressing them. However, with the advancement of technology and the increasing sophistication of cyber threats, a more proactive and continuous approach is essential. This is where Continuous […]</description>
-    <pubDate>Mon, 01 Apr 2024 17:15:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>Ensure Total Visibility with a Powerful Cloud Security Assessment Tool</title>
-    <link>https://censys.com/blog/cloud-security-assessment-tools/</link>
-    <description>If your organization is like most, your cloud computing infrastructure is constantly evolving as new assets are spun up, old ones are retired, and resources are reshaped to meet business needs. However, with this rapid pace of change comes risk. Ephemeral cloud assets, if not closely monitored, can present unique security challenges. Follow along as […]</description>
-    <pubDate>Wed, 24 Jan 2024 22:44:28 GMT</pubDate>
-  </item>
-  <item>
-    <title>GoAnywhere MFT vulnerabilities are Going Nowhere for Now</title>
-    <link>https://censys.com/blog/goanywhere-mft-vulnerabilities-are-going-nowhere-for-now/</link>
-    <description>Executive Summary: A proof of concept (PoC) was just released for a critical authentication bypass vulnerability in Fortra GoAnywhere MFT (CVE-2024-0204) Censys currently observes nearly 170 hosts (including some only accessible via vhost/SNI) with exposed GoAnywhere admin interfaces. Although it’s unclear how many of these are vulnerable, the combination of the sensitive nature of data […]</description>
-    <pubDate>Thu, 25 Jan 2024 01:31:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Cut Through the Noise with Custom Field Selection</title>
-    <link>https://censys.com/blog/cut-through-the-noise-with-custom-field-selection/</link>
-    <description>We’re glad to have you with us as we continue our Unleash the Power of Censys Search blog series, which talks about ways to get the most out of Censys Search. We recently discussed how threat hunters and teams can work smarter with matched services, as well as collaborate with tags and comments. In this […]</description>
-    <pubDate>Tue, 23 Jan 2024 23:51:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>24 Questions to Ask About Your Data in 2024</title>
-    <link>https://censys.com/blog/24-questions-to-ask-about-your-data-in-2024/</link>
-    <description>2024 is well underway, which means your security team is probably already hard at work making progress on its objectives for Q1, or the year as a whole. As your team tackles these objectives and thinks about other ways to improve its operations this year, there might be one (important) area for improvement you’ve overlooked: […]</description>
-    <pubDate>Tue, 23 Jan 2024 03:04:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Working Smarter, Not Harder, with Matched Services</title>
-    <link>https://censys.com/blog/working-smarter-not-harder-with-matched-services/</link>
-    <description>Welcome back to our Unleash the Power of Censys Search blog series, which helps Censys Search users make the most of our leading internet intelligence. In our previous posts, we talked about Censys Search use cases, writing queries, and the value of historical data. In today’s post, we focus on a Censys Search capability that […]</description>
-    <pubDate>Tue, 09 Jan 2024 22:35:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>Unleash-the-Power-of-Censys-Search--Matched-Services-Social-Image</title>
-    <link>https://censys.com/blog/unleash-the-power-of-censys-search-matched-services-social-image/</link>
-    <description>Unleash-the-Power-of-Censys-Search--Matched-Services-Social-Image</description>
-    <pubDate>Tue, 09 Jan 2024 22:30:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>Unleash-the-Power-of-Censys-Search--Matched-Services</title>
-    <link>https://censys.com/blog/unleash-the-power-of-censys-search-matched-services/</link>
-    <description>Unleash-the-Power-of-Censys-Search--Matched-Services</description>
-    <pubDate>Tue, 09 Jan 2024 22:30:12 GMT</pubDate>
-  </item>
-  <item>
-    <title>Stop Predicting. Start Protecting.</title>
-    <link>https://censys.com/blog/stop-predicting-start-protecting/</link>
-    <description>The Pitfalls of Predicting Cybersecurity Trends The start of the New Year often brings with it predictions about what’s in store for the year ahead. In cybersecurity, this often means predicting future threats and security trends. However, the fast-paced nature of cyber attacks and increasing sophistication of threat actors means making predictions that are actually […]</description>
-    <pubDate>Wed, 03 Jan 2024 03:42:16 GMT</pubDate>
-  </item>
+ <title>Censys Blog (Custom Feed)</title>
+ <link>https://censys.com/resources/blog</link>
+ <description>Auto-generated periodically</description>
+ <lastBuildDate>Mon, 09 Mar 2026 13:32:27 GMT</lastBuildDate>
+<item>
+ <title>Raising the Bar on Internet Coverage: Predictive Scanning Takes The Censys Internet Map to the Next Level</title>
+ <link>https://censys.com/blog/raising-the-bar-on-internet-coverage-predictive-scanning-takes-the-censys-internet-map-to-the-next-level/</link>
+ <description>At Censys, our goal is to be the one place to understand everything on the internet – for more effective threat hunting and exposure management. With the rapid proliferation of cloud providers, software, web properties, remote devices, and more, it is becoming more challenging for security teams to identify threats or exposures and take action. […]</description>
+ <pubDate>Tue, 08 Aug 2023 21:45:13 GMT</pubDate>
+</item>
+<item>
+ <title>Mission Critical Intelligence: Why This Government Agency Partners with Censys to Understand the Threat Landscape</title>
+ <link>https://censys.com/blog/mission-critical-intelligence-why-this-government-agency-partners-with-censys-to-understand-the-threat-landscape/</link>
+ <description>When ZMap, the world’s first global, open-source internet scanner, was released in 2012, it immediately attracted tens of thousands of users from leading government agencies who conducted critical searches to understand the emerging digital threat landscape. Today, Censys’ proprietary Internet Map is the most comprehensive, up-to-date collection of global internet infrastructure enriched with critical context […]</description>
+ <pubDate>Fri, 21 Jul 2023 16:36:47 GMT</pubDate>
+</item>
+<item>
+ <title>Managed File Transfer (MFT) Exposure</title>
+ <link>https://censys.com/blog/managed-file-transfer-mft-exposure/</link>
+ <description>Attackers Targeting MFT Tools Are On The Rise There is a constant war of convenience vs security being waged and moving files across networks is one of those battles being fought right now. While many of these tools are designed to only be accessed behind a firewall, they are often incorrectly configured to be accessed […]</description>
+ <pubDate>Fri, 30 Jun 2023 21:01:45 GMT</pubDate>
+</item>
+<item>
+ <title>Revisiting the State of the Internet</title>
+ <link>https://censys.com/blog/revisiting-the-state-of-the-internet/</link>
+ <description>Introduction  It’s been about two months since we released our 2023 State of the Internet Report. With access to the most comprehensive internet-wide scan data available, narrowing our focus for the report to a specific area or set of technologies on the internet was a formidable challenge. Ultimately, we decided to focus on the web, […]</description>
+ <pubDate>Mon, 12 Jun 2023 18:26:40 GMT</pubDate>
+</item>
+<item>
+ <title>Zyxel Vulnerabilities</title>
+ <link>https://censys.com/blog/zyxel-vulnerabilities/</link>
+ <description>  Zyxel has had an interesting run the last few weeks, with three new vulnerabilities: CVE-2023-33009, CVE-2023-33010, and the most critical, CVE-2023-28771. The Mirai botnet is currently exploiting CVE-2023-28771. Censys found 24,457 potentially vulnerable Zyxel ATP, USG, and VPN products exposed to the internet. 86.72% of these hosts run the IKE protocol required for successful CVE-2023-28771 […]</description>
+ <pubDate>Tue, 30 May 2023 23:47:38 GMT</pubDate>
+</item>
+<item>
+ <title>Why an Exposure Management Solution Belongs in Your Tech Stack</title>
+ <link>https://censys.com/blog/why-an-exposure-management-solution-belongs-in-your-tech-stack/</link>
+ <description>Exposure Management solutions are a critical piece of the modern security tech stack. When organizations delay investing in Exposure Management, they limit their ability to effectively defend their security perimeter from attacks. In our recent 2023 State of Security Leadership Report, the majority of surveyed security leaders said that understanding the ENTIRETY of their attack […]</description>
+ <pubDate>Thu, 03 Aug 2023 17:50:01 GMT</pubDate>
+</item>
+<item>
+ <title>Total Economic Impact™: Censys EASM Customer Voices</title>
+ <link>https://censys.com/blog/total-economic-impact-censys-easm-customer-voices/</link>
+ <description>  Who better to talk about the value of a solution than the folks who actually use it? As part of the recent Total Economic Impact of Censys External Attack Surface Management study, Forrester Consulting independently interviewed Censys customers to learn more about the business value they achieve with our Censys EASM solution. The big […]</description>
+ <pubDate>Fri, 21 Apr 2023 17:02:57 GMT</pubDate>
+</item>
+<item>
+ <title>Virtual Ghosts</title>
+ <link>https://censys.com/blog/virtual-ghosts/</link>
+ <description>These servers should not exist! Now Generally Available for all Censys customers is a new asset type, Web Entities. A “Web Entity” in Censys allows users to treat their web-based assets as a single high-level commodity, grouping hosts and services as part of an organization’s web service ecosystem. In addition to introducing this new data […]</description>
+ <pubDate>Fri, 21 Apr 2023 17:00:25 GMT</pubDate>
+</item>
+<item>
+ <title>Total Economic Impact™ : How Does Censys EASM Deliver Value to Customers?</title>
+ <link>https://censys.com/blog/how-does-censys-easm-deliver-value/</link>
+ <description>Censys recently commissioned Forrester Consulting to conduct an independent study of the Total Economic Impact™ of the Censys External Attack Surface Management (EASM) solution. Learn more about what the study found and how to access your copy.  When you’re weighing the pros and cons of adding a new solution to your security tech stack, understanding […]</description>
+ <pubDate>Thu, 13 Apr 2023 18:50:40 GMT</pubDate>
+</item>
+<item>
+ <title>SoftEther VPN: Identifying VPN Software Across the Internet</title>
+ <link>https://censys.com/blog/softether-vpn-identifying-vpn-software-across-the-internet/</link>
+ <description>Executive Summary SoftEther VPN is a free, open-source VPN client created by researchers in Japan and used for commercial and non-commercial use. The United States, Japan, and China are the top three countries where Censys observed the highest number of SoftEther hosts. Censys also found that four of the top ten autonomous systems where SoftEther […]</description>
+ <pubDate>Thu, 06 Apr 2023 22:53:51 GMT</pubDate>
+</item>
+<item>
+ <title>Four Oh Four: A Look at Our Favorite Status Code</title>
+ <link>https://censys.com/blog/four-oh-four-a-look-at-our-favorite-status-code/</link>
+ <description>Happy 404 day from Censys! Here are some fun stats involving our favorite “resource not found” HTTP status code! We’ve all experienced it: you’re leisurely browsing the web, surfing along, and suddenly come across this: 404 Page Not Found. When a user encounters a 404 error, it could mean that the user incorrectly entered the […]</description>
+ <pubDate>Wed, 05 Apr 2023 01:10:52 GMT</pubDate>
+</item>
+<item>
+ <title>What You Need to Know About Biden's Long Awaited Cybersecurity Strategy</title>
+ <link>https://censys.com/blog/what-you-need-to-know-about-bidens-long-awaited-cybersecurity-strategy/</link>
+ <description>  The Biden Administration’s long awaited National Cybersecurity Strategy was released outlining the strategy, goals, and implementation plan to drive a robust, collaborative approach to securing our global digital landscape. To mitigate the ever-mounting risk in both the public and private sectors, The White House places cybersecurity as a central tenant to the functioning of […]</description>
+ <pubDate>Fri, 03 Mar 2023 04:59:43 GMT</pubDate>
+</item>
+<item>
+ <title>Why This European Government Agency Uses Attack Surface Management</title>
+ <link>https://censys.com/blog/why-this-government-agency-uses-attack-surface-management/</link>
+ <description>  Attack surface management (ASM) is becoming an integral, value-add strategy for cybersecurity teams across industries, including those in government. Our own partnerships with government agencies around the world highlight how ASM complements government threat hunting and response efforts. Teams use ASM tools like the Censys Attack Surface Management Platform to gain greater visibility into […]</description>
+ <pubDate>Wed, 22 Feb 2023 04:20:53 GMT</pubDate>
+</item>
+<item>
+ <title>The Mass Exploitation of Ivanti Connect Secure</title>
+ <link>https://censys.com/blog/the-mass-exploitation-of-ivanti-connect-secure/</link>
+ <description>Compromised Ivanti Connect Secure IPs Update January 31, 2024: Two new vulnerabilities, CVE-2024-21893 and CVE-2024-21888, have been identified in Connect Secure, Policy Secure, and ZTA gateways, the former of which is seeing active exploitation. Ivanti has released a new mitigation that serves as a workaround until official patches are available. A patch is now available […]</description>
+ <pubDate>Tue, 23 Jan 2024 20:04:55 GMT</pubDate>
+</item>
+<item>
+ <title>Analysis of Fox Kitten Infrastructure Reveals Unique Host Patterns and Potentially New IOCs</title>
+ <link>https://censys.com/blog/analysis-of-fox-kitten-infrastructure-reveals-unique-host-patterns-and-potentially-new-iocs/</link>
+ <description>Executive Summary Background On August 28, 2024, the Federal Bureau of Investigation, Cybersecurity and Infrastructure Security Agency (CISA), and the Department of Defense Cyber Crime Center (DC3) published a joint Cybersecurity Advisory (CSA) “to warn network defenders that, as of August 2024, a group of Iran-based cyber actors” (aka “Fox Kitten”) continues to exploit U.S. and […]</description>
+ <pubDate>Tue, 07 Jan 2025 10:53:00 GMT</pubDate>
+</item>
+<item>
+ <title>The Spectrum of Risk: Where Engineers and Executives Can Come Together</title>
+ <link>https://censys.com/blog/the-spectrum-of-risk-where-engineers-and-executives-can-come-together/</link>
+ <description>Another year, another Black Hat! I’ve been attending Black Hat for several years. This year I’ve been reflecting on what made the event unique for engineers and executives alike, and where these two groups have opportunities to work together. A couple of things I heard mentioned by engineers at our booth included how they use […]</description>
+ <pubDate>Mon, 18 Dec 2023 22:32:25 GMT</pubDate>
+</item>
+<item>
+ <title>Censys Assistant Is Now Generally Available</title>
+ <link>https://censys.com/blog/censys-assistant-is-now-ga-faster-insights-with-natural-language-search/</link>
+ <description>We are thrilled to announce the General Availability (GA) of the Censys Assistant, your AI partner in cybersecurity. This powerful tool transforms how you interact with the Censys Platform. No more spending valuable time writing queries or navigating multiple pages to analyze search results — simply ask a question in natural language, and let the assistant do […]</description>
+ <pubDate>Fri, 16 Jan 2026 20:01:00 GMT</pubDate>
+</item>
+<item>
+ <title>Top Ransomware Attack Vectors: How to Defend Against Them</title>
+ <link>https://censys.com/blog/top-ransomware-attack-vectors/</link>
+ <description>Though ransomware has been a persistent cybersecurity threat for years, it’s recently experienced a notable resurgence. Ransomware attacks increased 70% from 2022 to 2023, highlighting the need for robust antivirus software. The average cost of a ransomware attack has risen to nearly $3 million. How can organizations bolster their defenses? In this blog, we dive […]</description>
+ <pubDate>Tue, 30 Jan 2024 01:40:56 GMT</pubDate>
+</item>
+<item>
+ <title>Two Key Ways to Collaborate in Censys Search</title>
+ <link>https://censys.com/blog/two-key-ways-to-collaborate-in-censys-search/</link>
+ <description>Welcome back to another installment of Unleash the Power of Censys Search, the blog series that helps Censys Search users make the most of their Search experience! If you’ve been with us throughout this series, you may have read our previous posts about writing queries and using historical data, as well as our most recent […]</description>
+ <pubDate>Wed, 17 Jan 2024 02:11:43 GMT</pubDate>
+</item>
+<item>
+ <title>Weakening Encryption Does Not Strengthen Security</title>
+ <link>https://censys.com/blog/weakening-encryption-does-not-strengthen-security/</link>
+ <description>The U.K. office of the Home Secretary has reportedly handed Apple a secret order requiring the company to essentially cripple its strongest encrypted data storage offering in order to allow the country’s law enforcement agencies to access users’ data backups during investigations. The order, which was issued last month, would affect Apple customers not just […]</description>
+ <pubDate>Wed, 12 Feb 2025 01:24:46 GMT</pubDate>
+</item>
+<item>
+ <title>Subtle Air Movements and Femtosecond Response Times</title>
+ <link>https://censys.com/blog/subtle-air-movements-and-femtosecond-response-times/</link>
+ <description>I’m a huge movie fan. Korean and French cinema are current favorites, but there’s a special place in my heart for old martial arts flicks. You know the ones, utterly campy and unrealistic, but hugely entertaining.  I’m thinking of those movies that showcase Jean Claude Van Damme delivering a perfectly executed head kick. He […]</description>
+ <pubDate>Mon, 27 Nov 2023 17:49:35 GMT</pubDate>
+</item>
+<item>
+ <title>User Resources: How to Get Started in Censys Search</title>
+ <link>https://censys.com/blog/user-resources-how-to-get-started-censys-search/</link>
+ <description>Make the most of Censys Search with helpful resources from our Getting Started library! On the Censys Search home page, you can now access a library of curated resources focused on how to leverage Censys Search. Whether you’re brand new to Censys Search or are a more seasoned user, our Getting Started resources are […]</description>
+ <pubDate>Wed, 22 Nov 2023 18:39:08 GMT</pubDate>
+</item>
+<item>
+ <title>Unleash the Power of Censys Search: A Look at Censys Search in Action</title>
+ <link>https://censys.com/blog/unleash-the-power-of-censys-search-a-look-at-censys-search-in-action/</link>
+ <description>In Part I of our “Unleash the Power of Censys Search” blog series, you read that enterprises, governments, and researchers can access our industry-leading internet intelligence by using the Censys Search tool. (If you haven’t had a chance to check out the blog, give it a read! Within you’ll find tips for how to […]</description>
+ <pubDate>Wed, 01 Nov 2023 20:37:43 GMT</pubDate>
+</item>
+<item>
+ <title>Cisco IOS XE: Ten days later</title>
+ <link>https://censys.com/blog/cisco-ios-xe-ten-days-later/</link>
+ <description>Executive Summary Last week, we shared information about an ongoing event with Cisco devices and a backdoor installed on tens of thousands of Cisco hosts. And in our last update, we noted a significant drop in the number of infections. And would you believe that number has dropped to zero? Well, sort of… Since then, […]</description>
+ <pubDate>Thu, 26 Oct 2023 19:32:06 GMT</pubDate>
+</item>
+<item>
+ <title>Unleash the Power of Censys Search: A Quick Guide to Queries</title>
+ <link>https://censys.com/blog/unleash-the-power-censys-search-quick-guide-to-queries/</link>
+ <description>Whether you’re brand new to Censys Search and are looking for tips to get started, or are a seasoned user seeking inspiration, in this blog you’ll find examples of queries you can use to maximize your experience with Censys Search. The public-facing internet is a vast, interesting, and complex space, and at Censys, we’ve […]</description>
+ <pubDate>Tue, 24 Oct 2023 17:59:37 GMT</pubDate>
+</item>
+<item>
+ <title>Unmasking Deception: Navigating Red Herrings and Honeypots</title>
+ <link>https://censys.com/blog/red-herrings-and-honeypots/</link>
+ <description>Introduction Here at Censys, our mission is to craft the ultimate blueprint of the web, map all the strange anomalies, and unearth where the wild things roam. We scan the internet indiscriminately and do an excellent job, too. And when you look at this data all day, like us, you tend to become accustomed to […]</description>
+ <pubDate>Wed, 11 Oct 2023 20:14:08 GMT</pubDate>
+</item>
+<item>
+ <title>Tips to #SecureOurWorld This Cybersecurity Awareness Month</title>
+ <link>https://censys.com/blog/tips-to-secureourworld-this-cybersecurity-awareness-month/</link>
+ <description>This year marks the 20th anniversary of Cybersecurity Awareness Month. In recognition of the federal designation, we’re taking a closer look at cybersecurity recommendations from the Cybersecurity and Infrastructure Security Agency (CISA) and adding in a few of our own. What can organizations do to better protect what they own? CISA’s Recommendations Cybersecurity Awareness […]</description>
+ <pubDate>Fri, 06 Oct 2023 21:27:52 GMT</pubDate>
+</item>
+<item>
+ <title>Key Metrics for Measuring Success: Introducing New Trends and Benchmarks in Censys Exposure Management</title>
+ <link>https://censys.com/blog/key-metrics-for-measuring-success-introducing-new-trends-and-benchmarks-in-censys-exposure-management/</link>
+ <description>Users of Censys’ Exposure Management solution can now leverage trends and benchmarks metrics to measure the impact of their security initiatives. These new metrics, accessible in Exposure Management dashboards, empower security leaders and their teams with the actionable insights they need to confidently report on security posture, demonstrate ROI, and align their strategies with broader […]</description>
+ <pubDate>Tue, 03 Oct 2023 23:30:59 GMT</pubDate>
+</item>
+<item>
+ <title>Managing Shadow IT Assets with External Attack Surface Management</title>
+ <link>https://censys.com/blog/shedding-light-on-shadow-it-with-external-attack-surface-management/</link>
+ <description>“You can’t protect what you can’t see.” We say this often at Censys because it’s true. Cybersecurity teams can only monitor, manage, and defend the digital assets they know about. Though most enterprise IT teams have protocols in place for proper tech procurement and onboarding, in today’s rapidly expanding cyber landscape, unauthorized digital assets inevitably […]</description>
+ <pubDate>Fri, 15 Sep 2023 19:13:52 GMT</pubDate>
+</item>
+<item>
+ <title>Can You Answer These 10 Questions About Your Attack Surface?</title>
+ <link>https://censys.com/blog/can-you-answer-these-10-questions-about-your-attack-surface/</link>
+ <description>Attack surfaces are top of mind for today’s security leaders, according to the recent Censys 2023 State of Security Leadership report. Surveyed security leaders say that understanding the entirety of the organization’s attack surface is their number one priority for the next 12 months. These leaders know that if they don’t understand all of […]</description>
+ <pubDate>Thu, 17 Aug 2023 22:16:01 GMT</pubDate>
+</item>
 </channel>
 </rss>
