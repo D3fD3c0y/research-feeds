@@ -5,15 +5,28 @@
 Generates one RSS feed per source in sources.json.
 
 Modes per source:
- - "auto"   -> discover an official feed (<link rel="alternate"...>), try common suffixes, else scrape.
- - "scrape" -> scrape listing page and visit article pages for metadata.
- - "sitemap"-> use sitemap(s) to discover URLs, then visit article pages for metadata.
+ - "auto"    -> discover an official feed (<link rel="alternate"...>), try common suffixes, else scrape.
+ - "scrape"  -> scrape listing page and visit article pages for metadata.
+ - "sitemap" -> use sitemap(s) to discover URLs, then visit article pages for metadata.
+ - "index"   -> crawl one or more index/listing pages (HTML), extract candidate article URLs,
+               then visit article pages for metadata.
 
 Optional per-source scoping:
  - sitemap_include_prefix: only prioritize (or strictly include) sitemap URLs under a path prefix
  - sitemap_strict: if true, only include URLs under sitemap_include_prefix (or page_url path)
  - scrape_include_prefix: only prioritize (or strictly include) scraped links under a path prefix
  - scrape_strict: if true, only include links under scrape_include_prefix (or page_url path)
+
+New for "index" mode:
+ - index_url: base listing page to crawl (default: src["url"])
+ - index_include_prefix: only prioritize (or strictly include) index-discovered URLs under a path prefix
+ - index_strict: if true, only include URLs under index_include_prefix (or index_url path)
+ - index_exclude_prefixes: list of path prefixes to exclude (e.g., category pages)
+ - index_max_pages: number of index pages to crawl (default 1)
+ - index_page_param: query parameter to set for pagination (e.g., "page")
+ - index_page_template: template URL containing {page} placeholder (overrides index_page_param)
+ - index_selectors: optional CSS selectors list to gather links (defaults to broad set)
+ - index_article_regex: optional regex (string) applied to URL path to keep article-like URLs only
 
 Goal A (reduce HTTP work):
  - Persist seen URLs per feed in state.json (committed to repo).
@@ -23,23 +36,25 @@ Goal A (reduce HTTP work):
 Debug summary:
  - One line per feed showing how many new items were fetched/used and how many were reused.
 """
-import json
-import os
-import re
+
 import datetime
 import email.utils
 import gzip
 import io
-import xml.etree.ElementTree as ET
-from urllib.parse import urljoin, urlparse
+import json
+import os
+import re
 import urllib.robotparser as robotparser
+import xml.etree.ElementTree as ET
+from typing import Dict, List, Optional, Set, Tuple
+from urllib.parse import parse_qsl, urlencode, urljoin, urlparse, urlsplit, urlunsplit
 
+import feedparser
 import requests
+from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-from bs4 import BeautifulSoup
-import feedparser
 
 # ---------------------------------------------------------------------
 # Configuration
@@ -49,7 +64,6 @@ USER_AGENT = (
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/122.0.0.0 Safari/537.36"
 )
-
 TIMEOUT = 20
 MAX_ITEMS_PER_SOURCE = 30
 MAX_ARTICLE_FETCHES = 20
@@ -63,11 +77,19 @@ HEADERS = {
 }
 
 COMMON_SUFFIXES = [
-    "feed", "feed/", "rss", "rss.xml", "atom.xml", "index.xml", "feed.xml",
-    "?feed=rss2", "?format=feed"
+    "feed",
+    "feed/",
+    "rss",
+    "rss.xml",
+    "atom.xml",
+    "index.xml",
+    "feed.xml",
+    "?feed=rss2",
+    "?format=feed",
 ]
 
 DEBUG_HTTP = True
+
 
 # ---------------------------------------------------------------------
 # Per-domain timeout + retries
@@ -80,7 +102,6 @@ _retry = Retry(
     status_forcelist=[429, 500, 502, 503, 504],
     allowed_methods=["GET", "HEAD"],
 )
-
 _session = requests.Session()
 _adapter = HTTPAdapter(max_retries=_retry)
 _session.mount("https://", _adapter)
@@ -91,12 +112,14 @@ DOMAIN_TIMEOUTS = {
     "trellix.com": 60,
 }
 
+
 # ---------------------------------------------------------------------
 # Incremental state (Goal A)
 # ---------------------------------------------------------------------
 STATE_PATH = os.environ.get("FEED_STATE_PATH", "state.json")
 MAX_SEEN_PER_FEED = int(os.environ.get("MAX_SEEN_PER_FEED", "800"))
 NEW_ITEMS_PER_RUN = int(os.environ.get("NEW_ITEMS_PER_RUN", "15"))  # safer cap
+
 
 def load_state() -> dict:
     try:
@@ -105,23 +128,24 @@ def load_state() -> dict:
     except Exception:
         return {}
 
+
 def save_state(state: dict):
     with open(STATE_PATH, "w", encoding="utf-8") as f:
         json.dump(state, f, indent=2, sort_keys=True)
 
-def _get_seen_set(state: dict, slug: str) -> set[str]:
+
+def _get_seen_set(state: dict, slug: str) -> Set[str]:
     return set(state.get(slug, {}).get("seen_urls", []))
 
-def _update_seen(state: dict, slug: str, new_urls: list[str]):
-    """
-    Prepend new_urls to the per-feed seen list (dedupe), cap at MAX_SEEN_PER_FEED.
-    """
+
+def _update_seen(state: dict, slug: str, new_urls: List[str]):
+    """Prepend new_urls to the per-feed seen list (dedupe), cap at MAX_SEEN_PER_FEED."""
     entry = state.setdefault(slug, {})
     old = entry.get("seen_urls", [])
     merged = list(new_urls) + list(old)
 
-    out = []
-    seen = set()
+    out: List[str] = []
+    seen: Set[str] = set()
     for u in merged:
         if not u or u in seen:
             continue
@@ -133,15 +157,17 @@ def _update_seen(state: dict, slug: str, new_urls: list[str]):
     entry["seen_urls"] = out
     entry["last_success_utc"] = datetime.datetime.now(datetime.timezone.utc).isoformat()
 
+
 # ---------------------------------------------------------------------
 # Time helpers
 # ---------------------------------------------------------------------
-def rfc2822(dt: datetime.datetime | None = None) -> str:
+def rfc2822(dt: Optional[datetime.datetime] = None) -> str:
     if dt is None:
         dt = datetime.datetime.now(datetime.timezone.utc)
     elif dt.tzinfo is None:
         dt = dt.replace(tzinfo=datetime.timezone.utc)
     return email.utils.format_datetime(dt, usegmt=True)
+
 
 # ---------------------------------------------------------------------
 # HTTP helper
@@ -150,7 +176,6 @@ def get(url: str, label: str = ""):
     try:
         host = urlparse(url).netloc.lower()
         timeout = DOMAIN_TIMEOUTS.get(host, TIMEOUT)
-
         r = _session.get(url, headers=HEADERS, timeout=timeout, allow_redirects=True)
         ct = r.headers.get("Content-Type", "")
 
@@ -168,16 +193,15 @@ def get(url: str, label: str = ""):
         print(f" [HTTP] {label} GET {url} -> EXCEPTION: {e}")
         raise
 
+
 # ---------------------------------------------------------------------
 # robots.txt handling (cached per host)
 # ---------------------------------------------------------------------
-_ROBOTS_CACHE: dict[tuple[str, str], robotparser.RobotFileParser | None] = {}
+_ROBOTS_CACHE: Dict[Tuple[str, str], Optional[robotparser.RobotFileParser]] = {}
+
 
 def robots_allows(page_url: str, agent: str = "ResearchFeedsBot") -> bool:
-    """
-    Fetch robots.txt using our headers, parse it, and cache per (netloc, agent).
-    Avoids re-fetching robots.txt for every article URL (big HTTP reduction).
-    """
+    """Fetch robots.txt using our headers, parse it, and cache per (netloc, agent)."""
     if not RESPECT_ROBOTS:
         return True
 
@@ -194,9 +218,13 @@ def robots_allows(page_url: str, agent: str = "ResearchFeedsBot") -> bool:
 
         robots_url = f"{parsed.scheme}://{parsed.netloc}/robots.txt"
         r = get(robots_url, "robots-check")
-
         text = (r.text or "")
-        looks_like_robots = ("user-agent:" in text.lower()) or ("disallow:" in text.lower()) or ("allow:" in text.lower())
+
+        looks_like_robots = (
+            ("user-agent:" in text.lower())
+            or ("disallow:" in text.lower())
+            or ("allow:" in text.lower())
+        )
 
         if r.status_code == 404 and not looks_like_robots:
             _ROBOTS_CACHE[cache_key] = None
@@ -215,20 +243,21 @@ def robots_allows(page_url: str, agent: str = "ResearchFeedsBot") -> bool:
 
         _ROBOTS_CACHE[cache_key] = None
         return True
-
     except Exception:
         return True
+
 
 # ---------------------------------------------------------------------
 # Feed discovery (auto mode)
 # ---------------------------------------------------------------------
-def discover_feed_urls(page_url: str) -> list[str]:
-    cands: list[str] = []
+def discover_feed_urls(page_url: str) -> List[str]:
+    cands: List[str] = []
 
     try:
         resp = get(page_url, "discover")
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
+
         for link in soup.select('link[rel="alternate"]'):
             t = (link.get("type") or "").lower()
             if any(x in t for x in ["rss", "atom", "xml", "json"]):
@@ -246,21 +275,30 @@ def discover_feed_urls(page_url: str) -> list[str]:
     scheme = parsed.scheme or "https"
     host = parsed.netloc
     apex = host[4:] if host.startswith("www.") else host
+
     root_base = f"{scheme}://{host}"
     apex_base = f"{scheme}://{apex}"
-    for u in (f"{root_base}/feed", f"{root_base}/blog/feed", f"{apex_base}/feed", f"{apex_base}/blog/feed"):
+
+    for u in (
+        f"{root_base}/feed",
+        f"{root_base}/blog/feed",
+        f"{apex_base}/feed",
+        f"{apex_base}/blog/feed",
+    ):
         cands.append(u)
 
     host_l = parsed.netloc.lower()
     if "medium.com" in host_l or host_l.endswith(".medium.com"):
         cands.insert(0, urljoin(base + "/", "feed"))
 
-    uniq, seen = [], set()
+    uniq: List[str] = []
+    seen: Set[str] = set()
     for u in cands:
         if u not in seen:
             seen.add(u)
             uniq.append(u)
     return uniq
+
 
 def validate_feed(url: str):
     d = feedparser.parse(url)
@@ -268,12 +306,15 @@ def validate_feed(url: str):
         return None
     return d
 
+
 # ---------------------------------------------------------------------
 # Article metadata extraction helpers
 # ---------------------------------------------------------------------
-def _parse_jsonld_articles(soup: BeautifulSoup, base_url: str) -> list[dict]:
-    items: list[dict] = []
-    for tag in soup.find_all("script", attrs={"type": ["application/ld+json", "application/json"]}):
+def _parse_jsonld_articles(soup: BeautifulSoup, base_url: str) -> List[dict]:
+    items: List[dict] = []
+    for tag in soup.find_all(
+        "script", attrs={"type": ["application/ld+json", "application/json"]}
+    ):
         try:
             data = json.loads(tag.string or "")
         except Exception:
@@ -292,34 +333,40 @@ def _parse_jsonld_articles(soup: BeautifulSoup, base_url: str) -> list[dict]:
                     date = obj.get("datePublished") or obj.get("dateModified") or ""
                     desc = obj.get("description") or ""
                     if title:
-                        items.append({
-                            "title": title,
-                            "link": urljoin(base_url, link),
-                            "pubDate": date,
-                            "description": desc
-                        })
+                        items.append(
+                            {
+                                "title": title,
+                                "link": urljoin(base_url, link),
+                                "pubDate": date,
+                                "description": desc,
+                            }
+                        )
                 for v in obj.values():
                     stack.append(v)
             elif isinstance(obj, list):
                 stack.extend(obj)
     return items
 
-# Parse YYYY/MM/DD or YYYY-MM-DD anywhere in a string/URL
+
 _DATE_URL_PAT = re.compile(r"(?P<y>20\d{2})[/-](?P<m>\d{1,2})[/-](?P<d>\d{1,2})")
 
-def _guess_rfc2822_from_text(s: str | None) -> str | None:
+
+def _guess_rfc2822_from_text(s: Optional[str]) -> Optional[str]:
     if not s:
         return None
     m = _DATE_URL_PAT.search(s)
     if not m:
         return None
     try:
-        dt = datetime.datetime(int(m["y"]), int(m["m"]), int(m["d"]), tzinfo=datetime.timezone.utc)
+        dt = datetime.datetime(
+            int(m["y"]), int(m["m"]), int(m["d"]), tzinfo=datetime.timezone.utc
+        )
         return rfc2822(dt)
     except Exception:
         return None
 
-def _extract_article_meta(article_url: str) -> dict | None:
+
+def _extract_article_meta(article_url: str) -> Optional[dict]:
     try:
         r = get(article_url, "article")
         if r.status_code != 200:
@@ -327,12 +374,16 @@ def _extract_article_meta(article_url: str) -> dict | None:
 
         soup = BeautifulSoup(r.text, "html.parser")
 
+        # Prefer JSON-LD if present
         items = _parse_jsonld_articles(soup, article_url)
         if items:
             item = items[0]
+
             if item.get("pubDate"):
                 try:
-                    dt = datetime.datetime.fromisoformat(item["pubDate"].replace("Z", "+00:00"))
+                    dt = datetime.datetime.fromisoformat(
+                        item["pubDate"].replace("Z", "+00:00")
+                    )
                     item["pubDate"] = rfc2822(dt)
                 except Exception:
                     item["pubDate"] = _guess_rfc2822_from_text(item["pubDate"]) or rfc2822()
@@ -340,12 +391,16 @@ def _extract_article_meta(article_url: str) -> dict | None:
                 item["pubDate"] = rfc2822()
 
             if not item.get("description"):
-                md = soup.find("meta", attrs={"name": "description"}) or soup.find("meta", attrs={"property": "og:description"})
+                md = soup.find("meta", attrs={"name": "description"}) or soup.find(
+                    "meta", attrs={"property": "og:description"}
+                )
                 if md and md.get("content"):
                     item["description"] = md["content"]
+
             return item
 
-        title = (soup.title.string.strip() if soup.title and soup.title.string else "")
+        # Fallback extraction
+        title = soup.title.string.strip() if soup.title and soup.title.string else ""
         meta_title = soup.find("meta", attrs={"property": "og:title"})
         if meta_title and meta_title.get("content"):
             title = meta_title["content"].strip()
@@ -369,7 +424,9 @@ def _extract_article_meta(article_url: str) -> dict | None:
             pub = _guess_rfc2822_from_text(article_url) or rfc2822()
 
         desc = ""
-        md = soup.find("meta", attrs={"name": "description"}) or soup.find("meta", attrs={"property": "og:description"})
+        md = soup.find("meta", attrs={"name": "description"}) or soup.find(
+            "meta", attrs={"property": "og:description"}
+        )
         if md and md.get("content"):
             desc = md["content"].strip()
 
@@ -377,47 +434,49 @@ def _extract_article_meta(article_url: str) -> dict | None:
             title = article_url
 
         return {"title": title, "link": article_url, "pubDate": pub, "description": desc or title}
+
     except Exception:
         return None
+
 
 # ---------------------------------------------------------------------
 # Read previous feed items (no HTTP) to keep feed full
 # ---------------------------------------------------------------------
-def read_previous_feed_items(slug: str, limit: int = MAX_ITEMS_PER_SOURCE) -> list[dict]:
-    """
-    Parse feeds/<slug>.xml and return a list of items in our internal dict format.
-    """
+def read_previous_feed_items(slug: str, limit: int = MAX_ITEMS_PER_SOURCE) -> List[dict]:
+    """Parse feeds/<slug>.xml and return a list of items in our internal dict format."""
     path = os.path.join("feeds", f"{slug}.xml")
     if not os.path.exists(path):
         return []
+
     try:
         tree = ET.parse(path)
         root = tree.getroot()
-        out = []
+        out: List[dict] = []
         for item in root.findall(".//item"):
             title = (item.findtext("title") or "").strip()
             link = (item.findtext("link") or "").strip()
             desc = (item.findtext("description") or "").strip()
             pub = (item.findtext("pubDate") or "").strip()
             if link:
-                out.append({
-                    "title": title or link,
-                    "link": link,
-                    "description": desc or title or link,
-                    "pubDate": pub or rfc2822()
-                })
+                out.append(
+                    {
+                        "title": title or link,
+                        "link": link,
+                        "description": desc or title or link,
+                        "pubDate": pub or rfc2822(),
+                    }
+                )
             if len(out) >= limit:
                 break
         return out
     except Exception:
         return []
 
-def merge_items(new_items: list[dict], old_items: list[dict], limit: int = MAX_ITEMS_PER_SOURCE) -> list[dict]:
-    """
-    Merge new items + old items, de-dupe by link, keep order (new first), cap to limit.
-    """
-    out = []
-    seen = set()
+
+def merge_items(new_items: List[dict], old_items: List[dict], limit: int = MAX_ITEMS_PER_SOURCE) -> List[dict]:
+    """Merge new items + old items, de-dupe by link, keep order (new first), cap to limit."""
+    out: List[dict] = []
+    seen: Set[str] = set()
     for lst in (new_items, old_items):
         for it in lst:
             link = it.get("link")
@@ -429,10 +488,11 @@ def merge_items(new_items: list[dict], old_items: list[dict], limit: int = MAX_I
                 return out
     return out
 
+
 # ---------------------------------------------------------------------
 # Tiny per-feed debug summary
 # ---------------------------------------------------------------------
-def _debug_summary(slug: str, new_items: list[dict], merged_items: list[dict], prev_items: list[dict], seen_before: int, seen_added: int):
+def _debug_summary(slug: str, new_items: List[dict], merged_items: List[dict], prev_items: List[dict], seen_before: int, seen_added: int):
     new_links = [i.get("link") for i in new_items if i.get("link")]
     merged_links = set(i.get("link") for i in merged_items if i.get("link"))
     new_used = sum(1 for u in new_links if u in merged_links)
@@ -442,22 +502,22 @@ def _debug_summary(slug: str, new_items: list[dict], merged_items: list[dict], p
         f"reused={reused}, prev_cached={len(prev_items)}, seen_before={seen_before}, seen_added={seen_added}"
     )
 
+
 # ---------------------------------------------------------------------
 # Scraping (listing + article pages) WITH include_prefix + strict option + seen filtering
 # ---------------------------------------------------------------------
 def scrape_items(
     page_url: str,
     limit: int = MAX_ITEMS_PER_SOURCE,
-    include_prefix: str | None = None,
+    include_prefix: Optional[str] = None,
     strict_section_only: bool = False,
-    seen_urls: set[str] | None = None,
-) -> list[dict]:
+    seen_urls: Optional[Set[str]] = None,
+) -> List[dict]:
     if seen_urls is None:
         seen_urls = set()
 
     base_netloc = urlparse(page_url).netloc.lower()
-    candidates: list[tuple[bool, str, str]] = []
-    links = []
+    candidates: List[Tuple[bool, str, str]] = []
 
     try:
         resp = get(page_url, "scrape-listing")
@@ -481,6 +541,8 @@ def scrape_items(
             "a[href*='threat-reports']",
             "a[href*='/advanced-research-center/']",
         ]
+
+        links = []
         for sel in selectors:
             links += soup.select(sel)
 
@@ -489,7 +551,7 @@ def scrape_items(
             base_hint = urlparse(page_url).path.rstrip("/")
             preferred_prefix = (base_hint + "/") if base_hint and base_hint != "/" else ""
 
-        seen_local = set()
+        seen_local: Set[str] = set()
         for a in links:
             href = a.get("href")
             if not href:
@@ -510,11 +572,9 @@ def scrape_items(
                 continue
             seen_local.add(url)
 
-            # drop off-domain links
             if urlparse(url).netloc.lower() != base_netloc:
                 continue
 
-            # filter junk
             if any(x in url.lower() for x in ["#", "/tag/", "/category/", "/login", "/signup", "mailto:"]):
                 continue
 
@@ -531,11 +591,11 @@ def scrape_items(
 
     candidates.sort(key=lambda t: (not t[0],))  # preferred first
 
-    final: list[dict] = []
+    final: List[dict] = []
     new_count = 0
     fetch_count = 0
 
-    for is_pref, title, url in candidates:
+    for _, title, url in candidates:
         if fetch_count >= MAX_ARTICLE_FETCHES or len(final) >= limit:
             break
 
@@ -548,11 +608,10 @@ def scrape_items(
         meta = _extract_article_meta(url)
         if meta:
             final.append(meta)
-            new_count += 1
         else:
             final.append({"title": title, "link": url, "pubDate": rfc2822(), "description": title})
-            new_count += 1
 
+        new_count += 1
         fetch_count += 1
 
         if new_count >= NEW_ITEMS_PER_RUN:
@@ -560,25 +619,182 @@ def scrape_items(
 
     return final
 
+
+# ---------------------------------------------------------------------
+# Index (HTML listing crawler) mode
+# ---------------------------------------------------------------------
+def _set_query_param(url: str, key: str, value: int) -> str:
+    parts = urlsplit(url)
+    q = dict(parse_qsl(parts.query))
+    q[key] = str(value)
+    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(q), parts.fragment))
+
+
+def index_items(
+    index_url: str,
+    site_root_url: str,
+    limit: int = MAX_ITEMS_PER_SOURCE,
+    include_prefix: Optional[str] = None,
+    strict_section_only: bool = False,
+    exclude_prefixes: Optional[List[str]] = None,
+    max_pages: int = 1,
+    page_param: Optional[str] = None,
+    page_template: Optional[str] = None,
+    selectors: Optional[List[str]] = None,
+    article_regex: Optional[str] = None,
+    seen_urls: Optional[Set[str]] = None,
+) -> List[dict]:
+    """Crawl one or more index/listing pages and build items from article pages."""
+    if seen_urls is None:
+        seen_urls = set()
+
+    if exclude_prefixes is None:
+        exclude_prefixes = []
+
+    base_netloc = urlparse(site_root_url).netloc.lower()
+
+    # Default selectors: broad, but skewed toward common listing patterns
+    if selectors is None:
+        selectors = [
+            "article a[href]",
+            "h2 a[href]",
+            "h3 a[href]",
+            "a[href*='/blog/']",
+            "a[href*='/blogs/']",
+            "a[href]",
+        ]
+
+    # Preferred prefix default
+    preferred_prefix = include_prefix
+    if not preferred_prefix:
+        base_hint = urlparse(index_url).path.rstrip("/")
+        preferred_prefix = (base_hint + "/") if base_hint and base_hint != "/" else ""
+
+    rx = re.compile(article_regex) if article_regex else None
+
+    # Build index page URLs to crawl
+    page_urls: List[str] = []
+    if max_pages < 1:
+        max_pages = 1
+
+    if page_template:
+        for p in range(1, max_pages + 1):
+            page_urls.append(page_template.format(page=p))
+    elif page_param:
+        # Many sites use ?page=2 (sometimes 0-based, but we assume 1-based)
+        for p in range(1, max_pages + 1):
+            if p == 1:
+                page_urls.append(index_url)
+            else:
+                page_urls.append(_set_query_param(index_url, page_param, p))
+    else:
+        page_urls = [index_url]
+
+    discovered: List[str] = []
+    discovered_seen: Set[str] = set()
+
+    # Crawl index pages
+    for p_url in page_urls:
+        if RESPECT_ROBOTS and not robots_allows(p_url):
+            print(" ! robots.txt disallows index listing; skipping listing page")
+            continue
+
+        resp = get(p_url, "index-listing")
+        if resp.status_code != 200:
+            continue
+
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        links = []
+        for sel in selectors:
+            try:
+                links += soup.select(sel)
+            except Exception:
+                continue
+
+        for a in links:
+            href = a.get("href")
+            if not href:
+                continue
+
+            abs_url = urljoin(site_root_url, href)
+            up = urlparse(abs_url)
+
+            if up.netloc.lower() != base_netloc:
+                continue
+
+            if any(x in abs_url.lower() for x in ["#", "mailto:", "javascript:"]):
+                continue
+
+            path = up.path
+
+            # exclude prefixes (categories, tags, etc.)
+            if any(path.startswith(ep) for ep in exclude_prefixes):
+                continue
+
+            is_preferred = bool(preferred_prefix and path.startswith(preferred_prefix))
+            if strict_section_only and preferred_prefix and not is_preferred:
+                continue
+
+            if rx and not rx.search(path):
+                continue
+
+            if abs_url not in discovered_seen:
+                discovered_seen.add(abs_url)
+                discovered.append(abs_url)
+
+        # stop if we already have enough candidates
+        if len(discovered) >= max(limit * 6, 200):
+            break
+
+    # Convert discovered URLs into items by visiting article pages
+    items: List[dict] = []
+    new_count = 0
+
+    for u in discovered:
+        if len(items) >= limit:
+            break
+
+        if u in seen_urls:
+            continue
+
+        if RESPECT_ROBOTS and not robots_allows(u):
+            continue
+
+        meta = _extract_article_meta(u)
+        if meta:
+            items.append(meta)
+            new_count += 1
+
+        if new_count >= NEW_ITEMS_PER_RUN:
+            break
+
+    return items
+
+
 # ---------------------------------------------------------------------
 # Sitemap helpers
 # ---------------------------------------------------------------------
 def _normalize_host(netloc: str) -> str:
-    return netloc.lower().lstrip("[").rstrip("]").removeprefix("www.")
+    n = netloc.lower().lstrip("[").rstrip("]")
+    return n[4:] if n.startswith("www.") else n
+
 
 def _same_site(url: str, base: str) -> bool:
     up = urlparse(url)
     bp = urlparse(base)
     return _normalize_host(up.netloc) == _normalize_host(bp.netloc)
 
-def _read_robots_for_sitemaps(page_url: str) -> list[str]:
+
+def _read_robots_for_sitemaps(page_url: str) -> List[str]:
     try:
         p = urlparse(page_url)
         robots_url = f"{p.scheme}://{p.netloc}/robots.txt"
         r = get(robots_url, "robots")
         if r.status_code != 200 or not r.text:
             return []
-        urls = []
+
+        urls: List[str] = []
         for line in r.text.splitlines():
             line = line.strip()
             if not line or not line.lower().startswith("sitemap:"):
@@ -590,7 +806,8 @@ def _read_robots_for_sitemaps(page_url: str) -> list[str]:
     except Exception:
         return []
 
-def _fetch_xml(url: str) -> str | None:
+
+def _fetch_xml(url: str) -> Optional[str]:
     try:
         r = get(url, "sitemap")
         if r.status_code != 200:
@@ -606,13 +823,16 @@ def _fetch_xml(url: str) -> str | None:
                 raw = gzip.GzipFile(fileobj=io.BytesIO(r.content)).read()
 
         head = raw[:400].decode("utf-8", errors="replace").lstrip().lower()
-        if ("text/html" in ct or head.startswith("<!doctype html") or head.startswith("<html")):
-            if not (head.startswith("<?xml") or "<urlset" in head or "<sitemapindex" in head):
-                return None
+        if (
+            ("text/html" in ct or head.startswith("<!doctype html") or head.startswith("<html"))
+            and not (head.startswith("<?xml") or "<urlset" in head or "<sitemapindex" in head)
+        ):
+            return None
 
         return raw.decode("utf-8", errors="replace")
     except Exception:
         return None
+
 
 # ---------------------------------------------------------------------
 # Sitemap scraping WITH include_prefix + strict option + seen filtering
@@ -620,18 +840,18 @@ def _fetch_xml(url: str) -> str | None:
 def scrape_from_sitemap(
     page_url: str,
     limit: int = MAX_ITEMS_PER_SOURCE,
-    sitemap_url: str | None = None,
-    include_prefix: str | None = None,
+    sitemap_url: Optional[str] = None,
+    include_prefix: Optional[str] = None,
     strict_section_only: bool = False,
-    seen_urls: set[str] | None = None,
-) -> list[dict]:
+    seen_urls: Optional[Set[str]] = None,
+) -> List[dict]:
     if seen_urls is None:
         seen_urls = set()
 
     parsed = urlparse(page_url)
     base_root = f"{parsed.scheme}://{parsed.netloc}"
 
-    candidates: list[str] = []
+    candidates: List[str] = []
     if sitemap_url:
         candidates.append(sitemap_url)
 
@@ -648,16 +868,17 @@ def scrape_from_sitemap(
     robots_hints = _read_robots_for_sitemaps(page_url)
     candidates = robots_hints + [c for c in candidates if c not in robots_hints]
 
-    seen_cands = set()
-    dedup_cands = []
+    # Dedup candidates
+    dedup_cands: List[str] = []
+    seen_cands: Set[str] = set()
     for c in candidates:
         if c and c not in seen_cands:
             seen_cands.add(c)
             dedup_cands.append(c)
     candidates = dedup_cands
 
-    seen_sitemaps = set()
-    page_urls: list[str] = []
+    seen_sitemaps: Set[str] = set()
+    page_urls: List[str] = []
 
     def _iter_local(root: ET.Element, local_name: str):
         for el in root.iter():
@@ -701,6 +922,7 @@ def scrape_from_sitemap(
     for sm_url in candidates:
         if len(page_urls) >= max(limit * 6, 200):
             break
+
         if sm_url in seen_sitemaps:
             continue
         seen_sitemaps.add(sm_url)
@@ -710,22 +932,22 @@ def scrape_from_sitemap(
             continue
         parse_sitemap(xml_txt)
 
-    # De-dupe
-    dedup = []
-    seen = set()
+    # De-dupe page URLs
+    dedup: List[str] = []
+    seen: Set[str] = set()
     for u in page_urls:
         if u not in seen:
             seen.add(u)
             dedup.append(u)
 
-    # Apply include-prefix preference BEFORE capping
+    # Apply include-prefix preference before capping
     preferred_prefix = include_prefix
     if not preferred_prefix:
         base_hint = urlparse(page_url).path.rstrip("/")
         preferred_prefix = (base_hint + "/") if base_hint and base_hint != "/" else ""
 
-    preferred = []
-    others = []
+    preferred: List[str] = []
+    others: List[str] = []
     for u in dedup:
         p = urlparse(u).path
         if preferred_prefix and p.startswith(preferred_prefix):
@@ -735,16 +957,14 @@ def scrape_from_sitemap(
 
     urls = preferred if strict_section_only else (preferred + others)
 
-    items: list[dict] = []
+    items: List[dict] = []
     new_count = 0
 
     for u in urls:
         if len(items) >= limit:
             break
-
         if u in seen_urls:
             continue
-
         if RESPECT_ROBOTS and not robots_allows(u):
             continue
 
@@ -758,11 +978,13 @@ def scrape_from_sitemap(
 
     return items
 
+
 # ---------------------------------------------------------------------
 # RSS + index writers
 # ---------------------------------------------------------------------
-def write_rss(out_path: str, channel_title: str, channel_link: str, items: list[dict]) -> str:
+def write_rss(out_path: str, channel_title: str, channel_link: str, items: List[dict]) -> str:
     from xml.sax.saxutils import escape
+
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     last_build = rfc2822()
 
@@ -771,28 +993,34 @@ def write_rss(out_path: str, channel_title: str, channel_link: str, items: list[
         l = escape(i.get("link", ""))
         d = escape(i.get("description", "") or i.get("summary", "") or t)
         pd = i.get("pubDate") or last_build
-        return f"""  <item>
-    <title>{t}</title>
-    <link>{l}</link>
-    <description>{d}</description>
-    <pubDate>{pd}</pubDate>
-  </item>"""
+        return (
+            "<item>\n"
+            f" <title>{t}</title>\n"
+            f" <link>{l}</link>\n"
+            f" <description>{d}</description>\n"
+            f" <pubDate>{pd}</pubDate>\n"
+            "</item>"
+        )
 
-    xml = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-  <title>{escape(channel_title)}</title>
-  <link>{escape(channel_link)}</link>
-  <description>Auto-generated periodically</description>
-  <lastBuildDate>{last_build}</lastBuildDate>
-{os.linesep.join(item_xml(i) for i in items)}
-</channel>
-</rss>
-"""
+    xml = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<rss version="2.0">\n'
+        "<channel>\n"
+        f" <title>{escape(channel_title)}</title>\n"
+        f" <link>{escape(channel_link)}</link>\n"
+        " <description>Auto-generated periodically</description>\n"
+        f" <lastBuildDate>{last_build}</lastBuildDate>\n"
+        f"{os.linesep.join(item_xml(i) for i in items)}\n"
+        "</channel>\n"
+        "</rss>\n"
+    )
+
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(xml)
+
     print("Wrote", out_path)
     return last_build
+
 
 def _read_existing_last_build(slug: str) -> str:
     path = os.path.join("feeds", f"{slug}.xml")
@@ -806,49 +1034,55 @@ def _read_existing_last_build(slug: str) -> str:
         pass
     return "n/a"
 
-def build_index(feed_map_enabled: list[tuple[str, str, str]],
-                feed_map_disabled: list[tuple[str, str, str]]):
+
+def build_index(feed_map_enabled: List[Tuple[str, str, str]], feed_map_disabled: List[Tuple[str, str, str]]):
     base = os.environ.get("PAGES_BASE", "")
 
     def row_enabled(name: str, slug: str, last_build: str) -> str:
         rel = f"feeds/{slug}.xml"
         url = (base + rel) if base else rel
-        return f'<li><a href="{url}" target="_blank" rel="noopener">{name}</a> — <code>{url}</code> — <small>Last run: {last_build}</small></li>'
+        return (
+            f'<li><a href="{url}" target="_blank" rel="noopener">{name}</a> '
+            f'— <code>{url}</code> — <small>Last run: {last_build}</small></li>'
+        )
 
     def row_disabled(name: str, slug: str, last_build: str) -> str:
         rel = f"feeds/{slug}.xml"
         url = (base + rel) if base else rel
-        return f'<li><span>{name}</span> — <code>{url}</code> — <em>disabled</em> — <small>Last run: {last_build}</small></li>'
+        return (
+            f'<li><span>{name}</span> — <code>{url}</code> — <em>disabled</em> '
+            f'— <small>Last run: {last_build}</small></li>'
+        )
 
     html = f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <title>Research Feeds (auto-updated)</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-  body{{font-family:system-ui,Segoe UI,Arial,sans-serif;line-height:1.5;padding:2rem;max-width:900px;margin:auto}}
-  h2{{margin-top:2rem}}
-  code, small{{opacity:.8}}
-  li{{margin:.25rem 0}}
+ body{{font-family:system-ui,Segoe UI,Arial,sans-serif;line-height:1.5;padding:2rem;max-width:900px;margin:auto}}
+ h2{{margin-top:2rem}}
+ code, small{{opacity:.8}}
+ li{{margin:.25rem 0}}
 </style>
 </head><body>
 <h1>Research Feeds</h1>
 <p>Updated automatically by GitHub Actions.</p>
-
 <h2>Enabled</h2>
 <ul>
 {os.linesep.join(row_enabled(n, s, lb) for (n, s, lb) in feed_map_enabled)}
 </ul>
-
 <h2>Disabled</h2>
 <ul>
 {os.linesep.join(row_disabled(n, s, lb) for (n, s, lb) in feed_map_disabled)}
 </ul>
-
 </body></html>
 """
+
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
+
     print("Wrote index.html")
+
 
 # ---------------------------------------------------------------------
 # Per-source robots override
@@ -859,6 +1093,7 @@ def _respect_robots_for_source(src: dict) -> bool:
     if "respect_robots" in src:
         return bool(src.get("respect_robots"))
     return RESPECT_ROBOTS
+
 
 # ---------------------------------------------------------------------
 # Main
@@ -872,8 +1107,8 @@ def main():
     enabled_sources = [s for s in sources if not s.get("disabled")]
     disabled_sources = [s for s in sources if s.get("disabled")]
 
-    feed_map_enabled: list[tuple[str, str, str]] = []
-    feed_map_disabled: list[tuple[str, str, str]] = []
+    feed_map_enabled: List[Tuple[str, str, str]] = []
+    feed_map_disabled: List[Tuple[str, str, str]] = []
 
     for ds in disabled_sources:
         feed_map_disabled.append((ds["name"], ds["slug"], _read_existing_last_build(ds["slug"])))
@@ -910,9 +1145,27 @@ def main():
                     except Exception:
                         continue
 
-            new_items: list[dict] = []
+            new_items: List[dict] = []
 
-            if mode == "scrape":
+            if mode == "index":
+                index_url = src.get("index_url", page_url)
+                print(" • crawling index/listing page(s) …")
+                new_items = index_items(
+                    index_url=index_url,
+                    site_root_url=page_url,
+                    limit=MAX_ITEMS_PER_SOURCE,
+                    include_prefix=src.get("index_include_prefix"),
+                    strict_section_only=bool(src.get("index_strict", False)),
+                    exclude_prefixes=src.get("index_exclude_prefixes"),
+                    max_pages=int(src.get("index_max_pages", 1) or 1),
+                    page_param=src.get("index_page_param"),
+                    page_template=src.get("index_page_template"),
+                    selectors=src.get("index_selectors"),
+                    article_regex=src.get("index_article_regex"),
+                    seen_urls=seen,
+                )
+
+            elif mode == "scrape":
                 if RESPECT_ROBOTS and not robots_allows(page_url):
                     print(" ! robots.txt disallows scraping listing; trying sitemap fallback …")
                     new_items = scrape_from_sitemap(
@@ -946,11 +1199,13 @@ def main():
                 for e in feed.entries:
                     if new_count >= NEW_ITEMS_PER_RUN:
                         break
+
                     link = e.get("link") or page_url
                     if link in seen:
                         continue
 
                     title = e.get("title") or e.get("summary") or "Untitled"
+
                     if e.get("published_parsed"):
                         dt = datetime.datetime(*e.published_parsed[:6], tzinfo=datetime.timezone.utc)
                         pub = rfc2822(dt)
@@ -959,6 +1214,7 @@ def main():
                         pub = rfc2822(dt)
                     else:
                         pub = rfc2822()
+
                     desc = BeautifulSoup(e.get("summary", ""), "html.parser").get_text(" ", strip=True)[:1000]
                     new_items.append({"title": title, "link": link, "pubDate": pub, "description": desc})
                     new_count += 1
@@ -976,18 +1232,19 @@ def main():
 
             if not merged_items:
                 now = rfc2822()
-                merged_items = [{
-                    "title": f"{name} — no items discovered",
-                    "link": page_url,
-                    "pubDate": now,
-                    "description": "Feed builder could not detect recent posts automatically."
-                }]
+                merged_items = [
+                    {
+                        "title": f"{name} — no items discovered",
+                        "link": page_url,
+                        "pubDate": now,
+                        "description": "Feed builder could not detect recent posts automatically.",
+                    }
+                ]
 
             newly_added_links = [i.get("link") for i in new_items if i.get("link")]
             newly_added_links = [u for u in newly_added_links if u and u != page_url]
             _update_seen(state, slug, newly_added_links)
 
-            # Tiny per-feed debug summary
             _debug_summary(
                 slug=slug,
                 new_items=new_items,
@@ -1007,12 +1264,14 @@ def main():
                 out_path,
                 f"{name} (Custom Feed)",
                 page_url,
-                [{
-                    "title": f"Error building feed for {name}",
-                    "link": page_url,
-                    "pubDate": last_build,
-                    "description": str(e)
-                }]
+                [
+                    {
+                        "title": f"Error building feed for {name}",
+                        "link": page_url,
+                        "pubDate": last_build,
+                        "description": str(e),
+                    }
+                ],
             )
             feed_map_enabled.append((name, slug, last_build))
 
@@ -1022,6 +1281,7 @@ def main():
     build_index(feed_map_enabled, feed_map_disabled)
     save_state(state)
     print(f"Wrote state file: {STATE_PATH}")
+
 
 if __name__ == "__main__":
     main()
