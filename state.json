@@ -135,7 +135,7 @@
     "seen_urls": []
   },
   "appomni": {
-    "last_success_utc": "2026-03-09T18:23:19.584321+00:00",
+    "last_success_utc": "2026-03-09T18:48:26.502049+00:00",
     "seen_urls": [
       "https://appomni.com/blog/saas-supply-chain-attacks-mitre-attck-mapping/",
       "https://appomni.com/blog/saas-security-controls-framework-sscf/",
@@ -276,7 +276,7 @@
     "seen_urls": []
   },
   "bfore-ai-reports": {
-    "last_success_utc": "2026-03-09T18:23:20.067800+00:00",
+    "last_success_utc": "2026-03-09T18:48:27.122700+00:00",
     "seen_urls": [
       "https://bfore.ai/report/2025-retail-holiday-threat-report-scams-impersonation-attacks/",
       "https://bfore.ai/report/threat-research-elon-vs-trump-feud-drives-malicious-domain-surge/",
@@ -311,7 +311,7 @@
     ]
   },
   "binarydefense-blog": {
-    "last_success_utc": "2026-03-09T18:23:23.640602+00:00",
+    "last_success_utc": "2026-03-09T18:48:31.863580+00:00",
     "seen_urls": [
       "https://binarydefense.com/resources/blog/isis-cyber-security-threat",
       "https://binarydefense.com/resources/blog/artillery-version-1-3-released",
@@ -1100,7 +1100,7 @@
     ]
   },
   "blackpoint-ti": {
-    "last_success_utc": "2026-03-09T18:23:27.819984+00:00",
+    "last_success_utc": "2026-03-09T18:48:36.867895+00:00",
     "seen_urls": [
       "https://blackpointcyber.com/threat-profile/akira-ransomware/",
       "https://blackpointcyber.com/threat-profile/ransomhub-ransomware/",
@@ -2087,7 +2087,7 @@
     ]
   },
   "deception-pro": {
-    "last_success_utc": "2026-03-09T18:23:27.985071+00:00",
+    "last_success_utc": "2026-03-09T18:48:37.263155+00:00",
     "seen_urls": [
       "https://blog.deception.pro/blog/clickfix-hok-velvet-tempest-termite",
       "https://blog.deception.pro/blog/hok-intrusion-abusing-multiple-rmms-jan2026",
@@ -2098,8 +2098,22 @@
     ]
   },
   "dtex-reports": {
-    "last_success_utc": "2026-03-09T18:23:33.683277+00:00",
+    "last_success_utc": "2026-03-09T18:48:41.796029+00:00",
     "seen_urls": [
+      "https://www.dtex.ai/capabilities/ai-security/",
+      "https://www.dtex.ai/capabilities/risk-adaptive-dlp/",
+      "https://www.dtex.ai/platform/",
+      "https://www.dtex.ai/data-loss-prevention/",
+      "https://www.dtex.ai/ai-security-ppc/",
+      "https://www.dtex.ai/shadow-ai-ppc/",
+      "https://www.dtex.ai/about-dtex/",
+      "https://www.dtex.ai/request-a-demo/",
+      "https://www.dtex.ai/contact-us/",
+      "https://www.dtex.ai/capabilities/uam/",
+      "https://www.dtex.ai/financial-services/",
+      "https://www.dtex.ai/manufacturing/",
+      "https://www.dtex.ai/pharma-life-sciences/",
+      "https://www.dtex.ai/government/",
       "https://www.dtex.ai/integrations/for-citrix/",
       "https://www.dtex.ai/gigaom-radar-reports/",
       "https://www.dtex.ai/ai3-risk-assistant/",
@@ -2145,7 +2159,7 @@
     ]
   },
   "lexfo": {
-    "last_success_utc": "2026-03-09T18:23:34.209825+00:00",
+    "last_success_utc": "2026-03-09T18:48:42.615936+00:00",
     "seen_urls": [
       "https://blog.lexfo.fr/munge-heap-buffer-overflow.html",
       "https://blog.lexfo.fr/wso2.html",
@@ -2253,15 +2267,15 @@
     ]
   },
   "prodaft-blogs": {
-    "last_success_utc": "2026-03-09T18:23:35.663235+00:00",
+    "last_success_utc": "2026-03-09T18:48:44.735100+00:00",
     "seen_urls": []
   },
   "prodaft-reports": {
-    "last_success_utc": "2026-03-09T18:23:36.143884+00:00",
+    "last_success_utc": "2026-03-09T18:48:45.493118+00:00",
     "seen_urls": []
   },
   "profero": {
-    "last_success_utc": "2026-03-09T18:23:39.735075+00:00",
+    "last_success_utc": "2026-03-09T18:48:45.629061+00:00",
     "seen_urls": [
       "https://profero.io/blog/from-the-trenches-common-sense-measures-to-prevent-cloud-incidents",
       "https://profero.io/blog/ransomexx-fixing-corrupted-ransom",
@@ -2301,11 +2315,11 @@
     ]
   },
   "ransomnews": {
-    "last_success_utc": "2026-03-09T18:23:40.470448+00:00",
+    "last_success_utc": "2026-03-09T18:48:46.523009+00:00",
     "seen_urls": []
   },
   "sequretek": {
-    "last_success_utc": "2026-03-09T18:23:40.827910+00:00",
+    "last_success_utc": "2026-03-09T18:48:47.078004+00:00",
     "seen_urls": []
   },
   "trellix-research": {

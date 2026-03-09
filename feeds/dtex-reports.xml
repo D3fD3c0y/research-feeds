@@ -4,12 +4,96 @@
  <title>DTEX Reports (Custom Feed)</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Mon, 09 Mar 2026 18:23:33 GMT</lastBuildDate>
+ <lastBuildDate>Mon, 09 Mar 2026 18:48:41 GMT</lastBuildDate>
 <item>
  <title>Reports</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>DTEX publishes comprehensive insider risk management reports, from the cost of insider threats to nation-state operations and more.</description>
- <pubDate>Mon, 09 Mar 2026 18:23:29 GMT</pubDate>
+ <pubDate>Mon, 09 Mar 2026 18:48:38 GMT</pubDate>
+</item>
+<item>
+ <title>AI Security</title>
+ <link>https://www.dtex.ai/capabilities/ai-security/</link>
+ <description>DTEX AI Security provides the guardrails to innovate confidently and securely. Govern who can use AI, how it should be used to protect data.</description>
+ <pubDate>Mon, 09 Mar 2026 18:48:38 GMT</pubDate>
+</item>
+<item>
+ <title>DLP</title>
+ <link>https://www.dtex.ai/capabilities/risk-adaptive-dlp/</link>
+ <description>DTEX Risk-Adaptive DLP identifies and stops data loss events, with near-zero performance impact to endpoints or the network.</description>
+ <pubDate>Mon, 09 Mar 2026 18:48:38 GMT</pubDate>
+</item>
+<item>
+ <title>Platform Overview</title>
+ <link>https://www.dtex.ai/platform/</link>
+ <description>Designed to collect the minimum amount of data for a near zero impact on the endpoint, DTEX identifies risks earlier to prevent data leaks.</description>
+ <pubDate>Mon, 09 Mar 2026 18:48:38 GMT</pubDate>
+</item>
+<item>
+ <title>Risk-Adaptive Data Protection: Beyond Traditional DLP PP</title>
+ <link>https://www.dtex.ai/data-loss-prevention/</link>
+ <description>Legacy DLP solutions struggle with complexity, false positives, and gaps across cloud and endpoint environments. Learn how a risk-adaptive approach to Data Loss Prevention protects sensitive data without slowing your business down.</description>
+ <pubDate>Mon, 09 Mar 2026 18:48:38 GMT</pubDate>
+</item>
+<item>
+ <title>AI Security PPC</title>
+ <link>https://www.dtex.ai/ai-security-ppc/</link>
+ <description>Learn how AI Security can protect your organization from risks associated with AI adoption while enhancing overall productivity.</description>
+ <pubDate>Mon, 09 Mar 2026 18:48:39 GMT</pubDate>
+</item>
+<item>
+ <title>Shadow AI PPC</title>
+ <link>https://www.dtex.ai/shadow-ai-ppc/</link>
+ <description>Stay ahead of Shadow AI risks. Learn how to manage unsanctioned AI tools and safeguard your organization's sensitive information.</description>
+ <pubDate>Mon, 09 Mar 2026 18:48:39 GMT</pubDate>
+</item>
+<item>
+ <title>About DTEX</title>
+ <link>https://www.dtex.ai/about-dtex/</link>
+ <description>DTEX provides proactive insider risk management to stop data breaches. Learn more about DTEX and the people championing the mission.</description>
+ <pubDate>Mon, 09 Mar 2026 18:48:39 GMT</pubDate>
+</item>
+<item>
+ <title>Request a Demo</title>
+ <link>https://www.dtex.ai/request-a-demo/</link>
+ <description>Request a demo to see how the DTEX Platform identifies insider risk earlier and maps behavior to malicious, careless or compromised activity.</description>
+ <pubDate>Mon, 09 Mar 2026 18:48:40 GMT</pubDate>
+</item>
+<item>
+ <title>Contact Us</title>
+ <link>https://www.dtex.ai/contact-us/</link>
+ <description>Contact us and discover firsthand how the DTEX insider risk management platform can improve security visibility and stop data loss.</description>
+ <pubDate>Mon, 09 Mar 2026 18:48:40 GMT</pubDate>
+</item>
+<item>
+ <title>UAM</title>
+ <link>https://www.dtex.ai/capabilities/uam/</link>
+ <description>DTEX user activity monitoring (UAM) works to identify early risk indicators by increasing monitoring only when needed.</description>
+ <pubDate>Mon, 09 Mar 2026 18:48:40 GMT</pubDate>
+</item>
+<item>
+ <title>Financial Services</title>
+ <link>https://www.dtex.ai/financial-services/</link>
+ <description>Used by banks across the world, DTEX helps financial institutions discern legitimate use from malicious through insider risk management.</description>
+ <pubDate>Mon, 09 Mar 2026 18:48:40 GMT</pubDate>
+</item>
+<item>
+ <title>Manufacturing</title>
+ <link>https://www.dtex.ai/manufacturing/</link>
+ <description>DTEX helps manufactures with insider risk management, protecting intellectual property and keeping systems running smoothly.</description>
+ <pubDate>Mon, 09 Mar 2026 18:48:40 GMT</pubDate>
+</item>
+<item>
+ <title>Pharma and Life Sciences</title>
+ <link>https://www.dtex.ai/pharma-life-sciences/</link>
+ <description>DTEX helps to secure data, monitor file access and protect intellectual property and sensitive research in pharmaceuticals and life sciences.</description>
+ <pubDate>Mon, 09 Mar 2026 18:48:41 GMT</pubDate>
+</item>
+<item>
+ <title>Government</title>
+ <link>https://www.dtex.ai/government/</link>
+ <description>DTEX works with government agencies to uplift insider risk management and supported a trusted workforce.</description>
+ <pubDate>Mon, 09 Mar 2026 18:48:41 GMT</pubDate>
 </item>
 <item>
  <title>For Citrix</title>
@@ -100,90 +184,6 @@
  <link>https://www.dtex.ai/resources/whitepapers/</link>
  <description>DTEX white papers provide in depth information and guidance on the most important aspects of insider risk management.</description>
  <pubDate>Mon, 09 Mar 2026 18:18:58 GMT</pubDate>
-</item>
-<item>
- <title>Events</title>
- <link>https://www.dtex.ai/events/</link>
- <description>Get the details on the latest DTEX events to stay up to speed with the latest insights on insider risk management and more.</description>
- <pubDate>Mon, 09 Mar 2026 18:18:58 GMT</pubDate>
-</item>
-<item>
- <title>Technology Alliances</title>
- <link>https://www.dtex.ai/partners/technology-alliances/</link>
- <description>DTEX partners with industry leading technology providers to deliver the most advanced insider risk management solutions to customers.</description>
- <pubDate>Mon, 09 Mar 2026 18:18:59 GMT</pubDate>
-</item>
-<item>
- <title>Strategic Partners</title>
- <link>https://www.dtex.ai/partners/strategic-partners/</link>
- <description>DTEX strategic partners are advancing insider risk management with us, making strides to enhance security and innovate solutions together.</description>
- <pubDate>Mon, 09 Mar 2026 18:18:59 GMT</pubDate>
-</item>
-<item>
- <title>Marketplace</title>
- <link>https://www.dtex.ai/partners/marketplace/</link>
- <description>DTEX partners with industry leading technology providers to deliver powerful insider risk management solutions to customers.</description>
- <pubDate>Mon, 09 Mar 2026 18:18:59 GMT</pubDate>
-</item>
-<item>
- <title>Channel Partners</title>
- <link>https://www.dtex.ai/partners/channel-partners/</link>
- <description>DTEX partners with industry leading technology and solution providers to deliver powerful insider risk management solutions to customers.</description>
- <pubDate>Mon, 09 Mar 2026 18:19:00 GMT</pubDate>
-</item>
-<item>
- <title>Subscribe Now</title>
- <link>https://www.dtex.ai/subscribe-now/</link>
- <description>Subscribe to the DTEX newsletter to get insider insights and learn more about DTEX events, product launches, and strategic initiatives.</description>
- <pubDate>Mon, 09 Mar 2026 18:19:00 GMT</pubDate>
-</item>
-<item>
- <title>For Microsoft 365</title>
- <link>https://www.dtex.ai/integrations/for-microsoft-365/</link>
- <description>DTEX integrates with the Microsoft Defender suite and Information Protection, helping to deliver better behavior analytics.</description>
- <pubDate>Mon, 09 Mar 2026 18:19:00 GMT</pubDate>
-</item>
-<item>
- <title>DTEX Next 2025</title>
- <link>https://www.dtex.ai/next-2025/</link>
- <description>Discover DTEX NEXT innovations: proactive security, risk-adaptive DLP, insider threat detection, and AI governance to stay ahead of threats.</description>
- <pubDate>Mon, 09 Mar 2026 18:19:00 GMT</pubDate>
-</item>
-<item>
- <title>Newsroom</title>
- <link>https://www.dtex.ai/newsroom/</link>
- <description>Check back here for the latest DTEX news, product updates, and company announcements.</description>
- <pubDate>Mon, 09 Mar 2026 18:19:00 GMT</pubDate>
-</item>
-<item>
- <title>Blog</title>
- <link>https://www.dtex.ai/blog/</link>
- <description>Read the DTEX Blog for trusted insights on insider risk management, data loss prevention, AI, proactive security, and more.</description>
- <pubDate>Thu, 20 Jun 2024 19:01:18 GMT</pubDate>
-</item>
-<item>
- <title>For Crowdstrike</title>
- <link>https://www.dtex.ai/integrations/for-crowdstrike/</link>
- <description>DTEX and CrowdStrike enable rich behavioral context and deep endpoint telemetry for real-time visibility into user activity and data usage.</description>
- <pubDate>Mon, 09 Mar 2026 18:19:01 GMT</pubDate>
-</item>
-<item>
- <title>Press Releases</title>
- <link>https://www.dtex.ai/newsroom/press-releases/</link>
- <description>DTEX press releases provide in depth information and guidance on the latest news on insider risk management.</description>
- <pubDate>Mon, 09 Mar 2026 18:19:01 GMT</pubDate>
-</item>
-<item>
- <title>DTEX Customer Support Services</title>
- <link>https://www.dtex.ai/support-policy/</link>
- <description>Learn more about DTEX support services that are provided to customers licensing DTEX software and services an MSA.</description>
- <pubDate>Mon, 09 Mar 2026 18:19:01 GMT</pubDate>
-</item>
-<item>
- <title>DTEX| The Risk-Adaptive Security Platform for the Human and AI Enterprise</title>
- <link>https://www.dtex.ai/</link>
- <description>Only DTEX unifies DLP, behavioral analytics and user activity monitoring with AI to stop insider risks from becoming data breaches.</description>
- <pubDate>Mon, 09 Mar 2026 17:18:06 GMT</pubDate>
 </item>
 </channel>
 </rss>
