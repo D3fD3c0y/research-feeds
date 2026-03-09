@@ -4,7 +4,97 @@
  <title>CrowdStrike Blog (Custom Feed)</title>
  <link>https://www.crowdstrike.com/en-us/blog/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Mon, 09 Mar 2026 13:32:32 GMT</lastBuildDate>
+ <lastBuildDate>Mon, 09 Mar 2026 13:44:21 GMT</lastBuildDate>
+<item>
+ <title>Managed Threat Hunting Meets the Challenge of the Tenacious Adversary</title>
+ <link>https://www.crowdstrike.com/blog/managed-threat-hunting-meets-the-challenge-of-the-tenacious-adversary/</link>
+ <description>Learn the tactics, techniques and procedures (TTPs) stealthy adversaries employ that go beyond what can be observed or detected. They even troubleshoot when their activities are prevented, but enterprise-wide visibility and monitoring by experienced analysts can disrupt these dedicated bad actors.</description>
+ <pubDate>Mon, 09 Mar 2026 13:43:49 GMT</pubDate>
+</item>
+<item>
+ <title>CrowdStrike Provides Free Dashboard to Identify Vulnerable Macs</title>
+ <link>https://www.crowdstrike.com/blog/crowdstrike-provides-free-dashboard-to-identify-vulnerable-macs/</link>
+ <description>CrowdStrike has addressed a new macOS vulnerability, CVE-2018-4407, and is supporting its Mac users by releasing a dashboard that helps Falcon platform customers identify vulnerable Macs in their environments.</description>
+ <pubDate>Mon, 09 Mar 2026 13:43:52 GMT</pubDate>
+</item>
+<item>
+ <title>Managed Threat Hunting Bridges the Talent Gap</title>
+ <link>https://www.crowdstrike.com/blog/managed-threat-hunting-bridges-the-talent-gap/</link>
+ <description>In an article from The Security Ledger, CrowdStrike’s Scott Taschler explains how managed threat hunting can bridge the IT security talent gap that is jeopardizing cybersecurity and burdening organizations worldwide.</description>
+ <pubDate>Mon, 09 Mar 2026 13:43:55 GMT</pubDate>
+</item>
+<item>
+ <title>CrowdStrike Receives Highest Overall Score in the 2018 Gartner Peer Insights Customers’ Choice for EPP</title>
+ <link>https://www.crowdstrike.com/blog/crowdstrike-receives-highest-overall-score-in-the-2018-gartner-peer-insights-customers-choice-for-epp/</link>
+ <description>CrowdStrike has been named in the 2018 Gartner Peer Insights Customers’ Choice for Endpoint Protection Platforms. This follows other Gartner recognition for CrowdStrike of highest and furthest "Visionary" in the Gartner MQ for EPP and top 3 in all categories for the Gartner Critical Capabilities for EPP report.</description>
+ <pubDate>Mon, 09 Mar 2026 13:43:58 GMT</pubDate>
+</item>
+<item>
+ <title>CrowdStrike Demystifies Threats with MITRE ATT&amp;CK</title>
+ <link>https://www.crowdstrike.com/blog/crowdstrike-demystifies-threats-with-mitre-attck/</link>
+ <description>CrowdStrike leverages the MITRE ATT&amp;CK framework to add context to security workflows and reduce time to triage and investigate threats.</description>
+ <pubDate>Mon, 09 Mar 2026 13:44:00 GMT</pubDate>
+</item>
+<item>
+ <title>Helix Kitten | Threat Actor Profile | CrowdStrike</title>
+ <link>https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-november-helix-kitten/</link>
+ <description>HELIX KITTEN is an Iran-based threat actor targeting the aerospace, energy, financial, government, hospitality, and telecommunications business verticals.</description>
+ <pubDate>Mon, 09 Mar 2026 13:44:03 GMT</pubDate>
+</item>
+<item>
+ <title>Farewell to Kelihos and ZOMBIE SPIDER</title>
+ <link>https://www.crowdstrike.com/blog/farewell-to-kelihos-and-zombie-spider/</link>
+ <description>Learn about Kelihos malware and its operator from CrowdStrike Falcon® Intel experts providing technical analysis, attribution, and context around the threat actor and an outlook section with a YARA rule for detection.</description>
+ <pubDate>Mon, 09 Mar 2026 13:44:04 GMT</pubDate>
+</item>
+<item>
+ <title>MITRE ATT&amp;CK: Why Detections and Tainted Telemetry are Required for an Effective EDR Solution</title>
+ <link>https://www.crowdstrike.com/blog/mitre-attck-why-detections-and-tainted-telemetry-are-required-for-an-effective-edr-solution/</link>
+ <description>In the recent MITRE ATT&amp;CK Evaluations, MITRE used some terms that appear to have been misunderstood, even by some test participants. Here we'll look at the terms as defined by MITRE and dig into some relevant details.</description>
+ <pubDate>Mon, 09 Mar 2026 13:44:07 GMT</pubDate>
+</item>
+<item>
+ <title>Big Data, Graph, and the Cloud: Three Keys to Stopping Today’s Threats</title>
+ <link>https://www.crowdstrike.com/blog/big-data-graph-and-the-cloud-three-keys-to-stopping-todays-threats/</link>
+ <description>Graph database technology is emerging as a key tool in the cybersecurity arsenal, helping organizations put big data to work to detect advanced threats and stop breaches. Learn more about CrowdStrike Threat Graph, the industry’s largest and most sophisticated graph database.</description>
+ <pubDate>Mon, 09 Mar 2026 13:44:07 GMT</pubDate>
+</item>
+<item>
+ <title>Confessions of a Responder: The Hardest Part of Incident Response Investigations</title>
+ <link>https://www.crowdstrike.com/blog/confessions-of-a-responder-the-hardest-part-of-incident-response-investigations/</link>
+ <description>Get expert guidance on incident response from an IR investigator. Learn the importance of deploying a technology to scope the incident, some common deployment challenges and what organizations can do to be better prepared if and when an incident occurs.</description>
+ <pubDate>Mon, 09 Mar 2026 13:44:11 GMT</pubDate>
+</item>
+<item>
+ <title>Adversary Extends Persistence by Modifying System Binaries</title>
+ <link>https://www.crowdstrike.com/blog/adversary-extends-persistence-by-modifying-system-binaries/</link>
+ <description>The CrowdStrike Falcon® OverWatch team has identified new tactics, techniques, and procedures (TTPs) being employed by actors engaged in “living off the land” – using native system utilities to collect information, move laterally, and extend their foothold in an environment.</description>
+ <pubDate>Mon, 09 Mar 2026 13:44:12 GMT</pubDate>
+</item>
+<item>
+ <title>Digging into BokBot’s Core Module</title>
+ <link>https://www.crowdstrike.com/blog/digging-into-bokbots-core-module/</link>
+ <description>This technical blog digs into BokBot's core module and shows how BokBot infections have become more prevalent due to Emotet campaigns that leverage BokBot as a means to go after a victim’s personal banking information.</description>
+ <pubDate>Mon, 09 Mar 2026 13:44:15 GMT</pubDate>
+</item>
+<item>
+ <title>Visibility and Granular Control: The Secret to Securing USB Devices In the Workplace</title>
+ <link>https://www.crowdstrike.com/blog/visibility-and-granular-control-the-secret-to-securing-usb-devices-in-the-workplace/</link>
+ <description>Adversaries use USB devices to invade organization networks because they are not only broadly popular and social engineering tactics such as the USB drop work. Learn how CrowdStrike Falcon® Device Control gives you the visibility and speed you need to enable safe USB device use and stop attacks.</description>
+ <pubDate>Mon, 09 Mar 2026 13:44:19 GMT</pubDate>
+</item>
+<item>
+ <title>Analyzing Targeted Intrusions Through the ATT&amp;CK Framework Lens [VIDEO]</title>
+ <link>https://www.crowdstrike.com/blog/analyzing-targeted-intrusions-through-the-attck-framework-lens-video/</link>
+ <description>This video highlights cases of unique adversary tactics, techniques and procedures (TTPs) observed by CrowdStrike security analysts, comparing different methods used by cyber adversary groups and how they have evolved over time.</description>
+ <pubDate>Mon, 09 Mar 2026 13:44:19 GMT</pubDate>
+</item>
+<item>
+ <title>Widespread DNS Hijacking Activity Targets Multiple Sectors</title>
+ <link>https://www.crowdstrike.com/blog/widespread-dns-hijacking-activity-targets-multiple-sectors/</link>
+ <description>CrowdStrike Falcon® Intelligence has been researching reports of widespread DNS hijacking targeting organizations in multiple sectors including government, technology, insurance, and civilian aviation, as well as ISPs and infrastructure providers.</description>
+ <pubDate>Mon, 09 Mar 2026 13:44:21 GMT</pubDate>
+</item>
 <item>
  <title>Uncovering The “Unknown Unknowns”: Why Threat Hunting is a Security Must-Have</title>
  <link>https://www.crowdstrike.com/blog/uncovering-the-unknown-unknowns-why-threat-hunting-is-a-security-must-have/</link>
@@ -94,96 +184,6 @@
  <link>https://www.crowdstrike.com/blog/overwatch-insights-reviewing-a-new-intrusion-targeting-mac-systems/</link>
  <description>While Mac enterprise networks are not as common as Windows, and subject to less targeting by adversaries, recent CrowdStrike® Falcon OverWatch™ observations shed light on sophisticated tactics, techniques and procedures (TTPs) targeting Mac environments.</description>
  <pubDate>Mon, 09 Mar 2026 13:32:32 GMT</pubDate>
-</item>
-<item>
- <title>Taking Security to the Next Level: CrowdStrike Now Analyzes over 100 Billion Events Per Day</title>
- <link>https://www.crowdstrike.com/blog/taking-security-to-the-next-level-crowdstrike-now-analyzes-over-100-billion-events-per-day/</link>
- <description>CrowdStrike achieved a significant milestone of processing 100 billion events per day; learn how it increases customers’ endpoint protection.</description>
- <pubDate>Mon, 09 Mar 2026 08:59:18 GMT</pubDate>
-</item>
-<item>
- <title>Don't Even Think of Complying with the New NIST Cybersecurity Framework!</title>
- <link>https://www.crowdstrike.com/blog/dont-even-think-of-complying-with-the-new-nist-cybersecurity-framework/</link>
- <description>Complying with the NIST Framework is not possible. Rather, companies should strive to leverage the core functions to increase security posture.</description>
- <pubDate>Mon, 09 Mar 2026 08:59:20 GMT</pubDate>
-</item>
-<item>
- <title>CrowdStrike Scores Highest Overall for Use Case Type A or “Forward Leaning” Organizations in Gartner’s Critical Capabilities for EPP</title>
- <link>https://www.crowdstrike.com/blog/crowdstrike-scores-highest-overall-for-use-case-type-a-or-forward-leaning-organizations-in-gartners-critical-capabilities-for-endpoint-protection-platforms/</link>
- <description>The CrowdStrike endpoint protection platform (EPP) gets highest overall scores for “lean forward or Type A” organizations in Gartner's Critical Capabilities for EPP report.</description>
- <pubDate>Mon, 09 Mar 2026 08:59:22 GMT</pubDate>
-</item>
-<item>
- <title>Taking Protection to a New Level: CrowdStrike Announces its $1 Million Breach Prevention Warranty</title>
- <link>https://www.crowdstrike.com/blog/taking-protection-to-a-new-level-crowdstrike-announces-its-1-million-breach-prevention-warranty/</link>
- <description>New customers of CrowdStrike Falcon® Endpoint Protection Complete now received a $1 million breach protection warranty at no charge -- learn more.</description>
- <pubDate>Mon, 09 Mar 2026 08:59:22 GMT</pubDate>
-</item>
-<item>
- <title>Mustang Panda | Threat Actor Profile | CrowdStrike</title>
- <link>https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-june-mustang-panda/</link>
- <description>MUSTANG PANDA is a China-based adversary that has demonstrated an ability to rapidly assimilate new tools and tactics. Learn more about their operations.</description>
- <pubDate>Mon, 09 Mar 2026 08:59:23 GMT</pubDate>
-</item>
-<item>
- <title>Hiding in Plain Sight: Using the Office 365 Activities API to Investigate Business Email Compromises</title>
- <link>https://www.crowdstrike.com/blog/hiding-in-plain-sight-using-the-office-365-activities-api-to-investigate-business-email-compromises/</link>
- <description>Learn how CrowdStrike Services used the Office 365 Activities API to investigate Business Email Compromises (BECs) involving cyber fraud and theft.</description>
- <pubDate>Mon, 09 Mar 2026 08:59:25 GMT</pubDate>
-</item>
-<item>
- <title>CrowdStrike Announces $200 Million Series E Financing Round with New and Existing Investors</title>
- <link>https://www.crowdstrike.com/blog/crowdstrike-closes-200-million-series-e-financing-round-with-new-and-existing-investors/</link>
- <description>Announcing Series E financing round of $200 million, led by General Atlantic, Accel, and IVP with participation from March Capital and CapitalG.</description>
- <pubDate>Mon, 09 Mar 2026 08:59:28 GMT</pubDate>
-</item>
-<item>
- <title>Don’t Take The Vendor’s Word For It: The Importance of Third-Party Testing - crowdstrike.com</title>
- <link>https://www.crowdstrike.com/blog/dont-take-the-vendors-word-for-it-the-importance-of-third-party-testing/</link>
- <description>Learn why navigating the crowded endpoint security vendor landscape requires objective information from public third-party testing and a free trial program.</description>
- <pubDate>Mon, 09 Mar 2026 08:59:32 GMT</pubDate>
-</item>
-<item>
- <title>Spark Hot Potato: Passing DataFrames Between Scala Spark and PySpark</title>
- <link>https://www.crowdstrike.com/blog/spark-hot-potato-passing-dataframes-between-scala-spark-and-pyspark/</link>
- <description>An introduction to interoperability of DataFrames between Scala Spark and PySpark.</description>
- <pubDate>Mon, 09 Mar 2026 08:59:32 GMT</pubDate>
-</item>
-<item>
- <title>Global Survey Reveals Supply Chain as a Rising and Critical New Threat Vector</title>
- <link>https://www.crowdstrike.com/blog/global-survey-reveals-supply-chain-as-a-rising-and-critical-new-threat-vector/</link>
- <description>Learn why supply chain attacks are on the rise and how IT security professionals view this critical new threat vector in CrowdStrike supply chain survey.</description>
- <pubDate>Mon, 09 Mar 2026 08:59:32 GMT</pubDate>
-</item>
-<item>
- <title>I Know What You Did Last Month: A New Artifact of Execution on macOS 10.13</title>
- <link>https://www.crowdstrike.com/blog/i-know-what-you-did-last-month-a-new-artifact-of-execution-on-macos-10-13/</link>
- <description>Learn about a new artifact, CoreAnalytics, that can help forensic investigators determine what executed on macOS systems.</description>
- <pubDate>Mon, 09 Mar 2026 08:59:35 GMT</pubDate>
-</item>
-<item>
- <title>Why Cybersecurity Should be a Board-Level Discussion</title>
- <link>https://www.crowdstrike.com/blog/why-cybersecurity-should-be-a-board-level-discussion/</link>
- <description>Cybersecurity needs to be discussed by boards of directors and C-level executives if organizations are going to mount the best defense against modern cyberattacks.</description>
- <pubDate>Mon, 09 Mar 2026 08:59:38 GMT</pubDate>
-</item>
-<item>
- <title>Wicked Spider Adversary | Threat Actor Profile | CrowdStrike</title>
- <link>https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-july-wicked-spider/</link>
- <description>WICKED SPIDER is a suspected China-based adversary that conducts exploitation operations as a group-for-hire service. Learn about their targets and methods.</description>
- <pubDate>Mon, 09 Mar 2026 08:59:38 GMT</pubDate>
-</item>
-<item>
- <title>CrowdStrike Foundation Supports Next Generation of Talent in Cybersecurity</title>
- <link>https://www.crowdstrike.com/blog/crowdstrike-foundation-supports-next-generation-of-talent-in-cybersecurity/</link>
- <description>The CrowdStrike Foundation is a non-profit that awards scholarships for the study of cybersecurity and AI and also supports worthwhile community endeavors.</description>
- <pubDate>Mon, 09 Mar 2026 08:59:41 GMT</pubDate>
-</item>
-<item>
- <title>Qatar’s Commercial Bank Chooses CrowdStrike Falcon®: A Partnership Based on Trust [VIDEO]</title>
- <link>https://www.crowdstrike.com/blog/qatars-commercial-bank-chooses-crowdstrike-falcon-a-partnership-based-on-trust/</link>
- <description>Commercial Bank, Qatar trusts CrowdStrike Falcon® endpoint protection to secure its critical infrastructure and prevent cyberattacks.</description>
- <pubDate>Mon, 09 Mar 2026 08:59:41 GMT</pubDate>
 </item>
 </channel>
 </rss>

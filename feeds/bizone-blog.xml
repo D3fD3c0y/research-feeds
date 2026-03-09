@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+ <title>BI.ZONE Blog (Custom Feed)</title>
+ <link>https://bi.zone/eng/expertise/blog/</link>
+ <description>Auto-generated periodically</description>
+ <lastBuildDate>Mon, 09 Mar 2026 13:43:04 GMT</lastBuildDate>
+<item>
+ <title>Technical articles</title>
+ <link>https://bi.zone/eng/expertise/blog/</link>
+ <description>BI.ZONE expert research and practical materials on cybersecurity</description>
+ <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Digging into CVE-2025-62592 in Oracle VirtualBox for macOS</title>
+ <link>https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2025-62592-v-oracle-virtualbox-dlya-macos/</link>
+ <description>We uncover a virtualization software vulnerability causing an ASLR leak</description>
+ <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>UnFortune 500: most often hacked in Russia and CIS</title>
+ <link>https://bi.zone/eng/expertise/blog/unfortune-500-most-often-hacked-in-russia-and-cis/</link>
+ <description>Examining current threats and vulnerabilities in public-facing applications and explaining how to minimize risks and quickly respond to attacks</description>
+ <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Cavalry Werewolf raids Russia's public sector with trusted relationship attacks</title>
+ <link>https://bi.zone/eng/expertise/blog/cavalry-werewolf-atakuet-rossiyu-cherez-doveritelnye-otnosheniya-mezhdu-gosudarstvami/</link>
+ <description>The malicious actors pose as government officials and utilize own crafted malware in their attacks</description>
+ <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Deep dive into CVE-2025-29824 in Windows</title>
+ <link>https://bi.zone/eng/expertise/blog/podrobnyy-razbor-uyazvimosti-cve-2025-29824-v-os-windows/</link>
+ <description>We look into the clfs.sys driver vulnerability that allows attackers to escalate privileges within the operating system</description>
+ <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Paper Werewolf targets Russia with WinRAR zero-day vulnerability</title>
+ <link>https://bi.zone/eng/expertise/blog/paper-werewolf-atakuet-rossiyu-s-ispolzovaniem-uyazvimosti-nulevogo-dnya-v-winrar/</link>
+ <description>The cluster continues its campaign against Russian organizations—this time exploiting WinRAR flaws</description>
+ <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Rainbow Hyena strikes again: new backdoor and shift in tactics</title>
+ <link>https://bi.zone/eng/expertise/blog/rainbow-hyena-snova-atakuet-novyy-bekdor-i-smena-taktik/</link>
+ <description>A new phishing campaign targeted healthcare and IT organizations. The hacktivists were using polyglot and LNK files mimicking legitimate documents to evade detection</description>
+ <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>ClickFix makes its way into Russia</title>
+ <link>https://bi.zone/eng/expertise/blog/proydite-proverku-i-poluchite-vpo-clickfix-dobralas-do-rossii/</link>
+ <description>How adversaries leverage fake CAPTCHAs to deploy Octowave Loader and a previously unknown RAT</description>
+ <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Malware or LLM? Silent Werewolf employs new loaders to attack Russian and Moldovan organizations</title>
+ <link>https://bi.zone/eng/expertise/blog/silent-werewolf-ispolzuet-novye-zagruzchiki-v-atakakh-na-rossiyskie-i-moldavskie-organizatsii/</link>
+ <description>The threat actor hinders payload retrieval, making it harder for researchers to trace the malware and analyze the cluster</description>
+ <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Exploring CVE-2025-24364 and CVE-2025-24365 in Vaultwarden</title>
+ <link>https://bi.zone/eng/expertise/blog/analiz-uyazvimostey-v-vaultwarden-cve-2025-24364-i-cve-2025-24365/</link>
+ <description>We analyze two vulnerabilities: one stems from improper access control while the other allows the attacker to remotely execute code</description>
+ <pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Sapphire Werewolf refines Amethyst stealer to attack energy companies</title>
+ <link>https://bi.zone/eng/expertise/blog/kamen-ogranennyy-sapphire-werewolf-ispolzuet-novuyu-versiyu-amethyst-stealer-dlya-atak-na-tek/</link>
+ <description>The Sapphire Werewolf cluster continues to enhance its toolkit, now leveraging a new version of the Amethyst stealer. The threat actor distributes the malware through phishing emails</description>
+ <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Squid Werewolf cyber spies masquerade as recruiters</title>
+ <link>https://bi.zone/eng/expertise/blog/sotni-tysyach-rubley-za-vashi-sekrety-kibershpiony-squid-werewolf-maskiruyutsya-pod-rekruterov/</link>
+ <description>The adversaries impersonated a legitimate company, emailing fake job descriptions to employees of targeted organizations</description>
+ <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Bloody Wolf evolution: new targets, new tools</title>
+ <link>https://bi.zone/eng/expertise/blog/evolyutsiya-bloody-wolf-novye-tseli-novye-sredstva-ataki/</link>
+ <description>The notorious cluster changes its toolkit by switching from malware to a legitimate remote administration tool</description>
+ <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>NOVA: blast from the past</title>
+ <link>https://bi.zone/eng/expertise/blog/nova-khorosho-zabytoe-staroe/</link>
+ <description>Attackers use a fork of a popular stealer to target Russian companies</description>
+ <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Espionage cluster Paper Werewolf engages in destructive behavior</title>
+ <link>https://bi.zone/eng/expertise/blog/paper-werewolf-sovmeshchaet-kibershpionazh-s-destruktivnymi-deystviyami/</link>
+ <description>The adversaries employ PowerShell and their own crafted malware to penetrate the infrastructures of Russian organizations</description>
+ <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

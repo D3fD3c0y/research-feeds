@@ -1,6 +1,6 @@
 {
   "abnormal-threat-intel": {
-    "last_success_utc": "2026-03-09T13:31:30.429720+00:00",
+    "last_success_utc": "2026-03-09T13:42:33.088488+00:00",
     "seen_urls": [
       "https://abnormal.ai/blog/phishing-sense-of-urgency",
       "https://abnormal.ai/blog/ai-governance-responsibilities",
@@ -65,7 +65,7 @@
     ]
   },
   "abstract-security": {
-    "last_success_utc": "2026-03-09T13:31:30.970729+00:00",
+    "last_success_utc": "2026-03-09T13:42:33.629158+00:00",
     "seen_urls": [
       "https://www.abstract.security/blog/why-your-siem-needs-a-data-pipeline-management-platform",
       "https://www.abstract.security/blog/reclaiming-the-pipeline-real-time-detection-without-blowing-the-budget",
@@ -130,8 +130,12 @@
       "https://www.abstract.security/blog/c2-corner-how-i-mentor"
     ]
   },
+  "analyst1": {
+    "last_success_utc": "2026-03-09T13:42:33.860575+00:00",
+    "seen_urls": []
+  },
   "appomni": {
-    "last_success_utc": "2026-03-09T13:31:35.228226+00:00",
+    "last_success_utc": "2026-03-09T13:42:44.166486+00:00",
     "seen_urls": [
       "https://appomni.com/blog/saas-supply-chain-attacks-mitre-attck-mapping/",
       "https://appomni.com/blog/saas-security-controls-framework-sscf/",
@@ -267,8 +271,12 @@
       "https://appomni.com/blog/how-to-comply-with-cyber-essentials-requirements-uk/"
     ]
   },
+  "armis-research": {
+    "last_success_utc": "2026-03-09T13:42:44.283897+00:00",
+    "seen_urls": []
+  },
   "bfore-ai-reports": {
-    "last_success_utc": "2026-03-09T13:31:36.892956+00:00",
+    "last_success_utc": "2026-03-09T13:42:45.101601+00:00",
     "seen_urls": [
       "https://bfore.ai/report/2025-retail-holiday-threat-report-scams-impersonation-attacks/",
       "https://bfore.ai/report/threat-research-elon-vs-trump-feud-drives-malicious-domain-surge/",
@@ -303,7 +311,7 @@
     ]
   },
   "binarydefense-blog": {
-    "last_success_utc": "2026-03-09T13:31:47.301272+00:00",
+    "last_success_utc": "2026-03-09T13:43:13.518562+00:00",
     "seen_urls": [
       "https://binarydefense.com/resources/blog/isis-cyber-security-threat",
       "https://binarydefense.com/resources/blog/artillery-version-1-3-released",
@@ -523,9 +531,74 @@
       "https://binarydefense.com/resources/blog/defendnot-turning-windows-defender-against-itself"
     ]
   },
-  "blackkite": {
-    "last_success_utc": "2026-03-09T13:31:59.306623+00:00",
+  "bizone-blog": {
+    "last_success_utc": "2026-03-09T13:43:04.386110+00:00",
     "seen_urls": [
+      "https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2025-62592-v-oracle-virtualbox-dlya-macos/",
+      "https://bi.zone/eng/expertise/blog/unfortune-500-most-often-hacked-in-russia-and-cis/",
+      "https://bi.zone/eng/expertise/blog/cavalry-werewolf-atakuet-rossiyu-cherez-doveritelnye-otnosheniya-mezhdu-gosudarstvami/",
+      "https://bi.zone/eng/expertise/blog/podrobnyy-razbor-uyazvimosti-cve-2025-29824-v-os-windows/",
+      "https://bi.zone/eng/expertise/blog/paper-werewolf-atakuet-rossiyu-s-ispolzovaniem-uyazvimosti-nulevogo-dnya-v-winrar/",
+      "https://bi.zone/eng/expertise/blog/rainbow-hyena-snova-atakuet-novyy-bekdor-i-smena-taktik/",
+      "https://bi.zone/eng/expertise/blog/proydite-proverku-i-poluchite-vpo-clickfix-dobralas-do-rossii/",
+      "https://bi.zone/eng/expertise/blog/silent-werewolf-ispolzuet-novye-zagruzchiki-v-atakakh-na-rossiyskie-i-moldavskie-organizatsii/",
+      "https://bi.zone/eng/expertise/blog/analiz-uyazvimostey-v-vaultwarden-cve-2025-24364-i-cve-2025-24365/",
+      "https://bi.zone/eng/expertise/blog/kamen-ogranennyy-sapphire-werewolf-ispolzuet-novuyu-versiyu-amethyst-stealer-dlya-atak-na-tek/",
+      "https://bi.zone/eng/expertise/blog/sotni-tysyach-rubley-za-vashi-sekrety-kibershpiony-squid-werewolf-maskiruyutsya-pod-rekruterov/",
+      "https://bi.zone/eng/expertise/blog/evolyutsiya-bloody-wolf-novye-tseli-novye-sredstva-ataki/",
+      "https://bi.zone/eng/expertise/blog/nova-khorosho-zabytoe-staroe/",
+      "https://bi.zone/eng/expertise/blog/paper-werewolf-sovmeshchaet-kibershpionazh-s-destruktivnymi-deystviyami/"
+    ]
+  },
+  "bizone-news": {
+    "last_success_utc": "2026-03-09T13:42:56.058561+00:00",
+    "seen_urls": [
+      "https://bi.zone/eng/news/my-obnaruzhili-tsepochku-uyazvimostey-v-oracle-virtualbox/",
+      "https://bi.zone/eng/news/kibershpiony-stali-pritvoryatsya-gossluzhashchimi-kyrgyzstana/",
+      "https://bi.zone/eng/news/vyshla-versiya-bi-zone-edr-1-38-s-ai-assistentom/",
+      "https://bi.zone/eng/news/kibershpiony-paper-werewolf-ispolzuyut-dlya-atak-uyazvimosti-v-winrar/",
+      "https://bi.zone/eng/news/vozvrashchenie-pipemagic-novaya-aktivnost-bekdora-v-saudovskoy-aravii-i-brazilii/",
+      "https://bi.zone/eng/news/khaktivisty-stali-sovershat-bolshe-atak-no-ikh-motivatsiya-stanovitsya-neodnoznachnoy/",
+      "https://bi.zone/eng/news/podtverdite-chto-vy-ne-robot-dlya-atak-na-rossiyskie-kompanii-stali-ispolzovat-feykovuyu-captcha/",
+      "https://bi.zone/eng/news/tysyachelikiy-shpion-silent-werewolf-menyaet-podkhody-i-instrumenty-chtoby-ostavatsya-neuznannym/",
+      "https://bi.zone/eng/news/my-obnaruzhili-uyazvimosti-vysokogo-urovnya-opasnosti-v-vaultwarden/",
+      "https://bi.zone/eng/news/novaya-funktsionalnost-bi-zone-threat-intelligence-pomozhet-kompaniyam-predskazyvat-kiberataki/",
+      "https://bi.zone/eng/news/polovina-kibergruppirovok-atakuyushchikh-rossiyskuyu-energetiku-natselena-na-shpionazh/",
+      "https://bi.zone/eng/news/bi-zone-edr-1-37-oblegchaet-polzovatelyam-rabotu-s-khranilishchem-sobytiy/",
+      "https://bi.zone/eng/news/ne-igrayte-v-kalmara-s-oborotnyami/",
+      "https://bi.zone/eng/news/v-novoy-versii-bi-zone-edr-uluchsheny-mekhanizmy-vyyavleniya-ugroz/"
+    ]
+  },
+  "bizone-research": {
+    "last_success_utc": "2026-03-09T13:43:08.670665+00:00",
+    "seen_urls": [
+      "https://bi.zone/eng/expertise/research/threat-zone-2025/",
+      "https://bi.zone/eng/expertise/research/threat-zone-gcc-2024/",
+      "https://bi.zone/eng/expertise/research/threat-zone-2024/",
+      "https://bi.zone/eng/expertise/research/7-faces-of-darkness/",
+      "https://bi.zone/eng/expertise/research/ransomware-source-code-and-builders-used-in-attacks-against-russian-organizations/",
+      "https://bi.zone/eng/expertise/research/threat_zone_2020/",
+      "https://bi.zone/eng/expertise/research/path-to-digital-leadership/"
+    ]
+  },
+  "blackkite": {
+    "last_success_utc": "2026-03-09T13:43:26.052582+00:00",
+    "seen_urls": [
+      "https://blackkite.com/blog/focus-friday-tprm-challenges-in-the-face-of-ivanti-ics-cacti-sonicwall-confluence-and-citrix-vulnerabilities",
+      "https://blackkite.com/blog/focus-friday-lessons-from-the-crowdstrike-update-outage-on-global-it-resilience",
+      "https://blackkite.com/blog/crowdstrike-outage-lessons-on-fragility-and-resilience",
+      "https://blackkite.com/blog/new-standards-forrester-wave",
+      "https://blackkite.com/blog/focus-friday-tprm-insights-into-critical-vulnerabilities-in-microsoft-windows-solarwinds-whd-zimbra-and-exchange-server",
+      "https://blackkite.com/blog/focus-friday-tprm-insights-into-dahua-nvr4-jenkins-classloaderproxy-and-zabbix-vulnerabilities-with-black-kites-focustags",
+      "https://blackkite.com/blog/black-kite-bridge-enables-industry-first-risk-collaboration-across-vendor-ecosystem",
+      "https://blackkite.com/blog/black-kite-achieves-soc-2--type-2-compliance",
+      "https://blackkite.com/blog/focus-friday-tprm-insights-into-the-pan-os-cleartext-vulnerability--a-sneak-peek-into-whats-next",
+      "https://blackkite.com/blog/focus-friday-tprm-insights-on-gogs-internet-explorer-docker-authz-and-jumpserver-vulnerabilities",
+      "https://blackkite.com/blog/tprm-myth-you-cant-see-nth-party-risks",
+      "https://blackkite.com/blog/focus-friday-tprm-insights-on-vmware-esxi-authentication-bypass-vulnerability",
+      "https://blackkite.com/blog/tprm-myth-you-cant-predict-ransomware",
+      "https://blackkite.com/blog/focus-friday-managing-third-party-risks-from-dahua-ip-camera-sonicwall-firewall-and-wpml-filecatalyst-workflow-vulnerabilities-with-black-kites-focustags",
+      "https://blackkite.com/blog/three-new-solutions-from-black-kite-automate-compliance-of-third-party-cyber-assessments-with-industrys-first-cyber-aware-ai-engine",
       "https://blackkite.com/blog/ransomware-review-february-2025-clops-cleo-attack-pushes-victim-count-to-historic-high",
       "https://blackkite.com/blog/black-kite-research-reveals-traditional-approaches-to-vulnerability-management-fall-short-in-third-party-risk-management-tprm",
       "https://blackkite.com/blog/how-to-prioritize-vulnerabilities-in-your-supply-chain",
@@ -769,8 +842,22 @@
     ]
   },
   "blackpoint-blog": {
-    "last_success_utc": "2026-03-09T13:32:10.078539+00:00",
+    "last_success_utc": "2026-03-09T13:43:32.701041+00:00",
     "seen_urls": [
+      "https://blackpointcyber.com/blog/top-4-ways-to-secure-microsoft-365-vulnerabilities/",
+      "https://blackpointcyber.com/blog/what-would-a-data-breach-cost-you/",
+      "https://blackpointcyber.com/blog/a-note-from-the-ceo-on-true-managed-detection-and-response-mdr/",
+      "https://blackpointcyber.com/blog/managed-detection-and-response-built-for-msp-security/",
+      "https://blackpointcyber.com/blog/the-confusing-cyber-security-landscape/",
+      "https://blackpointcyber.com/blog/cisa-warns-of-nation-state-attacks-are-you-prepared/",
+      "https://blackpointcyber.com/blog/12-cyber-security-principles-from-the-experts/",
+      "https://blackpointcyber.com/blog/spear-phishing-campaign-stopped-by-blackpoint-mdr/",
+      "https://blackpointcyber.com/blog/blackpoint-cyber-opens-new-24-7-mdr-service/",
+      "https://blackpointcyber.com/blog/olympic-destroyer-hack-how-we-wouldve-stopped-it/",
+      "https://blackpointcyber.com/blog/bank-data-breach-insurance-heres-why-it-isnt-enough/",
+      "https://blackpointcyber.com/blog/the-infamous-friday-the-13th-virus-a-history-lesson/",
+      "https://blackpointcyber.com/blog/industrial-networks-are-vulnerable-to-cyber-attacks/",
+      "https://blackpointcyber.com/blog/unwrap-the-fun-this-holiday-season-with-blackpoint/",
       "https://blackpointcyber.com/blog/how-to-evaluate-invest-in-a-soc-service/",
       "https://blackpointcyber.com/blog/blackpoint-ranks-1-in-summer-2021-g2-report/",
       "https://blackpointcyber.com/blog/summer-treat-wave-2021-is-here/",
@@ -956,7 +1043,7 @@
     ]
   },
   "blackpoint-ti": {
-    "last_success_utc": "2026-03-09T13:32:12.010738+00:00",
+    "last_success_utc": "2026-03-09T13:43:34.194242+00:00",
     "seen_urls": [
       "https://blackpointcyber.com/threat-profile/akira-ransomware/",
       "https://blackpointcyber.com/threat-profile/ransomhub-ransomware/",
@@ -983,8 +1070,12 @@
       "https://blackpointcyber.com/threat-profile/qilin-ransomware/"
     ]
   },
+  "bluevoyant": {
+    "last_success_utc": "2026-03-09T13:43:34.435846+00:00",
+    "seen_urls": []
+  },
   "breakpoint-labs": {
-    "last_success_utc": "2026-03-09T13:32:14.231426+00:00",
+    "last_success_utc": "2026-03-09T13:43:35.516276+00:00",
     "seen_urls": [
       "https://breakpoint-labs.com/hunting-for-escalation-paths-in-ad-admincount/",
       "https://breakpoint-labs.com/ai-red-teaming-part-3-attacking-claude-code-using-pyrit/",
@@ -1005,7 +1096,7 @@
     ]
   },
   "bridewell": {
-    "last_success_utc": "2026-03-09T13:32:17.304729+00:00",
+    "last_success_utc": "2026-03-09T13:43:38.538705+00:00",
     "seen_urls": [
       "https://www.bridewell.com/insights/blogs/5",
       "https://www.bridewell.com/insights/blogs/6",
@@ -1038,8 +1129,23 @@
     ]
   },
   "censys": {
-    "last_success_utc": "2026-03-09T13:32:27.409518+00:00",
+    "last_success_utc": "2026-03-09T13:43:45.113201+00:00",
     "seen_urls": [
+      "https://censys.com/blog/the-perils-of-false-positives/",
+      "https://censys.com/blog/back-to-the-future-how-historical-data-can-enhance-your-cyber-defenses/",
+      "https://censys.com/blog/beyondtrust-cve-2024-12356/",
+      "https://censys.com/blog/boost-your-threat-hunting-skills-with-these-5-informative-webinars/",
+      "https://censys.com/blog/the-end-of-stale-indicators/",
+      "https://censys.com/blog/will-the-real-volt-typhoon-please-stand-up/",
+      "https://censys.com/blog/using-censys-to-track-the-murdoc-botnet-campaign/",
+      "https://censys.com/blog/how-censys-search-helps-prevent-phishing-attacks-by-monitoring-ssl-tls-certificates/",
+      "https://censys.com/blog/cybersecurity-predictions-for-2025/",
+      "https://censys.com/blog/from-vulnerable-to-vigilant-3-critical-actions-to-protect-healthcare-from-cyber-threats/",
+      "https://censys.com/blog/the-global-impact-of-cve-2024-24919-in-checkpoint-vpn-gateways/",
+      "https://censys.com/blog/considering-an-easm-solution-heres-what-to-look-for/",
+      "https://censys.com/blog/analysis-of-arcanedoor-threat-infrastructure-suggests-potential-ties-to-chinese-based-actor/",
+      "https://censys.com/blog/water-ics-exposures-highlight-vulnerabilities-in-critical-infrastructure-security/",
+      "https://censys.com/blog/scouting-a-threat-actor/",
       "https://censys.com/blog/raising-the-bar-on-internet-coverage-predictive-scanning-takes-the-censys-internet-map-to-the-next-level/",
       "https://censys.com/blog/mission-critical-intelligence-why-this-government-agency-partners-with-censys-to-understand-the-threat-landscape/",
       "https://censys.com/blog/managed-file-transfer-mft-exposure/",
@@ -1238,11 +1344,11 @@
     ]
   },
   "chollima": {
-    "last_success_utc": "2026-03-09T13:32:27.498731+00:00",
+    "last_success_utc": "2026-03-09T13:43:45.373680+00:00",
     "seen_urls": []
   },
   "crowdStrike-adversaries-universe": {
-    "last_success_utc": "2026-03-09T13:32:29.738227+00:00",
+    "last_success_utc": "2026-03-09T13:43:46.479507+00:00",
     "seen_urls": [
       "https://www.crowdstrike.com/adversaries/pressure-chollima/",
       "https://www.crowdstrike.com/adversaries/blockade-spider/",
@@ -1428,8 +1534,23 @@
     ]
   },
   "crowdStrike-blog": {
-    "last_success_utc": "2026-03-09T13:32:32.755543+00:00",
+    "last_success_utc": "2026-03-09T13:44:21.132422+00:00",
     "seen_urls": [
+      "https://www.crowdstrike.com/blog/managed-threat-hunting-meets-the-challenge-of-the-tenacious-adversary/",
+      "https://www.crowdstrike.com/blog/crowdstrike-provides-free-dashboard-to-identify-vulnerable-macs/",
+      "https://www.crowdstrike.com/blog/managed-threat-hunting-bridges-the-talent-gap/",
+      "https://www.crowdstrike.com/blog/crowdstrike-receives-highest-overall-score-in-the-2018-gartner-peer-insights-customers-choice-for-epp/",
+      "https://www.crowdstrike.com/blog/crowdstrike-demystifies-threats-with-mitre-attck/",
+      "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-november-helix-kitten/",
+      "https://www.crowdstrike.com/blog/farewell-to-kelihos-and-zombie-spider/",
+      "https://www.crowdstrike.com/blog/mitre-attck-why-detections-and-tainted-telemetry-are-required-for-an-effective-edr-solution/",
+      "https://www.crowdstrike.com/blog/big-data-graph-and-the-cloud-three-keys-to-stopping-todays-threats/",
+      "https://www.crowdstrike.com/blog/confessions-of-a-responder-the-hardest-part-of-incident-response-investigations/",
+      "https://www.crowdstrike.com/blog/adversary-extends-persistence-by-modifying-system-binaries/",
+      "https://www.crowdstrike.com/blog/digging-into-bokbots-core-module/",
+      "https://www.crowdstrike.com/blog/visibility-and-granular-control-the-secret-to-securing-usb-devices-in-the-workplace/",
+      "https://www.crowdstrike.com/blog/analyzing-targeted-intrusions-through-the-attck-framework-lens-video/",
+      "https://www.crowdstrike.com/blog/widespread-dns-hijacking-activity-targets-multiple-sectors/",
       "https://www.crowdstrike.com/blog/uncovering-the-unknown-unknowns-why-threat-hunting-is-a-security-must-have/",
       "https://www.crowdstrike.com/blog/crowdstrike-expands-its-horizons-in-india-with-new-innovation-and-development-center-in-pune/",
       "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-august-goblin-panda/",
@@ -1598,7 +1719,7 @@
     ]
   },
   "cyberarmor": {
-    "last_success_utc": "2026-03-09T13:32:38.484233+00:00",
+    "last_success_utc": "2026-03-09T13:44:24.569853+00:00",
     "seen_urls": [
       "https://cyberarmor.tech/blog/investment-scam-the-operations",
       "https://cyberarmor.tech/blog/malware-dropper-distribution-via-malware-stealer-logs-no-honor-among-thieves-pt-2",
@@ -1637,20 +1758,35 @@
     "seen_urls": []
   },
   "cyberint-cyber-threats": {
-    "last_success_utc": "2026-03-09T13:32:41.126897+00:00",
+    "last_success_utc": "2026-03-09T13:44:26.759809+00:00",
     "seen_urls": []
   },
   "cyberint-threat-intelligence-reports": {
-    "last_success_utc": "2026-03-09T13:32:41.406066+00:00",
+    "last_success_utc": "2026-03-09T13:44:27.783980+00:00",
     "seen_urls": []
   },
   "cyberint-vulnerabilities": {
-    "last_success_utc": "2026-03-09T13:32:41.668299+00:00",
+    "last_success_utc": "2026-03-09T13:44:28.197436+00:00",
     "seen_urls": []
   },
   "cyjax": {
-    "last_success_utc": "2026-03-09T13:32:37.995010+00:00",
+    "last_success_utc": "2026-03-09T13:44:24.208033+00:00",
     "seen_urls": [
+      "https://www.cyjax.com/resources/blog/hows-that-for-a-malicious-linkc-new-group-launches-dls",
+      "https://www.cyjax.com/resources/blog/ian-thornton-trump-cyjax-know-your-attack-surface-and-start-to-use-intelligence-to-understand-what-threats-are-most-relevant-to-your-business",
+      "https://www.cyjax.com/resources/blog/importance-of-speed-in-threat-intelligence",
+      "https://www.cyjax.com/resources/blog/infosecurity-europe-2025-a-milestone-first-for-cyjax",
+      "https://www.cyjax.com/resources/blog/initial-access-brokers-explained",
+      "https://www.cyjax.com/resources/blog/inside-the-surge-of-cyber-attacks-targeting-manufacturing",
+      "https://www.cyjax.com/resources/blog/insider-threats-the-silent-risk-lurking-within-organisations",
+      "https://www.cyjax.com/resources/blog/inspiring-individuals-organisations-to-roar",
+      "https://www.cyjax.com/resources/blog/iocs-gotta-catch-em-all",
+      "https://www.cyjax.com/resources/blog/iran-and-the-usa-an-escalation-in-cyber-warfare",
+      "https://www.cyjax.com/resources/blog/is-that-ra-nope-it-is-raas-dls-emerges-for-new-extortion-group-anubis",
+      "https://www.cyjax.com/resources/blog/jhonerat-a-multi-stage-targeted-malware-infection",
+      "https://www.cyjax.com/resources/blog/kairos-extortion-group-turns-to-initial-access-brokers",
+      "https://www.cyjax.com/resources/blog/kazakhstan-moving-on",
+      "https://www.cyjax.com/resources/blog/kraken-onto-the-extortion-scene-new-kraken-dls-emerges",
       "https://www.cyjax.com/resources/blog/geopolitics-and-cybersecurity-weekly-brief-5-october-2020",
       "https://www.cyjax.com/resources/blog/geopolitics-and-cybersecurity-weekly-brief-7-december-2020",
       "https://www.cyjax.com/resources/blog/geopolitics-and-cybersecurity-weekly-brief-9-august-2021",
@@ -1849,7 +1985,7 @@
     ]
   },
   "pillar-security": {
-    "last_success_utc": "2026-03-09T13:32:41.920245+00:00",
+    "last_success_utc": "2026-03-09T13:44:28.417016+00:00",
     "seen_urls": [
       "https://www.pillar.security/blog/why-im-joining-pillar-security-by-jenna-raby",
       "https://www.pillar.security/blog/your-ai-agent-will-run-untrusted-code-now-what",

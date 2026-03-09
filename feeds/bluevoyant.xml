@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+ <title>BlueVoyant Blog (Custom Feed)</title>
+ <link>https://www.bluevoyant.com/blog</link>
+ <description>Auto-generated periodically</description>
+ <lastBuildDate>Mon, 09 Mar 2026 13:43:34 GMT</lastBuildDate>
+<item>
+ <title>BlueVoyant Blog — no items discovered</title>
+ <link>https://www.bluevoyant.com/blog</link>
+ <description>Feed builder could not detect recent posts automatically.</description>
+ <pubDate>Mon, 09 Mar 2026 13:43:34 GMT</pubDate>
+</item>
+</channel>
+</rss>

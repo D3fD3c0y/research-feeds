@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+ <title>BI.ZONE Research (Custom Feed)</title>
+ <link>https://bi.zone/eng/expertise/research/</link>
+ <description>Auto-generated periodically</description>
+ <lastBuildDate>Mon, 09 Mar 2026 13:43:08 GMT</lastBuildDate>
+<item>
+ <title>Materials</title>
+ <link>https://bi.zone/eng/expertise/research/</link>
+ <description>BI.ZONE in-house and partner research: from cyber risk to business continuity strategies</description>
+ <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Threat Zone 2025</title>
+ <link>https://bi.zone/eng/expertise/research/threat-zone-2025/</link>
+ <description>Research of the cyber threat landscape in Russia and other CIS countries (2025)</description>
+ <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Threat Zone GCC 2024</title>
+ <link>https://bi.zone/eng/expertise/research/threat-zone-gcc-2024/</link>
+ <description>Cyber threat overview for the GCC countries in 2024</description>
+ <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Threat Zone 2024</title>
+ <link>https://bi.zone/eng/expertise/research/threat-zone-2024/</link>
+ <description>Research of the cyber threat landscape in Russian and other CIS countries (2024)</description>
+ <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>The seven faces of darkness</title>
+ <link>https://bi.zone/eng/expertise/research/7-faces-of-darkness/</link>
+ <description>A look into the seven popular malware families that have been or continue to be sold as a service on the darknet, and how they are used to attack Russian organizations</description>
+ <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>A research into three cybercriminal groups that use leaked ransomware to attack Russian organizations</title>
+ <link>https://bi.zone/eng/expertise/research/ransomware-source-code-and-builders-used-in-attacks-against-russian-organizations/</link>
+ <description>The BI.ZONE Cyber Threat Intelligence team takes a look at how malware leaks influence the Russian threat landscape. The experts also review the attacks of the three most prominent hacker groups</description>
+ <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Threat Zone 2020: Not waiting for thunder</title>
+ <link>https://bi.zone/eng/expertise/research/threat_zone_2020/</link>
+ <description>Threat Zone is a large-scale analytical research that highlights the key trends in cyberattacks and their impact on the global economy and business</description>
+ <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>The path to digital leadership. Practical guide on incident management</title>
+ <link>https://bi.zone/eng/expertise/research/path-to-digital-leadership/</link>
+ <description>A manual to ensure business continuity and quick response to incidents in the digital environment</description>
+ <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+ <title>BI.ZONE News (Custom Feed)</title>
+ <link>https://bi.zone/eng/news/</link>
+ <description>Auto-generated periodically</description>
+ <lastBuildDate>Mon, 09 Mar 2026 13:42:56 GMT</lastBuildDate>
+<item>
+ <title>News</title>
+ <link>https://bi.zone/eng/news/</link>
+ <description>Stay up to date on new cybersecurity solutions, as well as BI.ZONE news and events</description>
+ <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>We uncover vulnerability chain in&amp;nbsp;Oracle VirtualBox</title>
+ <link>https://bi.zone/eng/news/my-obnaruzhili-tsepochku-uyazvimostey-v-oracle-virtualbox/</link>
+ <description>CVE-2025-62592 and CVE-2025-61760 rated 6.0 and 7.5 (CVSS 3.1), accordingly</description>
+ <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Espionage clusters disguise themselves as Kyrgyz state officials</title>
+ <link>https://bi.zone/eng/news/kibershpiony-stali-pritvoryatsya-gossluzhashchimi-kyrgyzstana/</link>
+ <description>In some cases the adversaries compromise real official emails to use them in attacks on companies</description>
+ <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>BI.ZONE EDR&amp;nbsp;1.38 boasts AI&amp;nbsp;assistant</title>
+ <link>https://bi.zone/eng/news/vyshla-versiya-bi-zone-edr-1-38-s-ai-assistentom/</link>
+ <description>New capabilities include vulnerability detection via the Threat Prediction module, operational technology protection via the ICS/OT module, and Linux self-protection</description>
+ <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Paper Werewolf cyber spies exploit WinRAR vulnerabilities</title>
+ <link>https://bi.zone/eng/news/kibershpiony-paper-werewolf-ispolzuyut-dlya-atak-uyazvimosti-v-winrar/</link>
+ <description>WinRAR archiver is used by nearly 80% of Russian companies and virtually all employees whose corporate devices run on Windows</description>
+ <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>The magical comeback: new PipeMagic activity in Saudi Arabia and Brazil</title>
+ <link>https://bi.zone/eng/news/vozvrashchenie-pipemagic-novaya-aktivnost-bekdora-v-saudovskoy-aravii-i-brazilii/</link>
+ <description>Kaspersky and BI.ZONE experts have investigated the PipeMagic backdoor. Kaspersky identified changes in the operators' tactics. BI.ZONE conducted a technical analysis of the vulnerability exploited in the wild</description>
+ <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Hacktivist attacks surge as motives grow murkier</title>
+ <link>https://bi.zone/eng/news/khaktivisty-stali-sovershat-bolshe-atak-no-ikh-motivatsiya-stanovitsya-neodnoznachnoy/</link>
+ <description>Hacktivist clusters are behind one in five cyberattacks on Russian companies. Financial motives are becoming more prominent, and adversaries are actively adopting new tools and techniques</description>
+ <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Fake CAPTCHAs used in new attacks on Russian companies</title>
+ <link>https://bi.zone/eng/news/podtverdite-chto-vy-ne-robot-dlya-atak-na-rossiyskie-kompanii-stali-ispolzovat-feykovuyu-captcha/</link>
+ <description>Close to 30 Russian companies were attacked in May and early June. The attacks utilized the ClickFix technique which tricked users into running malicious scripts. Previously, such attacks had only been recorded outside Russia</description>
+ <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Thousand-faced spy: Silent Werewolf evolves its arsenal to stay undetected</title>
+ <link>https://bi.zone/eng/news/tysyachelikiy-shpion-silent-werewolf-menyaet-podkhody-i-instrumenty-chtoby-ostavatsya-neuznannym/</link>
+ <description>This spring, the cluster leveraged new versions of its malware. The threat actor also introduced another tactic to obstruct incident reconstruction: instead of retrieving a malicious payload, it loaded a language model file. So far, Silent Werewolf's recent campaigns were limited to a few dozen organizations</description>
+ <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>BI.ZONE discovers two high‑impact vulnerabilities in Vaultwarden</title>
+ <link>https://bi.zone/eng/news/my-obnaruzhili-uyazvimosti-vysokogo-urovnya-opasnosti-v-vaultwarden/</link>
+ <description>Both have been assigned CVE identifiers</description>
+ <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>BI.ZONE Threat Intelligence upgraded to enable attack prediction and mitigate data breach impacts</title>
+ <link>https://bi.zone/eng/news/novaya-funktsionalnost-bi-zone-threat-intelligence-pomozhet-kompaniyam-predskazyvat-kiberataki/</link>
+ <description>The Underground resources tool is now available on the Threat Intelligence portal</description>
+ <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Half of all threat actors targeting Russia’s energy sector are cyber spies</title>
+ <link>https://bi.zone/eng/news/polovina-kibergruppirovok-atakuyushchikh-rossiyskuyu-energetiku-natselena-na-shpionazh/</link>
+ <description>Sapphire Werewolf is the second espionage cluster in the last few months to have disguised phishing attempts as recruiter emails. This time, the adversaries focused on energy companies</description>
+ <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>BI.ZONE EDR 1.37 streamlines telemetry storage</title>
+ <link>https://bi.zone/eng/news/bi-zone-edr-1-37-oblegchaet-polzovatelyam-rabotu-s-khranilishchem-sobytiy/</link>
+ <description>The new capability simplifies and speeds up querying. Also, the macOS agent is now compatible with the Podman container engine and has new telemetry and enhanced autonomous response capabilities</description>
+ <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Never play squid game with werewolves</title>
+ <link>https://bi.zone/eng/news/ne-igrayte-v-kalmara-s-oborotnyami/</link>
+ <description>Squid Werewolf emails attractive job offers</description>
+ <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>BI.ZONE EDR updated for better threat detection</title>
+ <link>https://bi.zone/eng/news/v-novoy-versii-bi-zone-edr-uluchsheny-mekhanizmy-vyyavleniya-ugroz/</link>
+ <description>The new BI.ZONE EDR version enhances the detection of complex threats for Windows. The Linux agent now monitors operations with inventory objects and is compatible with the Podman containerized environments. The users of BI.ZONE EDR can also set up task schedules to automate their routine processes</description>
+ <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

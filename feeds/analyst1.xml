@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
- <title>Abstract Security Blog (Custom Feed)</title>
- <link>https://www.abstract.security/abstract-canvas</link>
+ <title>Analyst1 Blog (Custom Feed)</title>
+ <link>https://analyst1.com/resources/</link>
  <description>Auto-generated periodically</description>
  <lastBuildDate>Mon, 09 Mar 2026 13:42:33 GMT</lastBuildDate>
 <item>
- <title>Abstract Security Blog — no items discovered</title>
- <link>https://www.abstract.security/abstract-canvas</link>
+ <title>Analyst1 Blog — no items discovered</title>
+ <link>https://analyst1.com/resources/</link>
  <description>Feed builder could not detect recent posts automatically.</description>
- <pubDate>Fri, 06 Mar 2026 19:34:47 GMT</pubDate>
+ <pubDate>Mon, 09 Mar 2026 13:42:33 GMT</pubDate>
 </item>
 </channel>
 </rss>
