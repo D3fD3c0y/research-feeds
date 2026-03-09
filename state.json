@@ -2238,47 +2238,7 @@
       "https://www.pillar.security/blog/anatomy-of-an-indirect-prompt-injection"
     ]
   },
-  "prodaft-blogs": {
-    "last_success_utc": "2026-03-09T18:19:03.693223+00:00",
-    "seen_urls": [
-      "https://www.prodaft.com/",
-      "https://www.prodaft.com/usta-cyber-threat-intelligence-platform",
-      "https://www.prodaft.com/catalyst-comprehensive-apt-threat-insight",
-      "https://www.prodaft.com/blindspot-cybersecurity-risk-intelligence-management",
-      "https://www.prodaft.com/cyber-security-aviation-industry",
-      "https://www.prodaft.com/brand-protection-cyber-security-teams",
-      "https://www.prodaft.com/cyber-security-defence-industry",
-      "https://www.prodaft.com/ecommerce-cyber-security-service",
-      "https://www.prodaft.com/cyber-security-energy-industry",
-      "https://www.prodaft.com/cyber-security-for-finance-banking",
-      "https://www.prodaft.com/cyber-security-for-fintech-companies",
-      "https://www.prodaft.com/fraud-prevention-solutions-services",
-      "https://www.prodaft.com/cyber-security-healthcare-industry",
-      "https://www.prodaft.com/cyber-security-insurance-industry",
-      "https://www.prodaft.com/corporate-business-cybersecurity-teams"
-    ]
-  },
-  "prodaft-reports": {
-    "last_success_utc": "2026-03-09T18:19:04.177917+00:00",
-    "seen_urls": [
-      "https://www.prodaft.com/",
-      "https://www.prodaft.com/usta-cyber-threat-intelligence-platform",
-      "https://www.prodaft.com/catalyst-comprehensive-apt-threat-insight",
-      "https://www.prodaft.com/blindspot-cybersecurity-risk-intelligence-management",
-      "https://www.prodaft.com/cyber-security-aviation-industry",
-      "https://www.prodaft.com/brand-protection-cyber-security-teams",
-      "https://www.prodaft.com/cyber-security-defence-industry",
-      "https://www.prodaft.com/ecommerce-cyber-security-service",
-      "https://www.prodaft.com/cyber-security-energy-industry",
-      "https://www.prodaft.com/cyber-security-for-finance-banking",
-      "https://www.prodaft.com/cyber-security-for-fintech-companies",
-      "https://www.prodaft.com/fraud-prevention-solutions-services",
-      "https://www.prodaft.com/cyber-security-healthcare-industry",
-      "https://www.prodaft.com/cyber-security-insurance-industry",
-      "https://www.prodaft.com/corporate-business-cybersecurity-teams"
-    ]
-  },
-  "profero": {
+   "profero": {
     "last_success_utc": "2026-03-09T18:19:08.374557+00:00",
     "seen_urls": [
       "https://profero.io/blog/cloud-security-alliance-conference-attacker-perspective-panel-overview",
