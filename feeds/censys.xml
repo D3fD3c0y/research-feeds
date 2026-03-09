@@ -4,7 +4,97 @@
  <title>Censys Blog (Custom Feed)</title>
  <link>https://censys.com/resources/blog</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Mon, 09 Mar 2026 13:43:45 GMT</lastBuildDate>
+ <lastBuildDate>Mon, 09 Mar 2026 17:07:26 GMT</lastBuildDate>
+<item>
+ <title>Tracking Vidar Infrastructure with Censys</title>
+ <link>https://censys.com/blog/tracking-vidar-infrastructure/</link>
+ <description>Introduction Stealers are trojans that collect credentials, notable files, and tokens from an infected computer and upload the data back to attacker-controlled infrastructure. Today, we will discuss one of the more advanced stealers: Vidar. Vidar is a piece of malware originating from the Arkei Stealer but uses new methods to find and direct traffic to […]</description>
+ <pubDate>Wed, 22 Nov 2023 01:30:58 GMT</pubDate>
+</item>
+<item>
+ <title>Unleash the Power of Censys Search: Exploring More with Historical Data</title>
+ <link>https://censys.com/blog/unleash-the-power-of-censys-search-discovering-more-with-historical-data/</link>
+ <description>Welcome back to Part III of our “Unleash the Power of Censys Search” series! In this series, we take a closer look at different ways Censys Search users can make the most of their engagement with the tool. In Part I, we provided tips for how to get started running queries in Censys Search. In […]</description>
+ <pubDate>Thu, 16 Nov 2023 21:27:00 GMT</pubDate>
+</item>
+<item>
+ <title>Solidarity with our Black Employees &amp;#038; Community</title>
+ <link>https://censys.com/blog/solidarity-with-our-black-employees-community/</link>
+ <description>Daunte Wright Tragedy We would like to address the tragic news of the death of Daunte Wright at the hands of police in Brooklyn Center, MN. As a company, we do not condone police violence. We grieve for this loss, and for the pain and suffering of Mr. Wright’s family, friends and community. Mr. Wright’s […]</description>
+ <pubDate>Wed, 14 Apr 2021 20:02:35 GMT</pubDate>
+</item>
+<item>
+ <title>MikroTik RouterOS CVE-2023-30799: On the Dangers of Public Admin Interfaces</title>
+ <link>https://censys.com/blog/mikrotik-routeros-cve-2023-30799/</link>
+ <description>Executive Summary Continue to track the state of vulnerability with our interactive dashboard Introduction Threat researchers at VulnCheck recently brought renewed attention to a critical remote post-authentication privilege escalation vulnerability in MikroTik RouterOS stable before 6.49.7 and long-term through 6.48.6, tracked as CVE-2023-30799. This exploit was first published by researchers from Margin Research at REcon […]</description>
+ <pubDate>Mon, 07 Aug 2023 18:16:11 GMT</pubDate>
+</item>
+<item>
+ <title>Spotlight: Women &amp;#038; Innovation at Censys</title>
+ <link>https://censys.com/blog/spotlight-women-innovation-at-censys/</link>
+ <description>Women drive innovation across all areas at Censys, from engineering and product design, to research, marketing, and beyond. In celebration of Women’s History Month and our ongoing commitment to gender equality, we recently spoke with some of our incredible teammates about their work. Himaja Motheram | Security Researcher  What kinds of projects do you work […]</description>
+ <pubDate>Sat, 01 Apr 2023 04:28:05 GMT</pubDate>
+</item>
+<item>
+ <title>Unlocking the Potential of X.509 Certificate Data</title>
+ <link>https://censys.com/blog/unlocking-the-potential-of-x-509-certificate-data-f0-9f-94-93/</link>
+ <description>We are celebrating the launch of Certs 2.0 – the largest X.509 certificate repository in existence! ???? Our new Certs 2.0 index provides enhanced access to our extensive billion certificate repository, with more efficient and granular searching capabilities. Additional benefits include: With all these new goodies available, we wanted to take a moment and review why […]</description>
+ <pubDate>Thu, 23 Feb 2023 04:30:18 GMT</pubDate>
+</item>
+<item>
+ <title>It’s Raining Buckets: The Importance of Cloud Storage Configurations</title>
+ <link>https://censys.com/blog/the-importance-cloud-storage-configurations-blog/</link>
+ <description>Introduction In 2017, a Verizon Wireless partner unintentionally misconfigured access controls for an Amazon S3 service, exposing an approximate 6 million records containing customer names, contact information, home addresses, account financials, and even account pins. Verizon was privately informed of the exposure on June 13th, 2017, and the misconfiguration was remediated on the 22nd. While […]</description>
+ <pubDate>Thu, 12 Aug 2021 19:40:08 GMT</pubDate>
+</item>
+<item>
+ <title>Censys in the News: ESXiArgs Ransomware Coverage</title>
+ <link>https://censys.com/blog/censys-in-the-news-esxiargs-ransomware-coverage/</link>
+ <description>  The Censys research team has been closely monitoring the spread of ESXiArgs ransomware since it was first detected in early February. The team has used Censys internet scanning data to track infected hosts across countries, to monitor how the hacker group has since responded, and to develop a dashboard with Censys data that researchers […]</description>
+ <pubDate>Sat, 18 Feb 2023 04:08:05 GMT</pubDate>
+</item>
+<item>
+ <title>RCE Zero Day in GoAnywhere MFT [CVE-2023-0669]</title>
+ <link>https://censys.com/blog/rce-zero-day-in-goanywhere-mft-cve-2023-0669/</link>
+ <description>The list of organizations who have come forward as victims of a GoAnywhere breach has grown long: Community Health Systems, Hatch Bank, Hitachi Energy, Rubrik, the City of Toronto, Procter &amp; Gamble, Saks Fifth Avenue, and Crown Resorts. update 2023-03-17 Hitachi Energy has become the 3rd organization to report a data breach in its GoAnywhere […]</description>
+ <pubDate>Fri, 17 Feb 2023 03:58:43 GMT</pubDate>
+</item>
+<item>
+ <title>Follow-up on Russian “Host F”</title>
+ <link>https://censys.com/blog/follow-up-on-russian-host-f/</link>
+ <description>(As reported in “Russian Ransomware C2 Network Discovered in Censys Data”) Executive summary In late January 2023 Censys analysts reviewed Host F (95.213.145.99), which was previously identified in Censys reporting as a Russia-based, probably malicious host running a Command and Control (C2) ransomware kit with callbacks to an associated Bitcoin wallet. Upon return to the […]</description>
+ <pubDate>Wed, 15 Feb 2023 03:44:24 GMT</pubDate>
+</item>
+<item>
+ <title>This Week's Top Three Trends in Cybersecurity</title>
+ <link>https://censys.com/blog/top-three-trends-in-cybersecurity/</link>
+ <description>  The Censys research team has been tracking some of this year’s most significant vulnerabilities, and making headlines with their work in the process. Read more about three of the vulnerabilities the team has tracked using our internet intelligence data and find the latest on where things stand with each vulnerability’s risk remediation. ESXiArgs ransomware […]</description>
+ <pubDate>Tue, 14 Feb 2023 03:38:59 GMT</pubDate>
+</item>
+<item>
+ <title>6 Steps Threat Profilers Can Follow to Uncover Ransomware (and Other Nefarious Activity)</title>
+ <link>https://censys.com/blog/for-threat-profilers-how-to-uncover-ransomware/</link>
+ <description>Ransomware attacks have dominated headlines in recent years, as attackers take aim at an increasing variety of targets, from school districts to critical infrastructure networks. Ransomware accounted for 25% of all breaches in 2022, according to the Verizon Data Breach Investigations Report, and in early 2022, CISA reported that it had observed incidents of ransomware […]</description>
+ <pubDate>Thu, 09 Feb 2023 03:24:57 GMT</pubDate>
+</item>
+<item>
+ <title>Responding to the Lowering Cost of Cyber Hostility</title>
+ <link>https://censys.com/blog/responding-to-the-lowering-cost-of-cyber-hostility/</link>
+ <description>As cyber hostility increases in volume, it’s easy to forget that the increases span the spectrum of sophistication. Zero day exploits and multi-million dollar ransoms might grab headlines, but the cost and ease of executing simple attacks is only getting cheaper and more accessible. Therefore, the digital security threats prevented by basic hygiene and sound […]</description>
+ <pubDate>Fri, 20 Jan 2023 01:25:37 GMT</pubDate>
+</item>
+<item>
+ <title>Fresh Search Query "Recipes" (+ Actual Food Recipes) to Start Your 2023</title>
+ <link>https://censys.com/blog/fresh-search-query-recipes-actual-food-recipes-to-start-your-2023/</link>
+ <description>Running an internet search query can be a lot like cooking a meal. Hang with us here … If you think about it, both cooking and querying rely on stepwise orders of operation – both follow “recipes,” if you will. For example, if you’re looking to uncover hacked web hosts, you’ll follow a series of […]</description>
+ <pubDate>Wed, 18 Jan 2023 01:04:17 GMT</pubDate>
+</item>
+<item>
+ <title>Why Did a Cybersecurity Company Choose Censys Data Over Competitors?</title>
+ <link>https://censys.com/blog/why-did-a-cybersecurity-company-choose-censys-data-over-competitors/</link>
+ <description>  We know that fresh, accurate, and timely data is the key ingredient to any cybersecurity intel effort. Security teams can have all the tools and manpower in the world, but without access to the right data (the kind of data that also reduces false positives and minimizes noise) security efforts will ultimately fall short. […]</description>
+ <pubDate>Fri, 06 Jan 2023 19:51:30 GMT</pubDate>
+</item>
 <item>
  <title>The Perils of False Positives</title>
  <link>https://censys.com/blog/the-perils-of-false-positives/</link>
@@ -94,96 +184,6 @@
  <link>https://censys.com/blog/scouting-a-threat-actor/</link>
  <description>Executive Summary Censys uncovered a potentially new C2 server called the “SCOUT PROJECT,” the source code of which can be found here. By analyzing files left open to the public, we found that a potential threat actor is using several newly reported CVEs as an attack vector: CVE-2025-30208 (ViteJS),  CVE-2025-3248 (Langflow AI), CVE-2025-29927 (NextJS) Identifying a novel C2 […]</description>
  <pubDate>Mon, 28 Apr 2025 20:29:00 GMT</pubDate>
-</item>
-<item>
- <title>Raising the Bar on Internet Coverage: Predictive Scanning Takes The Censys Internet Map to the Next Level</title>
- <link>https://censys.com/blog/raising-the-bar-on-internet-coverage-predictive-scanning-takes-the-censys-internet-map-to-the-next-level/</link>
- <description>At Censys, our goal is to be the one place to understand everything on the internet – for more effective threat hunting and exposure management. With the rapid proliferation of cloud providers, software, web properties, remote devices, and more, it is becoming more challenging for security teams to identify threats or exposures and take action. […]</description>
- <pubDate>Tue, 08 Aug 2023 21:45:13 GMT</pubDate>
-</item>
-<item>
- <title>Mission Critical Intelligence: Why This Government Agency Partners with Censys to Understand the Threat Landscape</title>
- <link>https://censys.com/blog/mission-critical-intelligence-why-this-government-agency-partners-with-censys-to-understand-the-threat-landscape/</link>
- <description>When ZMap, the world’s first global, open-source internet scanner, was released in 2012, it immediately attracted tens of thousands of users from leading government agencies who conducted critical searches to understand the emerging digital threat landscape. Today, Censys’ proprietary Internet Map is the most comprehensive, up-to-date collection of global internet infrastructure enriched with critical context […]</description>
- <pubDate>Fri, 21 Jul 2023 16:36:47 GMT</pubDate>
-</item>
-<item>
- <title>Managed File Transfer (MFT) Exposure</title>
- <link>https://censys.com/blog/managed-file-transfer-mft-exposure/</link>
- <description>Attackers Targeting MFT Tools Are On The Rise There is a constant war of convenience vs security being waged and moving files across networks is one of those battles being fought right now. While many of these tools are designed to only be accessed behind a firewall, they are often incorrectly configured to be accessed […]</description>
- <pubDate>Fri, 30 Jun 2023 21:01:45 GMT</pubDate>
-</item>
-<item>
- <title>Revisiting the State of the Internet</title>
- <link>https://censys.com/blog/revisiting-the-state-of-the-internet/</link>
- <description>Introduction  It’s been about two months since we released our 2023 State of the Internet Report. With access to the most comprehensive internet-wide scan data available, narrowing our focus for the report to a specific area or set of technologies on the internet was a formidable challenge. Ultimately, we decided to focus on the web, […]</description>
- <pubDate>Mon, 12 Jun 2023 18:26:40 GMT</pubDate>
-</item>
-<item>
- <title>Zyxel Vulnerabilities</title>
- <link>https://censys.com/blog/zyxel-vulnerabilities/</link>
- <description>Zyxel has had an interesting run the last few weeks, with three new vulnerabilities: CVE-2023-33009, CVE-2023-33010, and the most critical, CVE-2023-28771. The Mirai botnet is currently exploiting CVE-2023-28771. Censys found 24,457 potentially vulnerable Zyxel ATP, USG, and VPN products exposed to the internet. 86.72% of these hosts run the IKE protocol required for successful CVE-2023-28771 […]</description>
- <pubDate>Tue, 30 May 2023 23:47:38 GMT</pubDate>
-</item>
-<item>
- <title>Why an Exposure Management Solution Belongs in Your Tech Stack</title>
- <link>https://censys.com/blog/why-an-exposure-management-solution-belongs-in-your-tech-stack/</link>
- <description>Exposure Management solutions are a critical piece of the modern security tech stack. When organizations delay investing in Exposure Management, they limit their ability to effectively defend their security perimeter from attacks. In our recent 2023 State of Security Leadership Report, the majority of surveyed security leaders said that understanding the ENTIRETY of their attack […]</description>
- <pubDate>Thu, 03 Aug 2023 17:50:01 GMT</pubDate>
-</item>
-<item>
- <title>Total Economic Impact™: Censys EASM Customer Voices</title>
- <link>https://censys.com/blog/total-economic-impact-censys-easm-customer-voices/</link>
- <description>Who better to talk about the value of a solution than the folks who actually use it? As part of the recent Total Economic Impact of Censys External Attack Surface Management study, Forrester Consulting independently interviewed Censys customers to learn more about the business value they achieve with our Censys EASM solution. The big […]</description>
- <pubDate>Fri, 21 Apr 2023 17:02:57 GMT</pubDate>
-</item>
-<item>
- <title>Virtual Ghosts</title>
- <link>https://censys.com/blog/virtual-ghosts/</link>
- <description>These servers should not exist! Now Generally Available for all Censys customers is a new asset type, Web Entities. A “Web Entity” in Censys allows users to treat their web-based assets as a single high-level commodity, grouping hosts and services as part of an organization’s web service ecosystem. In addition to introducing this new data […]</description>
- <pubDate>Fri, 21 Apr 2023 17:00:25 GMT</pubDate>
-</item>
-<item>
- <title>Total Economic Impact™ : How Does Censys EASM Deliver Value to Customers?</title>
- <link>https://censys.com/blog/how-does-censys-easm-deliver-value/</link>
- <description>Censys recently commissioned Forrester Consulting to conduct an independent study of the Total Economic Impact™ of the Censys External Attack Surface Management (EASM) solution. Learn more about what the study found and how to access your copy.  When you’re weighing the pros and cons of adding a new solution to your security tech stack, understanding […]</description>
- <pubDate>Thu, 13 Apr 2023 18:50:40 GMT</pubDate>
-</item>
-<item>
- <title>SoftEther VPN: Identifying VPN Software Across the Internet</title>
- <link>https://censys.com/blog/softether-vpn-identifying-vpn-software-across-the-internet/</link>
- <description>Executive Summary SoftEther VPN is a free, open-source VPN client created by researchers in Japan and used for commercial and non-commercial use. The United States, Japan, and China are the top three countries where Censys observed the highest number of SoftEther hosts. Censys also found that four of the top ten autonomous systems where SoftEther […]</description>
- <pubDate>Thu, 06 Apr 2023 22:53:51 GMT</pubDate>
-</item>
-<item>
- <title>Four Oh Four: A Look at Our Favorite Status Code</title>
- <link>https://censys.com/blog/four-oh-four-a-look-at-our-favorite-status-code/</link>
- <description>Happy 404 day from Censys! Here are some fun stats involving our favorite “resource not found” HTTP status code! We’ve all experienced it: you’re leisurely browsing the web, surfing along, and suddenly come across this: 404 Page Not Found. When a user encounters a 404 error, it could mean that the user incorrectly entered the […]</description>
- <pubDate>Wed, 05 Apr 2023 01:10:52 GMT</pubDate>
-</item>
-<item>
- <title>What You Need to Know About Biden's Long Awaited Cybersecurity Strategy</title>
- <link>https://censys.com/blog/what-you-need-to-know-about-bidens-long-awaited-cybersecurity-strategy/</link>
- <description>The Biden Administration’s long awaited National Cybersecurity Strategy was released outlining the strategy, goals, and implementation plan to drive a robust, collaborative approach to securing our global digital landscape. To mitigate the ever-mounting risk in both the public and private sectors, The White House places cybersecurity as a central tenant to the functioning of […]</description>
- <pubDate>Fri, 03 Mar 2023 04:59:43 GMT</pubDate>
-</item>
-<item>
- <title>Why This European Government Agency Uses Attack Surface Management</title>
- <link>https://censys.com/blog/why-this-government-agency-uses-attack-surface-management/</link>
- <description>Attack surface management (ASM) is becoming an integral, value-add strategy for cybersecurity teams across industries, including those in government. Our own partnerships with government agencies around the world highlight how ASM complements government threat hunting and response efforts. Teams use ASM tools like the Censys Attack Surface Management Platform to gain greater visibility into […]</description>
- <pubDate>Wed, 22 Feb 2023 04:20:53 GMT</pubDate>
-</item>
-<item>
- <title>The Mass Exploitation of Ivanti Connect Secure</title>
- <link>https://censys.com/blog/the-mass-exploitation-of-ivanti-connect-secure/</link>
- <description>Compromised Ivanti Connect Secure IPs Update January 31, 2024: Two new vulnerabilities, CVE-2024-21893 and CVE-2024-21888, have been identified in Connect Secure, Policy Secure, and ZTA gateways, the former of which is seeing active exploitation. Ivanti has released a new mitigation that serves as a workaround until official patches are available. A patch is now available […]</description>
- <pubDate>Tue, 23 Jan 2024 20:04:55 GMT</pubDate>
-</item>
-<item>
- <title>Analysis of Fox Kitten Infrastructure Reveals Unique Host Patterns and Potentially New IOCs</title>
- <link>https://censys.com/blog/analysis-of-fox-kitten-infrastructure-reveals-unique-host-patterns-and-potentially-new-iocs/</link>
- <description>Executive Summary Background On August 28, 2024, the Federal Bureau of Investigation, Cybersecurity and Infrastructure Security Agency (CISA), and the Department of Defense Cyber Crime Center (DC3) published a joint Cybersecurity Advisory (CSA) “to warn network defenders that, as of August 2024, a group of Iran-based cyber actors” (aka “Fox Kitten”) continues to exploit U.S. and […]</description>
- <pubDate>Tue, 07 Jan 2025 10:53:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

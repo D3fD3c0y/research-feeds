@@ -4,7 +4,97 @@
  <title>CrowdStrike Blog (Custom Feed)</title>
  <link>https://www.crowdstrike.com/en-us/blog/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Mon, 09 Mar 2026 13:44:21 GMT</lastBuildDate>
+ <lastBuildDate>Mon, 09 Mar 2026 17:07:54 GMT</lastBuildDate>
+<item>
+ <title>New Tiered Program for CrowdStrike Partners Accelerates Resale Opportunities</title>
+ <link>https://www.crowdstrike.com/blog/new-tiered-program-for-crowdstrike-partners-accelerates-resale-opportunities/</link>
+ <description>CrowdStrike’s revamped Elevate Partner Program offers a tiered approach designed to accelerate reseller opportunities and increase revenue for partners across the globe.</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:31 GMT</pubDate>
+</item>
+<item>
+ <title>Launching the CrowdStrike Store to Bring Trusted Third-Party Apps to the Falcon Platform</title>
+ <link>https://www.crowdstrike.com/blog/launching-the-crowdstrike-store-to-bring-trusted-third-party-apps-to-the-falcon-platform/</link>
+ <description>The CrowdStrike Store offers trusted third-party applications and add-ons that enhance and extend the industry-leading Falcon platform — CrowdStrike customers can discover, try and buy new security tools without having to deploy additional agents, on-premises servers or use new cloud platforms.</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:33 GMT</pubDate>
+</item>
+<item>
+ <title>Threat Actor “Magecart”: Coming to an eCommerce Store Near You</title>
+ <link>https://www.crowdstrike.com/blog/threat-actor-magecart-coming-to-an-ecommerce-store-near-you/</link>
+ <description>Learn about the tactics, techniques and procedures (TTPs) used by Magecart threat actors to target eCommerce platforms and skim credit card information from online shoppers.</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:33 GMT</pubDate>
+</item>
+<item>
+ <title>What’s in Your Wallet? Resource-Draining Cryptojacking Attacks Are on the Rise</title>
+ <link>https://www.crowdstrike.com/blog/whats-in-your-wallet-resource-draining-cryptojacking-attacks-are-on-the-rise-2/</link>
+ <description>Cryptojacking is the criminal form of cryptomining that hijacks valuable resources. Learn how the CrowdStrike Falcon® platform quickly detects and stops cryptojacking attempts before any resources-draining action can begin.</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:36 GMT</pubDate>
+</item>
+<item>
+ <title>Enhancing Secure Boot Chain on Fedora 29</title>
+ <link>https://www.crowdstrike.com/blog/enhancing-secure-boot-chain-on-fedora-29/</link>
+ <description>Secure Boot aims to secure the pre-boot environment against manipulations such as rootkits and bootkits. Learn about the standard Secure Boot configuration of a Fedora 29 installation on a Dell Latitude laptop, and how it can be hardened for greater protection.</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:37 GMT</pubDate>
+</item>
+<item>
+ <title>Why the CrowdStrike Partnership With Mercedes-AMG Petronas Motorsport is Passionately Driven</title>
+ <link>https://www.crowdstrike.com/blog/why-the-crowdstrike-partnership-with-mercedes-amg-petronas-motorsport-is-passionately-driven/</link>
+ <description>CrowdStrike partners with Mercedes-AMG Petronas Motorsport to demonstrate that high profile brands are in the sites of cyberattackers and why speed and precision are as essential to cybersecurity as they are to racing.</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:40 GMT</pubDate>
+</item>
+<item>
+ <title>"Sin”-ful SPIDERS: WIZARD SPIDER and LUNAR SPIDER Sharing the Same Web</title>
+ <link>https://www.crowdstrike.com/blog/sin-ful-spiders-wizard-spider-and-lunar-spider-sharing-the-same-web/</link>
+ <description>A new campaign in which BokBot is distributing a custom variant of a TrickBot module signals a more intimate relationship between the two adversaries, WIZARD SPIDER and LUNAR SPIDER. A historical relationship that was established during the operations of Dyre and Neverquest has been reinvigorated.</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:40 GMT</pubDate>
+</item>
+<item>
+ <title>First-Ever Adversary Ranking Highlights the Importance of Speed</title>
+ <link>https://www.crowdstrike.com/blog/first-ever-adversary-ranking-in-2019-global-threat-report-highlights-the-importance-of-speed/</link>
+ <description>The CrowdStrike 2019 Global Threat Report highlights the importance of speed and calculates the average breakout times of global adversary groups by region to deliver the first-ever ranking of their operational capabilities.</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:42 GMT</pubDate>
+</item>
+<item>
+ <title>2019 Global Threat Report Shows It Takes Innovation and Speed to Win Against Adversaries</title>
+ <link>https://www.crowdstrike.com/blog/2019-global-threat-report-shows-it-takes-innovation-and-speed-to-win-against-adversaries/</link>
+ <description>The 2019 CrowdStrike Global Threat Report, “Adversary Tradecraft and the Importance of Speed,” addresses the fast pace and increasing sophistication in adversary tactics, techniques and procedures (TTPs).</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:44 GMT</pubDate>
+</item>
+<item>
+ <title>Helping Non-Security Stakeholders Understand ATT&amp;CK in 10 Minutes or Less [VIDEO]</title>
+ <link>https://www.crowdstrike.com/blog/helping-non-security-stakeholders-understand-attck-in-10-minutes-or-less/</link>
+ <description>Learn a technique that can help non-security leaders understand MITRE ATT&amp;CK framework terminology in only 10 minutes.</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:44 GMT</pubDate>
+</item>
+<item>
+ <title>AutoMacTC: Automating Mac Forensic Triage | CrowdStrike</title>
+ <link>https://www.crowdstrike.com/blog/automating-mac-forensic-triage/</link>
+ <description>CrowdStrike introduces AutoMacTC, a new tool for automating Mac forensic triage. Learn how AutoMacTC works and how it amplifies your incident response efforts.</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:46 GMT</pubDate>
+</item>
+<item>
+ <title>The 3 T's of F1 Racing and Endpoint Protection | CrowdStrike</title>
+ <link>https://www.crowdstrike.com/blog/similarities-between-endpoint-protection-f1-racing/</link>
+ <description>Learn about the surprising similarities between CrowdStrike endpoint protection and Formula One™ racing when it comes to technology, telemetry, and teamwork.</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:49 GMT</pubDate>
+</item>
+<item>
+ <title>CrowdStrike Named “Leader” for Incident Response Services</title>
+ <link>https://www.crowdstrike.com/blog/crowdstrike-named-leader-forrester-wave-report-incident-response-services-2019/</link>
+ <description>CrowdStrike has been named as a leader in the 2019 Forrester Wave Report for Incident Response Services. Learn why we scored highest among the competition.</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:51 GMT</pubDate>
+</item>
+<item>
+ <title>New Evidence Proves Ongoing WIZARD/LUNAR SPIDER Collaboration</title>
+ <link>https://www.crowdstrike.com/blog/wizard-spider-lunar-spider-shared-proxy-module/</link>
+ <description>By tracking TrickBot and BokBot proxy modules, CrowdStrike has uncovered a new wrinkle in the relationship between WIZARD SPIDER and LUNAR SPIDER.</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:54 GMT</pubDate>
+</item>
+<item>
+ <title>Dissecting BokBot’s “Man in the Browser” | CrowdStrike</title>
+ <link>https://www.crowdstrike.com/blog/bokbots-man-in-the-browser-overview/</link>
+ <description>Learn how BokBot, a banking Trojan that targets financial institutions, can manipulate web traffic for financial fraud in this detailed technical analysis.</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:54 GMT</pubDate>
+</item>
 <item>
  <title>Managed Threat Hunting Meets the Challenge of the Tenacious Adversary</title>
  <link>https://www.crowdstrike.com/blog/managed-threat-hunting-meets-the-challenge-of-the-tenacious-adversary/</link>
@@ -94,96 +184,6 @@
  <link>https://www.crowdstrike.com/blog/widespread-dns-hijacking-activity-targets-multiple-sectors/</link>
  <description>CrowdStrike Falcon® Intelligence has been researching reports of widespread DNS hijacking targeting organizations in multiple sectors including government, technology, insurance, and civilian aviation, as well as ISPs and infrastructure providers.</description>
  <pubDate>Mon, 09 Mar 2026 13:44:21 GMT</pubDate>
-</item>
-<item>
- <title>Uncovering The “Unknown Unknowns”: Why Threat Hunting is a Security Must-Have</title>
- <link>https://www.crowdstrike.com/blog/uncovering-the-unknown-unknowns-why-threat-hunting-is-a-security-must-have/</link>
- <description>Threat hunting allows organizations to detect and respond to advanced threats by leveraging knowledge of the threat landscape along with the proper tools and data to find sophisticated adversaries.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:30 GMT</pubDate>
-</item>
-<item>
- <title>CrowdStrike Expands Its Horizons in India with New Innovation and Development Center in Pune</title>
- <link>https://www.crowdstrike.com/blog/crowdstrike-expands-its-horizons-in-india-with-new-innovation-and-development-center-in-pune/</link>
- <description>CrowdStrike opens a new Innovation and Development Center in Pune, India, as part of its global expansion and focus on enhancing the Falcon platform.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:30 GMT</pubDate>
-</item>
-<item>
- <title>Goblin Panda Adversary | Threat Actor Profile | CrowdStrike</title>
- <link>https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-august-goblin-panda/</link>
- <description>GOBLIN PANDA is a China-based threat actor targeting the aerospace &amp; defense, energy, food &amp; tobacco, government, marine services, and technology sectors.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:30 GMT</pubDate>
-</item>
-<item>
- <title>Two Birds, One STONE PANDA</title>
- <link>https://www.crowdstrike.com/blog/two-birds-one-stone-panda/</link>
- <description>CrowdStrike Falcon® Intelligence has observed threat actors with ties to historic STONE PANDA (APT10) engaged in major Chinese intrusion campaigns and associated with other adversaries such as GOTHIC PANDA,</description>
- <pubDate>Mon, 09 Mar 2026 13:32:31 GMT</pubDate>
-</item>
-<item>
- <title>Podcast Features George Kurtz on What it Takes to Build a Unicorn</title>
- <link>https://www.crowdstrike.com/blog/podcast-features-george-kurtz-on-what-it-takes-to-build-a-unicorn/</link>
- <description>CrowdStrike CEO and co-founder George Kurtz offers his insight and guidance on what it takes to build a unicorn including what it took for CrowdStrike to reach its $3B valuation.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:31 GMT</pubDate>
-</item>
-<item>
- <title>Leading Global Brands Secure Themselves with CrowdStrike</title>
- <link>https://www.crowdstrike.com/blog/leading-global-brands-secure-themselves-with-crowdstrike/</link>
- <description>Learn why global brands are choosing CrowdStrike to secure their endpoints and why Telstra, Australia's largest Telco, is both a customer and an investor as published in The Australian.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:31 GMT</pubDate>
-</item>
-<item>
- <title>Is There Such a Thing as a Malicious PowerShell Command?</title>
- <link>https://www.crowdstrike.com/blog/is-there-such-a-thing-as-a-malicious-powershell-command/</link>
- <description>Learn how to better understand PowerShell and why this powerful and flexible scripting language is used to help administrators be more efficient, while also serving as a malicious tool for bad actors.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:31 GMT</pubDate>
-</item>
-<item>
- <title>Evaluating Your Organization's Security Approach: Tips For BOD and C-Level Execs</title>
- <link>https://www.crowdstrike.com/blog/evaluating-your-organizations-security-approach-tips-for-bod-and-c-level-execs/</link>
- <description>Find out the questions Boards of Directors and C-level executives should ask to better understand their organizations’ cybersecurity strategies and processes, so they can play a more active role.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:31 GMT</pubDate>
-</item>
-<item>
- <title>Should You Worry About Software Supply Chain Attacks?</title>
- <link>https://www.crowdstrike.com/blog/should-you-worry-about-software-supply-chain-attacks/</link>
- <description>Read a survey report on software supply chain attacks, which occur when an injection of malicious code is made to the source of a signed and trusted application — learn why they are on the rise and what it takes to better prepare your organization.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:31 GMT</pubDate>
-</item>
-<item>
- <title>CrowdStrike Named a Leader in the IDC Marketscape: U.S. Incident Readiness, Response and Resiliency Services 2018 Vendor Assessment.</title>
- <link>https://www.crowdstrike.com/blog/crowdstrike-named-a-leader-in-the-idc-marketscape-u-s-incident-readiness-response-and-resiliency-services-2018-vendor-assessment/</link>
- <description>CrowdStrike is named a leader in the IDC Marketscape: U.S. Incident Readiness, Response and Resiliency Services 2018 Vendor Assessment. Learn why the IDC MarketScape positioned CrowdStrike as a leader.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:31 GMT</pubDate>
-</item>
-<item>
- <title>Leveraging Falcon Sandbox to Detect and Analyze Malicious PDFs Containing Zero-Day Exploits</title>
- <link>https://www.crowdstrike.com/blog/leveraging-falcon-sandbox-to-detect-and-analyze-malicious-pdfs-containing-zero-day-exploits/</link>
- <description>PDF samples containing exploits for zero-day vulnerabilities have been found. Learn how CrowdStrike Falcon® Sandbox detects, analyzes and stops them before they can impact your organization.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:32 GMT</pubDate>
-</item>
-<item>
- <title>Your Jenkins Belongs to Us Now: Abusing Continuous Integration Systems</title>
- <link>https://www.crowdstrike.com/blog/your-jenkins-belongs-to-us-now-abusing-continuous-integration-systems/</link>
- <description>Learn how cyber adversaries leverage vulnerabilities to control Jenkins open source automation servers used by development teams, and how you can protect your organization from these attacks.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:32 GMT</pubDate>
-</item>
-<item>
- <title>Cutwail Spam Campaign Uses Steganography to Distribute URLZone</title>
- <link>https://www.crowdstrike.com/blog/cutwail-spam-campaign-uses-steganography-to-distribute-urlzone/</link>
- <description>CrowdStrike analyzed a new Cutwail spam campaign from NARWHAL SPIDER that uses digital steganography to distribute URLZone.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:32 GMT</pubDate>
-</item>
-<item>
- <title>DUNGEON SPIDER | Threat Actor Profile | CrowdStrike</title>
- <link>https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-october-dungeon-spider/</link>
- <description>DUNGEON SPIDER is a group of eCrime hackers that conduct opportunistic targeting aimed at deploying the Locky ransomware. Learn about their targets and methods.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:32 GMT</pubDate>
-</item>
-<item>
- <title>OverWatch Insights: Reviewing a New Intrusion Targeting Mac Systems</title>
- <link>https://www.crowdstrike.com/blog/overwatch-insights-reviewing-a-new-intrusion-targeting-mac-systems/</link>
- <description>While Mac enterprise networks are not as common as Windows, and subject to less targeting by adversaries, recent CrowdStrike® Falcon OverWatch™ observations shed light on sophisticated tactics, techniques and procedures (TTPs) targeting Mac environments.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:32 GMT</pubDate>
 </item>
 </channel>
 </rss>

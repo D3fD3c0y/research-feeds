@@ -4,12 +4,96 @@
  <title>Blackpoint Cyber Blog (Custom Feed)</title>
  <link>https://blackpointcyber.com/blog/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Mon, 09 Mar 2026 13:43:32 GMT</lastBuildDate>
+ <lastBuildDate>Mon, 09 Mar 2026 17:07:02 GMT</lastBuildDate>
 <item>
  <title>Blog</title>
  <link>https://blackpointcyber.com/blog/</link>
  <description>Sharpen your defenses with the latest threat insights, industry trends and product updates sure to put you one step ahead of hackers – and your competition.</description>
- <pubDate>Mon, 09 Mar 2026 13:43:28 GMT</pubDate>
+ <pubDate>Mon, 09 Mar 2026 17:06:57 GMT</pubDate>
+</item>
+<item>
+ <title>10 Ways to Identify a Social Engineering Attack</title>
+ <link>https://blackpointcyber.com/blog/10-ways-to-identify-a-social-engineering-attack/</link>
+ <description>Discover 10 ways to spot a social engineering attack and protect your business. Learn how to identify threats and prevent breaches caused by human error.</description>
+ <pubDate>Mon, 09 Mar 2026 17:06:57 GMT</pubDate>
+</item>
+<item>
+ <title>Rust-Based Ransomware is Advancing on MSPs</title>
+ <link>https://blackpointcyber.com/blog/rust-based-ransomware-is-advancing-on-msps/</link>
+ <description>Discover how Rust-based ransomware is evolving to target MSPs and SMBs. Learn why this threat is growing and how to protect your business from costly attacks.</description>
+ <pubDate>Mon, 09 Mar 2026 17:06:57 GMT</pubDate>
+</item>
+<item>
+ <title>SOC Insights: Lumma Stealer and DarkGate Malware spanning over 772 incidents</title>
+ <link>https://blackpointcyber.com/blog/darkgate-malware-lotl-techniques-and-rclone-attacks-apg/</link>
+ <description>Blackpoint Cyber's SOC tackled 722 incidents, stopping threats like Lumma Stealer &amp; DarkGate malware. Learn key mitigations to bolster your cybersecurity.</description>
+ <pubDate>Mon, 09 Mar 2026 17:06:58 GMT</pubDate>
+</item>
+<item>
+ <title>Scheduled Tasks, AnyDesk, and VPN Compromise</title>
+ <link>https://blackpointcyber.com/blog/scheduled-tasks-anydesk-and-vpn-compromise/</link>
+ <description>Explore key insights from Blackpoint Cyber’s SOC on threats using scheduled tasks, AnyDesk, and VPN compromise, plus actionable mitigations to protect your business.</description>
+ <pubDate>Mon, 09 Mar 2026 17:06:58 GMT</pubDate>
+</item>
+<item>
+ <title>Trojan Malware, Powershell Attacks, and Credential-Stealing</title>
+ <link>https://blackpointcyber.com/blog/trojan-malware-powershell-attacks-and-credential-stealing/</link>
+ <description>Blackpoint’s SOC responded to 703 incidents in a week. Learn how to mitigate Trojan malware, PowerShell attacks, and credential-stealing threats.</description>
+ <pubDate>Mon, 09 Mar 2026 17:06:58 GMT</pubDate>
+</item>
+<item>
+ <title>Identity is the Foundation of Today's Cyber Attacks</title>
+ <link>https://blackpointcyber.com/blog/identity-is-the-foundation-of-todays-cyber-attacks/</link>
+ <description>Identity is the key to modern cybersecurity, enabling faster, precise responses and protecting businesses against evolving threats in the cloud and beyond.</description>
+ <pubDate>Mon, 09 Mar 2026 17:06:59 GMT</pubDate>
+</item>
+<item>
+ <title>A Spooktacular Wrap-Up of SOCtober</title>
+ <link>https://blackpointcyber.com/blog/soctober-cybersecurity-awareness-month/</link>
+ <description>A Spooktacular Wrap-Up of SOCtober</description>
+ <pubDate>Mon, 09 Mar 2026 17:06:59 GMT</pubDate>
+</item>
+<item>
+ <title>Blackpoint Tackles TeamViewer and AnyDesk Threats in Government and Industrial Incidents</title>
+ <link>https://blackpointcyber.com/blog/blackpoint-tackles-teamviewer-and-anydesk-threats-in-government-and-industrial-incidents/</link>
+ <description>Blackpoint Tackles TeamViewer and AnyDesk Threats in Government and Industrial Incidents</description>
+ <pubDate>Mon, 09 Mar 2026 17:06:59 GMT</pubDate>
+</item>
+<item>
+ <title>Identity Security &amp; Total Threat Defense with Blackpoint and Cisco Duo</title>
+ <link>https://blackpointcyber.com/blog/identity-security-total-threat-defense-with-blackpoint-and-cisco-duo/</link>
+ <description>Identity is the key to modern cybersecurity, and that is why Cisco Duo and Blackpoint Cyber are joining forces for total threat defense.</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:00 GMT</pubDate>
+</item>
+<item>
+ <title>Blackpoint Cyber Achieves Microsoft MISA SMB Verified Status</title>
+ <link>https://blackpointcyber.com/blog/blackpoint-cyber-achieves-microsoft-misa-smb-verified-status/</link>
+ <description>Blackpoint Cyber achieves Microsoft MISA SMB Verified status, delivering 24/7 SOC protection and visibility for MSPs and SMBs using Microsoft solutions.</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:00 GMT</pubDate>
+</item>
+<item>
+ <title>Gootloader Incident Analysis: Blackpoint SOC's Response Across Industries</title>
+ <link>https://blackpointcyber.com/blog/gootloader-incident-analysis-blackpoint-socs-response-across-industries/</link>
+ <description>Gootloader Incident Analysis: Blackpoint SOC's Response Across Industries</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:01 GMT</pubDate>
+</item>
+<item>
+ <title>Outsmart Hackers and Keep Your Holidays Merry with These Cybersecurity Tips</title>
+ <link>https://blackpointcyber.com/blog/outsmart-hackers-and-keep-your-holidays-merry-with-these-cybersecurity-tips/</link>
+ <description>Outsmart Hackers and Keep Your Holidays Merry with These Cybersecurity Tips</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:01 GMT</pubDate>
+</item>
+<item>
+ <title>Malware-as-a-Service Threats Drive Over 500 Incidents Blocked This Week</title>
+ <link>https://blackpointcyber.com/blog/malware-as-a-service-threats-drive-over-500-incidents-blocked-this-week/</link>
+ <description>Malware-as-a-Service Threats Drive Over 500 Incidents Blocked This Week</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:01 GMT</pubDate>
+</item>
+<item>
+ <title>2024 SOC Year in Review: Key Cyber Threat Trends and Mitigations</title>
+ <link>https://blackpointcyber.com/blog/2024-soc-year-in-review/</link>
+ <description>2024 SOC Year in Review: Key Cyber Threat Trends and Mitigations</description>
+ <pubDate>Mon, 09 Mar 2026 17:07:02 GMT</pubDate>
 </item>
 <item>
  <title>Top 4 Ways to Secure Microsoft 365 Vulnerabilities</title>
@@ -100,90 +184,6 @@
  <link>https://blackpointcyber.com/blog/how-to-evaluate-invest-in-a-soc-service/</link>
  <description>Looking to invest in a SOC? Blackpoint breaks down the ins and outs of what a Security Operations Center is and how it fits into your growing cybersecurity strategy.</description>
  <pubDate>Mon, 09 Mar 2026 13:32:05 GMT</pubDate>
-</item>
-<item>
- <title>Blackpoint Ranks #1 in Summer 2021 G2 Report</title>
- <link>https://blackpointcyber.com/blog/blackpoint-ranks-1-in-summer-2021-g2-report/</link>
- <description>Blackpoint ranks #1 in the High Performer category on G2’s Summer 2021 Grid Report. See where we stand amongst other system security software platforms.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:06 GMT</pubDate>
-</item>
-<item>
- <title>Summer Treat Wave 2021 Is Here!</title>
- <link>https://blackpointcyber.com/blog/summer-treat-wave-2021-is-here/</link>
- <description>We're excited to be co-sponsoring Summer Treat Wave 2021 to recognize the consistent effort MSPs take to be agile and stay ahead of the bad guys.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:06 GMT</pubDate>
-</item>
-<item>
- <title>Blackpoint Cyber Welcomes Paul Barnes, VP of Product</title>
- <link>https://blackpointcyber.com/blog/welcome-paul-barnes-vp-of-product/</link>
- <description>Blackpoint welcomes Paul Barnes as VP of Product. Learn more about his 15+ years building strong product strategies to serve the cybersecurity community.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:06 GMT</pubDate>
-</item>
-<item>
- <title>VMware vCenter Server Security Vulnerability (CVE-2020-3952)</title>
- <link>https://blackpointcyber.com/blog/vmware-vcenter-server-security-vulnerability-cve-2020-3952/</link>
- <description>VMWare issued a warning and patch for vulnerability CVE-2020-3952 in its VMware vCenter Server that maxed out the CVSS rating system by garnering a 10.0</description>
- <pubDate>Mon, 09 Mar 2026 13:32:07 GMT</pubDate>
-</item>
-<item>
- <title>Critical Microsoft DNS Server Vulnerability (CVE-2020-1350)</title>
- <link>https://blackpointcyber.com/blog/critical-microsoft-dns-server-vulnerability-cve-2020-1350/</link>
- <description>Microsoft has released a patch for a Critical Vulnerability in the Windows DNS Service that can lead to Remote Code Execution (RCE).</description>
- <pubDate>Mon, 09 Mar 2026 13:32:07 GMT</pubDate>
-</item>
-<item>
- <title>Critical Windows “MS-NRPC” Exploit ZeroLogon (CVE-2020-1472)</title>
- <link>https://blackpointcyber.com/blog/critical-windows-ms-nrpc-exploit-zerologon-cve-2020-1472/</link>
- <description>Microsoft issued a security patch for a vulnerability in MS-NRPC that allows attackers to gain domain administrator access to the Active Directory server.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:08 GMT</pubDate>
-</item>
-<item>
- <title>Critical Vulnerability for SonicWall VPN (CVE-2020-5135)</title>
- <link>https://blackpointcyber.com/blog/critical-vulnerability-for-sonicwall-vpn-cve-2020-5135/</link>
- <description>According to a Security Advisory released by SonicWall, there are various vulnerabilities which impact SonicWall Network Security Appliances (NSA)</description>
- <pubDate>Mon, 09 Mar 2026 13:32:08 GMT</pubDate>
-</item>
-<item>
- <title>HAFNIUM Hackers Attack Microsoft Exchange Servers using Multiple Zero-day Vulnerabilities</title>
- <link>https://blackpointcyber.com/blog/hafnium-attacks-microsoft-servers-using-zeroday-vulnerabilities/</link>
- <description>Microsoft reports that the state-sponsored group known as HAFNIUM has actively exploited four zero-day vulnerabilities to attack Exchange Server products.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:08 GMT</pubDate>
-</item>
-<item>
- <title>Significant Increase in Cyber Attacks Targeting Accounting Firms</title>
- <link>https://blackpointcyber.com/blog/significant-increase-in-cyber-attacks-targeting-accounting-firms/</link>
- <description>Significant Increase in Cyber Attacks Targeting Accounting Firms</description>
- <pubDate>Mon, 09 Mar 2026 13:32:08 GMT</pubDate>
-</item>
-<item>
- <title>Learn Their Lesson, They Did Not</title>
- <link>https://blackpointcyber.com/blog/learn-their-lesson-they-did-not/</link>
- <description>This May 4th, let's discuss Star Wars cyber security and some lessons learned for the Galactic Empire's repeatedly failing Death Star plans.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:09 GMT</pubDate>
-</item>
-<item>
- <title>What are Events, Alerts, and Incidents</title>
- <link>https://blackpointcyber.com/blog/what-are-events-alerts-and-incidents/</link>
- <description>Infosec terminology doesn't have to be confusing. Blackpoint Cyber helps define events, alerts, and incidents from an MSP standpoint.</description>
- <pubDate>Mon, 09 Mar 2026 13:32:09 GMT</pubDate>
-</item>
-<item>
- <title>Ransomware attack shuts down critical US pipeline</title>
- <link>https://blackpointcyber.com/blog/ransomware-attack-shuts-down-critical-us-pipeline/</link>
- <description>Major US pipeline was hit with a Darkside ransomware cyber attack resulting in an ongoing network shutdown. Learn how Blackpoint Cyber can protect your MSP!</description>
- <pubDate>Mon, 09 Mar 2026 13:32:09 GMT</pubDate>
-</item>
-<item>
- <title>7 Key Cybersecurity Practices for MSPs</title>
- <link>https://blackpointcyber.com/blog/7-key-cybersecurity-practices-for-msps/</link>
- <description>The cybersecurity landscape is always evolving, and MSPs are finding themselves under attack. Blackpoint recommends these 7 cybersecurity best practices!</description>
- <pubDate>Mon, 09 Mar 2026 13:32:10 GMT</pubDate>
-</item>
-<item>
- <title>Tech Tuesday: Eye Spy – The Dangers of Legal Malware</title>
- <link>https://blackpointcyber.com/blog/eye-spy-the-dangers-of-legal-malware/</link>
- <description>What happens when your enterprise-level monitoring software is used maliciously? In our latest Tech Tuesday blog post, Blackpoint's Adversary Pursuit Group dives deep into the malicious activity occurring on a server located in Iran, determined to belong to SecondEye.</description>
- <pubDate>Mon, 09 Mar 2026 08:58:51 GMT</pubDate>
 </item>
 </channel>
 </rss>

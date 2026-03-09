@@ -4,12 +4,96 @@
  <title>BI.ZONE News (Custom Feed)</title>
  <link>https://bi.zone/eng/news/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Mon, 09 Mar 2026 13:42:56 GMT</lastBuildDate>
+ <lastBuildDate>Mon, 09 Mar 2026 17:06:09 GMT</lastBuildDate>
 <item>
  <title>News</title>
  <link>https://bi.zone/eng/news/</link>
  <description>Stay up to date on new cybersecurity solutions, as well as BI.ZONE news and events</description>
  <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>OFFZONE 2025: dates and venue confirmed</title>
+ <link>https://bi.zone/eng/news/obyavlyaem-daty-i-mesto-provedeniya-offzone-2025/</link>
+ <description>The sixth international conference on practical cybersecurity OFFZONE will run on August 21–22 in Moscow's GOELRO</description>
+ <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Matter of trust: 400 companies breached through a legitimate tool</title>
+ <link>https://bi.zone/eng/news/klyuch-k-uspekhu-legitimnyy-instrument-otkryl-zloumyshlennikam-dostup-k-dannym-400-kompaniy/</link>
+ <description>The adversaries compromised at least 400 organizations in Russia and other CIS countries through the legitimate remote administration tool NetSupport</description>
+ <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>New year, new stealer: January starts with a large‑scale campaign targeting Russian companies</title>
+ <link>https://bi.zone/eng/news/v-novyy-god-s-novym-stilerom-yanvar-nachalsya-s-masshtabnoy-volny-atak-na-rossiyskie-kompanii/</link>
+ <description>Adversaries employ NOVA stealer, a modified variant of SnakeLogger. The extracted credentials can be used by any cluster for targeted attacks against the compromised companies</description>
+ <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Nearly impossible to detect: GuLoader weaponized against Russian organizations</title>
+ <link>https://bi.zone/eng/news/zloumyshlenniki-atakuyut-rossiyskie-kompanii-s-pomoshchyu-zagruzchika-pochti-nevidimogo-dlya-sredstv/</link>
+ <description>The loader ingeniously bypasses security solutions and execution environments, including virtual machines and sandboxes</description>
+ <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Over 65% of host vulnerabilities stem from misconfigurations</title>
+ <link>https://bi.zone/eng/news/dve-treti-khostov-uyazvimy-dlya-kiberatak-iz-za-nepravilnykh-nastroek/</link>
+ <description>Password policy violations account for the largest share of misconfigurations. Unsafe password policies are behind 35% of this year's most severe cybersecurity incidents</description>
+ <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Espionage attacks on the rise with more devastating consequences</title>
+ <link>https://bi.zone/eng/news/atak-s-tselyu-shpionazha-stanovitsya-bolshe-a-ikh-posledstviya-razrushitelnee/</link>
+ <description>The share of espionage attacks on Russian organizations has increased by 6% year-on-year. Some threat actors go beyond covert data collection to the disruption of compromised IT infrastructures</description>
+ <pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Cyber Polygon 2024 highlights</title>
+ <link>https://bi.zone/eng/news/opublikovany-rekomendatsii-dlya-kompaniy-po-itogam-cyber-polygon-2024/</link>
+ <description>Cyber Polygon 2024 was held within MENA ISC, the region's leading cybersecurity conference. This year, over 300 organizations from 65 countries joined the training</description>
+ <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>RATs and stealers are most favored by adversaries attacking Russian business</title>
+ <link>https://bi.zone/eng/news/zloumyshlenniki-chashche-vsego-atakuyut-rossiyskie-kompanii-s-pomoshchyu-troyanov-udalennogo-dostupa/</link>
+ <description>Remote access trojans (RATs), the type of malware that enables threat actors to run commands on compromised devices remotely, are used in more than half of all attacks on Russian organizations</description>
+ <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Core Werewolf bolsters attacks against Russia’s defense industry and critical infrastructure</title>
+ <link>https://bi.zone/eng/news/core-werewolf-sovershenstvuet-ataki-na-rossiyskiy-opk-i-subekty-kii/</link>
+ <description>In September, the cluster started using a new internally crafted tool. The adversaries also experiment with malware delivery methods—in addition to phishing emails, they reach out to potential victims in instant messengers</description>
+ <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Hackers favor uncommon pentest tools over malware</title>
+ <link>https://bi.zone/eng/news/khakery-vybirayut-redkie-instrumenty-pentesta-vmesto-vredonosnykh-programm/</link>
+ <description>By opting for lesser known tools, adversaries increase their chances of staying invisible in a compromised IT infrastructure</description>
+ <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>CVE-2024-7965 Google Chrome vulnerability affects Android smartphones and macOS laptops</title>
+ <link>https://bi.zone/eng/news/uyazvimosti-cve-2024-7965-v-google-chrome-podverzheny-smartfony-na-android-i-noutbuki-na-mac/</link>
+ <description>We have analyzed a critical vulnerability in Google Chrome's V8 JavaScript engine. Our research has revealed that the vulnerability threatens the users of Android-powered smartphones and certain macOS models</description>
+ <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>More than 300 organizations from 65 countries participated in Cyber Polygon 2024</title>
+ <link>https://bi.zone/eng/news/v-cyber-polygon-2024-prinyali-uchastie-bolee-300-organizatsiy-iz-65-stran/</link>
+ <description>This year's Cyber Polygon technical training was held during the MENA ISC conference in Saudi Arabia, the largest cybersecurity conference in the region</description>
+ <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Key trends in GCC cyber threat landscape to be presented at MENA ISC 2024</title>
+ <link>https://bi.zone/eng/news/mena-isc-2024-predstavim-trendy-v-kiberlandshafte-stran-persidskogo-zaliva/</link>
+ <description>8 in 10 of the most active threat actors attack for espionage, and only 2 in 10 attack for ransom. These and other key trends in the cyber threat landscape of the GCC region will be presented at the Cyber Polygon booth during MENA ISC 2024</description>
+ <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Hackers increasingly ignore restrictions of commercial malware developers</title>
+ <link>https://bi.zone/eng/news/khakery-vse-chashche-narushayut-zaprety-razrabotchikov-kommercheskogo-vpo/</link>
+ <description>The attackers disable the modules that prevent the malware from being deployed in the Commonwealth of Independent States. Modified, restriction-free malware versions are sold on underground forums and Telegram channels</description>
+ <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
  <title>We uncover vulnerability chain in&amp;nbsp;Oracle VirtualBox</title>
