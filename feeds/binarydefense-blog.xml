@@ -4,7 +4,97 @@
   <title>Binary Defense Blog (Custom Feed)</title>
   <link>https://binarydefense.com/resources/blog</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sun, 08 Mar 2026 16:42:46 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 02:56:18 GMT</lastBuildDate>
+  <item>
+    <title>4 Crucial Steps to Getting the Best Value out of Your SIEM</title>
+    <link>https://binarydefense.com/resources/blog/4-crucial-steps-to-getting-the-best-value-out-of-your-siem</link>
+    <description>It is fairly common knowledge among security professionals that security information and event management (SIEM) technologies are complex systems.</description>
+    <pubDate>Mon, 09 Mar 2026 02:55:56 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Vision Platform Adds Support for OS X and Linux</title>
+    <link>https://binarydefense.com/resources/blog/the-vision-platform-adds-support-for-os-x-and-linux</link>
+    <description>Binary Defense is excited to announce additional supported platforms for the managed endpoint detection and response (MDR) software called Vision</description>
+    <pubDate>Mon, 09 Mar 2026 02:55:58 GMT</pubDate>
+  </item>
+  <item>
+    <title>Petya Ransomware Without The Fluff</title>
+    <link>https://binarydefense.com/resources/blog/petya-ransomware</link>
+    <description>When WannaCry hit, the news sent shivers down the world. Reports of hospital outages and super secret tools used by the NSA</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Binary Defense and the Brakeing Down Security Podcast!</title>
+    <link>https://binarydefense.com/resources/blog/binary-defense-and-the-brakeing-down-security</link>
+    <description>Binary Defense and the Brakeing Down Security Podcast are proud to have Mick Douglas teach a 6-week long class on leveraging PowerShell for Incident…</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>WannaCry: Mass Ransomware Worm Capabilities Campaign - What to do.</title>
+    <link>https://binarydefense.com/resources/blog/wannacry-mass-ransomware-worm-capabilities-campaign-what-to-do</link>
+    <description>The news broke today of a new variant of the WannaCry (also known as WannaCrypt, WCrypt, WanaCrypt0r, and WCRY) Ransomware variant. This variant is a…</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Binary Defense’s Vision Platform v3 Released – Welcome to Containment</title>
+    <link>https://binarydefense.com/resources/blog/binary-defenses-vision-platform-v3-released-welcome-to-containment</link>
+    <description>When we started with Binary Defense’s Vision platform years ago, we knew it would be a long road and something to where we would continuously get better…</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>The Dangers of Embedded LNK files in Office Documents</title>
+    <link>https://binarydefense.com/resources/blog/the-dangers-of-embedded-lnk-files</link>
+    <description>Embedded LNK files can and will be used to exploit enterprise systems. Expect attackers to use them to even bypass endpoint security controls</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:06 GMT</pubDate>
+  </item>
+  <item>
+    <title>Reliably Detecting Pass the Hash Through Event Log Analysis</title>
+    <link>https://binarydefense.com/resources/blog/reliably-detecting-pass-the-hash</link>
+    <description>One of the many features we have within Vision is the ability to detect Pass the Hash (PtH) through multiple methods. When looking at detecting Pass the…</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:06 GMT</pubDate>
+  </item>
+  <item>
+    <title>Distributed HoneyNets and Understanding Attack Emulation with BDS…</title>
+    <link>https://binarydefense.com/resources/blog/distributed-honeynets-and-understanding-attack-emulation-with-bds-vision</link>
+    <description>With BDS Vision 2.2 we’ve implemented several new key features specifically around creating a HoneyNet: Distributed HoneyNets and Understanding Attack…</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:07 GMT</pubDate>
+  </item>
+  <item>
+    <title>BDS Vision - Real-Time Detection Software</title>
+    <link>https://binarydefense.com/resources/blog/bds-vision-real-time-detection-software</link>
+    <description>Vision can be deployed in an on or off-premise scenario and have immediate tie in to our 24/7/365 security operations center for detection around the…</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>Botnet Ransomware will Screengrab your Desktop</title>
+    <link>https://binarydefense.com/resources/blog/botnet-ransomware-will-screengrab-your-desktop</link>
+    <description>Attackers have added another Botnet Ransomware tool to their arsenal allowing them to screenshot desktops of infected victims.</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:10 GMT</pubDate>
+  </item>
+  <item>
+    <title>New Tool Release: GoatRider - OTX, Artillery, and Alexa lookups</title>
+    <link>https://binarydefense.com/resources/blog/new-tool-release-goatrider-otx</link>
+    <description>During incident response practices, you may need to look up very quickly some abnormal activity. While using feeds such as Artillery</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:12 GMT</pubDate>
+  </item>
+  <item>
+    <title>Tool Update: Auto-OSSEC + MSI Builder</title>
+    <link>https://binarydefense.com/resources/blog/tool-update-auto-ossec-msi</link>
+    <description>One facet of securing your infrastructure is detecting intrusion. And one of the many tools that can be used to do this is OSSEC.</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:14 GMT</pubDate>
+  </item>
+  <item>
+    <title>Tool Release: Auto-OSSEC - automated OSSEC deployment</title>
+    <link>https://binarydefense.com/resources/blog/tool-release-auto-ossec-automated-ossec</link>
+    <description>We often get customers that prefer to use OSSEC as an endpoint detection, FIM agent. Regardless of what SIEM is in place, a lot of them have OSSEC…</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>Artillery 1.4 Released - New major features</title>
+    <link>https://binarydefense.com/resources/blog/artillery-1-4-released</link>
+    <description>Binary Defense Systems (BDS) is proud to announce the release of Artillery version 1.4. This version adds several new features</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:18 GMT</pubDate>
+  </item>
   <item>
     <title>1.4 Billion Credentials Found on Dark-Net</title>
     <link>https://binarydefense.com/resources/blog/1-4-billion-credentials-found-on-dark-net</link>
@@ -94,96 +184,6 @@
     <link>https://binarydefense.com/resources/blog/the-certainty-of-uncertainty-why-cyber-security-resiliency-matters</link>
     <description>Today's hyper-crisis world demands a better way to ensure security success. Any size organization needs to be an adaptive security enterprise.</description>
     <pubDate>Sun, 08 Mar 2026 16:42:46 GMT</pubDate>
-  </item>
-  <item>
-    <title>Vision EDR Platform Disrupts Another Phishing Attack, Sorry Bad Guys</title>
-    <link>https://binarydefense.com/resources/blog/vision-edr-platform-disrupts-another-phishing-attack-sorry-bad-guys</link>
-    <description>Binary Defense Vision EDR can easily detect macro malware leveraging Windows PowerShell and, in this case, helped a customer defend against the Emotet…</description>
-    <pubDate>Sun, 08 Mar 2026 08:46:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Announcing Vision 4.0 Platform – Managed EDR Combined with EPP</title>
-    <link>https://binarydefense.com/resources/blog/announcing-vision-4-0-platform-managed-edr-combined-with-epp</link>
-    <description>Introducing Vision 4.0 Platform Managed Endpoint Detection and Response (EDR) with built-in Endpoint Platform Protection (EPP) by Binary Defense.</description>
-    <pubDate>Sun, 08 Mar 2026 08:46:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>Social Engineering Attacks and Mitigations Part VII: Whaling</title>
-    <link>https://binarydefense.com/resources/blog/social-engineering-attacks-and-mitigations-part-vii-whaling</link>
-    <description>Phishing is the most common type of social engineering attack that has targeted companies for years. Phishing attacks get sent out to a mass amount of…</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Social Engineering Attacks and Mitigations Part V: Phishing</title>
-    <link>https://binarydefense.com/resources/blog/social-engineering-attacks-and-mitigations-part-v-phishing</link>
-    <description>How do companies protect themselves from phishing email attacks in the modern age?</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Social Engineering Attacks and Mitigations</title>
-    <link>https://binarydefense.com/resources/blog/social-engineering-attacks-and-mitigations</link>
-    <description>Social Engineering is a security term that may be thrown around in corporate offices numerous times but does everyone at your company know what it means?</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Binary Defense Acknowledged as a Representative Vendor in Gartner’s…</title>
-    <link>https://binarydefense.com/resources/blog/binary-defense-acknowledged-as-a-representative-vendor-in-gartners-market-guide-for-managed-detection-and-response-services</link>
-    <description>Binary Defense, a leading provider of Managed Detection and Response (MDR) and Managed Endpoint Detection and Response (EDR) services</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Not all Threats are Cyber</title>
-    <link>https://binarydefense.com/resources/blog/not-all-threats-are-cyber</link>
-    <description>Last week, I mentioned the assassination of a Chinese shipping executive who was killed in his car while parked near an upscale market in Karachi,…</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>EvilOSX</title>
-    <link>https://binarydefense.com/resources/blog/evilosx</link>
-    <description>On February 14th, 2018, a new variant of an OS X RAT called “EvilOSX” has appeared on Github. A RAT (Remote Access Trojan) is a type of malware</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>The Skiddies are Playing Dress-up</title>
-    <link>https://binarydefense.com/resources/blog/the-skiddies-are-playing-dress-up</link>
-    <description>Over the past year, there have been a number of attackers sending threats to major organizations pretending to be members of these various groups…</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Social Media: The Overlooked Critical Infrastructure of Chinese…</title>
-    <link>https://binarydefense.com/resources/blog/social-media-the-overlooked-critical-infrastructure-of-chinese-manufacturing</link>
-    <description>It is no doubt that social media has a hold on people around the world, but it has an especially mesmerizing effect on the factory workers of China’s…</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Fake Online FBI Scam</title>
-    <link>https://binarydefense.com/resources/blog/online-fbi-scam</link>
-    <description>A new cyberattack is impersonating the FBI’s Internet Crime Complaint Center and trying to scam personal data from victims or download malicious files</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:01 GMT</pubDate>
-  </item>
-  <item>
-    <title>Massive Botnet Turns Windows Machines into Miners</title>
-    <link>https://binarydefense.com/resources/blog/massive-botnet-turns-windows-machines-into-miners</link>
-    <description>Researchers have discovered a massive botnet that has taken over half a million Windows devices and turned them into cryptocurrency miners, Smominru</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Digmine Virus Spreads Via Facebook Messenger</title>
-    <link>https://binarydefense.com/resources/blog/digmine-virus-spreads-via-facebook-messenger</link>
-    <description>A new cryptocurrency mining virus has risen, this time the virus is spreading through Facebook’s messenger app and is targeting Google Chrome desktop…</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Google AdWords and Google Sites Used to Spread Malware</title>
-    <link>https://binarydefense.com/resources/blog/google-adwords-and-google-sites-used-to-spread-malware</link>
-    <description>This particular scam will trick the victim into downloading a fake Google Chrome installer however, an infected file installs “Potentially Unwanted…</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>Top Five Cyber-Security Predictions for 2018</title>
-    <link>https://binarydefense.com/resources/blog/top-five-cyber-security-predictions-for-2018</link>
-    <description>This year has shown us some of the biggest cyber threats in history, with millions of consumers and businesses having been hit by the WannaCry attack, and…</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:02 GMT</pubDate>
   </item>
 </channel>
 </rss>

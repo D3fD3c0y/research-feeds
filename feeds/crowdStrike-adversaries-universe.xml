@@ -4,7 +4,97 @@
   <title>CrowdStrike Adversaries Universe (Custom Feed)</title>
   <link>https://www.crowdstrike.com/en-us/adversaries/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sun, 08 Mar 2026 16:43:40 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 02:57:04 GMT</lastBuildDate>
+  <item>
+    <title>Liminal Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/liminal-panda/</link>
+    <description>Since at least 2020, LIMINAL PANDA has targeted telecommunications entities, using custom tools that enable covert access, command and control (C2)...</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:58 GMT</pubDate>
+  </item>
+  <item>
+    <title>Vixen Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/vixen-panda/</link>
+    <description>VIXEN PANDA is a suspected China state-nexus adversary known to target entities in multiple sectors including energy, government, military, and fin...</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:58 GMT</pubDate>
+  </item>
+  <item>
+    <title>Murky Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/murky-panda/</link>
+    <description>Active since at least 2023, MURKY PANDA targets various entities in North America. The adversary almost certainly has significant capabilities, inc...</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:59 GMT</pubDate>
+  </item>
+  <item>
+    <title>Bounty Jackal Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/bounty-jackal/</link>
+    <description>BOUNTY JACKAL is a pro-Russia hacktivist group that emerged in March 2022 and has claimed thousands of distributed denial-of-service (DDoS) attacks...</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Nimble Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/nimble-spider/</link>
+    <description>NIMBLE SPIDER is an eCrime adversary that has collaborated with Big Game Hunting (BGH) adversaries, including RECESS SPIDER and FROZEN SPIDER. The ...</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Ocular Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/ocular-spider/</link>
+    <description>OCULAR SPIDER is an eCrime adversary responsible for the development of multiple ransomware variants, including Cyclops, Knight, and RansomHub. The...</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>Kryptonite Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/kryptonite-panda/</link>
+    <description>CrowdStrike Intelligence has tracked KRYPTONITE PANDA operations since 2009, targeting multiple sectors with an emphasis on maritime security and p...</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:01 GMT</pubDate>
+  </item>
+  <item>
+    <title>Treasure Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/treasure-panda/</link>
+    <description>TREASURE PANDA has been active since at least 2017 and has demonstrated a longstanding focus on high-profile government and military entities in pr...</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>Mutant Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/mutant-spider/</link>
+    <description>MUTANT SPIDER was first observed in March 2024; however, the adversary’s activity has significantly increased since October 2024, when they began u...</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>Night Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/night-spider/</link>
+    <description>NIGHT SPIDER is the developer and vendor of the banking trojan and crimeware kit known as Zloader. Zloader is based on Zeus source code version 2.0...</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:02 GMT</pubDate>
+  </item>
+  <item>
+    <title>Brash Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/brash-spider/</link>
+    <description>BRASH SPIDER—an eCrime adversary active since at least November 2022—developed and rented Doshell Stealer between September 2023 and July 2024 and ...</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>Genesis Panda Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/genesis-panda/</link>
+    <description>GENESIS PANDA, an adversary active since at least January 2024, conducts high-volume operations targeting the financial services, media, telecommun...</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:03 GMT</pubDate>
+  </item>
+  <item>
+    <title>Famous Chollima Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/famous-chollima/</link>
+    <description>Formerly tracked by CrowdStrike Intelligence as the BadClone activity cluster, FAMOUS CHOLLIMA has been active since at least 2018. The adversary p...</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Chatty Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/chatty-spider/</link>
+    <description>CHATTY SPIDER is a likely Russia-based eCrime adversary conducting data theft and extortion. They were initially part of WIZARD SPIDER (2020-2021),...</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:04 GMT</pubDate>
+  </item>
+  <item>
+    <title>Scattered Spider Adversary Profile | CrowdStrike</title>
+    <link>https://www.crowdstrike.com/adversaries/scattered-spider/</link>
+    <description>SCATTERED SPIDER is a prolific eCrime adversary who has conducted a range of financially-motivated activity since early 2022. The adversary's early...</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:04 GMT</pubDate>
+  </item>
   <item>
     <title>Vice Spider Adversary Profile | CrowdStrike</title>
     <link>https://www.crowdstrike.com/adversaries/vice-spider/</link>
@@ -94,96 +184,6 @@
     <link>https://www.crowdstrike.com/adversaries/punk-spider/</link>
     <description>PUNK SPIDER is the Big Game Hunting (BGH) adversary (first identified in April 2023) responsible for developing and maintaining Akira ransomware an...</description>
     <pubDate>Sun, 08 Mar 2026 16:43:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>Scion Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/scion-spider/</link>
-    <description>SCION SPIDER is a Ransomware-as-a-Service (RaaS) affiliate that achieves initial access by compromising servers running Microsoft SQL Server. The a...</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:33 GMT</pubDate>
-  </item>
-  <item>
-    <title>Scully Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/scully-spider/</link>
-    <description>SCULLY SPIDER is the criminal developer and operator of the criminal banking trojan DanaBot, which was first identified in May 2018 and is advertis...</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Shining Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/shining-spider/</link>
-    <description>SHINING SPIDER is an eCrime adversary who has conducted ransomware operations since at least December 2020, relying on encryption and data exfiltra...</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Sinful Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/sinful-spider/</link>
-    <description>SINFUL SPIDER is a likely China-based eCrime adversary that conducts broad-scope scanning and exploitation campaigns. They rely primarily on passwo...</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Slippy Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/slippy-spider/</link>
-    <description>SLIPPY SPIDER is an extortion group that predominantly conducts theft and leak operations as well as occasional website defacements, dox attacks, a...</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:34 GMT</pubDate>
-  </item>
-  <item>
-    <title>Sly Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/sly-spider/</link>
-    <description>SLY SPIDER operates the Gozi ISFB as a Malware-as-a-Service (MaaS) and the WhiteRabbit/RansomHouse ransomware group. The adversary advertises the G...</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>Smoky Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/smoky-spider/</link>
-    <description>SMOKY SPIDER is the criminal actor behind the development of the criminal loader most commonly known as Smoke Bot (a.k.a. Smoke Loader and Dofoil)....</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Solar Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/solar-spider/</link>
-    <description>SOLAR SPIDER is a targeted eCrime actor that consistently targets financial institutions (FIs), specifically banks and foreign exchange services. W...</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>Sprite Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/sprite-spider/</link>
-    <description>SPRITE SPIDER is an eCrime actor that conducts low-volume, targeted big game hunting (BGH) ransomware campaigns using the Defray777 ransomware (aka...</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Squab Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/squab-spider/</link>
-    <description>SQUAB SPIDER (a.k.a. FIN13 or Elephant Beetle) is a financially motivated actor who primarily targets financial institutions, particularly those ba...</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Traveling Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/traveling-spider/</link>
-    <description>TRAVELING SPIDER is the criminal developer and vendor of several ransomware variants, including Nemty, Nemty X (a.k.a. Nefilim), Karma, Nokoyawa, I...</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:39 GMT</pubDate>
-  </item>
-  <item>
-    <title>Tunnel Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/tunnel-spider/</link>
-    <description>TUNNEL SPIDER is a prolific Big Game Hunting adversary active since at least February 2022. Since that time, the adversary has used several Ransomw...</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>Vampire Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/vampire-spider/</link>
-    <description>VAMPIRE SPIDER primarily develops and sells the Strigoi Master console used to build the Java Remote Access Tool (RAT) publicly reported as STRRAT....</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:40 GMT</pubDate>
-  </item>
-  <item>
-    <title>Venom Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/venom-spider/</link>
-    <description>VENOM SPIDER is the developer of the following criminal malware: SKID, VenomKit, Taurus Loader, Taurus Loader Stealer Module, Taurus Loader TeamVie...</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:41 GMT</pubDate>
-  </item>
-  <item>
-    <title>Veto Spider Adversary Profile | CrowdStrike</title>
-    <link>https://www.crowdstrike.com/adversaries/veto-spider/</link>
-    <description>VETO SPIDER is an eCrime actor who primarily operates as an access broker and additionally sells exploits, tooling, and as-a-service opportunities....</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:41 GMT</pubDate>
   </item>
 </channel>
 </rss>

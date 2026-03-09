@@ -4,12 +4,96 @@
   <title>Blackpoint Cyber Blog (Custom Feed)</title>
   <link>https://blackpointcyber.com/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sun, 08 Mar 2026 16:43:06 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 02:56:39 GMT</lastBuildDate>
   <item>
     <title>Blog</title>
     <link>https://blackpointcyber.com/blog/</link>
     <description>Sharpen your defenses with the latest threat insights, industry trends and product updates sure to put you one step ahead of hackers – and your competition.</description>
-    <pubDate>Sun, 08 Mar 2026 16:43:02 GMT</pubDate>
+    <pubDate>Mon, 09 Mar 2026 02:56:34 GMT</pubDate>
+  </item>
+  <item>
+    <title>Zero-Day Fireworks: Microsoft’s July Patch Party</title>
+    <link>https://blackpointcyber.com/blog/zero-day-fireworks-microsofts-july-patch-party/</link>
+    <description>Microsoft released its July 2023 Patch Tuesday updates, featuring 132 vulnerabilities. Six of them are zero days. Learn more from the APG.</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:34 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blackpoint Cyber Helps MSPs and SMB Customers Maximize Cybersecurity</title>
+    <link>https://blackpointcyber.com/blog/blackpoint-cyber-helps-msps-and-smb-customers-maximize-cybersecurity/</link>
+    <description>Blackpoint helps MSPs using Microsoft Defender maximize their security investments with our SOC and MDR for the endpoint and the cloud.</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:34 GMT</pubDate>
+  </item>
+  <item>
+    <title>SocGholish: Haunting the Digital Realm for Over Five Years</title>
+    <link>https://blackpointcyber.com/blog/socgholish-haunting-the-digital-realm-for-over-five-years/</link>
+    <description>The SocGholish malware family has been around for years, using a variety of advanced tactics to elude detection. Learn more from the APG.</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>Exploding Back into the Picture: TeamTNT Makes a Comeback</title>
+    <link>https://blackpointcyber.com/blog/exploding-back-into-the-picture-teamtnt-makes-a-comeback/</link>
+    <description>TeamTNT, a hacking group, seems to have made a comeback with a fresh botnet campaign aimed at infiltrating cloud-native environments.</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>WormGPT: The New Bait in Phishing and BEC Attacks</title>
+    <link>https://blackpointcyber.com/blog/wormgpt-new-bait-phishing-bec-attacks/</link>
+    <description>Cybercriminals are maliciously using AI to auto-generate highly persuasive and personalized fake emails to avoid being flagged as suspicious.</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>FIN8's Latest Remix: Sardonic with Noberus</title>
+    <link>https://blackpointcyber.com/blog/fin8-latest-remix-with-sardonic-and-noberus/</link>
+    <description>FIN8 has new TTPs, utilizing a modified version of the Sardonic backdoor to deliver the Noberus ransomware. Learn more from the APG.</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>Identity Crisis in the Cloud: Storm-0558 and the Forged Access Key</title>
+    <link>https://blackpointcyber.com/blog/identity-crisis-in-the-cloud-storm-0558-and-the-forged-access-key/</link>
+    <description>Examine research regarding a significant security incident, attributed to China, affecting multiple Exchange Online &amp; Outlook.com customers.</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:36 GMT</pubDate>
+  </item>
+  <item>
+    <title>In-House Technology Ensures Speed, Security, and Synchronization</title>
+    <link>https://blackpointcyber.com/blog/in-house-tech-ensures-security/</link>
+    <description>Add detection and response capabilities to your cybersecurity arsenal within minutes. Learn more about SNAP-Defense, the in-house technology that powers Blackpoint’s cybersecurity ecosystem.</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:36 GMT</pubDate>
+  </item>
+  <item>
+    <title>How Remote Desktop Protocol (RDP) Attacks Go Down</title>
+    <link>https://blackpointcyber.com/blog/how-rdp-attacks-go-down/</link>
+    <description>RDP attacks aren't new, but are becoming increasingly common. Used mainly to target smaller businesses, RDP can be a serious liability if improperly configured. Learn how to avoid insecurities here.</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:36 GMT</pubDate>
+  </item>
+  <item>
+    <title>Examining the Conti Group, Leaks &amp; Evolving Ransomware</title>
+    <link>https://blackpointcyber.com/blog/examining-the-conti-group-leaks-evolving-ransomware/</link>
+    <description>After a leak of 60K documents, the infosec community got a glimpse into the Conti Group. In this blog, Blackpoint examines the leak’s role in the evolution of ransomware in the threat landscape.</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:38 GMT</pubDate>
+  </item>
+  <item>
+    <title>The State of Cloud Security: Zero Trust and Managed Response</title>
+    <link>https://blackpointcyber.com/blog/blog-the-state-of-cloud-security/</link>
+    <description>The state of cloud security is shifting as the scope of both its usage and its power continues to expand. Businesses should create security strategies around cloud implementation to ensure sustainability and efficiency. Maintain your cloud security with Zero Trust Architecture and Blackpoint's purpose-build cloud security solution. Read on to learn more.</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:38 GMT</pubDate>
+  </item>
+  <item>
+    <title>5 Reasons You Won’t Want to Miss ReCON 2022</title>
+    <link>https://blackpointcyber.com/blog/5-rexasons-for-recon/</link>
+    <description>As we count down the days till ReCON, we're also counting the reasons why you should attend. Blackpoint is providing the cyber community with a free day of learning from the experts. Empower your company with cyber threat intel, valuable networking, MSP sales training, and innovative technology! Read more about it and register here.</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:39 GMT</pubDate>
+  </item>
+  <item>
+    <title>Don't Take the Bait This Summer: Remote Work, Social Media &amp; Limited Staff</title>
+    <link>https://blackpointcyber.com/blog/blog-dont-take-the-bait/</link>
+    <description>Security practices can become lax in the summer months, but that is actually when employees should be on high alert. Phishing attacks continue to be prevalent, using social media, remote work vulnerabilities, and decreased staff to penetrate business networks. Protect your company by implementing these practices and deploying Cloud Response to your network.</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:39 GMT</pubDate>
+  </item>
+  <item>
+    <title>Blackpoint Road Trip 2022</title>
+    <link>https://blackpointcyber.com/blog/blackpoint-road-trip-2022/</link>
+    <description>The 2022 event season is upon us. Read our latest blog to see where you can talk shop with Blackpoint Cyber and the greater MSP community. Our team is finishing out the year with over 10 in-person events in the next six months. We look forward to reconnecting or meeting you there!</description>
+    <pubDate>Mon, 09 Mar 2026 02:56:39 GMT</pubDate>
   </item>
   <item>
     <title>Midnight Blizzard Mixes Up Microsoft 365</title>
@@ -100,90 +184,6 @@
     <link>https://blackpointcyber.com/blog/oktas-social-engineering-escalations/</link>
     <description>APG analysis of an Okta article discussing social engineering attacks targeting highly privileged roles within their customer organizations.</description>
     <pubDate>Sun, 08 Mar 2026 08:47:13 GMT</pubDate>
-  </item>
-  <item>
-    <title>Put on Your Cyber Gloves: BLISTER Loader Resurfaced</title>
-    <link>https://blackpointcyber.com/blog/put-on-your-cyber-gloves-blister-loader-resurfaced/</link>
-    <description>BLISTER malware loader is now distributed through SOCGHOLISH. Learn more about this sophisticated cyberthreat with the APG.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Excel-lent Phishing Campaign with Agent Tesla Variant</title>
-    <link>https://blackpointcyber.com/blog/excel-lent-phishing-campaign-with-agent-tesla-variant/</link>
-    <description>A new phishing campaign uses a variant of the Agent Tesla malware and exploits an older Microsoft Office vulnerability.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Top Threat Actor Tactics You Should Be Aware Of: Understanding Cyberthreats in the Digital Age</title>
-    <link>https://blackpointcyber.com/blog/top-threat-actor-tactics-you-should-be-aware-of-understanding-cyberthreats-in-the-digital-age/</link>
-    <description>Learn about top hacker tactics such as phishing emails, business email compromise, ransomware, and the exploitation of remote services.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:14 GMT</pubDate>
-  </item>
-  <item>
-    <title>Unmasking the Acquired Key: Microsoft and Storm-0558’s Tale</title>
-    <link>https://blackpointcyber.com/blog/unmasking-the-acquired-key-microsoft-and-storm-0558s-tale/</link>
-    <description>APG's update on Storm-0558's exploitation of a Microsoft account consumer key to forge tokens for unauthorized access to Outlook.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>Azure HDInsight Battles Against XSS Vulnerabilities</title>
-    <link>https://blackpointcyber.com/blog/azure-hdinsight-battles-against-xss-vulnerabilities/</link>
-    <description>Read about the discovery and resolution of eight significant Cross-Site Scripting (XSS) vulnerabilities within Microsoft's Azure HDInsight.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:15 GMT</pubDate>
-  </item>
-  <item>
-    <title>From Interrogating Saddam Hussein to Professional Fighting: Lessons Learned with Former FBI Special Agent, George Piro</title>
-    <link>https://blackpointcyber.com/blog/lessons-learned-with-former-fbi-special-agent-george-piro/</link>
-    <description>For a glimpse into Jon Murchison's conversation with George Piro on The Unfair Fight, check out our three key takeaways!</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>Redis on the Run: P2PInfect Worm Attacks</title>
-    <link>https://blackpointcyber.com/blog/redis-on-the-run-p2pinfect-worm-attacks/</link>
-    <description>P2PInfect, a new peer-to-peer (P2P) worm, poses a significant threat to Linux and Windows cloud environments. Learn more with the APG.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>Apple Combats Zero-Day Zero-Click Campaign</title>
-    <link>https://blackpointcyber.com/blog/apple-combats-zero-day-zero-click-campaign/</link>
-    <description>Apple has addressed a critical zero-day kernel flaw, CVE-2023-38606, that is connected to a zero-click malware campaign.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:16 GMT</pubDate>
-  </item>
-  <item>
-    <title>MikroTik Vulnerability Emerges from the Past</title>
-    <link>https://blackpointcyber.com/blog/mikrotik-vulnerability-emerges-from-the-past/</link>
-    <description>APG analyses recent research revealing that MikroTik's security vulnerability is more severe than originally thought.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Nitrogen's Malvertising Mayhem: When Ads Go Rogue!</title>
-    <link>https://blackpointcyber.com/blog/nitrogens-malvertising-mayhem-when-ads-go-rogue/</link>
-    <description>Nitrogen's Malvertising Mayhem: When Ads Go Rogue!</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Abusing the Microsoft “search”/”search-ms” URI Protocol</title>
-    <link>https://blackpointcyber.com/blog/abusing-the-microsoft-search-search-ms-uri-protocol/</link>
-    <description>Learn about an attack technique that leverages the "search-ms" URI protocol handler, allowing attackers to deliver harmful RAT payloads.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>Pebbles Aren’t Alone: The Fruity Find Making Waves in Cybersecurity</title>
-    <link>https://blackpointcyber.com/blog/pebbles-arent-alone-the-fruity-find-making-waves-in-cybersecurity/</link>
-    <description>Check out a new multi-component trojan downloader known as Trojan.Fruity.1, which allows hackers to infect computers with many malware types.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>The SSM Agent's Secret Identity: Unmasking the RAT Within</title>
-    <link>https://blackpointcyber.com/blog/the-ssm-agents-secret-identity-unmasking-the-rat-within/</link>
-    <description>Learn about how threat actors exploit AWS' Systems Manager (SSM) agent, repurposing it as a Remote Access Trojan (RAT).</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:17 GMT</pubDate>
-  </item>
-  <item>
-    <title>From Chrome to Everywhere: The Ever-Expanding CVE-2023-4863</title>
-    <link>https://blackpointcyber.com/blog/from-chrome-to-everywhere-the-ever-expanding-cve-2023-4863/</link>
-    <description>CVE-2023-4863 impacts many web browsers, operating systems, and software. These far-reaching impacts emphasize the urgency of patching.</description>
-    <pubDate>Sun, 08 Mar 2026 02:54:51 GMT</pubDate>
   </item>
 </channel>
 </rss>

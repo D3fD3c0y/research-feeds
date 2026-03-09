@@ -4,7 +4,97 @@
   <title>CrowdStrike Blog (Custom Feed)</title>
   <link>https://www.crowdstrike.com/en-us/blog/</link>
   <description>Auto-generated periodically</description>
-  <lastBuildDate>Sun, 08 Mar 2026 16:44:10 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 02:57:39 GMT</lastBuildDate>
+  <item>
+    <title>Cryptomining: Harmless Nuisance or Disruptive Threat?</title>
+    <link>https://www.crowdstrike.com/blog/cryptomining-harmless-nuisance-disruptive-threat/</link>
+    <description>Cryptocurrency mining is legal, but fraudulently compromising systems is not. Learn about this new threat from CrowdStrike® experts.</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:08 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike CEO George Kurtz: Balanced Cybersecurity Portfolio</title>
+    <link>https://www.crowdstrike.com/blog/crowdstrike-ceo-george-kurtz-in-forbes-creating-a-balanced-cybersecurity-portfolio/</link>
+    <description>Article in Forbes features CrowdStrike CEO George Kurtz discussing the importance of creating a balanced cybersecurity platform.</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:11 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike Falcon® Offers Plug-and-Play Integration with ServiceNow</title>
+    <link>https://www.crowdstrike.com/blog/crowdstrike-falcon-offers-plug-and-play-integration-with-servicenow/</link>
+    <description>The CrowdStrike Falcon® platform integrates seamlessly with ServiceNow, allowing for consumption of the Falcon platform's security alerts.</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:14 GMT</pubDate>
+  </item>
+  <item>
+    <title>Global Threat Report Reveals Trends, Insights, Threat Actors</title>
+    <link>https://www.crowdstrike.com/blog/crowdstrike-2018-global-threat-report-reveals-the-trends-insights-and-threat-actors-you-need-to-know/</link>
+    <description>The CrowdStrike 2018 Global Threat Report reveals cyberattack trends, statistics and threat actors you need to know to inform your cybersecurity strategy</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:16 GMT</pubDate>
+  </item>
+  <item>
+    <title>Franchise Relationships Create Unique Cybersecurity Risks</title>
+    <link>https://www.crowdstrike.com/blog/the-hole-in-the-donut-franchise-relationships-create-unique-cybersecurity-risks/</link>
+    <description>Learn why franchise organizations face unique cybersecurity risks and get guidance on how they can improve their security strategies.</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:18 GMT</pubDate>
+  </item>
+  <item>
+    <title>Why North Korean Cyberwarfare is Likely to Intensify</title>
+    <link>https://www.crowdstrike.com/blog/why-north-korean-cyberwarfare-is-likely-to-intensify/</link>
+    <description>Impending negotiations between North Korea and the U.S. increase the chance of cyberattacks against U.S. government, media and infrastructure targets.</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>A Hunter’s Perspective: Detecting Formbook 3.8 Activity in Your Environment</title>
+    <link>https://www.crowdstrike.com/blog/a-hunters-perspective-detecting-formbook-3-8-activity-in-your-environment/</link>
+    <description>Formbook is a tool used by threat actors to steal data; learn how you can hunt for its malicious presence in your environment.</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:23 GMT</pubDate>
+  </item>
+  <item>
+    <title>Operators of SamSam Continue to Receive Significant Ransom Payments</title>
+    <link>https://www.crowdstrike.com/blog/operators-of-samsam-continue-to-receive-significant-ransom-payments/</link>
+    <description>The SamSam (Samas) ransomware attack on Atlanta will not be the last of these targeted, enterprise attacks, according to CrowdStrike security experts.</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:25 GMT</pubDate>
+  </item>
+  <item>
+    <title>Hidden Administrative Accounts: BloodHound to the Rescue</title>
+    <link>https://www.crowdstrike.com/blog/hidden-administrative-accounts-bloodhound-to-the-rescue/</link>
+    <description>Learn how cybercriminals use hidden administrative accounts to access your data and why BloodHound is the tool red teams use to find them.</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:28 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike CEO George Kurtz in Entrepreneur Magazine: What It Takes to Lead</title>
+    <link>https://www.crowdstrike.com/blog/crowdstrike-ceo-george-kurtz-in-entrepreneur-magazine-what-it-takes-to-lead/</link>
+    <description>Entrepreneur magazine interviews George Kurtz on his journey to becoming CEO of CrowdStrike and his advice to other startup leaders.</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>Building Cybersecurity from the Ground Up — Part 1: The Business Perspective</title>
+    <link>https://www.crowdstrike.com/blog/building-cybersecurity-from-the-ground-up-part-1-the-business-perspective/</link>
+    <description>The CrowdStrike Services team examines the business processes organizations should assess and improve to fortify their cybersecurity posture.</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>CrowdStrike Discusses “Breakout Time” in an Article on Dark Reading</title>
+    <link>https://www.crowdstrike.com/blog/crowdstrike-discusses-breakout-time-in-an-article-on-dark-reading/</link>
+    <description>Learn why “breakout time” the time between when an intruder gets on a machine and when he can move to other systems is a critical window.</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:35 GMT</pubDate>
+  </item>
+  <item>
+    <title>Building Cybersecurity from the Ground Up — Part 2: The Technology Basics</title>
+    <link>https://www.crowdstrike.com/blog/building-cybersecurity-from-the-ground-up-part-2-the-technology-basics/</link>
+    <description>The CrowdStrike Services team examines the technology basics organization need to adopt and improve to fortify their cybersecurity posture.</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:37 GMT</pubDate>
+  </item>
+  <item>
+    <title>Falcon Prevent Free Trial: Because Evaluating Next-Gen AV Solutions Should Be Fast and Easy</title>
+    <link>https://www.crowdstrike.com/blog/falcon-prevent-free-trial-because-evaluating-next-gen-av-solutions-should-be-fast-and-easy/</link>
+    <description>Get a free trial of Falcon Prevent, CrowdStrike's Next Generation Antivirus solution.</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:39 GMT</pubDate>
+  </item>
+  <item>
+    <title>An In-Depth Analysis of Samsam Ransomware and BOSS SPIDER</title>
+    <link>https://www.crowdstrike.com/blog/an-in-depth-analysis-of-samsam-ransomware-and-boss-spider/</link>
+    <description>Gain an in-depth analysis of Samsam ransomware, associated with the adversary BOSS SPIDER; learn how it functions and how CrowdStrike Falcon® Prevent™ stops it.</description>
+    <pubDate>Mon, 09 Mar 2026 02:57:39 GMT</pubDate>
+  </item>
   <item>
     <title>Address Zero-Day Threats Long Before an Attack Occurs</title>
     <link>https://www.crowdstrike.com/blog/address-zero-day-threats-long-attack-occurs/</link>
@@ -94,96 +184,6 @@
     <link>https://www.crowdstrike.com/blog/crowdstrike-provides-spectre-meltdown-dashboard-to-help-customers-mitigate-cpu-flaws/</link>
     <description>Learn how a CrowdStrike Falcon® dashboard helps customers mitigate Spectre &amp; Meltdown CPU vulnerabilities with instant visibility across patches and performance.</description>
     <pubDate>Sun, 08 Mar 2026 16:44:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>CrowdStrike Falcon® Prevents WannaCry Ransomware</title>
-    <link>https://www.crowdstrike.com/blog/falcon-endpoint-protection-blocks-the-ransomware-that-attacked-the-nhs/</link>
-    <description>The CrowdStrike Falcon® platform protects against WannaCry, a massive ransomware attack that has had far-reaching effects across a wide range of industries.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>Falcon Report: CrowdStrike Falcon® Prevents the Attack</title>
-    <link>https://www.crowdstrike.com/blog/falcon-intelligence-report-wanna-ransomware-spreads-rapidly-continually-encrypts-victim-files/</link>
-    <description>Ransomware that spreads rapidly and continually encrypts victim files can be stopped by the CrowdStrike Falcon® platorm</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:42 GMT</pubDate>
-  </item>
-  <item>
-    <title>CrowdStrike Investors Double Down and Lead $100 Million Series D Round to Support the Company’s Global Growth</title>
-    <link>https://www.crowdstrike.com/blog/crowdstrike-investors-double-down-and-lead-100-million-series-d-round-to-support-the-companys-global-growth/</link>
-    <description>CrowdStrike has completed a $100 million Series D financing round, led by Accel.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:45 GMT</pubDate>
-  </item>
-  <item>
-    <title>A Strategy to Find and Stop Attackers Before They Do Damage</title>
-    <link>https://www.crowdstrike.com/blog/approaching-zero-dwell-time-strategy-finding-stopping-attackers-damage/</link>
-    <description>Dwell time, the period between when an attack occurs and when it is discovered, continues to be a serious problem for security professionals.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>SANS Institute Reviews CrowdStrike Falcon® Endpoint Protection</title>
-    <link>https://www.crowdstrike.com/blog/sans-institute-reviews-crowdstrike-falcon-endpoint-protection/</link>
-    <description>SANS evaluated the CrowdStrike Falcon® platform, subjecting it to advanced cyberattacks proving Falcon protects against threats at every stage of an attack.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:47 GMT</pubDate>
-  </item>
-  <item>
-    <title>Key Characteristics of Modern Fileless Attacks</title>
-    <link>https://www.crowdstrike.com/blog/key-characteristics-of-modern-fileless-attacks/</link>
-    <description>Modern attacks use fileless, malware-free exploits that easily evade legacy antivirus and other standard security approaches.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:50 GMT</pubDate>
-  </item>
-  <item>
-    <title>Why IT Hygiene is Critical to Your Cybersecurity Readiness</title>
-    <link>https://www.crowdstrike.com/blog/why-it-hygiene-is-critical-to-your-cybersecurity-readiness/</link>
-    <description>Learn how IT hygiene improves security posture via complete visibility into your environment and removing unknown users, systems and applications.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:52 GMT</pubDate>
-  </item>
-  <item>
-    <title>Defining the Value of Machine Learning for Endpoint Protection</title>
-    <link>https://www.crowdstrike.com/blog/defining-the-value-of-machine-learning-for-endpoint-protection/</link>
-    <description>CrowdStrike Chief Scientist Dr. Sven Krasser explains the importance of machine learning in a Computer Business Review interview.</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>CrowdStrike Protects Against NotPetya Attack</title>
-    <link>https://www.crowdstrike.com/blog/fast-spreading-petrwrap-ransomware-attack-combines-eternalblue-exploit-credential-stealing/</link>
-    <description>CrowdStrike provides a detailed summary on NotPetya, how they can protect you against NotPetya and other malware attacks. Read the expert analysis now!</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:54 GMT</pubDate>
-  </item>
-  <item>
-    <title>CrowdStrike CEO George Kurtz Wins Ernst &amp; Young Entrepreneur Award</title>
-    <link>https://www.crowdstrike.com/blog/crowdstrike-ceo-and-co-founder-george-kurtz-wins-ernst-young-entrepreneur-of-the-year-for-security/</link>
-    <description>CrowdStrike CEO and Co-founder George Kurtz is named Ernst &amp; Young Entrepreneur of the Year in the Security Category for Northern California</description>
-    <pubDate>Sun, 08 Mar 2026 08:47:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>NotPetya Ransomware Attack [Technical Analysis]</title>
-    <link>https://www.crowdstrike.com/blog/petrwrap-ransomware-technical-analysis-triple-threat-file-encryption-mft-encryption-credential-theft/</link>
-    <description>Discover how NotPetya is a triple threat with File Encryption, MFT Encryption, and Credential Theft. Read in-depth technical analysis of NotPetya now!</description>
-    <pubDate>Sun, 08 Mar 2026 08:48:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>NotPetya Technical Analysis Part II: Further Findings</title>
-    <link>https://www.crowdstrike.com/blog/petrwrap-technical-analysis-part-2-further-findings-and-potential-for-mbr-recovery/</link>
-    <description>Review technical analysis of the NotPetya threat, it yields clues regarding how the attack unfolds, and the possibility of recovering the Master Boot Record</description>
-    <pubDate>Sun, 08 Mar 2026 08:48:04 GMT</pubDate>
-  </item>
-  <item>
-    <title>Achieving Cybersecurity Effectiveness in a World of Advanced Threats</title>
-    <link>https://www.crowdstrike.com/blog/achieving-cybersecurity-effectiveness-in-a-world-of-advanced-threats/</link>
-    <description>Security leader George Kurtz tells Forbes how to achieve cybersecurity effectiveness against today’s most sophisticated and damaging attacks.</description>
-    <pubDate>Sun, 08 Mar 2026 08:48:07 GMT</pubDate>
-  </item>
-  <item>
-    <title>How to Decrypt NotPetya &amp; Petya After an Attack - CrowdStrike</title>
-    <link>https://www.crowdstrike.com/blog/decrypting-notpetya-tools-for-recovering-your-mft-after-an-attack/</link>
-    <description>CrowdStrike offers tools and step-by-step instructions for recovering your Master File Table (MFT) after a NotPetya or Petya attack. With the aid of the supplied tools, almost all of the Master File Table (MFT) can be successfully recovered within minutes.</description>
-    <pubDate>Sun, 08 Mar 2026 08:48:10 GMT</pubDate>
-  </item>
-  <item>
-    <title>NY state tough cybersecurity regulations for financial institutions</title>
-    <link>https://www.crowdstrike.com/blog/new-york-state-cybersecurity-regulations-for-financial-institutions-are-tough-critical-reach-beyond-state-borders/</link>
-    <description>New York State cybersecurity regulations for financial institutions have far-reaching effects beyond NY &amp; apply to many financial orgs &amp; 3rd-party vendors</description>
-    <pubDate>Sun, 08 Mar 2026 08:48:13 GMT</pubDate>
   </item>
 </channel>
 </rss>
