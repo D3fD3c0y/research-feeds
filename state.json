@@ -135,7 +135,7 @@
     "seen_urls": []
   },
   "appomni": {
-    "last_success_utc": "2026-03-10T08:57:45.844769+00:00",
+    "last_success_utc": "2026-03-10T17:04:50.556786+00:00",
     "seen_urls": [
       "https://appomni.com/blog/saas-supply-chain-attacks-mitre-attck-mapping/",
       "https://appomni.com/blog/saas-security-controls-framework-sscf/",
@@ -276,7 +276,7 @@
     "seen_urls": []
   },
   "bfore-ai-reports": {
-    "last_success_utc": "2026-03-10T08:57:47.672261+00:00",
+    "last_success_utc": "2026-03-10T17:04:51.902886+00:00",
     "seen_urls": [
       "https://bfore.ai/report/2025-retail-holiday-threat-report-scams-impersonation-attacks/",
       "https://bfore.ai/report/threat-research-elon-vs-trump-feud-drives-malicious-domain-surge/",
@@ -311,7 +311,7 @@
     ]
   },
   "binarydefense-blog": {
-    "last_success_utc": "2026-03-10T08:57:51.666525+00:00",
+    "last_success_utc": "2026-03-10T17:04:56.937500+00:00",
     "seen_urls": [
       "https://binarydefense.com/resources/blog/isis-cyber-security-threat",
       "https://binarydefense.com/resources/blog/artillery-version-1-3-released",
@@ -1100,7 +1100,7 @@
     ]
   },
   "blackpoint-ti": {
-    "last_success_utc": "2026-03-10T08:57:55.466428+00:00",
+    "last_success_utc": "2026-03-10T17:05:01.226714+00:00",
     "seen_urls": [
       "https://blackpointcyber.com/threat-profile/akira-ransomware/",
       "https://blackpointcyber.com/threat-profile/ransomhub-ransomware/",
@@ -2087,7 +2087,7 @@
     ]
   },
   "deception-pro": {
-    "last_success_utc": "2026-03-10T08:57:55.819559+00:00",
+    "last_success_utc": "2026-03-10T17:05:01.610816+00:00",
     "seen_urls": [
       "https://blog.deception.pro/blog/clickfix-hok-velvet-tempest-termite",
       "https://blog.deception.pro/blog/hok-intrusion-abusing-multiple-rmms-jan2026",
@@ -2098,8 +2098,22 @@
     ]
   },
   "dtex-reports": {
-    "last_success_utc": "2026-03-10T08:58:00.895771+00:00",
+    "last_success_utc": "2026-03-10T17:05:06.355997+00:00",
     "seen_urls": [
+      "https://www.dtex.ai/blog/how-edward-snowden-made-us-think-about-and-forget-the-insider-threat/",
+      "https://www.dtex.ai/blog/california-data-breach-reporting-rate-decreases-59-percent-in-first-half-of-2018/",
+      "https://www.dtex.ai/blog/layers-and-telemetry/",
+      "https://www.dtex.ai/blog/dtex-partners-with-leading-cybersecurity-companies-the-australian-government-to-cultivate-talent/",
+      "https://www.dtex.ai/blog/macos-monterey-demonstrates-apples-commitment-to-user-privacy-enterprise-workforce-security/",
+      "https://www.dtex.ai/blog/long-overdue-shedding-legacy-employee-monitoring-technology-to-effectively-manage-insider-threats/",
+      "https://www.dtex.ai/blog/microsoft-hack-an-example-of-insider-threat-yes-transunion-gets-serious-about-insider-threat/",
+      "https://www.dtex.ai/blog/three-ways-to-take-control-of-your-cyber-security-career-in-2022/",
+      "https://www.dtex.ai/blog/case-study-dtex-provides-visibility-and-context-to-global-materials-company/",
+      "https://www.dtex.ai/blog/time-to-value-for-insider-risk-management-is-key-to-adoption-success/",
+      "https://www.dtex.ai/blog/what-is-user-entity-behavior-analytics-ueba/",
+      "https://www.dtex.ai/blog/major-us-lending-company-chooses-dtex-to-mitigate-insider-risk/",
+      "https://www.dtex.ai/blog/measuring-the-efficacy-of-your-insider-risk-program/",
+      "https://www.dtex.ai/blog/insider-risk-assessment-strategy-partners/",
       "https://www.dtex.ai/blog/dtex-c-int-brief-up-to-60-of-employees-research-or-trade-cryptocurrency-on-corporate-devices/",
       "https://www.dtex.ai/blog/dtex-announces-funding-led-by-northgate-capital/",
       "https://www.dtex.ai/blog/snapchat-report-highlights-insider-threats-as-top-challenge-for-privacy-employee-mistakes-named-top-data-security-threat-in-hong-kong-and-taiwan/",
@@ -2187,7 +2201,7 @@
     ]
   },
   "lexfo": {
-    "last_success_utc": "2026-03-10T08:58:01.688761+00:00",
+    "last_success_utc": "2026-03-10T17:05:06.863162+00:00",
     "seen_urls": [
       "https://blog.lexfo.fr/munge-heap-buffer-overflow.html",
       "https://blog.lexfo.fr/wso2.html",
@@ -2295,15 +2309,15 @@
     ]
   },
   "prodaft-blogs": {
-    "last_success_utc": "2026-03-10T08:58:03.379174+00:00",
+    "last_success_utc": "2026-03-10T17:05:08.486045+00:00",
     "seen_urls": []
   },
   "prodaft-reports": {
-    "last_success_utc": "2026-03-10T08:58:04.005030+00:00",
+    "last_success_utc": "2026-03-10T17:05:09.021349+00:00",
     "seen_urls": []
   },
   "profero": {
-    "last_success_utc": "2026-03-10T08:58:04.348351+00:00",
+    "last_success_utc": "2026-03-10T17:05:09.267813+00:00",
     "seen_urls": [
       "https://profero.io/blog/from-the-trenches-common-sense-measures-to-prevent-cloud-incidents",
       "https://profero.io/blog/ransomexx-fixing-corrupted-ransom",
@@ -2343,11 +2357,11 @@
     ]
   },
   "ransomnews": {
-    "last_success_utc": "2026-03-10T08:58:05.061447+00:00",
+    "last_success_utc": "2026-03-10T17:05:09.967369+00:00",
     "seen_urls": []
   },
   "sequretek": {
-    "last_success_utc": "2026-03-10T08:58:05.581413+00:00",
+    "last_success_utc": "2026-03-10T17:05:10.123881+00:00",
     "seen_urls": []
   },
   "trellix-research": {
