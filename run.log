@@ -100,21 +100,21 @@ Wrote feeds/deception-pro.xml
  [HTTP] sitemap GET https://www.dtex.ai/blog-by-topic-sitemap.xml -> 200 (final: https://www.dtex.ai/blog-by-topic-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] robots-check GET https://www.dtex.ai/robots.txt -> 200 (final: https://www.dtex.ai/robots.txt) CT=text/plain
  [HTTP] article GET https://www.dtex.ai/resources/reports/ -> 200 (final: https://www.dtex.ai/resources/reports/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/capabilities/ai-security/ -> 200 (final: https://www.dtex.ai/capabilities/ai-security/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/capabilities/risk-adaptive-dlp/ -> 200 (final: https://www.dtex.ai/capabilities/risk-adaptive-dlp/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/platform/ -> 200 (final: https://www.dtex.ai/platform/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/data-loss-prevention/ -> 200 (final: https://www.dtex.ai/data-loss-prevention/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/ai-security-ppc/ -> 200 (final: https://www.dtex.ai/ai-security-ppc/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/shadow-ai-ppc/ -> 200 (final: https://www.dtex.ai/shadow-ai-ppc/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/about-dtex/ -> 200 (final: https://www.dtex.ai/about-dtex/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/request-a-demo/ -> 200 (final: https://www.dtex.ai/request-a-demo/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/contact-us/ -> 200 (final: https://www.dtex.ai/contact-us/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/capabilities/uam/ -> 200 (final: https://www.dtex.ai/capabilities/uam/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/financial-services/ -> 200 (final: https://www.dtex.ai/financial-services/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/manufacturing/ -> 200 (final: https://www.dtex.ai/manufacturing/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/pharma-life-sciences/ -> 200 (final: https://www.dtex.ai/pharma-life-sciences/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/government/ -> 200 (final: https://www.dtex.ai/government/) CT=text/html; charset=UTF-8
- • Summary [dtex-reports]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=42, seen_added=14
+ [HTTP] article GET https://www.dtex.ai/telecommunications/ -> 200 (final: https://www.dtex.ai/telecommunications/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/insider-risk-management-101/ -> 200 (final: https://www.dtex.ai/insider-risk-management-101/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/leavers-joiners/ -> 200 (final: https://www.dtex.ai/leavers-joiners/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/shadow-ai/ -> 200 (final: https://www.dtex.ai/shadow-ai/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/why-dtex/ -> 200 (final: https://www.dtex.ai/why-dtex/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/dtex-i3-services/ -> 200 (final: https://www.dtex.ai/dtex-i3-services/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/rsa-2026/ -> 200 (final: https://www.dtex.ai/rsa-2026/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/dtex-i3-research/ -> 200 (final: https://www.dtex.ai/dtex-i3-research/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/introducing-dtex-systems-enhanced-global-partner-program/ -> 200 (final: https://www.dtex.ai/blog/introducing-dtex-systems-enhanced-global-partner-program/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/case-study-dtex-helps-a-global-financial-services-institution-mitigate-insider-threats/ -> 200 (final: https://www.dtex.ai/blog/case-study-dtex-helps-a-global-financial-services-institution-mitigate-insider-threats/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/understanding-behavioral-intent-doesnt-equal-invasive-surveillance/ -> 200 (final: https://www.dtex.ai/blog/understanding-behavioral-intent-doesnt-equal-invasive-surveillance/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/fdic-and-occ-what-financial-services-organizations-need-to-know-about-the-new-cybersecurity-incident-notification-rule/ -> 200 (final: https://www.dtex.ai/blog/fdic-and-occ-what-financial-services-organizations-need-to-know-about-the-new-cybersecurity-incident-notification-rule/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/cisa-warns-of-water-wastewater-infrastructure-security-threats-on-heels-of-insider-threat-self-assessment-tool-release/ -> 200 (final: https://www.dtex.ai/blog/cisa-warns-of-water-wastewater-infrastructure-security-threats-on-heels-of-insider-threat-self-assessment-tool-release/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/combating-shadow-it-a-customer-uses-dtex-for-cybersecurity-more/ -> 200 (final: https://www.dtex.ai/blog/combating-shadow-it-a-customer-uses-dtex-for-cybersecurity-more/) CT=text/html; charset=UTF-8
+ • Summary [dtex-reports]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=56, seen_added=14
 Wrote feeds/dtex-reports.xml
 
 === Processing: LEXFO Blog (https://blog.lexfo.fr/) -> feeds/lexfo.xml
@@ -159,7 +159,7 @@ Wrote feeds/profero.xml
  robots.txt respected: False
  • scraping listing page …
  [HTTP] scrape-listing GET https://ransomnews.online/ -> 200 (final: https://ransomnews.online/) CT=text/html
- • Summary [ransomnews]: new_fetched=0, new_used=0, reused=1, prev_cached=0, seen_before=0, seen_added=0
+ • Summary [ransomnews]: new_fetched=0, new_used=0, reused=1, prev_cached=1, seen_before=0, seen_added=0
 Wrote feeds/ransomnews.xml
 
 === Processing: Sequretek Resources Hub (https://www.sequretek.com/resources-hub) -> feeds/sequretek.xml
@@ -177,7 +177,7 @@ Wrote feeds/ransomnews.xml
  [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
  [HTTP] sitemap GET https://www.sequretek.com/sitemap_index.xml.gz -> 403 (final: https://www.sequretek.com/sitemap_index.xml.gz) CT=text/html
  [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- • Summary [sequretek]: new_fetched=0, new_used=0, reused=1, prev_cached=0, seen_before=0, seen_added=0
+ • Summary [sequretek]: new_fetched=0, new_used=0, reused=1, prev_cached=1, seen_before=0, seen_added=0
 Wrote feeds/sequretek.xml
 Wrote index.html
 Wrote state file: state.json

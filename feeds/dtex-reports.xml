@@ -4,12 +4,96 @@
  <title>DTEX Reports (Custom Feed)</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Mon, 09 Mar 2026 18:48:41 GMT</lastBuildDate>
+ <lastBuildDate>Tue, 10 Mar 2026 02:47:26 GMT</lastBuildDate>
 <item>
  <title>Reports</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>DTEX publishes comprehensive insider risk management reports, from the cost of insider threats to nation-state operations and more.</description>
- <pubDate>Mon, 09 Mar 2026 18:48:38 GMT</pubDate>
+ <pubDate>Tue, 10 Mar 2026 02:47:22 GMT</pubDate>
+</item>
+<item>
+ <title>Telecommunications</title>
+ <link>https://www.dtex.ai/telecommunications/</link>
+ <description>DTEX works with telecommunications companies to uplift insider risk management and protect sensitive data.</description>
+ <pubDate>Tue, 10 Mar 2026 02:47:22 GMT</pubDate>
+</item>
+<item>
+ <title>Insider Risk Management 101</title>
+ <link>https://www.dtex.ai/insider-risk-management-101/</link>
+ <description>DTEX details what insider risk management is and how to set up a successful program with a list of key resources to get started.</description>
+ <pubDate>Tue, 10 Mar 2026 02:47:22 GMT</pubDate>
+</item>
+<item>
+ <title>Leavers and Joiners</title>
+ <link>https://www.dtex.ai/leavers-joiners/</link>
+ <description>DTEX helps monitor departing and new employees, who are among the most common insider risks, to stop data exfiltration.</description>
+ <pubDate>Tue, 10 Mar 2026 02:47:23 GMT</pubDate>
+</item>
+<item>
+ <title>Shadow AI</title>
+ <link>https://www.dtex.ai/shadow-ai/</link>
+ <description>DTEX makes Shadow AI detection achievable with proactive insider risk management and AI governance.</description>
+ <pubDate>Tue, 10 Mar 2026 02:47:23 GMT</pubDate>
+</item>
+<item>
+ <title>Why DTEX</title>
+ <link>https://www.dtex.ai/why-dtex/</link>
+ <description>Discover why DTEX is the trusted leader for proactive, AI-driven insider risk management and risk-adaptive data loss prevention.</description>
+ <pubDate>Tue, 10 Mar 2026 02:47:23 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX i³ Services</title>
+ <link>https://www.dtex.ai/dtex-i3-services/</link>
+ <description>DTEX Insider Threat Intelligence and Investigations accelerates insider risk management, turning data visibility into enterprise resilience.</description>
+ <pubDate>Tue, 10 Mar 2026 02:47:23 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX in San Fransisco for RSAC 2026</title>
+ <link>https://www.dtex.ai/rsa-2026/</link>
+ <description>Join us at RSA Conference 2026 to explore how our Risk-Adaptive Security Platform enhances human and AI security.</description>
+ <pubDate>Tue, 10 Mar 2026 02:47:23 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX i³ Research</title>
+ <link>https://www.dtex.ai/dtex-i3-research/</link>
+ <description>DTEX insider risk research hub brings the latest insider threat intelligence, threat advisories, and research on topics like cyber espionage, credential misuse, and data exfiltration.</description>
+ <pubDate>Tue, 10 Mar 2026 02:47:23 GMT</pubDate>
+</item>
+<item>
+ <title>Introducing DTEX System’s Enhanced Global Partner Program</title>
+ <link>https://www.dtex.ai/blog/introducing-dtex-systems-enhanced-global-partner-program/</link>
+ <description>Officially announcing an enhanced global channel program for our valued partner ecosystem to bring value to our customers.</description>
+ <pubDate>Fri, 23 Aug 2024 07:33:22 GMT</pubDate>
+</item>
+<item>
+ <title>Case Study: DTEX Helps a Global Financial Services Institution Mitigate Insider Threats</title>
+ <link>https://www.dtex.ai/blog/case-study-dtex-helps-a-global-financial-services-institution-mitigate-insider-threats/</link>
+ <description>Read how DTEX helped one global financial services company choose the right data loss prevention solution for their needs.</description>
+ <pubDate>Thu, 22 Aug 2024 18:35:08 GMT</pubDate>
+</item>
+<item>
+ <title>Understanding Behavioral Intent Doesn’t Equal Invasive Surveillance</title>
+ <link>https://www.dtex.ai/blog/understanding-behavioral-intent-doesnt-equal-invasive-surveillance/</link>
+ <description>Adding behavioral analytics to your insider risk management program is a more proactive and effective solution than employees surveillance.</description>
+ <pubDate>Thu, 22 Aug 2024 13:01:54 GMT</pubDate>
+</item>
+<item>
+ <title>FDIC and OCC: What Financial Services Organizations Need to Know About the New Cybersecurity Incident Notification Rule</title>
+ <link>https://www.dtex.ai/blog/fdic-and-occ-what-financial-services-organizations-need-to-know-about-the-new-cybersecurity-incident-notification-rule/</link>
+ <description>A new ruling from the FDIC aims to protect customers by requiring financial services organizations to report cybersecurity risk accordingly.</description>
+ <pubDate>Wed, 21 Aug 2024 17:50:58 GMT</pubDate>
+</item>
+<item>
+ <title>CISA Warns of Water, Wastewater Infrastructure Security Threats on Heels of Insider Threat Self-Assessment Tool Release</title>
+ <link>https://www.dtex.ai/blog/cisa-warns-of-water-wastewater-infrastructure-security-threats-on-heels-of-insider-threat-self-assessment-tool-release/</link>
+ <description>On Thursday, October 14th the Cybersecurity and Infrastructure Security Agency (CISA), along with the Environmental Protection Agency (EPA), the National</description>
+ <pubDate>Tue, 20 Aug 2024 23:58:04 GMT</pubDate>
+</item>
+<item>
+ <title>Combating Shadow IT:  A Customer Uses DTEX for Cybersecurity &amp; More</title>
+ <link>https://www.dtex.ai/blog/combating-shadow-it-a-customer-uses-dtex-for-cybersecurity-more/</link>
+ <description>Shadow IT” refers to non-IT department information systems that users in large enterprises sometimes deploy. Learn how DTEX helps a customer combat shadow IT.</description>
+ <pubDate>Tue, 20 Aug 2024 16:37:04 GMT</pubDate>
 </item>
 <item>
  <title>AI Security</title>
@@ -100,90 +184,6 @@
  <link>https://www.dtex.ai/integrations/for-citrix/</link>
  <description>DTEX integrates with Citrix to extend visibility to analyze user behavior and protect data from insider threats.</description>
  <pubDate>Mon, 09 Mar 2026 18:23:30 GMT</pubDate>
-</item>
-<item>
- <title>DTEX Recognized in GigaOm Radar Reports</title>
- <link>https://www.dtex.ai/gigaom-radar-reports/</link>
- <description>DTEX has been named a leader in 3 of GigaOm’s Radar Reports including data loss prevention, Insider Risk Management and behavior analytics.</description>
- <pubDate>Mon, 09 Mar 2026 18:23:30 GMT</pubDate>
-</item>
-<item>
- <title>Ai³ Risk Assistant</title>
- <link>https://www.dtex.ai/ai3-risk-assistant/</link>
- <description>As the first AI assistant for insider risk management, Ai³ guides and expedites complex insider threat investigations to prevent data loss.</description>
- <pubDate>Mon, 09 Mar 2026 18:23:31 GMT</pubDate>
-</item>
-<item>
- <title>Platform Integrations</title>
- <link>https://www.dtex.ai/integrations/</link>
- <description>DTEX integrates with the wider security ecosystem to help analysts understand relevant data and get more relevant insights.</description>
- <pubDate>Mon, 09 Mar 2026 18:23:31 GMT</pubDate>
-</item>
-<item>
- <title>Proactive Insider Risk Management for the Modern Enterprise</title>
- <link>https://www.dtex.ai/capabilities/insider-risk-management/</link>
- <description>DTEX IRM drives elevated indicators of risk that act as critical early warning signs of malicious or compromised behavior.</description>
- <pubDate>Mon, 09 Mar 2026 18:23:31 GMT</pubDate>
-</item>
-<item>
- <title>Privacy</title>
- <link>https://www.dtex.ai/capabilities/privacy/</link>
- <description>DTEX Pseudonymization ensures privacy by design while enabling organizations to proactively protect against insider threats.</description>
- <pubDate>Mon, 09 Mar 2026 18:23:32 GMT</pubDate>
-</item>
-<item>
- <title>Foreign Interference</title>
- <link>https://www.dtex.ai/foreign-interference/</link>
- <description>DTEX provides unrivalled protection against foreign interference and cyber espionage. Discover how.</description>
- <pubDate>Mon, 09 Mar 2026 18:23:32 GMT</pubDate>
-</item>
-<item>
- <title>Third-party Risk</title>
- <link>https://www.dtex.ai/third-party-insider-risk/</link>
- <description>See how DTEX protects organizations from third-party insider risks. Get the visibility and behavioral context to secure the supply chain.</description>
- <pubDate>Mon, 09 Mar 2026 18:23:32 GMT</pubDate>
-</item>
-<item>
- <title>Technology</title>
- <link>https://www.dtex.ai/technology/</link>
- <description>DTEX works with technology companies to uplift insider risk management and proactively prevent IP theft.</description>
- <pubDate>Mon, 09 Mar 2026 18:23:32 GMT</pubDate>
-</item>
-<item>
- <title>Partners</title>
- <link>https://www.dtex.ai/partners/</link>
- <description>DTEX partners with industry leading technology and solution providers to deliver advanced and powerful insider risk management solutions to customers.</description>
- <pubDate>Mon, 09 Mar 2026 18:23:32 GMT</pubDate>
-</item>
-<item>
- <title>Healthcare</title>
- <link>https://www.dtex.ai/healthcare/</link>
- <description>DTEX helps healthcare organizations identify insider threats, securing the most sensitive personal data including medical records.</description>
- <pubDate>Mon, 09 Mar 2026 18:23:33 GMT</pubDate>
-</item>
-<item>
- <title>UEBA</title>
- <link>https://www.dtex.ai/capabilities/ueba/</link>
- <description>DTEX Behavioral Analytics baselines behavior, creates a risk score, and compares patterns to identify activities that can lead to a security incident.</description>
- <pubDate>Mon, 09 Mar 2026 18:23:33 GMT</pubDate>
-</item>
-<item>
- <title>Privacy Policy</title>
- <link>https://www.dtex.ai/privacy-policy/</link>
- <description>DTEX only collects personal information users have voluntarily submitted, such as through content download forms, or demo request forms.</description>
- <pubDate>Mon, 09 Mar 2026 18:23:33 GMT</pubDate>
-</item>
-<item>
- <title>Exposing DPRK</title>
- <link>https://www.dtex.ai/exposing-dprk/</link>
- <description>Explore DPRK cyber strategy and threat indicators. Uncover how North Korean operatives and IT workers drive global cyber espionage.</description>
- <pubDate>Mon, 09 Mar 2026 18:23:33 GMT</pubDate>
-</item>
-<item>
- <title>Whitepapers</title>
- <link>https://www.dtex.ai/resources/whitepapers/</link>
- <description>DTEX white papers provide in depth information and guidance on the most important aspects of insider risk management.</description>
- <pubDate>Mon, 09 Mar 2026 18:18:58 GMT</pubDate>
 </item>
 </channel>
 </rss>
