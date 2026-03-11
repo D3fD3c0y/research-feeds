@@ -4,12 +4,96 @@
  <title>DTEX Reports (Custom Feed)</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Wed, 11 Mar 2026 08:56:52 GMT</lastBuildDate>
+ <lastBuildDate>Wed, 11 Mar 2026 17:05:23 GMT</lastBuildDate>
 <item>
  <title>Reports</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>DTEX publishes comprehensive insider risk management reports, from the cost of insider threats to nation-state operations and more.</description>
- <pubDate>Wed, 11 Mar 2026 08:56:49 GMT</pubDate>
+ <pubDate>Wed, 11 Mar 2026 17:05:19 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX Achieves FedRAMP Authorization for UAM Compliance</title>
+ <link>https://www.dtex.ai/blog/dtex-cnssd-504-fedramp-marketplace/</link>
+ <description>DTEX has achieved FedRAMP Authorization for UAM compliance, sponsored by the U.S. Federal Trade Commission.</description>
+ <pubDate>Mon, 24 Nov 2025 15:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX i³ Issues Threat Advisory for Mitigating Insider Abuse of Insecure Web Apps</title>
+ <link>https://www.dtex.ai/blog/dtex-i%C2%B3-issues-threat-advisory-for-mitigating-insider-abuse-of-insecure-web-apps/</link>
+ <description>Without the correct checks in place, web apps can open the door to insider abuse, throwing sensitive IP and employee privacy into jeopardy.</description>
+ <pubDate>Fri, 23 Aug 2024 17:04:21 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX i³ Issues New Threat Advisory for Disrupting Foreign Interference</title>
+ <link>https://www.dtex.ai/blog/dtex-i3-issues-new-threat-advisory-for-disrupting-foreign-interference/</link>
+ <description>The DTEX i3 team has released a new threat advisory with critical indicators for disrupting foreign interference.</description>
+ <pubDate>Fri, 23 Aug 2024 22:10:34 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX i³ Issues Threat Advisory for Mitigating Third-Party Zoom Risk</title>
+ <link>https://www.dtex.ai/blog/dtex-i3-issues-threat-advisory-for-mitigating-third-party-zoom-risk/</link>
+ <description>The DTEX i3 team has issued a new Insider Threat Advisory for mitigating third-party Zoom risk and the potential for data loss or theft.</description>
+ <pubDate>Mon, 19 Aug 2024 15:12:10 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX i³ Issues Threat Advisory for Detecting the Use of Multiple Identities</title>
+ <link>https://www.dtex.ai/blog/dtex-i3-issues-threat-advisory-for-detecting-use-multiple-identities/</link>
+ <description>DTEX i³ team has issued a Threat Advisory following investigations linking use of personal accounts on corporate devices with side gigs &amp; extremist material spread.</description>
+ <pubDate>Fri, 23 Aug 2024 17:13:32 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX i³ Threat Advisory Provides Detections for LOTL, C2 Abuse</title>
+ <link>https://www.dtex.ai/blog/dtex-i3-threat-advisory-provides-detections-for-lotl-c2-abuse/</link>
+ <description>This DTEX i3 Threat Advisory Provides Detections for LOTL, C2 Abuse, with reference to the APT41 case of 2023.</description>
+ <pubDate>Fri, 23 Aug 2024 20:57:57 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX i³ Threat Advisory Reveals Growing Risk of Credential Abuse by Outside Adversaries</title>
+ <link>https://www.dtex.ai/blog/dtex-i3-threat-advisory-reveals-growing-risk-of-credential-abuse-by-outside-adversaries/</link>
+ <description>DTEX's latest Insider Threat Advisory highlights the growing risk of credential bleed between corporate and personal endpoints, and the threat of credential abuse.</description>
+ <pubDate>Thu, 29 Aug 2024 03:32:15 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX Integrations for Insider Risk Management: Splunk and CrowdStrike</title>
+ <link>https://www.dtex.ai/blog/dtex-integrations-for-insider-risk-management-splunk-and-crowdstrike/</link>
+ <description>DTEX integrates with Splunk and CrowdStrike to enable organizations to take their insider risk management solution to the next level.</description>
+ <pubDate>Fri, 23 Aug 2024 10:51:53 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX and Microsoft O365 E5: The Partner Opportunity</title>
+ <link>https://www.dtex.ai/blog/dtex-intercept-and-microsoft-365-e5-the-partner-opportunity/</link>
+ <description>Discover how DTEX and Microsoft 365 E5 integrate to strengthen insider threat detection, accelerate DLP, and maximize security investments.</description>
+ <pubDate>Fri, 23 Aug 2024 13:18:56 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX Named a Leader in the First GigaOm Radar for Insider Risk Management</title>
+ <link>https://www.dtex.ai/blog/dtex-named-leader-first-gigaom-irm-radar/</link>
+ <description>DTEX named a leader in GigaOm's Insider Risk Management report, highlighting its advanced behavior analytics and AI-driven insights to combat insider threats.</description>
+ <pubDate>Tue, 22 Oct 2024 21:33:34 GMT</pubDate>
+</item>
+<item>
+ <title>From Reactive to Adaptive: DTEX NEXT on Securing the AI Era</title>
+ <link>https://www.dtex.ai/blog/dtex-next-proactive-security/</link>
+ <description>Discover key takeaways from DTEX NEXT, including how insider risk management, risk-adaptive DLP, and AI governance empower proactive security.</description>
+ <pubDate>Wed, 08 Oct 2025 11:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX Risk-Adaptive Data Loss Prevention: From Reactive to Proactive Security Powered by AI</title>
+ <link>https://www.dtex.ai/blog/dtex-risk-adaptive-dlp/</link>
+ <description>DTEX is redefining data loss prevention with a bold, AI-powered solution that reinvents what DLP can and should be.</description>
+ <pubDate>Tue, 19 Aug 2025 16:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX i³ Issues Threat Advisory to Combat DPRK IT Worker Infiltration</title>
+ <link>https://www.dtex.ai/blog/dtexi3-threat-advisory-dprk/</link>
+ <description>DTEX i³ Threat Advisory provides recommendations for combating DPRK IT worker infiltration through insider risk management.</description>
+ <pubDate>Tue, 15 Oct 2024 13:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Early Insider Risk Detection Hinges on Quality Data – Not AI</title>
+ <link>https://www.dtex.ai/blog/early-insider-risk-detection-hinges-on-quality-data-not-ai/</link>
+ <description>Where AI offers momentum, data provides the fuel from which to make educated decisions to make early insider risk detection possible.</description>
+ <pubDate>Sat, 24 Aug 2024 00:52:26 GMT</pubDate>
 </item>
 <item>
  <title>Australia Enforces Insider Risk Management Programs to Combat Foreign Interference</title>
@@ -100,90 +184,6 @@
  <link>https://www.dtex.ai/blog/dtex-a3c-uplift-cyber-resilience/</link>
  <description>In February, 2021 DTEX was excited to join a group of industry experts and distinguished guests for the Insider Threat Centre of Excellence.</description>
  <pubDate>Tue, 20 Aug 2024 15:04:43 GMT</pubDate>
-</item>
-<item>
- <title>Insider Risk Management or Insider Threat Surveillance?</title>
- <link>https://www.dtex.ai/blog/insider-risk-management-or-insider-threat-surveillance/</link>
- <description>Employee privacy is critical for organizations when implementing an insider risk management strategy. Learn more.</description>
- <pubDate>Thu, 22 Aug 2024 12:32:17 GMT</pubDate>
-</item>
-<item>
- <title>DTEX’s Brian Stoner Wins Coveted CRN Channel Chief Recognition</title>
- <link>https://www.dtex.ai/blog/dtex-systems-brian-stoner-wins-coveted-crn-channel-chief-recognition/</link>
- <description>We are thrilled to announce that CRN has recognized Brian Stoner, VP of Worldwide Channel and Alliances at DTEX, on its Channel Chiefs list.</description>
- <pubDate>Fri, 23 Aug 2024 08:30:16 GMT</pubDate>
-</item>
-<item>
- <title>Monday, July 30: DTEX, Insider Threat, Privacy in the News: California Data Breach Horror Stories Feature Vulnerable Insiders, Trump Administration Focusing on Privacy Regulation</title>
- <link>https://www.dtex.ai/blog/monday-july-30-dtex-insider-threat-privacy-in-the-news-california-data-breach-horror-stories-feature-vulnerable-insiders-trump-administration-focusing-on-privacy-regulation/</link>
- <description>Last week, VentureBeat reporter Chris O'Brien took a look at some of our research on the leading causes of data breaches in California.</description>
- <pubDate>Sun, 18 Aug 2024 19:10:14 GMT</pubDate>
-</item>
-<item>
- <title>Getting DLP Right: Considering Gartner’s Thoughts on the Four Elements of a Successful DLP Program</title>
- <link>https://www.dtex.ai/blog/getting-dlp-right-considering-gartners-thoughts-on-the-four-elements-of-a-successful-dlp-program/</link>
- <description>The DLP struggle is real. So real in fact that in 2020, Gartner fielded 32% more inquiries on the topic of DLP.</description>
- <pubDate>Wed, 21 Aug 2024 16:34:51 GMT</pubDate>
-</item>
-<item>
- <title>The 5 Reasons Why Enterprises Are Upgrading to Modern Endpoint DLP</title>
- <link>https://www.dtex.ai/blog/the-5-reasons-why-enterprises-are-upgrading-to-modern-endpoint-dlp/</link>
- <description>Learn why companies worldwide have spent billions of dollars on first generation endpoint data loss prevention (DLP) technologies.</description>
- <pubDate>Tue, 20 Aug 2024 14:48:51 GMT</pubDate>
-</item>
-<item>
- <title>CISA Insider Threat Self-Assessment Tool Hits the ‘Metadata’ Point</title>
- <link>https://www.dtex.ai/blog/cisa-insider-threat-self-assessment-tool-hits-the-metadata-point/</link>
- <description>Recent recommendations from the Cybersecurity and Infrastructure Security Agency hit the mark, but the available technology is lacking.</description>
- <pubDate>Wed, 21 Aug 2024 18:15:38 GMT</pubDate>
-</item>
-<item>
- <title>An Affair They’d Rather Forget: Ashley Madison Victim to Hack</title>
- <link>https://www.dtex.ai/blog/an-affair-theyd-rather-forget-ashley-madison-victim-to-hack/</link>
- <description>The high-profile Ashley Madison hack tells us even companies that tout their bulletproof security systems can be victims.</description>
- <pubDate>Thu, 15 Aug 2024 23:07:02 GMT</pubDate>
-</item>
-<item>
- <title>DTEX Platform Named Winner in 2023 Cybersecurity Excellence Awards</title>
- <link>https://www.dtex.ai/blog/dtex-intercept-named-winner-in-2023-cybersecurity-excellence-awards/</link>
- <description>We are thrilled to share that DTEX Platform was named a winner in the 2023 Cybersecurity Excellence Awards for the third consecutive year.</description>
- <pubDate>Fri, 23 Aug 2024 09:26:45 GMT</pubDate>
-</item>
-<item>
- <title>DTEX Platform v7: Built for Smarter Insider Risk Management</title>
- <link>https://www.dtex.ai/blog/dtex-platform-v7/</link>
- <description>Explore DTEX Platform v7: smarter workflows, cloud-native performance, and AI-driven insights for insider risk management.</description>
- <pubDate>Mon, 08 Dec 2025 14:32:51 GMT</pubDate>
-</item>
-<item>
- <title>2022 Insider Risk Report ~ The Rise of the Super Malicious Insider</title>
- <link>https://www.dtex.ai/blog/2022-insider-risk-report-the-rise-of-the-super-malicious-insider/</link>
- <description>During 2021 the DTEX i3 team accumulated research from customers and prospects to build the 2022 insider risk report. Read now.</description>
- <pubDate>Thu, 22 Aug 2024 11:40:34 GMT</pubDate>
-</item>
-<item>
- <title>2023 Insider Risk Investigations Report ~ The Rise of Employee Attrition and Data Exfiltration</title>
- <link>https://www.dtex.ai/blog/2023-insider-risk-investigations-report-the-rise-of-employee-attrition-and-data-exfiltration/</link>
- <description>Today we released our 2023 Insider Risk Investigations Report to empower organizations to better understand and mitigate insider risk.</description>
- <pubDate>Fri, 23 Aug 2024 09:32:36 GMT</pubDate>
-</item>
-<item>
- <title>2025 Ponemon Cost of Insider Risks Report: What’s Working, What’s Not, and What Now?</title>
- <link>https://www.dtex.ai/blog/2025-cost-insider-risks-takeaways/</link>
- <description>Ponemon's latest insider threat report reveals growing adoption of insider risk management is paying off. Get the key takeaways.</description>
- <pubDate>Wed, 26 Feb 2025 12:00:00 GMT</pubDate>
-</item>
-<item>
- <title>Accelerating Insider Risk Management in the Mining Sector: Case Study</title>
- <link>https://www.dtex.ai/blog/accelerating-insider-risk-management-in-the-mining-sector-case-study/</link>
- <description>This case study explores how a global mining company partnered with DTEX to achieve a consolidated approach to insider risk management.</description>
- <pubDate>Fri, 23 Aug 2024 14:10:36 GMT</pubDate>
-</item>
-<item>
- <title>How Edward Snowden made us think about and forget the Insider Threat</title>
- <link>https://www.dtex.ai/blog/how-edward-snowden-made-us-think-about-and-forget-the-insider-threat/</link>
- <description>Five years ago, the news media went into a frenzy after The Guardian revealed details about National Security Agency (NSA) surveillance activities.</description>
- <pubDate>Fri, 16 Aug 2024 00:54:28 GMT</pubDate>
 </item>
 </channel>
 </rss>
