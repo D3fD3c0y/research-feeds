@@ -4,12 +4,96 @@
  <title>DTEX Reports (Custom Feed)</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Wed, 11 Mar 2026 02:47:15 GMT</lastBuildDate>
+ <lastBuildDate>Wed, 11 Mar 2026 08:56:52 GMT</lastBuildDate>
 <item>
  <title>Reports</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>DTEX publishes comprehensive insider risk management reports, from the cost of insider threats to nation-state operations and more.</description>
- <pubDate>Wed, 11 Mar 2026 02:47:12 GMT</pubDate>
+ <pubDate>Wed, 11 Mar 2026 08:56:49 GMT</pubDate>
+</item>
+<item>
+ <title>Australia Enforces Insider Risk Management Programs to Combat Foreign Interference</title>
+ <link>https://www.dtex.ai/blog/australia-enforces-insider-risk-management-programs/</link>
+ <description>Australia’s PSPF update mandates insider risk management programs across government, to help counter foreign threats and boost national security resilience.</description>
+ <pubDate>Wed, 06 Nov 2024 05:07:57 GMT</pubDate>
+</item>
+<item>
+ <title>Black Hat 2024: Why Knowing Your Users is the Ultimate Defense</title>
+ <link>https://www.dtex.ai/blog/black-hat-2024-why-knowing-your-users-is-ultimate-defense/</link>
+ <description>Miss Black Hat 2024? DTEX's Blurred Lines event proved exactly why knowing your users is the ultimate defense.</description>
+ <pubDate>Fri, 23 Aug 2024 22:28:19 GMT</pubDate>
+</item>
+<item>
+ <title>Black Hat 2025: How Insider Risk Became the Frontline of Conflict</title>
+ <link>https://www.dtex.ai/blog/black-hat-2025/</link>
+ <description>Black Hat 2025 panel reveals why insider risk is now a strategic, geopolitical security priority — and how C-suites can build resilience.</description>
+ <pubDate>Wed, 13 Aug 2025 11:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Why Insider Risk Management Is Key to Data Security and Cyber Resilience</title>
+ <link>https://www.dtex.ai/blog/build-cyber-resilience-with-insider-risk-management/</link>
+ <description>Learn why insider risk management is essential to cyber resilience, and how a human-centric approach helps detect, mitigate, and prevent insider threats.</description>
+ <pubDate>Wed, 11 Jun 2025 11:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Building a Human-Centric Insider Risk Program | Three Experts Weigh In</title>
+ <link>https://www.dtex.ai/blog/building-a-human-centric-insider-risk-program-three-experts-weigh-in/</link>
+ <description>Building a human-centric insider risk program has become a priority for most critical infrastructure entities. But how do you get started?</description>
+ <pubDate>Fri, 23 Aug 2024 16:23:15 GMT</pubDate>
+</item>
+<item>
+ <title>Busted: Misconceptions of Insider Risk Programs</title>
+ <link>https://www.dtex.ai/blog/busted-misconceptions-on-insider-risk-programs/</link>
+ <description>Here are the top misconceptions of insider risk programs based on data-driven research by MITRE Corporation.</description>
+ <pubDate>Fri, 23 Aug 2024 11:11:02 GMT</pubDate>
+</item>
+<item>
+ <title>Insider Fraud: Combating the Growing Threat in Financial Services</title>
+ <link>https://www.dtex.ai/blog/combating-the-growing-threat-in-financial-services/</link>
+ <description>Insider fraud is rising in financial services. Learn how to detect risks early, protect assets, and prevent costly breaches before they happen.</description>
+ <pubDate>Thu, 06 Mar 2025 12:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Building a Trust-First Cyber Resilience Strategy</title>
+ <link>https://www.dtex.ai/blog/building-trust-first-cyber-resilience/</link>
+ <description>Learn how CISOs can build cyber resilience by operationalizing trust across people, partners, and AI—turning collaboration into security impact.</description>
+ <pubDate>Wed, 30 Apr 2025 11:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Countering Foreign Interference: 2024 Insider Risk Report Takeaways</title>
+ <link>https://www.dtex.ai/blog/countering-foreign-interference-2024-insider-risk-report-takeaways/</link>
+ <description>The 2024 Insider Risk Report provides high value insights and indicators to benefit any insider risk program or broader security mission.</description>
+ <pubDate>Fri, 23 Aug 2024 17:35:13 GMT</pubDate>
+</item>
+<item>
+ <title>Crawl, Walk, Run: How to Kickstart Your Insider Risk Program</title>
+ <link>https://www.dtex.ai/blog/crawl-walk-run-how-to-kickstart-your-insider-risk-program/</link>
+ <description>Establishing an insider risk management program is a critical endeavor. This blog outlines how to kickstart your insider risk program.</description>
+ <pubDate>Thu, 09 Jan 2025 10:39:21 GMT</pubDate>
+</item>
+<item>
+ <title>Cybersecurity Awareness Month: Redefining Insider Risk in the Age of AI</title>
+ <link>https://www.dtex.ai/blog/cybersecurity-awareness-month/</link>
+ <description>This Cybersecurity Awareness Month, expand insider risk to AI systems. Learn why AI governance and adaptive protection define resilience.</description>
+ <pubDate>Wed, 01 Oct 2025 14:05:28 GMT</pubDate>
+</item>
+<item>
+ <title>Data Loss Prevention: Best Practices for Employee Layoffs</title>
+ <link>https://www.dtex.ai/blog/data-loss-prevention-best-practices-for-employee-layoffs/</link>
+ <description>Layoffs are on the rise, and so too is insider risk. We're sharing data loss prevention best practices for employee layoffs.</description>
+ <pubDate>Tue, 15 Jul 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Data loss prevention: The future is platformization</title>
+ <link>https://www.dtex.ai/blog/data-loss-prevention-the-future-is-platformization/</link>
+ <description>Data loss prevention is undergoing a significant evolution, as the industry increasingly leans into platformization and behavioral science.</description>
+ <pubDate>Thu, 12 Sep 2024 02:23:55 GMT</pubDate>
+</item>
+<item>
+ <title>Defense to Danger: An Insider’s Sale of Cyber Weapons</title>
+ <link>https://www.dtex.ai/blog/defense-to-danger-an-insiders-sale-of-cyber-weapons/</link>
+ <description>Analysis of the Williams insider case, detailing how privileged access enabled the theft and sale of sensitive cyber exploits and exposed gaps in trust and investigation.</description>
+ <pubDate>Wed, 05 Nov 2025 12:00:00 GMT</pubDate>
 </item>
 <item>
  <title>DTEX Helps the A3C “Uplift Cyber Security Resilience”</title>
@@ -100,90 +184,6 @@
  <link>https://www.dtex.ai/blog/how-edward-snowden-made-us-think-about-and-forget-the-insider-threat/</link>
  <description>Five years ago, the news media went into a frenzy after The Guardian revealed details about National Security Agency (NSA) surveillance activities.</description>
  <pubDate>Fri, 16 Aug 2024 00:54:28 GMT</pubDate>
-</item>
-<item>
- <title>California Data Breach Reporting Rate Decreases 59 Percent in First Half of 2018; Negligent Employees, Human Errors Continue to Cause Breaches</title>
- <link>https://www.dtex.ai/blog/california-data-breach-reporting-rate-decreases-59-percent-in-first-half-of-2018/</link>
- <description>The number of data breaches reported by organizations required to file notices on the California State Attorney General's website dropped significantly between the second half of 2017 and the first half of 2018.</description>
- <pubDate>Sun, 18 Aug 2024 18:47:48 GMT</pubDate>
-</item>
-<item>
- <title>Layers and Telemetry — What We Can Learn from the Stanford University Breach</title>
- <link>https://www.dtex.ai/blog/layers-and-telemetry/</link>
- <description>DTEX VP of Product Engineering explores why breaches like the Stanford University breach continue to happen.</description>
- <pubDate>Tue, 20 Aug 2024 15:47:01 GMT</pubDate>
-</item>
-<item>
- <title>DTEX Partners with Leading Cybersecurity Companies &amp; the Australian Government to Cultivate Talent</title>
- <link>https://www.dtex.ai/blog/dtex-partners-with-leading-cybersecurity-companies-the-australian-government-to-cultivate-talent/</link>
- <description>DTEX has partnered with the Australian Government, along with Splunk and CrowdStrike to support the growth of talent in cybersecurity.</description>
- <pubDate>Wed, 21 Aug 2024 18:28:18 GMT</pubDate>
-</item>
-<item>
- <title>macOS Monterey Demonstrates Apple’s Commitment to User Privacy &amp; Enterprise Workforce Security</title>
- <link>https://www.dtex.ai/blog/macos-monterey-demonstrates-apples-commitment-to-user-privacy-enterprise-workforce-security/</link>
- <description>Since other Insider Risk &amp; DLP vendors relied heavily on kernel extensions, they are now unable to provide a fully-featured macOS enterprise product.</description>
- <pubDate>Wed, 21 Aug 2024 00:13:06 GMT</pubDate>
-</item>
-<item>
- <title>Long Overdue: Shedding Legacy Employee Monitoring Technology to Effectively Manage Insider Threats</title>
- <link>https://www.dtex.ai/blog/long-overdue-shedding-legacy-employee-monitoring-technology-to-effectively-manage-insider-threats/</link>
- <description>The employees who understand how their organizations generate &amp; use data will be in a better position to understand what activities are potentially harmful.</description>
- <pubDate>Sun, 18 Aug 2024 18:28:39 GMT</pubDate>
-</item>
-<item>
- <title>Microsoft Hack an Example of Insider Threat? Yes. TransUnion Gets Serious About Insider Threat</title>
- <link>https://www.dtex.ai/blog/microsoft-hack-an-example-of-insider-threat-yes-transunion-gets-serious-about-insider-threat/</link>
- <description>Insider threat or not? That seems to be the questions surrounding a recent breach that struck Microsoft between January and March. Let's take a look.</description>
- <pubDate>Tue, 20 Aug 2024 03:38:50 GMT</pubDate>
-</item>
-<item>
- <title>3 Ways to Take Control of Your Cyber Security Career in 2022</title>
- <link>https://www.dtex.ai/blog/three-ways-to-take-control-of-your-cyber-security-career-in-2022/</link>
- <description>The cyber security industry is a hot job market. Read tips from our team on getting started and putting your career in the right direction.</description>
- <pubDate>Thu, 22 Aug 2024 12:09:54 GMT</pubDate>
-</item>
-<item>
- <title>Case Study: DTEX Provides Visibility and Context to Global Materials Company</title>
- <link>https://www.dtex.ai/blog/case-study-dtex-provides-visibility-and-context-to-global-materials-company/</link>
- <description>DTEX provided the visibility and context to detect, deter and defend against unsanctioned data use and movement.</description>
- <pubDate>Fri, 23 Aug 2024 07:56:54 GMT</pubDate>
-</item>
-<item>
- <title>Time to Value for Insider Risk Management is Key to Adoption &amp; Success</title>
- <link>https://www.dtex.ai/blog/time-to-value-for-insider-risk-management-is-key-to-adoption-success/</link>
- <description>Time to value is critical for organizations. IRM solutions like the DTEX Platform offer faster TTV than surveillance solutions.</description>
- <pubDate>Thu, 22 Aug 2024 13:21:16 GMT</pubDate>
-</item>
-<item>
- <title>What Is User &amp; Entity Behavior Analytics (UEBA)?</title>
- <link>https://www.dtex.ai/blog/what-is-user-entity-behavior-analytics-ueba/</link>
- <description>Learn what is User &amp; Entity Behavior Analytics (UEBA) alongside the differences between outdated Indicators of Compromise vs. modern Indicators of Intent.</description>
- <pubDate>Tue, 20 Aug 2024 16:22:27 GMT</pubDate>
-</item>
-<item>
- <title>Major US Lending Company Chooses DTEX to Mitigate Insider Risk</title>
- <link>https://www.dtex.ai/blog/major-us-lending-company-chooses-dtex-to-mitigate-insider-risk/</link>
- <description>One of the largest lending institutions in North America has taken a major step toward mitigating insider risk.</description>
- <pubDate>Fri, 23 Aug 2024 08:15:55 GMT</pubDate>
-</item>
-<item>
- <title>5 Key Areas to Help Measure your Insider Risk Program Effectiveness</title>
- <link>https://www.dtex.ai/blog/measuring-the-efficacy-of-your-insider-risk-program/</link>
- <description>So how do we go about measuring the efficacy of an insider risk program? Here are five key areas to focus one's attention.</description>
- <pubDate>Wed, 28 Aug 2024 04:24:37 GMT</pubDate>
-</item>
-<item>
- <title>DTEX Insider Risk Assessment Development Strategy for Partners</title>
- <link>https://www.dtex.ai/blog/insider-risk-assessment-strategy-partners/</link>
- <description>DTEX has developed a 3-week Insider Risk Assessment that can be leveraged by partners to begin building their insider risk practice.</description>
- <pubDate>Fri, 23 Aug 2024 12:04:28 GMT</pubDate>
-</item>
-<item>
- <title>DTEX C-InT Brief: Up to 60% of Employees Research or Trade Cryptocurrency on Corporate Devices</title>
- <link>https://www.dtex.ai/blog/dtex-c-int-brief-up-to-60-of-employees-research-or-trade-cryptocurrency-on-corporate-devices/</link>
- <description>While cryptocurrency clearly will have its place in the world economy, it’s important that people understand the risk of engaging with it through corporate devices.</description>
- <pubDate>Tue, 20 Aug 2024 16:17:51 GMT</pubDate>
 </item>
 </channel>
 </rss>
