@@ -4,7 +4,13 @@
  <title>Profero Resources (Custom Feed)</title>
  <link>https://profero.io/resources</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Wed, 11 Mar 2026 17:05:25 GMT</lastBuildDate>
+ <lastBuildDate>Thu, 12 Mar 2026 02:52:15 GMT</lastBuildDate>
+<item>
+ <title>Hijacked at the Source: A Trusted Marketing AppsFlyer’s SDK distributes a Crypto Stealer</title>
+ <link>https://profero.io/blog/hijacked-at-the-source-a-trusted-marketing-appsflyers-sdk-distributes-a-crypto-stealer</link>
+ <description>Profero IRT has uncovered a cryptocurrency wallet hijacking supply chain attack in the AppsFlyer Web SDK</description>
+ <pubDate>Thu, 12 Mar 2026 02:52:15 GMT</pubDate>
+</item>
 <item>
  <title>From the Trenches: Common-Sense Measures to Prevent Cloud Incidents</title>
  <link>https://profero.io/blog/from-the-trenches-common-sense-measures-to-prevent-cloud-incidents</link>
@@ -178,12 +184,6 @@
  <link>https://profero.io/blog/unmasking-a-sophisticated-phishing-campaign-profero-irts-deep-dive-into-a-global-microsoft-identity-attack</link>
  <description>Forensic investigation into a global phishing campaign targeting Microsoft 365 identities, specifically Azure Active Directory and Office 365 accounts.</description>
  <pubDate>Mon, 09 Mar 2026 17:18:21 GMT</pubDate>
-</item>
-<item>
- <title>Understanding Quantum Cryptography: Separating Fact from Fiction</title>
- <link>https://profero.io/blog/understanding-quantum-cryptography-separating-fact-from-fiction</link>
- <description>Explore the intriguing world of quantum cryptography</description>
- <pubDate>Mon, 09 Mar 2026 17:18:22 GMT</pubDate>
 </item>
 </channel>
 </rss>
