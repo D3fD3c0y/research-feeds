@@ -4,12 +4,96 @@
  <title>DTEX Reports (Custom Feed)</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Thu, 12 Mar 2026 02:52:12 GMT</lastBuildDate>
+ <lastBuildDate>Thu, 12 Mar 2026 08:57:49 GMT</lastBuildDate>
 <item>
  <title>Reports</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>DTEX publishes comprehensive insider risk management reports, from the cost of insider threats to nation-state operations and more.</description>
- <pubDate>Thu, 12 Mar 2026 02:52:08 GMT</pubDate>
+ <pubDate>Thu, 12 Mar 2026 08:57:47 GMT</pubDate>
+</item>
+<item>
+ <title>Insider Knowledge Theft: What Your Board Needs to Know</title>
+ <link>https://www.dtex.ai/blog/insider-knowledge-theft/</link>
+ <description>Insider threats are rising fast. Explore how knowledge theft is reshaping cybersecurity - and why insider risk demands urgent executive attention.</description>
+ <pubDate>Thu, 22 May 2025 15:30:00 GMT</pubDate>
+</item>
+<item>
+ <title>Insider Risk Detection: Data Relationships Tell the Whole Story</title>
+ <link>https://www.dtex.ai/blog/insider-risk-detection-data-relationships-tell-whole-story/</link>
+ <description>Data comes in a multitude of formats and flavors: physical, cyber, organizational, and, of course, the human sensors. Collecting data is easy - it’s the</description>
+ <pubDate>Fri, 23 Aug 2024 15:22:21 GMT</pubDate>
+</item>
+<item>
+ <title>Insider Risk is Not About Alerts. It’s About Behavior</title>
+ <link>https://www.dtex.ai/blog/insider-risk-is-not-about-alerts-span-its-about-behavior/</link>
+ <description>An evolution to the DTEX Alerts page, the Risky Users portal more efficiently connects behavioral indicators and surrounding context into a single view.</description>
+ <pubDate>Tue, 23 Sep 2025 14:04:29 GMT</pubDate>
+</item>
+<item>
+ <title>Insider Risk Lessons from the DPRK IT Worker Crackdown</title>
+ <link>https://www.dtex.ai/blog/insider-risk-lessons-from-dprk-crackdown/</link>
+ <description>Here are five insider risk lessons from the DPRK IT worker crackdown along with steps for staying protected.</description>
+ <pubDate>Wed, 02 Jul 2025 20:18:49 GMT</pubDate>
+</item>
+<item>
+ <title>Insider Risk Management: Why You Need an Employee Assistance Program</title>
+ <link>https://www.dtex.ai/blog/insider-risk-management-why-you-need-an-employee-assistance-program/</link>
+ <description>Employee assistance programs proactively reduce security threats, making them vital to your insider risk management program.</description>
+ <pubDate>Tue, 08 Jul 2025 09:09:00 GMT</pubDate>
+</item>
+<item>
+ <title>Insider Risk vs. Insider Threat: What’s the Difference?</title>
+ <link>https://www.dtex.ai/blog/insider-risk-vs-insider-threat-what-makes-one-and-not-the-other/</link>
+ <description>Understanding the difference between insider risk vs. insider threat is the difference between a proactive and reactive approach to data loss.</description>
+ <pubDate>Fri, 23 Aug 2024 12:30:30 GMT</pubDate>
+</item>
+<item>
+ <title>Insider Summit (IS9) 2025: New Name, New Takeaways</title>
+ <link>https://www.dtex.ai/blog/insider-summit-9-takeaways/</link>
+ <description>DTEX exhibited at the 2025 Insider Summit 9, to connect with risk management leaders and support the community’s top insider threat use cases.</description>
+ <pubDate>Tue, 01 Apr 2025 11:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Insider Threat Summit (ITS8) 2024: Three Takeaways</title>
+ <link>https://www.dtex.ai/blog/insider-threat-summit-its8-2024-three-takeaways/</link>
+ <description>Discover the three key takeaways from the 8th Annual Insider Threat Summit (ITS), and what they mean for insider risk management.</description>
+ <pubDate>Fri, 23 Aug 2024 17:31:44 GMT</pubDate>
+</item>
+<item>
+ <title>Grounded by More Than Weather: The Rising Insider Threat in the Airline Industry</title>
+ <link>https://www.dtex.ai/blog/insider-threats-in-airline-industry/</link>
+ <description>Insider threats in the airline industry are rising. Learn how post-shutdown risks, vendor breaches, and new threat actors like Scattered Spider are reshaping aviation security.</description>
+ <pubDate>Thu, 16 Oct 2025 15:47:53 GMT</pubDate>
+</item>
+<item>
+ <title>Insider Threats in Maritime and Logistics: From RMM to AI Risk</title>
+ <link>https://www.dtex.ai/blog/insider-threats-in-maritime-logistics/</link>
+ <description>Explore how insider threats and AI risks impact maritime logistics. Learn how behavioral intelligence detects attacks early.</description>
+ <pubDate>Mon, 17 Nov 2025 15:53:47 GMT</pubDate>
+</item>
+<item>
+ <title>From Risk to Resilience: Insights from Australia’s Insider Risk Experts</title>
+ <link>https://www.dtex.ai/blog/insights-australias-insider-risk-experts/</link>
+ <description>Discover key insights from AIRCoE’s latest insider risk masterclass, featuring expert strategies, real-world cases, and leadership advice.</description>
+ <pubDate>Wed, 12 Feb 2025 12:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>5 Lessons From Real-World Supply Chain Compromises Caused by Insider Access</title>
+ <link>https://www.dtex.ai/blog/lessons-from-insider-supply-chain-compromises/</link>
+ <description>Five real-world lessons reveal how insider access drives supply chain compromise — and what security teams must do to mitigate risk.</description>
+ <pubDate>Wed, 30 Jul 2025 11:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>M&amp;As, and Insider Threats: Managing Risk Beyond the Balance Sheet</title>
+ <link>https://www.dtex.ai/blog/managing-risk-beyond-the-balance-sheet/</link>
+ <description>Explore how insider risk management can help strengthen security and resilience during mergers and acquisitions.</description>
+ <pubDate>Thu, 30 Jan 2025 05:46:58 GMT</pubDate>
+</item>
+<item>
+ <title>Meet Ai³, the First AI Assistant Created for Insider Risk Management</title>
+ <link>https://www.dtex.ai/blog/meet-ai3-risk-assistant/</link>
+ <description>DTEX Ai³, generative AI risk assistant for the DTEX Platform, fast-tracks effective insider investigations and helps to prevent data loss.</description>
+ <pubDate>Fri, 23 Aug 2024 17:00:30 GMT</pubDate>
 </item>
 <item>
  <title>AIRCOE Reception</title>
@@ -100,90 +184,6 @@
  <link>https://www.dtex.ai/blog/dtex-cnssd-504-fedramp-marketplace/</link>
  <description>DTEX has achieved FedRAMP Authorization for UAM compliance, sponsored by the U.S. Federal Trade Commission.</description>
  <pubDate>Mon, 24 Nov 2025 15:00:00 GMT</pubDate>
-</item>
-<item>
- <title>DTEX i³ Issues Threat Advisory for Mitigating Insider Abuse of Insecure Web Apps</title>
- <link>https://www.dtex.ai/blog/dtex-i%C2%B3-issues-threat-advisory-for-mitigating-insider-abuse-of-insecure-web-apps/</link>
- <description>Without the correct checks in place, web apps can open the door to insider abuse, throwing sensitive IP and employee privacy into jeopardy.</description>
- <pubDate>Fri, 23 Aug 2024 17:04:21 GMT</pubDate>
-</item>
-<item>
- <title>DTEX i³ Issues New Threat Advisory for Disrupting Foreign Interference</title>
- <link>https://www.dtex.ai/blog/dtex-i3-issues-new-threat-advisory-for-disrupting-foreign-interference/</link>
- <description>The DTEX i3 team has released a new threat advisory with critical indicators for disrupting foreign interference.</description>
- <pubDate>Fri, 23 Aug 2024 22:10:34 GMT</pubDate>
-</item>
-<item>
- <title>DTEX i³ Issues Threat Advisory for Mitigating Third-Party Zoom Risk</title>
- <link>https://www.dtex.ai/blog/dtex-i3-issues-threat-advisory-for-mitigating-third-party-zoom-risk/</link>
- <description>The DTEX i3 team has issued a new Insider Threat Advisory for mitigating third-party Zoom risk and the potential for data loss or theft.</description>
- <pubDate>Mon, 19 Aug 2024 15:12:10 GMT</pubDate>
-</item>
-<item>
- <title>DTEX i³ Issues Threat Advisory for Detecting the Use of Multiple Identities</title>
- <link>https://www.dtex.ai/blog/dtex-i3-issues-threat-advisory-for-detecting-use-multiple-identities/</link>
- <description>DTEX i³ team has issued a Threat Advisory following investigations linking use of personal accounts on corporate devices with side gigs &amp; extremist material spread.</description>
- <pubDate>Fri, 23 Aug 2024 17:13:32 GMT</pubDate>
-</item>
-<item>
- <title>DTEX i³ Threat Advisory Provides Detections for LOTL, C2 Abuse</title>
- <link>https://www.dtex.ai/blog/dtex-i3-threat-advisory-provides-detections-for-lotl-c2-abuse/</link>
- <description>This DTEX i3 Threat Advisory Provides Detections for LOTL, C2 Abuse, with reference to the APT41 case of 2023.</description>
- <pubDate>Fri, 23 Aug 2024 20:57:57 GMT</pubDate>
-</item>
-<item>
- <title>DTEX i³ Threat Advisory Reveals Growing Risk of Credential Abuse by Outside Adversaries</title>
- <link>https://www.dtex.ai/blog/dtex-i3-threat-advisory-reveals-growing-risk-of-credential-abuse-by-outside-adversaries/</link>
- <description>DTEX's latest Insider Threat Advisory highlights the growing risk of credential bleed between corporate and personal endpoints, and the threat of credential abuse.</description>
- <pubDate>Thu, 29 Aug 2024 03:32:15 GMT</pubDate>
-</item>
-<item>
- <title>DTEX Integrations for Insider Risk Management: Splunk and CrowdStrike</title>
- <link>https://www.dtex.ai/blog/dtex-integrations-for-insider-risk-management-splunk-and-crowdstrike/</link>
- <description>DTEX integrates with Splunk and CrowdStrike to enable organizations to take their insider risk management solution to the next level.</description>
- <pubDate>Fri, 23 Aug 2024 10:51:53 GMT</pubDate>
-</item>
-<item>
- <title>DTEX and Microsoft O365 E5: The Partner Opportunity</title>
- <link>https://www.dtex.ai/blog/dtex-intercept-and-microsoft-365-e5-the-partner-opportunity/</link>
- <description>Discover how DTEX and Microsoft 365 E5 integrate to strengthen insider threat detection, accelerate DLP, and maximize security investments.</description>
- <pubDate>Fri, 23 Aug 2024 13:18:56 GMT</pubDate>
-</item>
-<item>
- <title>DTEX Named a Leader in the First GigaOm Radar for Insider Risk Management</title>
- <link>https://www.dtex.ai/blog/dtex-named-leader-first-gigaom-irm-radar/</link>
- <description>DTEX named a leader in GigaOm's Insider Risk Management report, highlighting its advanced behavior analytics and AI-driven insights to combat insider threats.</description>
- <pubDate>Tue, 22 Oct 2024 21:33:34 GMT</pubDate>
-</item>
-<item>
- <title>From Reactive to Adaptive: DTEX NEXT on Securing the AI Era</title>
- <link>https://www.dtex.ai/blog/dtex-next-proactive-security/</link>
- <description>Discover key takeaways from DTEX NEXT, including how insider risk management, risk-adaptive DLP, and AI governance empower proactive security.</description>
- <pubDate>Wed, 08 Oct 2025 11:00:00 GMT</pubDate>
-</item>
-<item>
- <title>DTEX Risk-Adaptive Data Loss Prevention: From Reactive to Proactive Security Powered by AI</title>
- <link>https://www.dtex.ai/blog/dtex-risk-adaptive-dlp/</link>
- <description>DTEX is redefining data loss prevention with a bold, AI-powered solution that reinvents what DLP can and should be.</description>
- <pubDate>Tue, 19 Aug 2025 16:00:00 GMT</pubDate>
-</item>
-<item>
- <title>DTEX i³ Issues Threat Advisory to Combat DPRK IT Worker Infiltration</title>
- <link>https://www.dtex.ai/blog/dtexi3-threat-advisory-dprk/</link>
- <description>DTEX i³ Threat Advisory provides recommendations for combating DPRK IT worker infiltration through insider risk management.</description>
- <pubDate>Tue, 15 Oct 2024 13:00:00 GMT</pubDate>
-</item>
-<item>
- <title>Early Insider Risk Detection Hinges on Quality Data – Not AI</title>
- <link>https://www.dtex.ai/blog/early-insider-risk-detection-hinges-on-quality-data-not-ai/</link>
- <description>Where AI offers momentum, data provides the fuel from which to make educated decisions to make early insider risk detection possible.</description>
- <pubDate>Sat, 24 Aug 2024 00:52:26 GMT</pubDate>
-</item>
-<item>
- <title>Australia Enforces Insider Risk Management Programs to Combat Foreign Interference</title>
- <link>https://www.dtex.ai/blog/australia-enforces-insider-risk-management-programs/</link>
- <description>Australia’s PSPF update mandates insider risk management programs across government, to help counter foreign threats and boost national security resilience.</description>
- <pubDate>Wed, 06 Nov 2024 05:07:57 GMT</pubDate>
 </item>
 </channel>
 </rss>
