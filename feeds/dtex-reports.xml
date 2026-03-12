@@ -4,12 +4,96 @@
  <title>DTEX Reports (Custom Feed)</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Thu, 12 Mar 2026 08:57:49 GMT</lastBuildDate>
+ <lastBuildDate>Thu, 12 Mar 2026 17:08:02 GMT</lastBuildDate>
 <item>
  <title>Reports</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>DTEX publishes comprehensive insider risk management reports, from the cost of insider threats to nation-state operations and more.</description>
- <pubDate>Thu, 12 Mar 2026 08:57:47 GMT</pubDate>
+ <pubDate>Thu, 12 Mar 2026 17:08:00 GMT</pubDate>
+</item>
+<item>
+ <title>iTA Workshop: What Happens When a Trusted Contractor Turns into a Server-Side Threat?</title>
+ <link>https://www.dtex.ai/events/ita-workshop-server-side-threat/</link>
+ <description>Explore the risks associated with servers. Join our workshop to learn how trusted contractors can become server-side threats in unexpected ways.</description>
+ <pubDate>Thu, 12 Mar 2026 17:08:00 GMT</pubDate>
+</item>
+<item>
+ <title>Meet Marshall Heilman: New CEO for DTEX</title>
+ <link>https://www.dtex.ai/blog/meet-marshall-heilman-new-ceo-for-dtex/</link>
+ <description>Meet Marshall Heilman: DTEX CEO and man on a mission to deliver the best insider risk protection in the world.</description>
+ <pubDate>Fri, 23 Aug 2024 16:15:16 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX Taps Intelligence Expert Michael Barnhart to Counter Nation State Insider Threats</title>
+ <link>https://www.dtex.ai/blog/michael-barnhart-joins-dtex/</link>
+ <description>DTEX taps Michael Barnhart to supercharge insider threat intelligence to combat cyber espionage from nation state actors, including DPRK.</description>
+ <pubDate>Thu, 17 Apr 2025 11:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Mitigating Insider Risks Amid Election Misinformation and Divisiveness in the Workplace</title>
+ <link>https://www.dtex.ai/blog/mitigating-insider-risks-amid-election-misinformation/</link>
+ <description>Insider risk management teams must monitor global disinformation impacts on election security, preparing for increased risks from political divisiveness.</description>
+ <pubDate>Thu, 31 Oct 2024 11:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>MITRE and DTEX Announce Public-Private Partnership to Elevate Insider Risk Programs &amp; Advance Human-centric Security</title>
+ <link>https://www.dtex.ai/blog/mitre-and-dtex-form-public-private-partnership-to-elevate-insider-risk-awareness-advance-human-informed-cyber-defense-strategies/</link>
+ <description>DTEX has partnered with Mitre Corporation to enhance insider risk prevention strategies with behavioral data and research. Learn more.</description>
+ <pubDate>Thu, 22 Aug 2024 00:54:00 GMT</pubDate>
+</item>
+<item>
+ <title>Modern Data Exfiltration Patterns: What Security Teams Must Detect Early</title>
+ <link>https://www.dtex.ai/blog/modern-data-exfiltration-patterns/</link>
+ <description>Data loss increasingly looks like normal behavior. Learn the modern data exfiltration patterns and how to detect risk early.</description>
+ <pubDate>Tue, 11 Nov 2025 12:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>IT Superiority: Modernizing Federal Systems to Mitigate Insider Threats</title>
+ <link>https://www.dtex.ai/blog/modernizing-federal-systems/</link>
+ <description>DTEX helps federal agencies focus on consolidation and AI to drive efficiency and resilience in insider risk management. </description>
+ <pubDate>Tue, 19 Nov 2024 14:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>When AI Distorts Truth, Insider Risk Escalates</title>
+ <link>https://www.dtex.ai/blog/when-ai-distorts-truth-insider-risk-escalates/</link>
+ <description>Discover how to confront synthetic certainty, govern AI risk, and operationalize truth as a security discipline in the age of GenAI.</description>
+ <pubDate>Wed, 29 Oct 2025 11:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>National Insider Threat Awareness Month: Proactive Security Starts Inside</title>
+ <link>https://www.dtex.ai/blog/national-insider-threat-awareness-month/</link>
+ <description>Insider Threat Awareness Month is a call to act: detect behaviors early, govern AI use, and build resilience against modern insider risks.</description>
+ <pubDate>Tue, 02 Sep 2025 11:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Next Up for GenAI Security</title>
+ <link>https://www.dtex.ai/blog/next-up-for-genai-security/</link>
+ <description>Learn how DTEX InTERCEPT provides deep visibility into GenAI tool use, monitors AI risks like DeepSeek &amp; notetakers, and prevents data leaks across all platforms.</description>
+ <pubDate>Wed, 19 Feb 2025 05:11:03 GMT</pubDate>
+</item>
+<item>
+ <title>NIST-aligned AI Governance: What it Really Means for Your Organization</title>
+ <link>https://www.dtex.ai/blog/nist-aligned-ai-governance/</link>
+ <description>DTEX NIST-aligned AI governance is leading the way in how to embrace AI and innovation without compromising security, compliance, or trust.</description>
+ <pubDate>Thu, 28 Aug 2025 11:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX Patent Validates the Future of Risk-Adaptive DLP</title>
+ <link>https://www.dtex.ai/blog/patent-validates-risk-adaptive-dlp/</link>
+ <description>DTEX secures a patent redefining data loss prevention with risk-adaptive protection — proving trusted, defensible innovation for long-term data security.</description>
+ <pubDate>Tue, 21 Oct 2025 15:59:10 GMT</pubDate>
+</item>
+<item>
+ <title>Pentagon Compromise | The Most Effective Insider Threat Sensors Are People</title>
+ <link>https://www.dtex.ai/blog/pentagon-compromise-insider-threat-sensors/</link>
+ <description>DTEX i3 team confirms people are the most effective insider threat sensors; identifies several other early warning indicators.</description>
+ <pubDate>Fri, 23 Aug 2024 14:26:29 GMT</pubDate>
+</item>
+<item>
+ <title>People: The Nuclei of Your Insider Risk Management Solution</title>
+ <link>https://www.dtex.ai/blog/people-the-nuclei-of-your-insider-risk-management-solution/</link>
+ <description>People--colleagues, partners, vendors, and customers--are the most important ingredient in every insider risk management (IRM) solution.</description>
+ <pubDate>Fri, 23 Aug 2024 12:49:35 GMT</pubDate>
 </item>
 <item>
  <title>Insider Knowledge Theft: What Your Board Needs to Know</title>
@@ -100,90 +184,6 @@
  <link>https://www.dtex.ai/events-aircoe-reception/</link>
  <description>This informal networking event brings together professionals across insider risk, fraud, risk, and technology for relaxed, peer-to-peer conversation in a trusted setting.</description>
  <pubDate>Thu, 12 Mar 2026 02:52:08 GMT</pubDate>
-</item>
-<item>
- <title>AUS: DTEX Community Group</title>
- <link>https://www.dtex.ai/event/community-group/</link>
- <description>We’re bringing together insider risk, fraud, risk, and technology leaders to share practical insights and lessons learned from real-world insider risk programs.</description>
- <pubDate>Thu, 12 Mar 2026 02:52:08 GMT</pubDate>
-</item>
-<item>
- <title>Exposing DPRK’s Cyber Underworld: Survival and the Pursuit of WMDs</title>
- <link>https://www.dtex.ai/blog/exposing-dprks-cyber-underworld/</link>
- <description>DTEX has exposed DPRK’s covert cyber operation - complex, relentless, and operating like a mafia syndicate, fueled by survival.</description>
- <pubDate>Wed, 14 May 2025 09:12:42 GMT</pubDate>
-</item>
-<item>
- <title>From Hollywood to Reality: Insider Risk Takes Center Stage</title>
- <link>https://www.dtex.ai/blog/from-hollywood-to-reality-insider-risk-takes-center-stage/</link>
- <description>As you watch your programs, keep an eye on how Hollywood has brought the topic of insider risk to the big screen (and little box).</description>
- <pubDate>Wed, 25 Sep 2024 11:00:00 GMT</pubDate>
-</item>
-<item>
- <title>From Reactive to Proactive: The Power of UEBA in Insider Risk Management</title>
- <link>https://www.dtex.ai/blog/from-reactive-to-proactive-the-power-of-ueba-in-insider-risk-management/</link>
- <description>The 2023 GigaOm Radar Report for UEBA highlights the power of UEBA in insider risk management. Here are the key takeaways.</description>
- <pubDate>Fri, 23 Aug 2024 16:48:52 GMT</pubDate>
-</item>
-<item>
- <title>From RSAC to Reality: What Every Security Leader Needs to Know</title>
- <link>https://www.dtex.ai/blog/from-rsac-to-reality/</link>
- <description>Key RSAC 2025 insights on security, DPRK IT worker threats, AI misuse, and cyber risk trends every CISO should know.</description>
- <pubDate>Thu, 08 May 2025 13:30:00 GMT</pubDate>
-</item>
-<item>
- <title>Gartner® 2025 Market Guide for Data Loss Prevention: What’s New This Year</title>
- <link>https://www.dtex.ai/blog/gartner-2025-dlp-market-guide/</link>
- <description>Recent data loss prevention trends acknowledge the need for both context and content inspection in DLP platforms.</description>
- <pubDate>Tue, 03 Jun 2025 13:00:00 GMT</pubDate>
-</item>
-<item>
- <title>Gartner® Market Guide for DLP | Why Context is King</title>
- <link>https://www.dtex.ai/blog/gartner-market-guide-for-dlp-why-context-is-king/</link>
- <description>Gartner® Market Guide for Data Loss Prevention shows context is king when it comes to the early detection and mitigation of insider risks.</description>
- <pubDate>Fri, 23 Aug 2024 16:02:03 GMT</pubDate>
-</item>
-<item>
- <title>The Future of Insider Risk Management: Takeaways From Gartner® Market Guide</title>
- <link>https://www.dtex.ai/blog/gartner-market-guide-takeaways/</link>
- <description>Discover the future of insider risk management, with key insights from Gartner.</description>
- <pubDate>Thu, 03 Apr 2025 11:00:00 GMT</pubDate>
-</item>
-<item>
- <title>DTEX Named a Leader and Outperformer in GigaOm Radar for Insider Risk Management</title>
- <link>https://www.dtex.ai/blog/gigaom-radar-insider-risk-management-2025/</link>
- <description>DTEX named a Leader &amp; Outperformer in GigaOm’s 2025 Radar for Insider Risk Management, recognized for context, precision, and AI-driven innovation.</description>
- <pubDate>Wed, 10 Sep 2025 14:26:14 GMT</pubDate>
-</item>
-<item>
- <title>How Behavioral Intelligence can Combat Foreign Interference</title>
- <link>https://www.dtex.ai/blog/how-behavioral-intelligence-can-combat-foreign-interference-and-insider-threats/</link>
- <description>Used in the right way, behavioral intelligence can combat foreign interference and insider threats. This case study is proof.</description>
- <pubDate>Sat, 24 Aug 2024 00:42:49 GMT</pubDate>
-</item>
-<item>
- <title>How Data Lineage Transforms DLP and Insider Risk Management</title>
- <link>https://www.dtex.ai/blog/how-data-lineage-transforms-dlp-insider-risk/</link>
- <description>See how DTEX data lineage transforms DLP and insider risk management to power real-time visibility, context, and adaptive controls.</description>
- <pubDate>Wed, 17 Sep 2025 11:00:00 GMT</pubDate>
-</item>
-<item>
- <title>How DTEX is Supporting National Security from the Inside Out</title>
- <link>https://www.dtex.ai/blog/how-dtex-is-supporting-national-security/</link>
- <description>Enabling a trusted and protected workforce is central to the DTEX mission. Learn how DTEX supports national security from the inside out.</description>
- <pubDate>Fri, 23 Aug 2024 21:58:19 GMT</pubDate>
-</item>
-<item>
- <title>How to Get Buy-in For Your Insider Risk Management Program</title>
- <link>https://www.dtex.ai/blog/how-to-get-buy-in-for-your-insider-risk-management-program/</link>
- <description>Learn how to get executive buy-in for your insider risk management program. Make a compelling case for insider risk program investment.</description>
- <pubDate>Fri, 23 Aug 2024 22:22:38 GMT</pubDate>
-</item>
-<item>
- <title>DTEX Achieves FedRAMP Authorization for UAM Compliance</title>
- <link>https://www.dtex.ai/blog/dtex-cnssd-504-fedramp-marketplace/</link>
- <description>DTEX has achieved FedRAMP Authorization for UAM compliance, sponsored by the U.S. Federal Trade Commission.</description>
- <pubDate>Mon, 24 Nov 2025 15:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
