@@ -4,12 +4,96 @@
  <title>DTEX Reports (Custom Feed)</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Thu, 12 Mar 2026 17:08:02 GMT</lastBuildDate>
+ <lastBuildDate>Fri, 13 Mar 2026 02:49:13 GMT</lastBuildDate>
 <item>
  <title>Reports</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>DTEX publishes comprehensive insider risk management reports, from the cost of insider threats to nation-state operations and more.</description>
- <pubDate>Thu, 12 Mar 2026 17:08:00 GMT</pubDate>
+ <pubDate>Fri, 13 Mar 2026 02:49:09 GMT</pubDate>
+</item>
+<item>
+ <title>Potential Risk Indicator Decay and Insider Risk Management</title>
+ <link>https://www.dtex.ai/blog/potential-risk-indicator-decacy-and-insider-risk-management/</link>
+ <description>Understanding Potential Risk Indicators and their value in the context of time is critical to managing insider risks effectively.</description>
+ <pubDate>Fri, 23 Aug 2024 20:49:09 GMT</pubDate>
+</item>
+<item>
+ <title>Proactive Insider Risk Management | A Case for Technology Consolidation</title>
+ <link>https://www.dtex.ai/blog/proactive-insider-risk-management-a-case-for-consolidation/</link>
+ <description>Consolidating DLP, UAM and UEBA under insider risk management affords the opportunity to be proactive, instead of reactive.</description>
+ <pubDate>Fri, 23 Aug 2024 12:13:42 GMT</pubDate>
+</item>
+<item>
+ <title>Protecting Critical Infrastructure from Insider Threats: A Case Study on Rail Networks</title>
+ <link>https://www.dtex.ai/blog/protecting-critical-infrastructure-from-insider-threats-case-study-rail/</link>
+ <description>Understand why protecting critical infrastructure from insider threats is so important, and how to get started.</description>
+ <pubDate>Wed, 09 Oct 2024 12:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Redefining Cybersecurity with AI Innovation: DTEX and AWS Lead the Way</title>
+ <link>https://www.dtex.ai/blog/redefining-cybersecurity-with-ai-innovation/</link>
+ <description>DTEX is making strategic investments in AI innovation, with Ai3 and a deep collaboration with AWS's Generative AI Innovation Center.</description>
+ <pubDate>Tue, 18 Mar 2025 11:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Rethinking Cyber Talent: Building Teams for Insider Risk Success</title>
+ <link>https://www.dtex.ai/blog/rethinking-cyber-talent-for-insider-risk-success/</link>
+ <description>Discover the cyber talent needed to build highly effective insider risk management teams to enhance proactive breach prevention.</description>
+ <pubDate>Wed, 23 Apr 2025 11:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Striking the Right Balance in Security Consolidation</title>
+ <link>https://www.dtex.ai/blog/security-consolidation-balance/</link>
+ <description>Discover why insider risk management is prime for security consolidation, enhancing insider threat detection while boosting business resilience.</description>
+ <pubDate>Wed, 16 Apr 2025 11:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Shadow AI and the GenAI Divide: Why DTEX is the Control Plane for AI Adoption</title>
+ <link>https://www.dtex.ai/blog/shadow-ai-genai-divide/</link>
+ <description>DTEX sees the GenAI Divide as an opportunity to rethink how organizations govern AI usage. Read the blog to see why.</description>
+ <pubDate>Tue, 14 Oct 2025 16:50:32 GMT</pubDate>
+</item>
+<item>
+ <title>Standardizing Data: How OCSF Supports Proactive Insider Risk Management</title>
+ <link>https://www.dtex.ai/blog/standardizing-data-ocsf-proactive-insider-risk-management/</link>
+ <description>DTEX is proud to be a founding member of the Open Cybersecurity Schema Framework (OCSF), an open-source project established to remove security data silos.</description>
+ <pubDate>Fri, 23 Aug 2024 14:40:02 GMT</pubDate>
+</item>
+<item>
+ <title>Strengthening Healthcare Security Through Insider Risk Management</title>
+ <link>https://www.dtex.ai/blog/strengthening-healthcare-security-through-insider-risk-management/</link>
+ <description>Protecting healthcare data means safeguarding lives. Learn how proactive insider risk management strengthens security and resilience in this interconnected industry.</description>
+ <pubDate>Wed, 05 Feb 2025 01:07:43 GMT</pubDate>
+</item>
+<item>
+ <title>From Awareness to Action: Strengthening Insider Risk Programs in Federal</title>
+ <link>https://www.dtex.ai/blog/strengthening-insider-risk-programs-in-federal/</link>
+ <description>Explore strategies to strengthen federal insider risk programs, enhance unclassified network monitoring, and adopt analytics-led approaches for national security.</description>
+ <pubDate>Mon, 20 Jan 2025 14:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>The Future Workforce is One of Empathy</title>
+ <link>https://www.dtex.ai/blog/the-future-workforce-is-one-of-empathy/</link>
+ <description>Organizations wanting to ensure the success of their employees should consider ways to drive trust and respect, not surveillance.</description>
+ <pubDate>Fri, 23 Aug 2024 07:37:01 GMT</pubDate>
+</item>
+<item>
+ <title>The Proactive Power of Tabletop Exercises in Insider Risk Management</title>
+ <link>https://www.dtex.ai/blog/the-proactive-power-of-tabletop-exercises-in-insider-risk-management/</link>
+ <description>Tabletop exercises allow the insider risk management team to keep their head when all about them are losing theirs.</description>
+ <pubDate>Fri, 23 Aug 2024 17:10:17 GMT</pubDate>
+</item>
+<item>
+ <title>The Importance of Trust in Your Insider Risk Program</title>
+ <link>https://www.dtex.ai/blog/the-importance-of-trust-in-your-insider-risk-program/</link>
+ <description>Employees who feel trusted are fully invested and will go to great lengths not to put their employer at risk.</description>
+ <pubDate>Fri, 23 Aug 2024 09:09:19 GMT</pubDate>
+</item>
+<item>
+ <title>The Rise of AI and Blended Attacks: Key Takeaways from RSAC 2024</title>
+ <link>https://www.dtex.ai/blog/the-rise-of-ai-and-blended-attacks-key-takeaways-from-rsac-2024/</link>
+ <description>RSAC 2024 can be summed up in two letters: AI. The pressure is building on organizations to uplift AI security and insider risk management.</description>
+ <pubDate>Fri, 23 Aug 2024 21:11:35 GMT</pubDate>
 </item>
 <item>
  <title>iTA Workshop: What Happens When a Trusted Contractor Turns into a Server-Side Threat?</title>
@@ -50,7 +134,7 @@
 <item>
  <title>IT Superiority: Modernizing Federal Systems to Mitigate Insider Threats</title>
  <link>https://www.dtex.ai/blog/modernizing-federal-systems/</link>
- <description>DTEX helps federal agencies focus on consolidation and AI to drive efficiency and resilience in insider risk management. </description>
+ <description>DTEX helps federal agencies focus on consolidation and AI to drive efficiency and resilience in insider risk management.</description>
  <pubDate>Tue, 19 Nov 2024 14:00:00 GMT</pubDate>
 </item>
 <item>
@@ -100,90 +184,6 @@
  <link>https://www.dtex.ai/blog/insider-knowledge-theft/</link>
  <description>Insider threats are rising fast. Explore how knowledge theft is reshaping cybersecurity - and why insider risk demands urgent executive attention.</description>
  <pubDate>Thu, 22 May 2025 15:30:00 GMT</pubDate>
-</item>
-<item>
- <title>Insider Risk Detection: Data Relationships Tell the Whole Story</title>
- <link>https://www.dtex.ai/blog/insider-risk-detection-data-relationships-tell-whole-story/</link>
- <description>Data comes in a multitude of formats and flavors: physical, cyber, organizational, and, of course, the human sensors. Collecting data is easy - it’s the</description>
- <pubDate>Fri, 23 Aug 2024 15:22:21 GMT</pubDate>
-</item>
-<item>
- <title>Insider Risk is Not About Alerts. It’s About Behavior</title>
- <link>https://www.dtex.ai/blog/insider-risk-is-not-about-alerts-span-its-about-behavior/</link>
- <description>An evolution to the DTEX Alerts page, the Risky Users portal more efficiently connects behavioral indicators and surrounding context into a single view.</description>
- <pubDate>Tue, 23 Sep 2025 14:04:29 GMT</pubDate>
-</item>
-<item>
- <title>Insider Risk Lessons from the DPRK IT Worker Crackdown</title>
- <link>https://www.dtex.ai/blog/insider-risk-lessons-from-dprk-crackdown/</link>
- <description>Here are five insider risk lessons from the DPRK IT worker crackdown along with steps for staying protected.</description>
- <pubDate>Wed, 02 Jul 2025 20:18:49 GMT</pubDate>
-</item>
-<item>
- <title>Insider Risk Management: Why You Need an Employee Assistance Program</title>
- <link>https://www.dtex.ai/blog/insider-risk-management-why-you-need-an-employee-assistance-program/</link>
- <description>Employee assistance programs proactively reduce security threats, making them vital to your insider risk management program.</description>
- <pubDate>Tue, 08 Jul 2025 09:09:00 GMT</pubDate>
-</item>
-<item>
- <title>Insider Risk vs. Insider Threat: What’s the Difference?</title>
- <link>https://www.dtex.ai/blog/insider-risk-vs-insider-threat-what-makes-one-and-not-the-other/</link>
- <description>Understanding the difference between insider risk vs. insider threat is the difference between a proactive and reactive approach to data loss.</description>
- <pubDate>Fri, 23 Aug 2024 12:30:30 GMT</pubDate>
-</item>
-<item>
- <title>Insider Summit (IS9) 2025: New Name, New Takeaways</title>
- <link>https://www.dtex.ai/blog/insider-summit-9-takeaways/</link>
- <description>DTEX exhibited at the 2025 Insider Summit 9, to connect with risk management leaders and support the community’s top insider threat use cases.</description>
- <pubDate>Tue, 01 Apr 2025 11:00:00 GMT</pubDate>
-</item>
-<item>
- <title>Insider Threat Summit (ITS8) 2024: Three Takeaways</title>
- <link>https://www.dtex.ai/blog/insider-threat-summit-its8-2024-three-takeaways/</link>
- <description>Discover the three key takeaways from the 8th Annual Insider Threat Summit (ITS), and what they mean for insider risk management.</description>
- <pubDate>Fri, 23 Aug 2024 17:31:44 GMT</pubDate>
-</item>
-<item>
- <title>Grounded by More Than Weather: The Rising Insider Threat in the Airline Industry</title>
- <link>https://www.dtex.ai/blog/insider-threats-in-airline-industry/</link>
- <description>Insider threats in the airline industry are rising. Learn how post-shutdown risks, vendor breaches, and new threat actors like Scattered Spider are reshaping aviation security.</description>
- <pubDate>Thu, 16 Oct 2025 15:47:53 GMT</pubDate>
-</item>
-<item>
- <title>Insider Threats in Maritime and Logistics: From RMM to AI Risk</title>
- <link>https://www.dtex.ai/blog/insider-threats-in-maritime-logistics/</link>
- <description>Explore how insider threats and AI risks impact maritime logistics. Learn how behavioral intelligence detects attacks early.</description>
- <pubDate>Mon, 17 Nov 2025 15:53:47 GMT</pubDate>
-</item>
-<item>
- <title>From Risk to Resilience: Insights from Australia’s Insider Risk Experts</title>
- <link>https://www.dtex.ai/blog/insights-australias-insider-risk-experts/</link>
- <description>Discover key insights from AIRCoE’s latest insider risk masterclass, featuring expert strategies, real-world cases, and leadership advice.</description>
- <pubDate>Wed, 12 Feb 2025 12:00:00 GMT</pubDate>
-</item>
-<item>
- <title>5 Lessons From Real-World Supply Chain Compromises Caused by Insider Access</title>
- <link>https://www.dtex.ai/blog/lessons-from-insider-supply-chain-compromises/</link>
- <description>Five real-world lessons reveal how insider access drives supply chain compromise — and what security teams must do to mitigate risk.</description>
- <pubDate>Wed, 30 Jul 2025 11:00:00 GMT</pubDate>
-</item>
-<item>
- <title>M&amp;As, and Insider Threats: Managing Risk Beyond the Balance Sheet</title>
- <link>https://www.dtex.ai/blog/managing-risk-beyond-the-balance-sheet/</link>
- <description>Explore how insider risk management can help strengthen security and resilience during mergers and acquisitions.</description>
- <pubDate>Thu, 30 Jan 2025 05:46:58 GMT</pubDate>
-</item>
-<item>
- <title>Meet Ai³, the First AI Assistant Created for Insider Risk Management</title>
- <link>https://www.dtex.ai/blog/meet-ai3-risk-assistant/</link>
- <description>DTEX Ai³, generative AI risk assistant for the DTEX Platform, fast-tracks effective insider investigations and helps to prevent data loss.</description>
- <pubDate>Fri, 23 Aug 2024 17:00:30 GMT</pubDate>
-</item>
-<item>
- <title>AIRCOE Reception</title>
- <link>https://www.dtex.ai/events-aircoe-reception/</link>
- <description>This informal networking event brings together professionals across insider risk, fraud, risk, and technology for relaxed, peer-to-peer conversation in a trusted setting.</description>
- <pubDate>Thu, 12 Mar 2026 02:52:08 GMT</pubDate>
 </item>
 </channel>
 </rss>
