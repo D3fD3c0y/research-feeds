@@ -4,12 +4,96 @@
  <title>DTEX Reports (Custom Feed)</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Fri, 13 Mar 2026 16:54:42 GMT</lastBuildDate>
+ <lastBuildDate>Sat, 14 Mar 2026 02:47:56 GMT</lastBuildDate>
 <item>
  <title>Reports</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>DTEX publishes comprehensive insider risk management reports, from the cost of insider threats to nation-state operations and more.</description>
- <pubDate>Fri, 13 Mar 2026 16:54:38 GMT</pubDate>
+ <pubDate>Sat, 14 Mar 2026 02:47:52 GMT</pubDate>
+</item>
+<item>
+ <title>Compliance with NITTF, CNSSD 504 Using Workforce Cyber Security vs. User Activity Monitoring</title>
+ <link>https://www.dtex.ai/blog/compliance-with-nittf-cnssd-504-using-workforce-cyber-security-vs-user-activity-monitoring/</link>
+ <description>The National Insider Threat Task Force and Directive 504 requires User Activity Monitoring measures to be in place. See how DTEX can help.</description>
+ <pubDate>Thu, 22 Aug 2024 11:23:48 GMT</pubDate>
+</item>
+<item>
+ <title>Insider Threat Advisory:NCSC Issues Updated Guidance for US Critical Infrastructure Entities</title>
+ <link>https://www.dtex.ai/blog/insider-threat-advisory-ncsc-issues-updated-guidance-for-us-critical-infrastructure-entities/</link>
+ <description>Learn more about the insider threat mitigation guidelines for all US Critical Infrastructure entities that have been issued by the NCSC.</description>
+ <pubDate>Tue, 20 Aug 2024 15:42:26 GMT</pubDate>
+</item>
+<item>
+ <title>Key Takeaways from the Gartner® Market Guide for Insider Risk Management</title>
+ <link>https://www.dtex.ai/blog/key-takeaways-from-the-gartner-market-guide-for-insider-risk-management/</link>
+ <description>This blog post looks at the top three takeaways of the 2023 Gartner® Market Guide for Insider Risk Management.</description>
+ <pubDate>Fri, 23 Aug 2024 16:40:12 GMT</pubDate>
+</item>
+<item>
+ <title>The Psychology of Insider Risk Management</title>
+ <link>https://www.dtex.ai/blog/cfi-psychology-insider-risk-management/</link>
+ <description>Watch episode 2 of Conversations from the Inside with Christopher Burgess and Dr. Deanna Caputo on the psychology of insider risk management</description>
+ <pubDate>Fri, 23 Aug 2024 16:35:05 GMT</pubDate>
+</item>
+<item>
+ <title>Insider Risk Management Best Practices | Forrester Report</title>
+ <link>https://www.dtex.ai/blog/insider-risk-management-best-practices-forrester-report/</link>
+ <description>Read our key takeaways from Forrester's Best Practices: Insider Risk Management to develop a fully functioning insider risk program.</description>
+ <pubDate>Fri, 23 Aug 2024 13:24:13 GMT</pubDate>
+</item>
+<item>
+ <title>Conversations from the Inside: Insider Risk Meets Counterintelligence</title>
+ <link>https://www.dtex.ai/blog/conversations-from-the-inside-insider-risk-meets-counterintelligence/</link>
+ <description>DTEX guest offers insights into detecting, preventing, and investigating adversarial threats within a formalized insider risk program.</description>
+ <pubDate>Fri, 23 Aug 2024 12:57:12 GMT</pubDate>
+</item>
+<item>
+ <title>A Communications Framework for Insider Risk Management</title>
+ <link>https://www.dtex.ai/blog/communications-framework-insider-risk-management/</link>
+ <description>Download the Communications Framework for Insider Risk Management to proactively mitigate insider risk through communications strategies.</description>
+ <pubDate>Fri, 23 Aug 2024 12:20:45 GMT</pubDate>
+</item>
+<item>
+ <title>Insider Risk Detection 101: Mitigating Unintentional Insider Threats</title>
+ <link>https://www.dtex.ai/blog/oops-the-risk-of-the-unintentional-insider-threat/</link>
+ <description>A huge chunk of insider incidents are unintentional. Here are some of the non-malicious behaviors accelerating insider risk.</description>
+ <pubDate>Fri, 23 Aug 2024 11:57:10 GMT</pubDate>
+</item>
+<item>
+ <title>Closing the Trust-Risk Loop with File Lineage</title>
+ <link>https://www.dtex.ai/blog/closing-the-trust-risk-loop-with-file-lineage/</link>
+ <description>Managing insider risk should not come at the expense of trust. File lineage offers the best of both worlds.</description>
+ <pubDate>Fri, 23 Aug 2024 11:44:08 GMT</pubDate>
+</item>
+<item>
+ <title>7 Reasons to Ditch Endpoint DLP for Endpoint Visibility</title>
+ <link>https://www.dtex.ai/blog/7-reasons-why-enterprises-are-ditching-endpoint-dlp-for-endpoint-visibility/</link>
+ <description>Learn why enterprises are ditching limited, heavy, unfair &amp; complicated network-based endpoint DLP for less painful endpoint visibility</description>
+ <pubDate>Fri, 23 Aug 2024 11:39:30 GMT</pubDate>
+</item>
+<item>
+ <title>When it Comes to Insider Risk, the Difference is Human</title>
+ <link>https://www.dtex.ai/blog/when-it-comes-to-insider-risk-the-difference-is-human/</link>
+ <description>When it comes to insider risk management, the difference is human. By 2025, 50% of organizations will have adopted an insider risk program."</description>
+ <pubDate>Fri, 23 Aug 2024 11:26:08 GMT</pubDate>
+</item>
+<item>
+ <title>Insider Risk: The Good, the Bad, the Indifferent</title>
+ <link>https://www.dtex.ai/blog/insider-risk-the-good-the-bad-the-indifferent/</link>
+ <description>It"s not hard to recognize malicious users. It is, however, more difficult to detect malicious employees when they are operating within expected parameters.</description>
+ <pubDate>Fri, 23 Aug 2024 09:42:08 GMT</pubDate>
+</item>
+<item>
+ <title>HR’s Growing Role in Cybersecurity</title>
+ <link>https://www.dtex.ai/blog/hrs-growing-role-in-cybersecurity/</link>
+ <description>Gartner predicts that in the next two years, about 50% of major cybersecurity incidents will be attributed to the human element.</description>
+ <pubDate>Fri, 23 Aug 2024 09:17:07 GMT</pubDate>
+</item>
+<item>
+ <title>Massive Tech Layoffs Continue to Increase Insider Risks for Enterprises</title>
+ <link>https://www.dtex.ai/blog/massive-tech-layoffs-continue-to-increase-insider-risks-for-enterprises/</link>
+ <description>Insider risks will continue to increase alongside layoffs. Learn how DTEX can help protect your organization by preventing data exfiltration.</description>
+ <pubDate>Fri, 23 Aug 2024 08:12:11 GMT</pubDate>
 </item>
 <item>
  <title>From Insight to Action: Five Priorities for Detecting and Deterring Insider Threats</title>
@@ -100,90 +184,6 @@
  <link>https://www.dtex.ai/blog/the-value-of-hr-in-your-insider-risk-program/</link>
  <description>When it comes to early insider risk detection, the value of HR in your insider risk management program cannot be overstated.</description>
  <pubDate>Fri, 23 Aug 2024 22:05:36 GMT</pubDate>
-</item>
-<item>
- <title>Top Insider Risk Management Predictions for 2024</title>
- <link>https://www.dtex.ai/blog/top-insider-risk-management-predictions-2024/</link>
- <description>Insider risk management is changing the cybersecurity game. Here are the top insider risk management predictions for 2024.</description>
- <pubDate>Fri, 23 Aug 2024 16:44:10 GMT</pubDate>
-</item>
-<item>
- <title>Total Economic Impact Study Shows DTEX Saves $3M in Tool Consolidation</title>
- <link>https://www.dtex.ai/blog/total-economic-impact-study-shows-dtex-irm-benefits/</link>
- <description>DTEX commissioned a TEI report to evaluate the business benefits of DTEX InTERCEPT, identifying exciting, quantified benefits.</description>
- <pubDate>Tue, 14 Jan 2025 15:32:03 GMT</pubDate>
-</item>
-<item>
- <title>Transforming Data Loss Prevention for an AI-Powered World</title>
- <link>https://www.dtex.ai/blog/transforming-data-loss-prevention/</link>
- <description>AI is reshaping data security. See how risk-adaptive DLP aligns with insider risk management to protect data from human and machine threats in real time.</description>
- <pubDate>Tue, 26 Aug 2025 23:04:19 GMT</pubDate>
-</item>
-<item>
- <title>Why is UEBA the Lynchpin of Zero Trust Security?</title>
- <link>https://www.dtex.ai/blog/ueba-zero-trust-security/</link>
- <description>UEBA improves a Zero Trust security model by surfacing behavioral indicators of intent from individuals with permissions on the inside.</description>
- <pubDate>Tue, 08 Jul 2025 15:02:35 GMT</pubDate>
-</item>
-<item>
- <title>Pseudonymization vs. Anonymization</title>
- <link>https://www.dtex.ai/blog/understanding-pseudonymization-and-anonymization/</link>
- <description>To defend against insider threats, it is important to understand the differences between data anonymization &amp; data pseudonymization. Learn about it all here.</description>
- <pubDate>Fri, 23 Aug 2024 15:37:27 GMT</pubDate>
-</item>
-<item>
- <title>Uplifting Insider Risk Management This Cybersecurity Awareness Month: A Pathway for Proactive Security</title>
- <link>https://www.dtex.ai/blog/uplifting-insider-risk-management-this-cybersecurity-awareness-month/</link>
- <description>This Cybersecurity Awareness Month, CISOs have a prime opportunity to enhance their insider risk management programs.</description>
- <pubDate>Wed, 02 Oct 2024 09:30:00 GMT</pubDate>
-</item>
-<item>
- <title>User Behavior Analytics: Why False Positives are NOT the Problem</title>
- <link>https://www.dtex.ai/blog/user-behavior-analytics-why-false-positives-are-not-the-problem/</link>
- <description>Quality data, collected for a specific purpose, clean and complete, enables questions to be answered and false positives to be avoided.</description>
- <pubDate>Sat, 24 Aug 2024 00:25:34 GMT</pubDate>
-</item>
-<item>
- <title>Why Third-Party Insider Risk is an Overlooked Threat</title>
- <link>https://www.dtex.ai/blog/why-third-party-insider-risk-is-an-overlooked-threat/</link>
- <description>Insider risks aren't just your employees. This blog unpacks the lesser-known third-party insider risk and steps for staying protected.</description>
- <pubDate>Wed, 23 Jul 2025 18:15:00 GMT</pubDate>
-</item>
-<item>
- <title>You Know You Need GenAI Policies, Right?</title>
- <link>https://www.dtex.ai/blog/you-know-you-need-genai-policies-right/</link>
- <description>Artificial intelligence has officially taken off, but without strong security policies, GenAI tools can increase insider risk.</description>
- <pubDate>Fri, 23 Aug 2024 21:27:23 GMT</pubDate>
-</item>
-<item>
- <title>Zero Day (2025): Trust, Insider Threats, and the Cost of Misinformation</title>
- <link>https://www.dtex.ai/blog/zero-day-2025/</link>
- <description>Netflix’s Zero Day (2025) explores trust, insider threats, and misinformation in a nationwide cyber attack—revealing how broken trust fuels digital and real-world chaos.</description>
- <pubDate>Wed, 12 Mar 2025 11:00:00 GMT</pubDate>
-</item>
-<item>
- <title>Zero Trust Meets Insider Risk Management</title>
- <link>https://www.dtex.ai/blog/zero-trust-meets-insider-risk-management/</link>
- <description>Insider risk represents a threat to organizations' critical infrastructure, but when government is involved, it can cause irreparable harm to national security</description>
- <pubDate>Fri, 23 Aug 2024 17:17:58 GMT</pubDate>
-</item>
-<item>
- <title>Mitigating Insider Risks This Holiday Season</title>
- <link>https://www.dtex.ai/mitigating-insider-risks-this-holiday-season/</link>
- <description>DTEX recommends several strategies for organizations wanting to up their defenses against insider risks during the holiday season.</description>
- <pubDate>Wed, 04 Dec 2024 12:00:00 GMT</pubDate>
-</item>
-<item>
- <title>Preventing Insider Threats in Pharma: Case Study</title>
- <link>https://www.dtex.ai/blog/preventing-insider-threats-in-pharma-case-study/</link>
- <description>Discover how this pharmaceuticals company leveraged the DTEX Platform to proactively mitigate insider risks without stifling innovation.</description>
- <pubDate>Fri, 23 Aug 2024 12:26:26 GMT</pubDate>
-</item>
-<item>
- <title>Potential Risk Indicator Decay and Insider Risk Management</title>
- <link>https://www.dtex.ai/blog/potential-risk-indicator-decacy-and-insider-risk-management/</link>
- <description>Understanding Potential Risk Indicators and their value in the context of time is critical to managing insider risks effectively.</description>
- <pubDate>Fri, 23 Aug 2024 20:49:09 GMT</pubDate>
 </item>
 </channel>
 </rss>
