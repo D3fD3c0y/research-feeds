@@ -100,21 +100,21 @@ Wrote feeds/deception-pro.xml
  [HTTP] sitemap GET https://www.dtex.ai/blog-by-topic-sitemap.xml -> 200 (final: https://www.dtex.ai/blog-by-topic-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] robots-check GET https://www.dtex.ai/robots.txt -> 200 (final: https://www.dtex.ai/robots.txt) CT=text/plain
  [HTTP] article GET https://www.dtex.ai/resources/reports/ -> 200 (final: https://www.dtex.ai/resources/reports/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/the-gig-is-up-and-thats-not-all-good/ -> 200 (final: https://www.dtex.ai/blog/the-gig-is-up-and-thats-not-all-good/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/reducing-insider-risk-through-employee-empathy/ -> 200 (final: https://www.dtex.ai/blog/reducing-insider-risk-through-employee-empathy/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/videocast-slashing-cost-insider-risks/ -> 200 (final: https://www.dtex.ai/blog/videocast-slashing-cost-insider-risks/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/a-new-day-a-new-warning-hhs-issues-guidance-to-hph-sector-about-insider-threats-in-healthcare/ -> 200 (final: https://www.dtex.ai/blog/a-new-day-a-new-warning-hhs-issues-guidance-to-hph-sector-about-insider-threats-in-healthcare/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/ubiquiti-insider-threat-case-lessons-learned-from-dtexs-i3-team/ -> 200 (final: https://www.dtex.ai/blog/ubiquiti-insider-threat-case-lessons-learned-from-dtexs-i3-team/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/the-facebook-whistleblower-and-the-insider-threat-kill-chain/ -> 200 (final: https://www.dtex.ai/blog/the-facebook-whistleblower-and-the-insider-threat-kill-chain/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/stories-from-the-field-kaseya-revil-ransomware-attacks/ -> 200 (final: https://www.dtex.ai/blog/stories-from-the-field-kaseya-revil-ransomware-attacks/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/workforce-cyber-intelligence-103-the-importance-of-user-privacy-trust/ -> 200 (final: https://www.dtex.ai/blog/workforce-cyber-intelligence-103-the-importance-of-user-privacy-trust/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/williams-racing-protects-culture-data-with-privacy-first-approach-to-insider-threat-mitigation/ -> 200 (final: https://www.dtex.ai/blog/williams-racing-protects-culture-data-with-privacy-first-approach-to-insider-threat-mitigation/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/what-is-zero-trust-three-things-to-keep-in-mind-as-your-organization-works-towards-developing-this-mindset/ -> 200 (final: https://www.dtex.ai/blog/what-is-zero-trust-three-things-to-keep-in-mind-as-your-organization-works-towards-developing-this-mindset/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/how-to-protect-your-work-from-home-workforce-examining-forrester-researchs-take/ -> 200 (final: https://www.dtex.ai/blog/how-to-protect-your-work-from-home-workforce-examining-forrester-researchs-take/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/employee-stress-insider-threats-how-to-mitigate-risk-from-a-security-hr-standpoint/ -> 200 (final: https://www.dtex.ai/blog/employee-stress-insider-threats-how-to-mitigate-risk-from-a-security-hr-standpoint/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/insider-risk-management-a-7-step-approach-to-zero-trust-part-1/ -> 200 (final: https://www.dtex.ai/blog/insider-risk-management-a-7-step-approach-to-zero-trust-part-1/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/the-privacy-patent-that-makes-workforce-cyber-intelligence-possible/ -> 200 (final: https://www.dtex.ai/blog/the-privacy-patent-that-makes-workforce-cyber-intelligence-possible/) CT=text/html; charset=UTF-8
- • Summary [dtex-reports]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=238, seen_added=14
+ [HTTP] article GET https://www.dtex.ai/blog/remote-workforce-analytics-with-remote-workforce-trust/ -> 200 (final: https://www.dtex.ai/blog/remote-workforce-analytics-with-remote-workforce-trust/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/how-dtexs-data-pseudonymization-techniques-protect-employee-privacy/ -> 200 (final: https://www.dtex.ai/blog/how-dtexs-data-pseudonymization-techniques-protect-employee-privacy/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/insider-threat-awareness-month-an-opportunity-for-education-and-a-sign-of-shifting-tides/ -> 200 (final: https://www.dtex.ai/blog/insider-threat-awareness-month-an-opportunity-for-education-and-a-sign-of-shifting-tides/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/harris-poll-gaining-employee-support-for-monitoring-programs/ -> 200 (final: https://www.dtex.ai/blog/harris-poll-gaining-employee-support-for-monitoring-programs/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/stories-from-the-field-the-scare-factor-continues-to-grow-for-super-malicious-insiders/ -> 200 (final: https://www.dtex.ai/blog/stories-from-the-field-the-scare-factor-continues-to-grow-for-super-malicious-insiders/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/breaking-insider-threat-news-dtex-detects-chinese-nationals-attempt-to-steal-data-from-wealth-management-giant-amp/ -> 200 (final: https://www.dtex.ai/blog/breaking-insider-threat-news-dtex-detects-chinese-nationals-attempt-to-steal-data-from-wealth-management-giant-amp/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/anatomy-breach-dissecting-insider-data-theft/ -> 200 (final: https://www.dtex.ai/blog/anatomy-breach-dissecting-insider-data-theft/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/insider-threats-in-an-unstable-economy-dtex-i3-team-data/ -> 200 (final: https://www.dtex.ai/blog/insider-threats-in-an-unstable-economy-dtex-i3-team-data/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/moving-from-insider-risk-to-insider-threat-disgruntled-employees-and-looming-layoffs/ -> 200 (final: https://www.dtex.ai/blog/moving-from-insider-risk-to-insider-threat-disgruntled-employees-and-looming-layoffs/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/product-innovation-ecosystem-extension-drive-triple-digit-growth-global-expansion/ -> 200 (final: https://www.dtex.ai/blog/product-innovation-ecosystem-extension-drive-triple-digit-growth-global-expansion/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/when-the-hackers-are-insiders-the-super-malicious-threat/ -> 200 (final: https://www.dtex.ai/blog/when-the-hackers-are-insiders-the-super-malicious-threat/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/employees-side-hustles-the-hidden-threat-to-your-organizations-cybersecurity/ -> 200 (final: https://www.dtex.ai/blog/employees-side-hustles-the-hidden-threat-to-your-organizations-cybersecurity/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/layoffs-cyber-security-how-to-proactively-and-empathetically-mitigate-risk/ -> 200 (final: https://www.dtex.ai/blog/layoffs-cyber-security-how-to-proactively-and-empathetically-mitigate-risk/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/the-great-data-infiltration-of-2022-the-data-you-dont-want-why/ -> 200 (final: https://www.dtex.ai/blog/the-great-data-infiltration-of-2022-the-data-you-dont-want-why/) CT=text/html; charset=UTF-8
+ • Summary [dtex-reports]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=252, seen_added=14
 Wrote feeds/dtex-reports.xml
 
 === Processing: LEXFO Blog (https://blog.lexfo.fr/) -> feeds/lexfo.xml
@@ -164,19 +164,9 @@ Wrote feeds/ransomnews.xml
 
 === Processing: Sequretek Resources Hub (https://www.sequretek.com/resources-hub) -> feeds/sequretek.xml
  robots.txt respected: True
- [HTTP] robots-check GET https://www.sequretek.com/robots.txt -> 403 (final: https://www.sequretek.com/robots.txt) CT=text/html
- [HTTP] robots-check body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- ! robots.txt disallows scraping listing; trying sitemap fallback …
- [HTTP] robots GET https://www.sequretek.com/robots.txt -> 403 (final: https://www.sequretek.com/robots.txt) CT=text/html
- [HTTP] robots body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- [HTTP] sitemap GET https://www.sequretek.com/sitemap.xml -> 403 (final: https://www.sequretek.com/sitemap.xml) CT=text/html
- [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- [HTTP] sitemap GET https://www.sequretek.com/sitemap_index.xml -> 403 (final: https://www.sequretek.com/sitemap_index.xml) CT=text/html
- [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- [HTTP] sitemap GET https://www.sequretek.com/sitemap.xml.gz -> 403 (final: https://www.sequretek.com/sitemap.xml.gz) CT=text/html
- [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- [HTTP] sitemap GET https://www.sequretek.com/sitemap_index.xml.gz -> 403 (final: https://www.sequretek.com/sitemap_index.xml.gz) CT=text/html
- [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
+ [HTTP] robots-check GET https://www.sequretek.com/robots.txt -> 200 (final: https://www.sequretek.com/robots.txt) CT=text/plain
+ • scraping listing page …
+ [HTTP] scrape-listing GET https://www.sequretek.com/resources-hub -> 200 (final: https://www.sequretek.com/resources-hub) CT=text/html
  • Summary [sequretek]: new_fetched=0, new_used=0, reused=1, prev_cached=1, seen_before=0, seen_added=0
 Wrote feeds/sequretek.xml
 Wrote index.html
