@@ -100,21 +100,21 @@ Wrote feeds/deception-pro.xml
  [HTTP] sitemap GET https://www.dtex.ai/blog-by-topic-sitemap.xml -> 200 (final: https://www.dtex.ai/blog-by-topic-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] robots-check GET https://www.dtex.ai/robots.txt -> 200 (final: https://www.dtex.ai/robots.txt) CT=text/plain
  [HTTP] article GET https://www.dtex.ai/resources/reports/ -> 200 (final: https://www.dtex.ai/resources/reports/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/2020-insider-threat-report-conclusion/ -> 200 (final: https://www.dtex.ai/blog/2020-insider-threat-report-conclusion/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/the-insider-threat-kill-chain-obfuscation/ -> 200 (final: https://www.dtex.ai/blog/the-insider-threat-kill-chain-obfuscation/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/insider-threat-kill-chain-reconnaissance/ -> 200 (final: https://www.dtex.ai/blog/insider-threat-kill-chain-reconnaissance/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/the-insider-kill-chain-part-1/ -> 200 (final: https://www.dtex.ai/blog/the-insider-kill-chain-part-1/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/true-price-tag-insider-threats-findings-new-2016-cost-insider-threats-report/ -> 200 (final: https://www.dtex.ai/blog/true-price-tag-insider-threats-findings-new-2016-cost-insider-threats-report/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/how-ai-layoffs-and-job-hugging-create-insider-risk/ -> 200 (final: https://www.dtex.ai/blog/how-ai-layoffs-and-job-hugging-create-insider-risk/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/2026-cybersecurity-predictions/ -> 200 (final: https://www.dtex.ai/blog/2026-cybersecurity-predictions/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/insider-risk-mitigation-strategies-for-the-midsize-enterprise/ -> 200 (final: https://www.dtex.ai/blog/insider-risk-mitigation-strategies-for-the-midsize-enterprise/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/cyberbytes-recap-the-insider-threat-and-the-real-risk-to-enterprises/ -> 200 (final: https://www.dtex.ai/blog/cyberbytes-recap-the-insider-threat-and-the-real-risk-to-enterprises/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/dtex-insider-risk-news-digest-q2-2023/ -> 200 (final: https://www.dtex.ai/blog/dtex-insider-risk-news-digest-q2-2023/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/dtex-named-most-comprehensive-insider-threat-prevention-in-global-infosec-award/ -> 200 (final: https://www.dtex.ai/blog/dtex-named-most-comprehensive-insider-threat-prevention-in-global-infosec-award/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/insider-risk-the-next-partner-opportunity/ -> 200 (final: https://www.dtex.ai/blog/insider-risk-the-next-partner-opportunity/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/get-left-of-boom-by-focusing-on-users-and-data/ -> 200 (final: https://www.dtex.ai/blog/get-left-of-boom-by-focusing-on-users-and-data/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/insider-risk-when-business-gets-personal/ -> 200 (final: https://www.dtex.ai/blog/insider-risk-when-business-gets-personal/) CT=text/html; charset=UTF-8
- • Summary [dtex-reports]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=266, seen_added=14
+ [HTTP] article GET https://www.dtex.ai/blog/case-study-dtex-helps-a-telecom-company-cut-through-the-noise-to-focus-on-what-matters-most/ -> 200 (final: https://www.dtex.ai/blog/case-study-dtex-helps-a-telecom-company-cut-through-the-noise-to-focus-on-what-matters-most/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/dtex-systems-wins-most-innovative-data-loss-prevention-and-publishers-choice-insider-threat-prevention-in-global-infosec-awards-during-rsa-conference-2022/ -> 200 (final: https://www.dtex.ai/blog/dtex-systems-wins-most-innovative-data-loss-prevention-and-publishers-choice-insider-threat-prevention-in-global-infosec-awards-during-rsa-conference-2022/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/gartner-rule-of-three-for-proactive-insider-risk-management/ -> 200 (final: https://www.dtex.ai/blog/gartner-rule-of-three-for-proactive-insider-risk-management/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/dtex-best-in-class-ueba-2021-gigaom-radar-report/ -> 200 (final: https://www.dtex.ai/blog/dtex-best-in-class-ueba-2021-gigaom-radar-report/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/top-challenges-to-managing-insider-threats/ -> 200 (final: https://www.dtex.ai/blog/top-challenges-to-managing-insider-threats/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/what-is-a-next-generation-insider-threat-solution/ -> 200 (final: https://www.dtex.ai/blog/what-is-a-next-generation-insider-threat-solution/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/ueba-indicators-of-intent/ -> 200 (final: https://www.dtex.ai/blog/ueba-indicators-of-intent/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/new-forrester-research-says-motivations-indicators-are-key-to-mitigating-insider-threats/ -> 200 (final: https://www.dtex.ai/blog/new-forrester-research-says-motivations-indicators-are-key-to-mitigating-insider-threats/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/10-tips-to-strengthen-your-insider-threat-program-data-intent-and-context-part-1/ -> 200 (final: https://www.dtex.ai/blog/10-tips-to-strengthen-your-insider-threat-program-data-intent-and-context-part-1/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/insiders-strike-again-at-tesla-or-did-they/ -> 200 (final: https://www.dtex.ai/blog/insiders-strike-again-at-tesla-or-did-they/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/full-visibility-and-the-insider-threat-kill-chain-why-it-is-critical-to-see-every-stage/ -> 200 (final: https://www.dtex.ai/blog/full-visibility-and-the-insider-threat-kill-chain-why-it-is-critical-to-see-every-stage/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/insider-threat-machine-learning-as-non-negotiable/ -> 200 (final: https://www.dtex.ai/blog/insider-threat-machine-learning-as-non-negotiable/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/thoughts-on-gartners-2022-market-guide-for-data-loss-prevention/ -> 200 (final: https://www.dtex.ai/blog/thoughts-on-gartners-2022-market-guide-for-data-loss-prevention/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/the-cost-of-ownership-demands-attention-choosing-the-right-tool-for-irm/ -> 200 (final: https://www.dtex.ai/blog/the-cost-of-ownership-demands-attention-choosing-the-right-tool-for-irm/) CT=text/html; charset=UTF-8
+ • Summary [dtex-reports]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=280, seen_added=14
 Wrote feeds/dtex-reports.xml
 
 === Processing: LEXFO Blog (https://blog.lexfo.fr/) -> feeds/lexfo.xml

@@ -4,12 +4,96 @@
  <title>DTEX Reports (Custom Feed)</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Sun, 15 Mar 2026 03:28:14 GMT</lastBuildDate>
+ <lastBuildDate>Sun, 15 Mar 2026 08:51:59 GMT</lastBuildDate>
 <item>
  <title>Reports</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>DTEX publishes comprehensive insider risk management reports, from the cost of insider threats to nation-state operations and more.</description>
- <pubDate>Sun, 15 Mar 2026 03:28:11 GMT</pubDate>
+ <pubDate>Sun, 15 Mar 2026 08:51:55 GMT</pubDate>
+</item>
+<item>
+ <title>Case Study: DTEX Helps a Telecom Company Cut Through the Noise to Focus on What Matters Most</title>
+ <link>https://www.dtex.ai/blog/case-study-dtex-helps-a-telecom-company-cut-through-the-noise-to-focus-on-what-matters-most/</link>
+ <description>A major telecom company based in the Asia-Pacific region had launched a large-scale publicly funded project to upgrade its telecommunications</description>
+ <pubDate>Thu, 22 Aug 2024 18:38:29 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX Wins “Most Innovative Data Loss Prevention” and “Publisher’s Choice Insider Threat Prevention” in Global InfoSec Awards During RSA Conference 2022</title>
+ <link>https://www.dtex.ai/blog/dtex-systems-wins-most-innovative-data-loss-prevention-and-publishers-choice-insider-threat-prevention-in-global-infosec-awards-during-rsa-conference-2022/</link>
+ <description>DTEX Wins "Most Innovative Data Loss Prevention" and "Publisher’s Choice Insider Threat Prevention" in Global InfoSec Awards.</description>
+ <pubDate>Thu, 22 Aug 2024 17:27:00 GMT</pubDate>
+</item>
+<item>
+ <title>Exploring the Gartner Rule of Three for Proactive Insider Risk Management</title>
+ <link>https://www.dtex.ai/blog/gartner-rule-of-three-for-proactive-insider-risk-management/</link>
+ <description>Read our blog post for a discussion on Gartner's recent report, The Rule of Three for Proactive Insider Risk Management.</description>
+ <pubDate>Thu, 22 Aug 2024 16:54:45 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX Named Best-in-Class UEBA Solution in 2021 GigaOm Radar Report</title>
+ <link>https://www.dtex.ai/blog/dtex-best-in-class-ueba-2021-gigaom-radar-report/</link>
+ <description>GigaOm's 2021 Radar Report for user and entity behavior analytics (UEBA) has us leading the pack. Find out more about the report now.</description>
+ <pubDate>Thu, 22 Aug 2024 01:03:45 GMT</pubDate>
+</item>
+<item>
+ <title>Top Challenges to Managing Insider Threats</title>
+ <link>https://www.dtex.ai/blog/top-challenges-to-managing-insider-threats/</link>
+ <description>Many organizations face difficulties in developing and maintaining an insider threat program. Here we talk about some of the most prevalent obstacles.</description>
+ <pubDate>Wed, 21 Aug 2024 16:13:35 GMT</pubDate>
+</item>
+<item>
+ <title>What Is a Next-Gen Insider Threat Solution?</title>
+ <link>https://www.dtex.ai/blog/what-is-a-next-generation-insider-threat-solution/</link>
+ <description>In the past, insider threat management used “point solutions" for specific issues. Now, next-gen products must address human activity &amp; intent.</description>
+ <pubDate>Tue, 20 Aug 2024 16:29:57 GMT</pubDate>
+</item>
+<item>
+ <title>UEBA Redemption: Identifying Indicators of Intent</title>
+ <link>https://www.dtex.ai/blog/ueba-indicators-of-intent/</link>
+ <description>Part one of this series on how DTEX addresses the shortcomings of UEBA technology provides a deep dive into the "data" layer of DMAP+.</description>
+ <pubDate>Tue, 20 Aug 2024 15:34:50 GMT</pubDate>
+</item>
+<item>
+ <title>New Forrester Research says ‘Motivations &amp; Indicators’ are Key to Mitigating Insider Threats</title>
+ <link>https://www.dtex.ai/blog/new-forrester-research-says-motivations-indicators-are-key-to-mitigating-insider-threats/</link>
+ <description>The latest Forrester research offers 3 key takeaways for security &amp; outlines best practices for designing, implementing &amp; administering an insider threat program.</description>
+ <pubDate>Tue, 20 Aug 2024 15:25:53 GMT</pubDate>
+</item>
+<item>
+ <title>10 Tips to Strengthen Your Insider Threat Program – Data, Intent and Context [Part 1]</title>
+ <link>https://www.dtex.ai/blog/10-tips-to-strengthen-your-insider-threat-program-data-intent-and-context-part-1/</link>
+ <description>When building an insider threat program, the same 10 building blocks hold true for everyone. Read this blog post to learn how to strengthen your InT program and prevent data exfiltration.</description>
+ <pubDate>Tue, 20 Aug 2024 15:16:56 GMT</pubDate>
+</item>
+<item>
+ <title>Insiders Strike Again at Tesla… or did they?</title>
+ <link>https://www.dtex.ai/blog/insiders-strike-again-at-tesla-or-did-they/</link>
+ <description>News broke on Jan 22 that Tesla has filed a federal lawsuit accusing Alex Khatilov of stealing upwards of 26,000 highly sensitive company files. Learn more here.</description>
+ <pubDate>Tue, 20 Aug 2024 14:42:08 GMT</pubDate>
+</item>
+<item>
+ <title>Full Visibility and the Insider Threat Kill Chain: Why it is Critical to See Every Stage</title>
+ <link>https://www.dtex.ai/blog/full-visibility-and-the-insider-threat-kill-chain-why-it-is-critical-to-see-every-stage/</link>
+ <description>The insider risks are widely acknowledged, well-documented &amp; increasingly prioritized. Why still challenging then? The Insider Threat Kill Chain may be key.</description>
+ <pubDate>Tue, 20 Aug 2024 03:52:01 GMT</pubDate>
+</item>
+<item>
+ <title>Modern Insider Threat Management: Machine Learning as a Non-Negotiable</title>
+ <link>https://www.dtex.ai/blog/insider-threat-machine-learning-as-non-negotiable/</link>
+ <description>When it comes to cybersecurity, machine learning capabilities are actively being integrated into advanced systems; platforms despite serving as a buzzword too.</description>
+ <pubDate>Tue, 20 Aug 2024 02:38:50 GMT</pubDate>
+</item>
+<item>
+ <title>Thoughts on Gartner’s 2022 Market Guide for Data Loss Prevention</title>
+ <link>https://www.dtex.ai/blog/thoughts-on-gartners-2022-market-guide-for-data-loss-prevention/</link>
+ <description>Gartner has just released their 2022 Market Guide for data loss prevention and we are excited to share our thoughts on the latest solutions.</description>
+ <pubDate>Thu, 22 Aug 2024 15:47:48 GMT</pubDate>
+</item>
+<item>
+ <title>The Cost of Ownership Demands Attention: Choosing the Right Tool for IRM</title>
+ <link>https://www.dtex.ai/blog/the-cost-of-ownership-demands-attention-choosing-the-right-tool-for-irm/</link>
+ <description>Making sure your tools are working for you is critical to success, especially when choosing the right tool for insider risk management.</description>
+ <pubDate>Thu, 22 Aug 2024 15:17:34 GMT</pubDate>
 </item>
 <item>
  <title>2020 Insider Threat Report – Conclusion</title>
@@ -100,90 +184,6 @@
  <link>https://www.dtex.ai/blog/remote-workforce-analytics-with-remote-workforce-trust/</link>
  <description>Understand your remote workforce engagement while maintaining employee trust with workforce cyber intelligence.</description>
  <pubDate>Thu, 22 Aug 2024 16:20:34 GMT</pubDate>
-</item>
-<item>
- <title>How DTEX’s Data Pseudonymization Techniques Protect Employee Privacy</title>
- <link>https://www.dtex.ai/blog/how-dtexs-data-pseudonymization-techniques-protect-employee-privacy/</link>
- <description>Learn how DTEX uses patented pseudonymization techniques to enable insider risk analysis, while protecting employee privacy.</description>
- <pubDate>Thu, 22 Aug 2024 17:10:27 GMT</pubDate>
-</item>
-<item>
- <title>Insider Threat Awareness Month: An Opportunity for Education and a Sign of Shifting Tides</title>
- <link>https://www.dtex.ai/blog/insider-threat-awareness-month-an-opportunity-for-education-and-a-sign-of-shifting-tides/</link>
- <description>The NCSC made an announcement that is welcomed by many in the cybersecurity industry: September is officially National Insider Threat Awareness month.</description>
- <pubDate>Tue, 20 Aug 2024 14:00:54 GMT</pubDate>
-</item>
-<item>
- <title>Harris Poll Shows How To Gain Employee Support for Monitoring Programs and Avoid Privacy Invasions</title>
- <link>https://www.dtex.ai/blog/harris-poll-gaining-employee-support-for-monitoring-programs/</link>
- <description>All too often, privacy &amp; security are portrayed as at odds with each other. There was a time when this didn't matter, as security all too frequently won out.</description>
- <pubDate>Sun, 18 Aug 2024 18:09:48 GMT</pubDate>
-</item>
-<item>
- <title>Stories from the Field: The Scare Factor Continues to Grow for Super Malicious Insiders</title>
- <link>https://www.dtex.ai/blog/stories-from-the-field-the-scare-factor-continues-to-grow-for-super-malicious-insiders/</link>
- <description>Over the last few years, executive teams and board members have become increasingly aware of the risk malicious insiders pose to an organization. With a" /&gt; &lt;meta property="og:url" content="https://www.dtex.ai/blog/stories-from-the-field-the-scare-factor-continues-to-grow-for-super-malicious-insiders/</description>
- <pubDate>Fri, 23 Aug 2024 07:24:36 GMT</pubDate>
-</item>
-<item>
- <title>Breaking Insider Threat News: DTEX Detects Chinese National Yi Zheng’s Attempt to Steal Data From Major Financial Services Provider</title>
- <link>https://www.dtex.ai/blog/breaking-insider-threat-news-dtex-detects-chinese-nationals-attempt-to-steal-data-from-wealth-management-giant-amp/</link>
- <description>Wealth management company AMP told The Australian that DTEX Advanced Enterprise DMAP Intelligence Platform played a key role to detect data exfiltration attempts.</description>
- <pubDate>Tue, 20 Aug 2024 02:49:59 GMT</pubDate>
-</item>
-<item>
- <title>Anatomy of a Breach:Dissecting Insider Data Theft</title>
- <link>https://www.dtex.ai/blog/anatomy-breach-dissecting-insider-data-theft/</link>
- <description>A healthcare firm notified many thousands of customers of a customer data breach. While specifics are not public, it appears to be a malicious insider threat.</description>
- <pubDate>Fri, 16 Aug 2024 00:42:48 GMT</pubDate>
-</item>
-<item>
- <title>Insider Threats in an Unstable Economy: DTEX i³ Team Data</title>
- <link>https://www.dtex.ai/blog/insider-threats-in-an-unstable-economy-dtex-i3-team-data/</link>
- <description>The economy has a direct effect on insider risk as it relates to data loss prevention. Read the latest stats from the DTEX i3 Team.</description>
- <pubDate>Fri, 23 Aug 2024 07:47:09 GMT</pubDate>
-</item>
-<item>
- <title>Moving from Insider Risk to Insider Threat: Disgruntled Employees and Looming Layoffs</title>
- <link>https://www.dtex.ai/blog/moving-from-insider-risk-to-insider-threat-disgruntled-employees-and-looming-layoffs/</link>
- <description>Even through the normal course of business, insider risk is prevalent. Learn how disgruntled employees and looming layoffs contribute.</description>
- <pubDate>Thu, 22 Aug 2024 18:18:09 GMT</pubDate>
-</item>
-<item>
- <title>Product Innovation &amp; Ecosystem Extension Drive Triple-Digit Growth &amp; Global Expansion</title>
- <link>https://www.dtex.ai/blog/product-innovation-ecosystem-extension-drive-triple-digit-growth-global-expansion/</link>
- <description>The last six months at DTEX have seen us achieve record-breaking revenue, license, and services growth. Learn more in this blog post.</description>
- <pubDate>Thu, 22 Aug 2024 17:06:48 GMT</pubDate>
-</item>
-<item>
- <title>When the Hackers are Insiders—the Super Malicious Threat</title>
- <link>https://www.dtex.ai/blog/when-the-hackers-are-insiders-the-super-malicious-threat/</link>
- <description>In our blog post we explore the concept of the Super Malicious Insider, a cybersecurity risk at every organization.</description>
- <pubDate>Thu, 22 Aug 2024 17:01:42 GMT</pubDate>
-</item>
-<item>
- <title>Employees’ Side Hustles: The Hidden Threat to Your Organization’s Cybersecurity</title>
- <link>https://www.dtex.ai/blog/employees-side-hustles-the-hidden-threat-to-your-organizations-cybersecurity/</link>
- <description>As side gigs become more prevalent, employees pose a greater risk to cybersecurity. Learn how workforce cyber intelligence can help.</description>
- <pubDate>Thu, 22 Aug 2024 15:34:38 GMT</pubDate>
-</item>
-<item>
- <title>Layoffs &amp; Cyber Security: How to Proactively (and Empathetically) Mitigate Risk</title>
- <link>https://www.dtex.ai/blog/layoffs-cyber-security-how-to-proactively-and-empathetically-mitigate-risk/</link>
- <description>If your organization is having to deal with layoffs in this post-covid recession, start thinking how to mitigate insider risk the human way.</description>
- <pubDate>Thu, 22 Aug 2024 15:24:52 GMT</pubDate>
-</item>
-<item>
- <title>The Great Data Infiltration of 2022—The Data You Don’t Want &amp; Why</title>
- <link>https://www.dtex.ai/blog/the-great-data-infiltration-of-2022-the-data-you-dont-want-why/</link>
- <description>As The Great Resignation rages on, organizations need to recognize the threat of new employees bringing risky data with them.</description>
- <pubDate>Thu, 22 Aug 2024 12:04:12 GMT</pubDate>
-</item>
-<item>
- <title>The Gig is Up! And that’s Not All Good</title>
- <link>https://www.dtex.ai/blog/the-gig-is-up-and-thats-not-all-good/</link>
- <description>DTEX has found six unique flags that can help you identify remote workers who are using corporate devices to conduct third-party work.</description>
- <pubDate>Fri, 23 Aug 2024 08:06:56 GMT</pubDate>
 </item>
 </channel>
 </rss>
