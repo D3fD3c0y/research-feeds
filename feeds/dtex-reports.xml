@@ -4,12 +4,96 @@
  <title>DTEX Reports (Custom Feed)</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Sun, 15 Mar 2026 08:51:59 GMT</lastBuildDate>
+ <lastBuildDate>Sun, 15 Mar 2026 16:46:06 GMT</lastBuildDate>
 <item>
  <title>Reports</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>DTEX publishes comprehensive insider risk management reports, from the cost of insider threats to nation-state operations and more.</description>
- <pubDate>Sun, 15 Mar 2026 08:51:55 GMT</pubDate>
+ <pubDate>Sun, 15 Mar 2026 16:46:05 GMT</pubDate>
+</item>
+<item>
+ <title>Negligent Insider Threat Tops News Radars, Walmart Insiders Get More Than They Bargained For</title>
+ <link>https://www.dtex.ai/blog/negligent-insider-threats-top-breach-radars-walmart-insiders-get-more-than-they-bargained-for/</link>
+ <description>Bob Diachenko of Security Discovery revealed that he identified 800 million unprotected records stored in a 150GB-sized MongoDB instance online; Learn more here.</description>
+ <pubDate>Mon, 11 Mar 2019 16:07:05 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX and Netskope: Mitigating Insider Risk with Managed and Unmanaged Devices</title>
+ <link>https://www.dtex.ai/blog/dtex-and-netskope-mitigating-insider-risk/</link>
+ <description>The integration between DTEX and Netskope provides an excellent opportunity for partners to help customers extend and mature their zero trust strategies.</description>
+ <pubDate>Fri, 23 Aug 2024 14:34:16 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX EDR Integrations: The Next Partner Opportunity</title>
+ <link>https://www.dtex.ai/blog/dtex-edr-integrations/</link>
+ <description>In addition to having hundreds of behavior profiles built into the platform out of the box, the DTEX Platform integrates with EDR tools.</description>
+ <pubDate>Fri, 23 Aug 2024 12:39:10 GMT</pubDate>
+</item>
+<item>
+ <title>CyberSecurity Breakthrough Awards Recognizes DTEX as “User Behavior Analytics Platform of the Year”</title>
+ <link>https://www.dtex.ai/blog/cybersecurity-breakthrough-awards-recognizes-dtex-as-user-behavior-analytics-platform-of-the-year/</link>
+ <description>The Cybersecurity Breakthrough Awards team has recognized DTEX for the second year in a row as UEBA Platform of the Year.</description>
+ <pubDate>Thu, 22 Aug 2024 18:24:18 GMT</pubDate>
+</item>
+<item>
+ <title>Insider Risk Intelligence — A Value Multiplier for the Cyber Ecosystem</title>
+ <link>https://www.dtex.ai/blog/insider-risk-intelligence-a-value-multiplier-for-the-cyber-ecosystem/</link>
+ <description>Learn how insider risk management tools fit into the larger cyber ecosystem and how the DTEX Platform can enhance your existing tools.</description>
+ <pubDate>Thu, 22 Aug 2024 15:01:41 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX Offers NGAV Customers Access to Zero Trust DLP &amp; Human Forensic Telemetry via the CrowdStrike Falcon Platform</title>
+ <link>https://www.dtex.ai/blog/crowdstrike-partners-with-dtex-systems-to-deliver-behavioral-dlp-supercharge-the-falcon-platform-with-human-telemetry-2/</link>
+ <description>CrowdStrike and DTEX partner to deliver a first-of-its-kind workforce cyber security approach to behavioral data loss prevention.</description>
+ <pubDate>Wed, 21 Aug 2024 17:26:24 GMT</pubDate>
+</item>
+<item>
+ <title>Splunk and DTEX Leverage Human Telemetry and Zero Trust to Mitigate Insider Risks and Account Compromise</title>
+ <link>https://www.dtex.ai/blog/splunk-and-dtex-systems-leverage-human-telemetry-and-zero-trust-to-mitigate-insider-risks-and-account-compromise/</link>
+ <description>The decentralization of the modern enterprise, and digital empowerment of the insider, have expanded the need for a zero trust strategy.</description>
+ <pubDate>Tue, 20 Aug 2024 16:46:57 GMT</pubDate>
+</item>
+<item>
+ <title>UEBA Redemption (Part 2): Behavioral Enrichment &amp; Predictive Analytics</title>
+ <link>https://www.dtex.ai/blog/ueba-behavioral-enrichment-predictive-analytics/</link>
+ <description>Learn how Behavioral Enrichment &amp; Predictive Analytics help IT and SecOp pro’s answer questions like Who, What, When, Why, Where and How for insider threats.</description>
+ <pubDate>Tue, 20 Aug 2024 15:55:45 GMT</pubDate>
+</item>
+<item>
+ <title>DTEX Recognized as Outperforming Leader in GigaOM DLP Radar Report</title>
+ <link>https://www.dtex.ai/blog/gigaom-recognizes-dtex-as-the-only-outperforming-leader-in-2022-data-loss-prevention-radar-report/</link>
+ <description>the DTEX Platform has been recognized in the GigaOm 2022 Radar Report for data loss prevention as the only Outperforming Leader.</description>
+ <pubDate>Thu, 22 Aug 2024 17:32:15 GMT</pubDate>
+</item>
+<item>
+ <title>Why Scalability is a Must Have for Insider Risk Management</title>
+ <link>https://www.dtex.ai/blog/why-scalability-is-a-must-have-for-insider-risk-management/</link>
+ <description>The third post in our blog series discussing the differences between Insider Threat Surveillance and Insider Risk Management.</description>
+ <pubDate>Thu, 22 Aug 2024 17:21:15 GMT</pubDate>
+</item>
+<item>
+ <title>Zero Trust DLP—A Knock-out Punch for Legacy DLP and UEBA?</title>
+ <link>https://www.dtex.ai/blog/behavioral-dlp-a-knock-out-punch-for-legacy-dlp-and-ueba/</link>
+ <description>Legacy DLP and UEBA systems aren't cutting it. Behavioral context needs to be at the forefront of your data security and loss prevention.</description>
+ <pubDate>Wed, 21 Aug 2024 15:54:36 GMT</pubDate>
+</item>
+<item>
+ <title>The Seven Ways Equinix is Supercharging NGAV with the DTEX Platform</title>
+ <link>https://www.dtex.ai/blog/the-seven-ways-equinix-is-plugging-the-holes-in-ngav-with-dtex/</link>
+ <description>Next-Gen Antivirus (NGAV) technology has greatly improved many organizations’ abilities to detect, identify, and stop malware from infecting their</description>
+ <pubDate>Tue, 20 Aug 2024 23:53:55 GMT</pubDate>
+</item>
+<item>
+ <title>The Ultimate Guide to Agentless Insider Risk Monitoring for Early Data Theft Detection</title>
+ <link>https://www.dtex.ai/blog/agent-vs-agentless-new-approach-insider-risk-monitoring/</link>
+ <description>Discover how DTEX blends agent and agentless approaches to deliver smarter insider risk monitoring without the usual trade-offs.</description>
+ <pubDate>Fri, 23 Aug 2024 15:53:14 GMT</pubDate>
+</item>
+<item>
+ <title>Shadow AI Is Everywhere. What Gartner® Says and How DTEX Can Help You Regain Control.</title>
+ <link>https://www.dtex.ai/blog/shadow-ai-is-everywhere-what-gartner-says-and-how-dtex-can-help-you-regain-control/</link>
+ <description>Learn what Gartner® reports about shadow AI risks and how DTEX helps CISOs gain visibility, stop prompt leaks, and regain control.</description>
+ <pubDate>Wed, 21 Jan 2026 17:53:13 GMT</pubDate>
 </item>
 <item>
  <title>Case Study: DTEX Helps a Telecom Company Cut Through the Noise to Focus on What Matters Most</title>
@@ -100,90 +184,6 @@
  <link>https://www.dtex.ai/blog/2020-insider-threat-report-conclusion/</link>
  <description>The 2020 DTEX Insider Threat Report has revealed a blind spot in the Work-From-Home movement in employee behavior.</description>
  <pubDate>Tue, 20 Aug 2024 14:36:13 GMT</pubDate>
-</item>
-<item>
- <title>The Insider Threat Kill Chain – Obfuscation</title>
- <link>https://www.dtex.ai/blog/the-insider-threat-kill-chain-obfuscation/</link>
- <description>In cybersecurity, the kill chain refers to the sequential steps an adversary must complete in a successful attack. Learn how to stop the attack at any point here.</description>
- <pubDate>Tue, 20 Aug 2024 14:31:55 GMT</pubDate>
-</item>
-<item>
- <title>The Insider Threat Kill Chain – Reconnaissance</title>
- <link>https://www.dtex.ai/blog/insider-threat-kill-chain-reconnaissance/</link>
- <description>It is increasingly difficult to defend against attacks, leading security teams to accept the inevitability of infiltration but then adopt “kill chain” defenses.</description>
- <pubDate>Tue, 20 Aug 2024 14:28:04 GMT</pubDate>
-</item>
-<item>
- <title>What is the Insider Threat Kill Chain</title>
- <link>https://www.dtex.ai/blog/the-insider-kill-chain-part-1/</link>
- <description>The “Kill Chain” in information security refers to sequential steps an adversary must complete in a successful attack. Learn how it relates to warfare and more.</description>
- <pubDate>Tue, 20 Aug 2024 14:23:15 GMT</pubDate>
-</item>
-<item>
- <title>The True Price Tag of Insider Threats: Findings from the New 2016 Cost of Insider Threats Report</title>
- <link>https://www.dtex.ai/blog/true-price-tag-insider-threats-findings-new-2016-cost-insider-threats-report/</link>
- <description>Insider threat is a security issue that's constantly floating in limbo... for too many organizations, it just isn't a pressing priority despite its significance.</description>
- <pubDate>Fri, 16 Aug 2024 00:31:09 GMT</pubDate>
-</item>
-<item>
- <title>How AI Layoffs and Job Hugging Create Insider Risk, and What Security Teams Can Do About It</title>
- <link>https://www.dtex.ai/blog/how-ai-layoffs-and-job-hugging-create-insider-risk/</link>
- <description>AI layoffs and "job hugging" are increasing insider risk. Learn how insider risk management and HR can prevent data loss.</description>
- <pubDate>Wed, 07 Jan 2026 15:32:08 GMT</pubDate>
-</item>
-<item>
- <title>2026 Cybersecurity Predictions: Insider Risk, AI Security, and the Future of Work</title>
- <link>https://www.dtex.ai/blog/2026-cybersecurity-predictions/</link>
- <description>Here are DTEX’s 2026 cybersecurity predictions, grounded in what we’ve seen across customers, investigations, and global environments.</description>
- <pubDate>Wed, 17 Dec 2025 11:30:00 GMT</pubDate>
-</item>
-<item>
- <title>Insider Risk Mitigation Strategies for the Midsize Enterprise</title>
- <link>https://www.dtex.ai/blog/insider-risk-mitigation-strategies-for-the-midsize-enterprise/</link>
- <description>The team at Gartner recently its Strategies for Midsize Enterprises to Mitigate Insider Risk. Here are the takeaways.</description>
- <pubDate>Fri, 23 Aug 2024 13:54:12 GMT</pubDate>
-</item>
-<item>
- <title>CyberBytes Recap: The Insider Threat and the Real Risk to Enterprises</title>
- <link>https://www.dtex.ai/blog/cyberbytes-recap-the-insider-threat-and-the-real-risk-to-enterprises/</link>
- <description>In this CyberBytes episode, Armaan Mahbod of DTEX i3 reveals all about the insider threat and the real risk to enterprises.</description>
- <pubDate>Fri, 23 Aug 2024 13:13:13 GMT</pubDate>
-</item>
-<item>
- <title>DTEX Insider Risk News Digest – Q2, 2023</title>
- <link>https://www.dtex.ai/blog/dtex-insider-risk-news-digest-q2-2023/</link>
- <description>It has been an eventful quarter at DTEX, and we expect that it won’t slow down any time soon.</description>
- <pubDate>Fri, 23 Aug 2024 13:01:04 GMT</pubDate>
-</item>
-<item>
- <title>DTEX Named “Most Comprehensive Insider Threat Prevention” in Global InfoSec Awards</title>
- <link>https://www.dtex.ai/blog/dtex-named-most-comprehensive-insider-threat-prevention-in-global-infosec-award/</link>
- <description>We are thrilled to kick off the 2023 RSA Conference with 2 award wins from CDM: Most Comprehensive Insider Threat Prevention &amp; Best Product Data Loss Prevention.</description>
- <pubDate>Fri, 23 Aug 2024 11:22:33 GMT</pubDate>
-</item>
-<item>
- <title>Insider Risk: The Next Partner Opportunity</title>
- <link>https://www.dtex.ai/blog/insider-risk-the-next-partner-opportunity/</link>
- <description>Channel partners have a great opportunity to maximize the growing insider risk opportunity through a range of professional services.</description>
- <pubDate>Fri, 23 Aug 2024 09:21:48 GMT</pubDate>
-</item>
-<item>
- <title>Get Left of BOOM by Focusing on Users and Data</title>
- <link>https://www.dtex.ai/blog/get-left-of-boom-by-focusing-on-users-and-data/</link>
- <description>Intent is the missing piece of the insider risk puzzle. Understanding intent enables proactive intervention, left of boom.</description>
- <pubDate>Fri, 23 Aug 2024 08:48:04 GMT</pubDate>
-</item>
-<item>
- <title>Insider Risk: When Business Gets Personal</title>
- <link>https://www.dtex.ai/blog/insider-risk-when-business-gets-personal/</link>
- <description>In an ideal world, there is a clear delineation of where personal and professional engagements take place: anything business related transpires on</description>
- <pubDate>Fri, 23 Aug 2024 08:20:38 GMT</pubDate>
-</item>
-<item>
- <title>Remote Workforce Analytics With Remote Workforce Trust</title>
- <link>https://www.dtex.ai/blog/remote-workforce-analytics-with-remote-workforce-trust/</link>
- <description>Understand your remote workforce engagement while maintaining employee trust with workforce cyber intelligence.</description>
- <pubDate>Thu, 22 Aug 2024 16:20:34 GMT</pubDate>
 </item>
 </channel>
 </rss>
