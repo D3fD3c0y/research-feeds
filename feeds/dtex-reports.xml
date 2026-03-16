@@ -4,12 +4,96 @@
  <title>DTEX Reports (Custom Feed)</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Mon, 16 Mar 2026 03:30:41 GMT</lastBuildDate>
+ <lastBuildDate>Mon, 16 Mar 2026 09:10:55 GMT</lastBuildDate>
 <item>
  <title>Reports</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>DTEX publishes comprehensive insider risk management reports, from the cost of insider threats to nation-state operations and more.</description>
- <pubDate>Mon, 16 Mar 2026 03:30:38 GMT</pubDate>
+ <pubDate>Mon, 16 Mar 2026 09:10:54 GMT</pubDate>
+</item>
+<item>
+ <title>Promod Haque</title>
+ <link>https://www.dtex.ai/leadership/promod-haque/</link>
+ <description>With more than 20 years of experience in venture capital, Promod serves as senior managing partner at Norwest Venture Partners (NVP).</description>
+ <pubDate>Mon, 16 Mar 2026 09:10:54 GMT</pubDate>
+</item>
+<item>
+ <title>Dave Salverson</title>
+ <link>https://www.dtex.ai/leadership/dave-salverson/</link>
+ <description>As Chief Financial Officer at DTEX Systems, Dave develops the financial infrastructure to support DTEX’s growth trajectory.</description>
+ <pubDate>Mon, 16 Mar 2026 09:10:54 GMT</pubDate>
+</item>
+<item>
+ <title>Drew Jones</title>
+ <link>https://www.dtex.ai/leadership/drew-jones/</link>
+ <description>Drew Jones is the VP of Global Customer Success and Services at DTEX, leading worldwide strategies for customer engagement and retention.</description>
+ <pubDate>Mon, 16 Mar 2026 09:10:54 GMT</pubDate>
+</item>
+<item>
+ <title>Raman Hariharan</title>
+ <link>https://www.dtex.ai/leadership/raman-hariharan/</link>
+ <description>Raman Hariharan is the SVP of Engineering at DTEX Systems responsible for technology strategy and implementation of product roadmap.</description>
+ <pubDate>Mon, 16 Mar 2026 09:10:54 GMT</pubDate>
+</item>
+<item>
+ <title>Gaurav Garg</title>
+ <link>https://www.dtex.ai/leadership/gaurav-garg/</link>
+ <description>Gaurav Garg is a founding partner of Wing Venture Capital and has led investments in a number of early-stage technology companies.</description>
+ <pubDate>Mon, 16 Mar 2026 09:10:54 GMT</pubDate>
+</item>
+<item>
+ <title>Marc Kittrell</title>
+ <link>https://www.dtex.ai/leadership/marc-kittrell/</link>
+ <description>With 20 years of experience in IT software sales, Marc Kittrell is the VP of Worldwide Channels and Alliances for DTEX Systems.</description>
+ <pubDate>Mon, 16 Mar 2026 09:10:54 GMT</pubDate>
+</item>
+<item>
+ <title>Jessica Ray</title>
+ <link>https://www.dtex.ai/leadership/jessica-ray/</link>
+ <description>As Chief Marketing Officer at DTEX, Jessica Ray leads all marketing initiatives with a rigorous focus on driving business growth.</description>
+ <pubDate>Mon, 16 Mar 2026 09:10:55 GMT</pubDate>
+</item>
+<item>
+ <title>Robert Lentz</title>
+ <link>https://www.dtex.ai/leadership/robert-lentz/</link>
+ <description>With over 34 years of security experience in federal government, Mr. Lentz is an esteemed member of the DTEX Board of Directors.</description>
+ <pubDate>Mon, 16 Mar 2026 09:10:55 GMT</pubDate>
+</item>
+<item>
+ <title>Jennifer Moll</title>
+ <link>https://www.dtex.ai/leadership/jennifer-moll/</link>
+ <description>After 20 years of experience in forensics and cybersecurity, Jennifer Moll is the VP of Strategic Programs for DTEX Systems.</description>
+ <pubDate>Mon, 16 Mar 2026 09:10:55 GMT</pubDate>
+</item>
+<item>
+ <title>Puja Singhal</title>
+ <link>https://www.dtex.ai/leadership/puja-singhal/</link>
+ <description>Puja Singhal is an HR leader with over 15 years of global experience in human resources, organizational development, and change management.</description>
+ <pubDate>Mon, 16 Mar 2026 09:10:55 GMT</pubDate>
+</item>
+<item>
+ <title>Louis Smith</title>
+ <link>https://www.dtex.ai/leadership/louis-smith/</link>
+ <description>Louis Smith is a cybersecurity executive with 15+ years in Sales &amp; Engineering, driving DTEX's global growth and Insider Risk platform market leadership.</description>
+ <pubDate>Mon, 16 Mar 2026 09:10:55 GMT</pubDate>
+</item>
+<item>
+ <title>Christiaan Nillissen</title>
+ <link>https://www.dtex.ai/leadership/christiaan-nillissen/</link>
+ <description>With over 24 years in software, Chris co-founded DTEX Systems and has been pivotal in evolving the DTEX insider risk management platform.</description>
+ <pubDate>Mon, 16 Mar 2026 09:10:55 GMT</pubDate>
+</item>
+<item>
+ <title>Mohan Koo</title>
+ <link>https://www.dtex.ai/leadership/mohan-koo/</link>
+ <description>Mohan Koo is the Co-founder and President of DTEX and is widely recognized as a thought leader in cybersecurity.</description>
+ <pubDate>Mon, 16 Mar 2026 09:10:55 GMT</pubDate>
+</item>
+<item>
+ <title>Chris Harris</title>
+ <link>https://www.dtex.ai/leadership/chris-harris/</link>
+ <description>Chris Harris is the Senior Vice President, United States Public Sector at DTEX, responsible for all aspects of public sector strategy.</description>
+ <pubDate>Mon, 16 Mar 2026 09:10:55 GMT</pubDate>
 </item>
 <item>
  <title>Insider Risk Resolution: A Decision Tree Framework</title>
@@ -62,7 +146,7 @@
 <item>
  <title>The Security Stack Is Becoming an LLM. Insider Risk Still Isn’t.</title>
  <link>https://www.dtex.ai/blog/the-security-stack-is-becoming-an-llm-insider-risk-still-isnt/</link>
- <description>The future security stack is going to be run by LLMs but it does not equal LLM-solves-security. Not safely. And not for insider risk. </description>
+ <description>The future security stack is going to be run by LLMs but it does not equal LLM-solves-security. Not safely. And not for insider risk.</description>
  <pubDate>Wed, 04 Mar 2026 15:23:30 GMT</pubDate>
 </item>
 <item>
@@ -74,7 +158,7 @@
 <item>
  <title>Insights From Australia’s Insider Risk Masterclass 2026</title>
  <link>https://www.dtex.ai/blog/insights-insider-risk-masterclass-2026/</link>
- <description>Takeaways from the 7th Insider Risk Masterclass, delivered through the AIRCoE:  a collaboration between Aus3C, DTEX, McGrathNicol and MITRE. </description>
+ <description>Takeaways from the 7th Insider Risk Masterclass, delivered through the AIRCoE:  a collaboration between Aus3C, DTEX, McGrathNicol and MITRE.</description>
  <pubDate>Wed, 11 Mar 2026 13:00:00 GMT</pubDate>
 </item>
 <item>
@@ -100,90 +184,6 @@
  <link>https://www.dtex.ai/blog/negligent-insider-threats-top-breach-radars-walmart-insiders-get-more-than-they-bargained-for/</link>
  <description>Bob Diachenko of Security Discovery revealed that he identified 800 million unprotected records stored in a 150GB-sized MongoDB instance online; Learn more here.</description>
  <pubDate>Mon, 11 Mar 2019 16:07:05 GMT</pubDate>
-</item>
-<item>
- <title>DTEX and Netskope: Mitigating Insider Risk with Managed and Unmanaged Devices</title>
- <link>https://www.dtex.ai/blog/dtex-and-netskope-mitigating-insider-risk/</link>
- <description>The integration between DTEX and Netskope provides an excellent opportunity for partners to help customers extend and mature their zero trust strategies.</description>
- <pubDate>Fri, 23 Aug 2024 14:34:16 GMT</pubDate>
-</item>
-<item>
- <title>DTEX EDR Integrations: The Next Partner Opportunity</title>
- <link>https://www.dtex.ai/blog/dtex-edr-integrations/</link>
- <description>In addition to having hundreds of behavior profiles built into the platform out of the box, the DTEX Platform integrates with EDR tools.</description>
- <pubDate>Fri, 23 Aug 2024 12:39:10 GMT</pubDate>
-</item>
-<item>
- <title>CyberSecurity Breakthrough Awards Recognizes DTEX as “User Behavior Analytics Platform of the Year”</title>
- <link>https://www.dtex.ai/blog/cybersecurity-breakthrough-awards-recognizes-dtex-as-user-behavior-analytics-platform-of-the-year/</link>
- <description>The Cybersecurity Breakthrough Awards team has recognized DTEX for the second year in a row as UEBA Platform of the Year.</description>
- <pubDate>Thu, 22 Aug 2024 18:24:18 GMT</pubDate>
-</item>
-<item>
- <title>Insider Risk Intelligence — A Value Multiplier for the Cyber Ecosystem</title>
- <link>https://www.dtex.ai/blog/insider-risk-intelligence-a-value-multiplier-for-the-cyber-ecosystem/</link>
- <description>Learn how insider risk management tools fit into the larger cyber ecosystem and how the DTEX Platform can enhance your existing tools.</description>
- <pubDate>Thu, 22 Aug 2024 15:01:41 GMT</pubDate>
-</item>
-<item>
- <title>DTEX Offers NGAV Customers Access to Zero Trust DLP &amp; Human Forensic Telemetry via the CrowdStrike Falcon Platform</title>
- <link>https://www.dtex.ai/blog/crowdstrike-partners-with-dtex-systems-to-deliver-behavioral-dlp-supercharge-the-falcon-platform-with-human-telemetry-2/</link>
- <description>CrowdStrike and DTEX partner to deliver a first-of-its-kind workforce cyber security approach to behavioral data loss prevention.</description>
- <pubDate>Wed, 21 Aug 2024 17:26:24 GMT</pubDate>
-</item>
-<item>
- <title>Splunk and DTEX Leverage Human Telemetry and Zero Trust to Mitigate Insider Risks and Account Compromise</title>
- <link>https://www.dtex.ai/blog/splunk-and-dtex-systems-leverage-human-telemetry-and-zero-trust-to-mitigate-insider-risks-and-account-compromise/</link>
- <description>The decentralization of the modern enterprise, and digital empowerment of the insider, have expanded the need for a zero trust strategy.</description>
- <pubDate>Tue, 20 Aug 2024 16:46:57 GMT</pubDate>
-</item>
-<item>
- <title>UEBA Redemption (Part 2): Behavioral Enrichment &amp; Predictive Analytics</title>
- <link>https://www.dtex.ai/blog/ueba-behavioral-enrichment-predictive-analytics/</link>
- <description>Learn how Behavioral Enrichment &amp; Predictive Analytics help IT and SecOp pro’s answer questions like Who, What, When, Why, Where and How for insider threats.</description>
- <pubDate>Tue, 20 Aug 2024 15:55:45 GMT</pubDate>
-</item>
-<item>
- <title>DTEX Recognized as Outperforming Leader in GigaOM DLP Radar Report</title>
- <link>https://www.dtex.ai/blog/gigaom-recognizes-dtex-as-the-only-outperforming-leader-in-2022-data-loss-prevention-radar-report/</link>
- <description>the DTEX Platform has been recognized in the GigaOm 2022 Radar Report for data loss prevention as the only Outperforming Leader.</description>
- <pubDate>Thu, 22 Aug 2024 17:32:15 GMT</pubDate>
-</item>
-<item>
- <title>Why Scalability is a Must Have for Insider Risk Management</title>
- <link>https://www.dtex.ai/blog/why-scalability-is-a-must-have-for-insider-risk-management/</link>
- <description>The third post in our blog series discussing the differences between Insider Threat Surveillance and Insider Risk Management.</description>
- <pubDate>Thu, 22 Aug 2024 17:21:15 GMT</pubDate>
-</item>
-<item>
- <title>Zero Trust DLP—A Knock-out Punch for Legacy DLP and UEBA?</title>
- <link>https://www.dtex.ai/blog/behavioral-dlp-a-knock-out-punch-for-legacy-dlp-and-ueba/</link>
- <description>Legacy DLP and UEBA systems aren't cutting it. Behavioral context needs to be at the forefront of your data security and loss prevention.</description>
- <pubDate>Wed, 21 Aug 2024 15:54:36 GMT</pubDate>
-</item>
-<item>
- <title>The Seven Ways Equinix is Supercharging NGAV with the DTEX Platform</title>
- <link>https://www.dtex.ai/blog/the-seven-ways-equinix-is-plugging-the-holes-in-ngav-with-dtex/</link>
- <description>Next-Gen Antivirus (NGAV) technology has greatly improved many organizations’ abilities to detect, identify, and stop malware from infecting their</description>
- <pubDate>Tue, 20 Aug 2024 23:53:55 GMT</pubDate>
-</item>
-<item>
- <title>The Ultimate Guide to Agentless Insider Risk Monitoring for Early Data Theft Detection</title>
- <link>https://www.dtex.ai/blog/agent-vs-agentless-new-approach-insider-risk-monitoring/</link>
- <description>Discover how DTEX blends agent and agentless approaches to deliver smarter insider risk monitoring without the usual trade-offs.</description>
- <pubDate>Fri, 23 Aug 2024 15:53:14 GMT</pubDate>
-</item>
-<item>
- <title>Shadow AI Is Everywhere. What Gartner® Says and How DTEX Can Help You Regain Control.</title>
- <link>https://www.dtex.ai/blog/shadow-ai-is-everywhere-what-gartner-says-and-how-dtex-can-help-you-regain-control/</link>
- <description>Learn what Gartner® reports about shadow AI risks and how DTEX helps CISOs gain visibility, stop prompt leaks, and regain control.</description>
- <pubDate>Wed, 21 Jan 2026 17:53:13 GMT</pubDate>
-</item>
-<item>
- <title>Case Study: DTEX Helps a Telecom Company Cut Through the Noise to Focus on What Matters Most</title>
- <link>https://www.dtex.ai/blog/case-study-dtex-helps-a-telecom-company-cut-through-the-noise-to-focus-on-what-matters-most/</link>
- <description>A major telecom company based in the Asia-Pacific region had launched a large-scale publicly funded project to upgrade its telecommunications</description>
- <pubDate>Thu, 22 Aug 2024 18:38:29 GMT</pubDate>
 </item>
 </channel>
 </rss>
