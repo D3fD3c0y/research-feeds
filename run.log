@@ -100,21 +100,21 @@ Wrote feeds/deception-pro.xml
  [HTTP] sitemap GET https://www.dtex.ai/blog-by-topic-sitemap.xml -> 200 (final: https://www.dtex.ai/blog-by-topic-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] robots-check GET https://www.dtex.ai/robots.txt -> 200 (final: https://www.dtex.ai/robots.txt) CT=text/plain
  [HTTP] article GET https://www.dtex.ai/resources/reports/ -> 200 (final: https://www.dtex.ai/resources/reports/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/negligent-insider-threats-top-breach-radars-walmart-insiders-get-more-than-they-bargained-for/ -> 200 (final: https://www.dtex.ai/blog/negligent-insider-threats-top-breach-radars-walmart-insiders-get-more-than-they-bargained-for/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/dtex-and-netskope-mitigating-insider-risk/ -> 200 (final: https://www.dtex.ai/blog/dtex-and-netskope-mitigating-insider-risk/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/dtex-edr-integrations/ -> 200 (final: https://www.dtex.ai/blog/dtex-edr-integrations/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/cybersecurity-breakthrough-awards-recognizes-dtex-as-user-behavior-analytics-platform-of-the-year/ -> 200 (final: https://www.dtex.ai/blog/cybersecurity-breakthrough-awards-recognizes-dtex-as-user-behavior-analytics-platform-of-the-year/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/insider-risk-intelligence-a-value-multiplier-for-the-cyber-ecosystem/ -> 200 (final: https://www.dtex.ai/blog/insider-risk-intelligence-a-value-multiplier-for-the-cyber-ecosystem/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/crowdstrike-partners-with-dtex-systems-to-deliver-behavioral-dlp-supercharge-the-falcon-platform-with-human-telemetry-2/ -> 200 (final: https://www.dtex.ai/blog/crowdstrike-partners-with-dtex-systems-to-deliver-behavioral-dlp-supercharge-the-falcon-platform-with-human-telemetry-2/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/splunk-and-dtex-systems-leverage-human-telemetry-and-zero-trust-to-mitigate-insider-risks-and-account-compromise/ -> 200 (final: https://www.dtex.ai/blog/splunk-and-dtex-systems-leverage-human-telemetry-and-zero-trust-to-mitigate-insider-risks-and-account-compromise/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/ueba-behavioral-enrichment-predictive-analytics/ -> 200 (final: https://www.dtex.ai/blog/ueba-behavioral-enrichment-predictive-analytics/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/gigaom-recognizes-dtex-as-the-only-outperforming-leader-in-2022-data-loss-prevention-radar-report/ -> 200 (final: https://www.dtex.ai/blog/gigaom-recognizes-dtex-as-the-only-outperforming-leader-in-2022-data-loss-prevention-radar-report/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/why-scalability-is-a-must-have-for-insider-risk-management/ -> 200 (final: https://www.dtex.ai/blog/why-scalability-is-a-must-have-for-insider-risk-management/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/behavioral-dlp-a-knock-out-punch-for-legacy-dlp-and-ueba/ -> 200 (final: https://www.dtex.ai/blog/behavioral-dlp-a-knock-out-punch-for-legacy-dlp-and-ueba/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/the-seven-ways-equinix-is-plugging-the-holes-in-ngav-with-dtex/ -> 200 (final: https://www.dtex.ai/blog/the-seven-ways-equinix-is-plugging-the-holes-in-ngav-with-dtex/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/agent-vs-agentless-new-approach-insider-risk-monitoring/ -> 200 (final: https://www.dtex.ai/blog/agent-vs-agentless-new-approach-insider-risk-monitoring/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/shadow-ai-is-everywhere-what-gartner-says-and-how-dtex-can-help-you-regain-control/ -> 200 (final: https://www.dtex.ai/blog/shadow-ai-is-everywhere-what-gartner-says-and-how-dtex-can-help-you-regain-control/) CT=text/html; charset=UTF-8
- • Summary [dtex-reports]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=294, seen_added=14
+ [HTTP] article GET https://www.dtex.ai/blog/insider-risk-resolution-a-decision-tree-framework/ -> 200 (final: https://www.dtex.ai/blog/insider-risk-resolution-a-decision-tree-framework/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/gartner-insider-risk-management-market-guide-4-things-you-need-to-know/ -> 200 (final: https://www.dtex.ai/blog/gartner-insider-risk-management-market-guide-4-things-you-need-to-know/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/why-organizations-are-embracing-insider-risk-services/ -> 200 (final: https://www.dtex.ai/blog/why-organizations-are-embracing-insider-risk-services/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/the-latest-ai-security-risk-what-openclaw-reveals-about-the-future-of-agentic-malware/ -> 200 (final: https://www.dtex.ai/blog/the-latest-ai-security-risk-what-openclaw-reveals-about-the-future-of-agentic-malware/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/4-reasons-to-ditch-your-old-dlp-in-the-ai-era-and-what-to-do-instead/ -> 200 (final: https://www.dtex.ai/blog/4-reasons-to-ditch-your-old-dlp-in-the-ai-era-and-what-to-do-instead/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/ai-is-the-new-attack-surface-and-browsers-enable-it/ -> 200 (final: https://www.dtex.ai/blog/ai-is-the-new-attack-surface-and-browsers-enable-it/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/how-to-detect-unauthorized-ai-agents-how-openclaw-exposed-the-ai-insider-risk/ -> 200 (final: https://www.dtex.ai/blog/how-to-detect-unauthorized-ai-agents-how-openclaw-exposed-the-ai-insider-risk/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/ponemon-cost-of-insider-risk-2026/ -> 200 (final: https://www.dtex.ai/blog/ponemon-cost-of-insider-risk-2026/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/the-security-stack-is-becoming-an-llm-insider-risk-still-isnt/ -> 200 (final: https://www.dtex.ai/blog/the-security-stack-is-becoming-an-llm-insider-risk-still-isnt/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/every-company-has-a-roger-risk-adaptive-dlp-catches-them/ -> 200 (final: https://www.dtex.ai/blog/every-company-has-a-roger-risk-adaptive-dlp-catches-them/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/insights-insider-risk-masterclass-2026/ -> 200 (final: https://www.dtex.ai/blog/insights-insider-risk-masterclass-2026/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/ai-governance-best-practices/ -> 200 (final: https://www.dtex.ai/blog/ai-governance-best-practices/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog/the-real-quantum-risk-in-finance-data-you-cant-see/ -> 200 (final: https://www.dtex.ai/blog/the-real-quantum-risk-in-finance-data-you-cant-see/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/leadership/james-luo/ -> 200 (final: https://www.dtex.ai/leadership/james-luo/) CT=text/html; charset=UTF-8
+ • Summary [dtex-reports]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=308, seen_added=14
 Wrote feeds/dtex-reports.xml
 
 === Processing: LEXFO Blog (https://blog.lexfo.fr/) -> feeds/lexfo.xml
@@ -164,19 +164,9 @@ Wrote feeds/ransomnews.xml
 
 === Processing: Sequretek Resources Hub (https://www.sequretek.com/resources-hub) -> feeds/sequretek.xml
  robots.txt respected: True
- [HTTP] robots-check GET https://www.sequretek.com/robots.txt -> 403 (final: https://www.sequretek.com/robots.txt) CT=text/html
- [HTTP] robots-check body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- ! robots.txt disallows scraping listing; trying sitemap fallback …
- [HTTP] robots GET https://www.sequretek.com/robots.txt -> 403 (final: https://www.sequretek.com/robots.txt) CT=text/html
- [HTTP] robots body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- [HTTP] sitemap GET https://www.sequretek.com/sitemap.xml -> 403 (final: https://www.sequretek.com/sitemap.xml) CT=text/html
- [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- [HTTP] sitemap GET https://www.sequretek.com/sitemap_index.xml -> 403 (final: https://www.sequretek.com/sitemap_index.xml) CT=text/html
- [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- [HTTP] sitemap GET https://www.sequretek.com/sitemap.xml.gz -> 403 (final: https://www.sequretek.com/sitemap.xml.gz) CT=text/html
- [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- [HTTP] sitemap GET https://www.sequretek.com/sitemap_index.xml.gz -> 403 (final: https://www.sequretek.com/sitemap_index.xml.gz) CT=text/html
- [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
+ [HTTP] robots-check GET https://www.sequretek.com/robots.txt -> 200 (final: https://www.sequretek.com/robots.txt) CT=text/plain
+ • scraping listing page …
+ [HTTP] scrape-listing GET https://www.sequretek.com/resources-hub -> 200 (final: https://www.sequretek.com/resources-hub) CT=text/html
  • Summary [sequretek]: new_fetched=0, new_used=0, reused=1, prev_cached=1, seen_before=0, seen_added=0
 Wrote feeds/sequretek.xml
 Wrote index.html
