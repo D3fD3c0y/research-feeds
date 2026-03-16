@@ -4,12 +4,96 @@
  <title>DTEX Reports (Custom Feed)</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Mon, 16 Mar 2026 09:10:55 GMT</lastBuildDate>
+ <lastBuildDate>Mon, 16 Mar 2026 17:15:04 GMT</lastBuildDate>
 <item>
  <title>Reports</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>DTEX publishes comprehensive insider risk management reports, from the cost of insider threats to nation-state operations and more.</description>
- <pubDate>Mon, 16 Mar 2026 09:10:54 GMT</pubDate>
+ <pubDate>Mon, 16 Mar 2026 17:15:00 GMT</pubDate>
+</item>
+<item>
+ <title>Why Human and AI Insiders Demand a New Risk Model</title>
+ <link>https://www.dtex.ai/blog/why-human-and-ai-insiders-demand-a-new-risk-model/</link>
+ <description>Explore the emerging concept of AI insider risk and how the interplay between humans and AI magnifies enterprise threats.</description>
+ <pubDate>Mon, 16 Mar 2026 13:00:00 GMT</pubDate>
+</item>
+<item>
+ <title>Rajan Koo</title>
+ <link>https://www.dtex.ai/leadership/rajan-koo/</link>
+ <description>As an engineer with over 20 years in insider risk, Rajan Koo is the CTO and head of DTEX’s Insider Investigations &amp; Intelligence (i3) team.</description>
+ <pubDate>Mon, 16 Mar 2026 17:15:01 GMT</pubDate>
+</item>
+<item>
+ <title>Mike Studeman</title>
+ <link>https://www.dtex.ai/leadership/mike-studeman/</link>
+ <description>As one of the nation’s leading national security professionals, Mike Studeman is an esteemed member of the DTEX Advisory Board.</description>
+ <pubDate>Mon, 16 Mar 2026 17:15:02 GMT</pubDate>
+</item>
+<item>
+ <title>Phoebe Robertson</title>
+ <link>https://www.dtex.ai/leadership/phoebe-robertson/</link>
+ <description>Mike Price is the Chief Revenue Officer at DTEX, overseeing global revenue operations.</description>
+ <pubDate>Mon, 16 Mar 2026 17:15:02 GMT</pubDate>
+</item>
+<item>
+ <title>David Hahn</title>
+ <link>https://www.dtex.ai/leadership/david-hahn/</link>
+ <description>CISO Leader David Hahn Joins DTEX’s Advisory Board</description>
+ <pubDate>Mon, 16 Mar 2026 17:15:02 GMT</pubDate>
+</item>
+<item>
+ <title>Howard Holton</title>
+ <link>https://www.dtex.ai/leadership/howard-holton/</link>
+ <description>Mike Price is the Chief Revenue Officer at DTEX, overseeing global revenue operations.</description>
+ <pubDate>Mon, 16 Mar 2026 17:15:02 GMT</pubDate>
+</item>
+<item>
+ <title>Mike Price</title>
+ <link>https://www.dtex.ai/leadership/mike-price/</link>
+ <description>Mike Price is the Chief Revenue Officer at DTEX, overseeing global revenue operations.</description>
+ <pubDate>Mon, 16 Mar 2026 17:15:03 GMT</pubDate>
+</item>
+<item>
+ <title>Sue Gordon</title>
+ <link>https://www.dtex.ai/leadership/sue-gordon/</link>
+ <description>As a renowned leader in national security, the Honorable Susan M. Gordon is an esteemed member of the DTEX Advisory Board.</description>
+ <pubDate>Mon, 16 Mar 2026 17:15:03 GMT</pubDate>
+</item>
+<item>
+ <title>Pete Angstadt</title>
+ <link>https://www.dtex.ai/leadership/pete-angstadt/</link>
+ <description>President of Go-to-Market, Securiti</description>
+ <pubDate>Mon, 16 Mar 2026 17:15:03 GMT</pubDate>
+</item>
+<item>
+ <title>Marshall Heilman</title>
+ <link>https://www.dtex.ai/leadership/marshall-heilman/</link>
+ <description>After technical and leadership roles at Mandiant and Google, Marshall Heilman is the Chief Executive Officer for DTEX Systems.</description>
+ <pubDate>Mon, 16 Mar 2026 17:15:03 GMT</pubDate>
+</item>
+<item>
+ <title>Sean Joyce</title>
+ <link>https://www.dtex.ai/leadership/sean-joyce/</link>
+ <description>As a renowned leader in national security, the Honorable Susan M. Gordon is an esteemed member of the DTEX Advisory Board.</description>
+ <pubDate>Mon, 16 Mar 2026 17:15:04 GMT</pubDate>
+</item>
+<item>
+ <title>Kevin Mandia</title>
+ <link>https://www.dtex.ai/leadership/kevin-mandia/</link>
+ <description>As one of the world’s most recognized cybersecurity experts, Kevin Mandia is an esteemed member of the DTEX Advisory Board.</description>
+ <pubDate>Mon, 16 Mar 2026 17:15:04 GMT</pubDate>
+</item>
+<item>
+ <title>Nicole Perlroth</title>
+ <link>https://www.dtex.ai/leadership/nicole-perlroth/</link>
+ <description>As a renowned leader in national security, the Honorable Susan M. Gordon is an esteemed member of the DTEX Advisory Board.</description>
+ <pubDate>Mon, 16 Mar 2026 17:15:04 GMT</pubDate>
+</item>
+<item>
+ <title>Hart Rossman</title>
+ <link>https://www.dtex.ai/leadership/hart-rossman/</link>
+ <description>Vice President of Security, AWS</description>
+ <pubDate>Mon, 16 Mar 2026 17:15:04 GMT</pubDate>
 </item>
 <item>
  <title>Promod Haque</title>
@@ -100,90 +184,6 @@
  <link>https://www.dtex.ai/blog/insider-risk-resolution-a-decision-tree-framework/</link>
  <description>The DTEX Insider Risk Resolution Tree can help analysts to make better decisions to proactively protect data and support a trusted workforce.</description>
  <pubDate>Fri, 23 Aug 2024 12:10:24 GMT</pubDate>
-</item>
-<item>
- <title>Gartner Insider Risk Management Market Guide: 4 Things You Need to Know</title>
- <link>https://www.dtex.ai/blog/gartner-insider-risk-management-market-guide-4-things-you-need-to-know/</link>
- <description>Gartner recently released their market guide for Insider Risk Management. Read our blog post for the four most important takeways.</description>
- <pubDate>Thu, 22 Aug 2024 13:14:15 GMT</pubDate>
-</item>
-<item>
- <title>Transforming Data Loss Prevention for an AI-Powered World</title>
- <link>https://www.dtex.ai/blog/why-organizations-are-embracing-insider-risk-services/</link>
- <description>Learn how insider risk services help security teams accelerate insider threat investigations, cut containment times, and reduce breaches.</description>
- <pubDate>Thu, 04 Dec 2025 01:23:09 GMT</pubDate>
-</item>
-<item>
- <title>The Latest AI Security Risk: What OpenClaw Reveals About The Future of Agentic Malware</title>
- <link>https://www.dtex.ai/blog/the-latest-ai-security-risk-what-openclaw-reveals-about-the-future-of-agentic-malware/</link>
- <description>Learn how OpenClaw exposes catastrophic AI security risks from autonomous Shadow AI, and how you can keep your organization secure.</description>
- <pubDate>Thu, 05 Feb 2026 20:48:16 GMT</pubDate>
-</item>
-<item>
- <title>4 Reasons to Ditch Your Old DLP in the AI-Era and What to Do Instead</title>
- <link>https://www.dtex.ai/blog/4-reasons-to-ditch-your-old-dlp-in-the-ai-era-and-what-to-do-instead/</link>
- <description>Conventional DLP wasn’t built for AI-era. DTEX AI security capabilities and risk-adaptive DLP are the foundation for securing AI at scale.</description>
- <pubDate>Wed, 11 Feb 2026 18:32:40 GMT</pubDate>
-</item>
-<item>
- <title>Prompt and Circumstance: AI Is the New Attack Surface, and Browsers Enable It</title>
- <link>https://www.dtex.ai/blog/ai-is-the-new-attack-surface-and-browsers-enable-it/</link>
- <description>Learn why legacy data loss prevention falls short for browser security, and how DTEX's risk-adaptive DLP delivers comprehensive protection.</description>
- <pubDate>Wed, 14 Jan 2026 14:24:39 GMT</pubDate>
-</item>
-<item>
- <title>How to Detect Unauthorized AI Agents: How OpenClaw Exposed the AI Insider Risk</title>
- <link>https://www.dtex.ai/blog/how-to-detect-unauthorized-ai-agents-how-openclaw-exposed-the-ai-insider-risk/</link>
- <description>This blog examines unauthorized AI agents and provides recommendations to mitigate their risks.</description>
- <pubDate>Fri, 20 Feb 2026 16:21:22 GMT</pubDate>
-</item>
-<item>
- <title>Ponemon Cost of Insider Risks: What’s Actually Working in the Age of Shadow AI</title>
- <link>https://www.dtex.ai/blog/ponemon-cost-of-insider-risk-2026/</link>
- <description>2026 Ponemon Cost of Insider Risks Report shows why shadow AI is an insider threat problem, and how insider risk management is driving ROI.</description>
- <pubDate>Wed, 25 Feb 2026 17:00:00 GMT</pubDate>
-</item>
-<item>
- <title>The Security Stack Is Becoming an LLM. Insider Risk Still Isn’t.</title>
- <link>https://www.dtex.ai/blog/the-security-stack-is-becoming-an-llm-insider-risk-still-isnt/</link>
- <description>The future security stack is going to be run by LLMs but it does not equal LLM-solves-security. Not safely. And not for insider risk.</description>
- <pubDate>Wed, 04 Mar 2026 15:23:30 GMT</pubDate>
-</item>
-<item>
- <title>Every Company Has a Roger: Risk-Adaptive DLP Catches Them</title>
- <link>https://www.dtex.ai/blog/every-company-has-a-roger-risk-adaptive-dlp-catches-them/</link>
- <description>Risk-Adaptive DLP adapts to behavior, blocks risky GenAI prompts, and speeds investigations. See how DTEX protects data in real-time.</description>
- <pubDate>Wed, 18 Feb 2026 18:32:36 GMT</pubDate>
-</item>
-<item>
- <title>Insights From Australia’s Insider Risk Masterclass 2026</title>
- <link>https://www.dtex.ai/blog/insights-insider-risk-masterclass-2026/</link>
- <description>Takeaways from the 7th Insider Risk Masterclass, delivered through the AIRCoE:  a collaboration between Aus3C, DTEX, McGrathNicol and MITRE.</description>
- <pubDate>Wed, 11 Mar 2026 13:00:00 GMT</pubDate>
-</item>
-<item>
- <title>AI Governance Best Practices: How to Balance Security with Innovation</title>
- <link>https://www.dtex.ai/blog/ai-governance-best-practices/</link>
- <description>Discover how to use AI governance to manage insider risk, control shadow AI, and safely scale enterprise innovation with visibility, context, and control.</description>
- <pubDate>Tue, 05 Aug 2025 11:00:00 GMT</pubDate>
-</item>
-<item>
- <title>The Real Quantum Risk in Finance: Data You Can’t See</title>
- <link>https://www.dtex.ai/blog/the-real-quantum-risk-in-finance-data-you-cant-see/</link>
- <description>Quantum cyber risk is already here. Learn how financial institutions can act early to protect against insider risks and unstructured data.</description>
- <pubDate>Fri, 13 Mar 2026 12:43:23 GMT</pubDate>
-</item>
-<item>
- <title>James Luo</title>
- <link>https://www.dtex.ai/leadership/james-luo/</link>
- <description>James Luo co-leads CapitalG’s investing efforts in infrastructure software and focuses on security, networking, and developer platforms.</description>
- <pubDate>Mon, 16 Mar 2026 03:30:41 GMT</pubDate>
-</item>
-<item>
- <title>Negligent Insider Threat Tops News Radars, Walmart Insiders Get More Than They Bargained For</title>
- <link>https://www.dtex.ai/blog/negligent-insider-threats-top-breach-radars-walmart-insiders-get-more-than-they-bargained-for/</link>
- <description>Bob Diachenko of Security Discovery revealed that he identified 800 million unprotected records stored in a 150GB-sized MongoDB instance online; Learn more here.</description>
- <pubDate>Mon, 11 Mar 2019 16:07:05 GMT</pubDate>
 </item>
 </channel>
 </rss>
