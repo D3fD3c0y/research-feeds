@@ -4,12 +4,36 @@
  <title>DTEX Reports (Custom Feed)</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Tue, 17 Mar 2026 02:52:03 GMT</lastBuildDate>
+ <lastBuildDate>Tue, 17 Mar 2026 09:04:10 GMT</lastBuildDate>
 <item>
  <title>Reports</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>DTEX publishes comprehensive insider risk management reports, from the cost of insider threats to nation-state operations and more.</description>
- <pubDate>Tue, 17 Mar 2026 02:52:01 GMT</pubDate>
+ <pubDate>Tue, 17 Mar 2026 09:04:09 GMT</pubDate>
+</item>
+<item>
+ <title>Foreign Interference Archives</title>
+ <link>https://www.dtex.ai/blog-by-topic/foreign-interference/</link>
+ <description>Investigate how foreign actors exploit insiders and what proactive steps organizations can take to mitigate these threats.</description>
+ <pubDate>Tue, 17 Mar 2026 09:04:09 GMT</pubDate>
+</item>
+<item>
+ <title>Privacy and Trust Archives</title>
+ <link>https://www.dtex.ai/blog-by-topic/privacy/</link>
+ <description>Explore the intersection of privacy and security, and how DTEX protects user privacy while detecting insider risks.</description>
+ <pubDate>Tue, 17 Mar 2026 09:04:10 GMT</pubDate>
+</item>
+<item>
+ <title>Product Archives</title>
+ <link>https://www.dtex.ai/blog-by-topic/product/</link>
+ <description>Stay up to date on DTEX platform features, products, capabilities, updates, and innovations supporting insider risk management.</description>
+ <pubDate>Tue, 17 Mar 2026 09:04:10 GMT</pubDate>
+</item>
+<item>
+ <title>Blog</title>
+ <link>https://www.dtex.ai/blog-by-topic/dtex-i3/</link>
+ <description>Read the DTEX Blog for trusted insights on insider risk management, data loss prevention, AI, proactive security, and more.</description>
+ <pubDate>Thu, 20 Jun 2024 19:01:18 GMT</pubDate>
 </item>
 <item>
  <title>Shana Bautista</title>
@@ -160,30 +184,6 @@
  <link>https://www.dtex.ai/leadership/sean-joyce/</link>
  <description>As a renowned leader in national security, the Honorable Susan M. Gordon is an esteemed member of the DTEX Advisory Board.</description>
  <pubDate>Mon, 16 Mar 2026 17:15:04 GMT</pubDate>
-</item>
-<item>
- <title>Kevin Mandia</title>
- <link>https://www.dtex.ai/leadership/kevin-mandia/</link>
- <description>As one of the world’s most recognized cybersecurity experts, Kevin Mandia is an esteemed member of the DTEX Advisory Board.</description>
- <pubDate>Mon, 16 Mar 2026 17:15:04 GMT</pubDate>
-</item>
-<item>
- <title>Nicole Perlroth</title>
- <link>https://www.dtex.ai/leadership/nicole-perlroth/</link>
- <description>As a renowned leader in national security, the Honorable Susan M. Gordon is an esteemed member of the DTEX Advisory Board.</description>
- <pubDate>Mon, 16 Mar 2026 17:15:04 GMT</pubDate>
-</item>
-<item>
- <title>Hart Rossman</title>
- <link>https://www.dtex.ai/leadership/hart-rossman/</link>
- <description>Vice President of Security, AWS</description>
- <pubDate>Mon, 16 Mar 2026 17:15:04 GMT</pubDate>
-</item>
-<item>
- <title>Promod Haque</title>
- <link>https://www.dtex.ai/leadership/promod-haque/</link>
- <description>With more than 20 years of experience in venture capital, Promod serves as senior managing partner at Norwest Venture Partners (NVP).</description>
- <pubDate>Mon, 16 Mar 2026 09:10:54 GMT</pubDate>
 </item>
 </channel>
 </rss>

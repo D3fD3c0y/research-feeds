@@ -57,10 +57,7 @@ Wrote feeds/bfore-ai-reports.xml
  [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-services-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-services-1-sitemap.xml) CT=text/xml; charset=utf-8
  [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-solutions-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-solutions-1-sitemap.xml) CT=text/xml; charset=utf-8
  [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-webinars-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-webinars-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/resources/blog/how-nightbeacon-cuts-soc-alert-fatigue-without-replacing-analysts -> 200 (final: https://binarydefense.com/resources/blog/how-nightbeacon-cuts-soc-alert-fatigue-without-replacing-analysts) CT=text/html; charset=UTF-8
- • Summary [binarydefense-blog]: new_fetched=1, new_used=1, reused=29, prev_cached=30, seen_before=216, seen_added=1
+ • Summary [binarydefense-blog]: new_fetched=0, new_used=0, reused=30, prev_cached=30, seen_before=217, seen_added=0
 Wrote feeds/binarydefense-blog.xml
 
 === Processing: Blackpoint Cyber Threat Intelligence &amp; Research (https://blackpointcyber.com/threat-intelligence-and-research/) -> feeds/blackpoint-ti.xml
@@ -103,21 +100,11 @@ Wrote feeds/deception-pro.xml
  [HTTP] sitemap GET https://www.dtex.ai/blog-by-topic-sitemap.xml -> 200 (final: https://www.dtex.ai/blog-by-topic-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] robots-check GET https://www.dtex.ai/robots.txt -> 200 (final: https://www.dtex.ai/robots.txt) CT=text/plain
  [HTTP] article GET https://www.dtex.ai/resources/reports/ -> 200 (final: https://www.dtex.ai/resources/reports/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/shana-bautista/ -> 200 (final: https://www.dtex.ai/leadership/shana-bautista/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/mitch-green/ -> 200 (final: https://www.dtex.ai/leadership/mitch-green/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/greg-otto/ -> 200 (final: https://www.dtex.ai/leadership/greg-otto/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/michael-barnhart/ -> 200 (final: https://www.dtex.ai/leadership/michael-barnhart/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/amanda-gerut/ -> 200 (final: https://www.dtex.ai/leadership/amanda-gerut/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog-by-topic/ai3-risk-assistant/ -> 200 (final: https://www.dtex.ai/blog-by-topic/ai3-risk-assistant/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog-by-topic/threat-intelligence-services-i3/ -> 200 (final: https://www.dtex.ai/blog-by-topic/threat-intelligence-services-i3/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog-by-topic/use-cases/ -> 200 (final: https://www.dtex.ai/blog-by-topic/use-cases/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog-by-topic/insider-risk-management/ -> 200 (final: https://www.dtex.ai/blog-by-topic/insider-risk-management/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog-by-topic/ai-security/ -> 200 (final: https://www.dtex.ai/blog-by-topic/ai-security/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog-by-topic/user-activity-monitoring/ -> 200 (final: https://www.dtex.ai/blog-by-topic/user-activity-monitoring/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog-by-topic/partnerships/ -> 200 (final: https://www.dtex.ai/blog-by-topic/partnerships/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog-by-topic/user-behavior-analytics/ -> 200 (final: https://www.dtex.ai/blog-by-topic/user-behavior-analytics/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog-by-topic/data-loss-prevention/ -> 200 (final: https://www.dtex.ai/blog-by-topic/data-loss-prevention/) CT=text/html; charset=UTF-8
- • Summary [dtex-reports]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=350, seen_added=14
+ [HTTP] article GET https://www.dtex.ai/blog-by-topic/foreign-interference/ -> 200 (final: https://www.dtex.ai/blog-by-topic/foreign-interference/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog-by-topic/privacy/ -> 200 (final: https://www.dtex.ai/blog-by-topic/privacy/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog-by-topic/product/ -> 200 (final: https://www.dtex.ai/blog-by-topic/product/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog-by-topic/dtex-i3/ -> 200 (final: https://www.dtex.ai/blog) CT=text/html; charset=UTF-8
+ • Summary [dtex-reports]: new_fetched=5, new_used=5, reused=25, prev_cached=30, seen_before=364, seen_added=4
 Wrote feeds/dtex-reports.xml
 
 === Processing: LEXFO Blog (https://blog.lexfo.fr/) -> feeds/lexfo.xml
