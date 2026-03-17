@@ -57,7 +57,10 @@ Wrote feeds/bfore-ai-reports.xml
  [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-services-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-services-1-sitemap.xml) CT=text/xml; charset=utf-8
  [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-solutions-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-solutions-1-sitemap.xml) CT=text/xml; charset=utf-8
  [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-webinars-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-webinars-1-sitemap.xml) CT=text/xml; charset=utf-8
- • Summary [binarydefense-blog]: new_fetched=0, new_used=0, reused=30, prev_cached=30, seen_before=216, seen_added=0
+ [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
+ [HTTP] article GET https://binarydefense.com/resources/blog/how-nightbeacon-cuts-soc-alert-fatigue-without-replacing-analysts -> 200 (final: https://binarydefense.com/resources/blog/how-nightbeacon-cuts-soc-alert-fatigue-without-replacing-analysts) CT=text/html; charset=UTF-8
+ • Summary [binarydefense-blog]: new_fetched=1, new_used=1, reused=29, prev_cached=30, seen_before=216, seen_added=1
 Wrote feeds/binarydefense-blog.xml
 
 === Processing: Blackpoint Cyber Threat Intelligence &amp; Research (https://blackpointcyber.com/threat-intelligence-and-research/) -> feeds/blackpoint-ti.xml
@@ -100,21 +103,21 @@ Wrote feeds/deception-pro.xml
  [HTTP] sitemap GET https://www.dtex.ai/blog-by-topic-sitemap.xml -> 200 (final: https://www.dtex.ai/blog-by-topic-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] robots-check GET https://www.dtex.ai/robots.txt -> 200 (final: https://www.dtex.ai/robots.txt) CT=text/plain
  [HTTP] article GET https://www.dtex.ai/resources/reports/ -> 200 (final: https://www.dtex.ai/resources/reports/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/blog/why-human-and-ai-insiders-demand-a-new-risk-model/ -> 200 (final: https://www.dtex.ai/blog/why-human-and-ai-insiders-demand-a-new-risk-model/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/rajan-koo/ -> 200 (final: https://www.dtex.ai/leadership/rajan-koo/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/mike-studeman/ -> 200 (final: https://www.dtex.ai/leadership/mike-studeman/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/phoebe-robertson/ -> 200 (final: https://www.dtex.ai/leadership/phoebe-robertson/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/david-hahn/ -> 200 (final: https://www.dtex.ai/leadership/david-hahn/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/howard-holton/ -> 200 (final: https://www.dtex.ai/leadership/howard-holton/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/mike-price/ -> 200 (final: https://www.dtex.ai/leadership/mike-price/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/sue-gordon/ -> 200 (final: https://www.dtex.ai/leadership/sue-gordon/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/pete-angstadt/ -> 200 (final: https://www.dtex.ai/leadership/pete-angstadt/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/marshall-heilman/ -> 200 (final: https://www.dtex.ai/leadership/marshall-heilman/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/sean-joyce/ -> 200 (final: https://www.dtex.ai/leadership/sean-joyce/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/kevin-mandia/ -> 200 (final: https://www.dtex.ai/leadership/kevin-mandia/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/nicole-perlroth/ -> 200 (final: https://www.dtex.ai/leadership/nicole-perlroth/) CT=text/html; charset=UTF-8
- [HTTP] article GET https://www.dtex.ai/leadership/hart-rossman/ -> 200 (final: https://www.dtex.ai/leadership/hart-rossman/) CT=text/html; charset=UTF-8
- • Summary [dtex-reports]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=336, seen_added=14
+ [HTTP] article GET https://www.dtex.ai/leadership/shana-bautista/ -> 200 (final: https://www.dtex.ai/leadership/shana-bautista/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/leadership/mitch-green/ -> 200 (final: https://www.dtex.ai/leadership/mitch-green/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/leadership/greg-otto/ -> 200 (final: https://www.dtex.ai/leadership/greg-otto/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/leadership/michael-barnhart/ -> 200 (final: https://www.dtex.ai/leadership/michael-barnhart/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/leadership/amanda-gerut/ -> 200 (final: https://www.dtex.ai/leadership/amanda-gerut/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog-by-topic/ai3-risk-assistant/ -> 200 (final: https://www.dtex.ai/blog-by-topic/ai3-risk-assistant/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog-by-topic/threat-intelligence-services-i3/ -> 200 (final: https://www.dtex.ai/blog-by-topic/threat-intelligence-services-i3/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog-by-topic/use-cases/ -> 200 (final: https://www.dtex.ai/blog-by-topic/use-cases/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog-by-topic/insider-risk-management/ -> 200 (final: https://www.dtex.ai/blog-by-topic/insider-risk-management/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog-by-topic/ai-security/ -> 200 (final: https://www.dtex.ai/blog-by-topic/ai-security/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog-by-topic/user-activity-monitoring/ -> 200 (final: https://www.dtex.ai/blog-by-topic/user-activity-monitoring/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog-by-topic/partnerships/ -> 200 (final: https://www.dtex.ai/blog-by-topic/partnerships/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog-by-topic/user-behavior-analytics/ -> 200 (final: https://www.dtex.ai/blog-by-topic/user-behavior-analytics/) CT=text/html; charset=UTF-8
+ [HTTP] article GET https://www.dtex.ai/blog-by-topic/data-loss-prevention/ -> 200 (final: https://www.dtex.ai/blog-by-topic/data-loss-prevention/) CT=text/html; charset=UTF-8
+ • Summary [dtex-reports]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=350, seen_added=14
 Wrote feeds/dtex-reports.xml
 
 === Processing: LEXFO Blog (https://blog.lexfo.fr/) -> feeds/lexfo.xml
@@ -164,19 +167,9 @@ Wrote feeds/ransomnews.xml
 
 === Processing: Sequretek Resources Hub (https://www.sequretek.com/resources-hub) -> feeds/sequretek.xml
  robots.txt respected: True
- [HTTP] robots-check GET https://www.sequretek.com/robots.txt -> 403 (final: https://www.sequretek.com/robots.txt) CT=text/html
- [HTTP] robots-check body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- ! robots.txt disallows scraping listing; trying sitemap fallback …
- [HTTP] robots GET https://www.sequretek.com/robots.txt -> 403 (final: https://www.sequretek.com/robots.txt) CT=text/html
- [HTTP] robots body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- [HTTP] sitemap GET https://www.sequretek.com/sitemap.xml -> 403 (final: https://www.sequretek.com/sitemap.xml) CT=text/html
- [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- [HTTP] sitemap GET https://www.sequretek.com/sitemap_index.xml -> 403 (final: https://www.sequretek.com/sitemap_index.xml) CT=text/html
- [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- [HTTP] sitemap GET https://www.sequretek.com/sitemap.xml.gz -> 403 (final: https://www.sequretek.com/sitemap.xml.gz) CT=text/html
- [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- [HTTP] sitemap GET https://www.sequretek.com/sitemap_index.xml.gz -> 403 (final: https://www.sequretek.com/sitemap_index.xml.gz) CT=text/html
- [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
+ [HTTP] robots-check GET https://www.sequretek.com/robots.txt -> 200 (final: https://www.sequretek.com/robots.txt) CT=text/plain
+ • scraping listing page …
+ [HTTP] scrape-listing GET https://www.sequretek.com/resources-hub -> 200 (final: https://www.sequretek.com/resources-hub) CT=text/html
  • Summary [sequretek]: new_fetched=0, new_used=0, reused=1, prev_cached=1, seen_before=0, seen_added=0
 Wrote feeds/sequretek.xml
 Wrote index.html
