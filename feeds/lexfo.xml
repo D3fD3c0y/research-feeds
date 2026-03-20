@@ -4,7 +4,7 @@
  <title>LEXFO Blog (Custom Feed)</title>
  <link>https://blog.lexfo.fr/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Fri, 20 Mar 2026 08:55:56 GMT</lastBuildDate>
+ <lastBuildDate>Fri, 20 Mar 2026 16:58:45 GMT</lastBuildDate>
 <item>
  <title>Pwning Supercomputers - A 20yo vulnerability in Munge</title>
  <link>https://blog.lexfo.fr/munge-heap-buffer-overflow.html</link>
