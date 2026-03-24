@@ -4,12 +4,18 @@
  <title>DTEX Reports (Custom Feed)</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Tue, 24 Mar 2026 09:04:50 GMT</lastBuildDate>
+ <lastBuildDate>Tue, 24 Mar 2026 17:12:25 GMT</lastBuildDate>
 <item>
  <title>Reports</title>
  <link>https://www.dtex.ai/resources/reports/</link>
  <description>DTEX publishes comprehensive insider risk management reports, from the cost of insider threats to nation-state operations and more.</description>
- <pubDate>Tue, 24 Mar 2026 09:04:50 GMT</pubDate>
+ <pubDate>Tue, 24 Mar 2026 17:12:25 GMT</pubDate>
+</item>
+<item>
+ <title>Insider West 2026: What This Year’s Conversations Reveal About the Future of Insider Risk</title>
+ <link>https://www.dtex.ai/blog/insider-west-2026-what-this-years-conversations-reveal-about-the-future-of-insider-risk/</link>
+ <description>This conference is a place where practitioners speak candidly about what’s actually working and what isn’t, in insider risk programs.</description>
+ <pubDate>Tue, 24 Mar 2026 15:15:09 GMT</pubDate>
 </item>
 <item>
  <title>Foreign Interference Archives</title>
@@ -178,12 +184,6 @@
  <link>https://www.dtex.ai/leadership/marshall-heilman/</link>
  <description>After technical and leadership roles at Mandiant and Google, Marshall Heilman is the Chief Executive Officer for DTEX Systems.</description>
  <pubDate>Mon, 16 Mar 2026 17:15:03 GMT</pubDate>
-</item>
-<item>
- <title>Sean Joyce</title>
- <link>https://www.dtex.ai/leadership/sean-joyce/</link>
- <description>As a renowned leader in national security, the Honorable Susan M. Gordon is an esteemed member of the DTEX Advisory Board.</description>
- <pubDate>Mon, 16 Mar 2026 17:15:04 GMT</pubDate>
 </item>
 </channel>
 </rss>
