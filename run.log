@@ -86,7 +86,8 @@ Wrote feeds/blackpoint-ti.xml
  [HTTP] robots-check GET https://blog.deception.pro/robots.txt -> 200 (final: https://blog.deception.pro/robots.txt) CT=text/plain;charset=utf-8
  • scraping listing page …
  [HTTP] scrape-listing GET https://blog.deception.pro/ -> 200 (final: https://blog.deception.pro/) CT=text/html;charset=utf-8
- • Summary [deception-pro]: new_fetched=0, new_used=0, reused=6, prev_cached=6, seen_before=6, seen_added=0
+ [HTTP] article GET https://blog.deception.pro/blog/deceptionpro-platform-update-march-2026 -> 200 (final: https://blog.deception.pro/blog/deceptionpro-platform-update-march-2026) CT=text/html;charset=utf-8
+ • Summary [deception-pro]: new_fetched=1, new_used=1, reused=6, prev_cached=6, seen_before=6, seen_added=1
 Wrote feeds/deception-pro.xml
 
 === Processing: DTEX Reports (https://www.dtex.ai/resources/reports/) -> feeds/dtex-reports.xml

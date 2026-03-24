@@ -4,7 +4,20 @@
  <title>Deception.Pro Blog (Custom Feed)</title>
  <link>https://blog.deception.pro/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Mon, 23 Mar 2026 17:05:39 GMT</lastBuildDate>
+ <lastBuildDate>Tue, 24 Mar 2026 02:52:42 GMT</lastBuildDate>
+<item>
+ <title>[Update] Deception.Pro March 2026</title>
+ <link>https://blog.deception.pro/blog/deceptionpro-platform-update-march-2026</link>
+ <description>This release brings a new Timeline View for unified process and event 
+history across detonations, expanded YARA detection coverage for 
+executables in memory and on disk, and a round of frontend stability 
+improvements. Free researcher accounts will also see a new telemetry 
+consent flow for anonymized data used in AI model training — paid and PoV 
+accounts are unaffected. Attackers bet heavily on encryption to blind 
+defenders — that's about to get harder, with TLS introspection and several 
+other major capabilities coming to the platform soon.</description>
+ <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
  <title>[Op Report] Velvet Tempest linked to ClickFix campaigns for Termite Ransomware, HoK Activity Observed</title>
  <link>https://blog.deception.pro/blog/clickfix-hok-velvet-tempest-termite</link>
