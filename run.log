@@ -135,9 +135,9 @@ Wrote feeds/prodaft-reports.xml
 
 === Processing: Profero Resources (https://profero.io/resources) -> feeds/profero.xml
  robots.txt respected: True
- [HTTP] robots-check GET https://profero.io/robots.txt -> 200 (final: https://profero.io/robots.txt) CT=text/plain; charset=utf-8
+ [HTTP] robots-check GET https://profero.io/robots.txt -> 200 (final: https://profero.io/robots.txt) CT=text/plain; charset=UTF-8
  • scraping listing page …
- [HTTP] scrape-listing GET https://profero.io/resources -> 200 (final: https://profero.io/resources) CT=text/html; charset=utf-8
+ [HTTP] scrape-listing GET https://profero.io/resources -> 200 (final: https://profero.io/resources) CT=text/html; charset=UTF-8
  • Summary [profero]: new_fetched=0, new_used=0, reused=30, prev_cached=30, seen_before=36, seen_added=0
 Wrote feeds/profero.xml
 
