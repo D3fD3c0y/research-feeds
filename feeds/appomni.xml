@@ -4,7 +4,13 @@
  <title>AppOmni Blog (Custom Feed)</title>
  <link>https://appomni.com/article-type/blog/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Mon, 30 Mar 2026 09:25:17 GMT</lastBuildDate>
+ <lastBuildDate>Mon, 30 Mar 2026 17:08:41 GMT</lastBuildDate>
+<item>
+ <title>RSAC 2026 Recap: From AI Hype to Real SaaS Security Outcomes</title>
+ <link>https://appomni.com/blog/rsac-ai-saas-security-and-supply-chain-risk/</link>
+ <description>A clear trend at RSAC 2026: SaaS supply chain attacks are rising fast with the adoption of AI agents. Learn more from this year's conference.</description>
+ <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
+</item>
 <item>
  <title>Mapping TTPs to SaaS Supply Chain Attacks: Recent SaaS Breaches</title>
  <link>https://appomni.com/blog/saas-supply-chain-attacks-mitre-attck-mapping/</link>
@@ -178,12 +184,6 @@
  <link>https://appomni.com/blog/saas-security-risks-and-mitigation/</link>
  <description>Learn about SaaS security risks and mitigation to close your organizations’ security gaps, and how AppOmni’s SaaS security solution can help.</description>
  <pubDate>Tue, 22 Jul 2025 12:00:00 GMT</pubDate>
-</item>
-<item>
- <title>The Risks of OAuth Tokens and 3rd Party Apps to SaaS Security</title>
- <link>https://appomni.com/blog/the-risks-of-oauth-tokens-and-third-party-apps-to-saas-security/</link>
- <description>Discover the risks posed by OAuth tokens and third-party apps to SaaS security in our insightful video.</description>
- <pubDate>Wed, 31 Jan 2024 00:31:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
