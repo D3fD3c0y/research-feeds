@@ -33,9 +33,7 @@ Wrote feeds/appomni.xml
  [HTTP] sitemap GET https://bfore.ai/sitemap_index.xml -> 200 (final: https://bfore.ai/sitemap_index.xml) CT=text/xml; charset=UTF-8
  [HTTP] sitemap GET https://bfore.ai/post-sitemap.xml -> 200 (final: https://bfore.ai/post-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] sitemap GET https://bfore.ai/page-sitemap.xml -> 200 (final: https://bfore.ai/page-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] robots-check GET https://bfore.ai/robots.txt -> 200 (final: https://bfore.ai/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] article GET https://bfore.ai/report/cyber-threat-trends-winter-olympics-2026/ -> 200 (final: https://bfore.ai/report/cyber-threat-trends-winter-olympics-2026/) CT=text/html; charset=UTF-8
- • Summary [bfore-ai-reports]: new_fetched=1, new_used=1, reused=29, prev_cached=30, seen_before=30, seen_added=1
+ • Summary [bfore-ai-reports]: new_fetched=0, new_used=0, reused=30, prev_cached=30, seen_before=31, seen_added=0
 Wrote feeds/bfore-ai-reports.xml
 
 === Processing: Binary Defense Blog (https://binarydefense.com/resources/blog) -> feeds/binarydefense-blog.xml
