@@ -4,11 +4,11 @@
  <title>Deception.Pro Blog (Custom Feed)</title>
  <link>https://blog.deception.pro/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Thu, 02 Apr 2026 17:06:54 GMT</lastBuildDate>
+ <lastBuildDate>Fri, 03 Apr 2026 03:23:15 GMT</lastBuildDate>
 <item>
  <title>[Update] Deception.Pro April 2026</title>
  <link>https://blog.deception.pro/blog/deceptionpro-platform-update-april-2026</link>
- <description> TLS introspection is now live on  Deception.Pro  — decrypted PCAPs are automatically generated and available in the Artifact section of every operation. For the first time, you have full plaintext visibility into encrypted adversary traffic, correlated alongside your EDR telemetry, Suricata EVE logs, and raw captures. This release also ships meaningful improvements to artifact delivery speed, platform stability, and internal architecture. </description>
+ <description>TLS introspection is now live on  Deception.Pro  — decrypted PCAPs are automatically generated and available in the Artifact section of every operation. For the first time, you have full plaintext visibility into encrypted adversary traffic, correlated alongside your EDR telemetry, Suricata EVE logs, and raw captures. This release also ships meaningful improvements to artifact delivery speed, platform stability, and internal architecture.</description>
  <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
 </item>
 <item>

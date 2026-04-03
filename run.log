@@ -86,8 +86,7 @@ Wrote feeds/blackpoint-ti.xml
  [HTTP] robots-check GET https://blog.deception.pro/robots.txt -> 200 (final: https://blog.deception.pro/robots.txt) CT=text/plain;charset=utf-8
  • scraping listing page …
  [HTTP] scrape-listing GET https://blog.deception.pro/ -> 200 (final: https://blog.deception.pro/) CT=text/html;charset=utf-8
- [HTTP] article GET https://blog.deception.pro/blog/deceptionpro-platform-update-april-2026 -> 200 (final: https://blog.deception.pro/blog/deceptionpro-platform-update-april-2026) CT=text/html;charset=utf-8
- • Summary [deception-pro]: new_fetched=1, new_used=1, reused=7, prev_cached=7, seen_before=7, seen_added=1
+ • Summary [deception-pro]: new_fetched=0, new_used=0, reused=8, prev_cached=8, seen_before=8, seen_added=0
 Wrote feeds/deception-pro.xml
 
 === Processing: DTEX Reports (https://www.dtex.ai/resources/reports/) -> feeds/dtex-reports.xml
@@ -101,7 +100,8 @@ Wrote feeds/deception-pro.xml
  [HTTP] sitemap GET https://www.dtex.ai/blog-by-topic-sitemap.xml -> 200 (final: https://www.dtex.ai/blog-by-topic-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] robots-check GET https://www.dtex.ai/robots.txt -> 200 (final: https://www.dtex.ai/robots.txt) CT=text/plain
  [HTTP] article GET https://www.dtex.ai/resources/reports/ -> 200 (final: https://www.dtex.ai/resources/reports/) CT=text/html; charset=UTF-8
- • Summary [dtex-reports]: new_fetched=1, new_used=1, reused=29, prev_cached=30, seen_before=370, seen_added=0
+ [HTTP] article GET https://www.dtex.ai/dtex-trust-center/ -> 200 (final: https://www.dtex.ai/dtex-trust-center/) CT=text/html; charset=UTF-8
+ • Summary [dtex-reports]: new_fetched=2, new_used=2, reused=28, prev_cached=30, seen_before=370, seen_added=1
 Wrote feeds/dtex-reports.xml
 
 === Processing: LEXFO Blog (https://blog.lexfo.fr/) -> feeds/lexfo.xml
