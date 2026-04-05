@@ -135,7 +135,7 @@
     "seen_urls": []
   },
   "appomni": {
-    "last_success_utc": "2026-04-04T16:50:22.934975+00:00",
+    "last_success_utc": "2026-04-05T03:33:50.404930+00:00",
     "seen_urls": [
       "https://appomni.com/blog/rsac-ai-saas-security-and-supply-chain-risk/",
       "https://appomni.com/blog/saas-supply-chain-attacks-mitre-attck-mapping/",
@@ -277,7 +277,7 @@
     "seen_urls": []
   },
   "bfore-ai-reports": {
-    "last_success_utc": "2026-04-04T16:50:23.901191+00:00",
+    "last_success_utc": "2026-04-05T03:33:51.813601+00:00",
     "seen_urls": [
       "https://bfore.ai/report/cyber-threat-trends-winter-olympics-2026/",
       "https://bfore.ai/report/2025-retail-holiday-threat-report-scams-impersonation-attacks/",
@@ -313,7 +313,7 @@
     ]
   },
   "binarydefense-blog": {
-    "last_success_utc": "2026-04-04T16:50:28.581881+00:00",
+    "last_success_utc": "2026-04-05T03:33:55.178143+00:00",
     "seen_urls": [
       "https://binarydefense.com/resources/blog/how-nightbeacon-cuts-soc-alert-fatigue-without-replacing-analysts",
       "https://binarydefense.com/resources/blog/isis-cyber-security-threat",
@@ -1103,7 +1103,7 @@
     ]
   },
   "blackpoint-ti": {
-    "last_success_utc": "2026-04-04T16:50:33.822292+00:00",
+    "last_success_utc": "2026-04-05T03:33:59.412487+00:00",
     "seen_urls": [
       "https://blackpointcyber.com/threat-profile/akira-ransomware/",
       "https://blackpointcyber.com/threat-profile/ransomhub-ransomware/",
@@ -2090,7 +2090,7 @@
     ]
   },
   "deception-pro": {
-    "last_success_utc": "2026-04-04T16:50:34.211582+00:00",
+    "last_success_utc": "2026-04-05T03:33:59.545982+00:00",
     "seen_urls": [
       "https://blog.deception.pro/blog/deceptionpro-platform-update-april-2026",
       "https://blog.deception.pro/blog/deceptionpro-platform-update-march-2026",
@@ -2103,7 +2103,7 @@
     ]
   },
   "dtex-reports": {
-    "last_success_utc": "2026-04-04T16:50:35.282413+00:00",
+    "last_success_utc": "2026-04-05T03:34:00.397898+00:00",
     "seen_urls": [
       "https://www.dtex.ai/dtex-trust-center/",
       "https://www.dtex.ai/blog/trusted-access-is-aviations-biggest-security-gap/",
@@ -2479,7 +2479,7 @@
     ]
   },
   "lexfo": {
-    "last_success_utc": "2026-04-04T16:50:35.996401+00:00",
+    "last_success_utc": "2026-04-05T03:34:01.001454+00:00",
     "seen_urls": [
       "https://blog.lexfo.fr/munge-heap-buffer-overflow.html",
       "https://blog.lexfo.fr/wso2.html",
@@ -2587,15 +2587,15 @@
     ]
   },
   "prodaft-blogs": {
-    "last_success_utc": "2026-04-04T16:50:38.832372+00:00",
+    "last_success_utc": "2026-04-05T03:34:02.922609+00:00",
     "seen_urls": []
   },
   "prodaft-reports": {
-    "last_success_utc": "2026-04-04T16:50:39.578213+00:00",
+    "last_success_utc": "2026-04-05T03:34:03.384238+00:00",
     "seen_urls": []
   },
   "profero": {
-    "last_success_utc": "2026-04-04T16:50:40.416561+00:00",
+    "last_success_utc": "2026-04-05T03:34:03.777262+00:00",
     "seen_urls": [
       "https://profero.io/blog/hijacked-at-the-source-a-trusted-marketing-appsflyers-sdk-distributes-a-crypto-stealer",
       "https://profero.io/blog/from-the-trenches-common-sense-measures-to-prevent-cloud-incidents",
@@ -2636,11 +2636,11 @@
     ]
   },
   "ransomnews": {
-    "last_success_utc": "2026-04-04T16:50:41.504401+00:00",
+    "last_success_utc": "2026-04-05T03:34:04.403113+00:00",
     "seen_urls": []
   },
   "sequretek": {
-    "last_success_utc": "2026-04-04T16:50:42.105038+00:00",
+    "last_success_utc": "2026-04-05T03:34:04.675820+00:00",
     "seen_urls": []
   },
   "trellix-research": {
