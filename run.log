@@ -100,7 +100,8 @@ Wrote feeds/deception-pro.xml
  [HTTP] sitemap GET https://www.dtex.ai/blog-by-topic-sitemap.xml -> 200 (final: https://www.dtex.ai/blog-by-topic-sitemap.xml) CT=text/xml; charset=UTF-8
  [HTTP] robots-check GET https://www.dtex.ai/robots.txt -> 200 (final: https://www.dtex.ai/robots.txt) CT=text/plain
  [HTTP] article GET https://www.dtex.ai/resources/reports/ -> 200 (final: https://www.dtex.ai/resources/reports/) CT=text/html; charset=UTF-8
- • Summary [dtex-reports]: new_fetched=1, new_used=1, reused=29, prev_cached=30, seen_before=371, seen_added=0
+ [HTTP] article GET https://www.dtex.ai/blog/agentic-ai-the-star-of-rsac-2026/ -> 200 (final: https://www.dtex.ai/blog/agentic-ai-the-star-of-rsac-2026/) CT=text/html; charset=UTF-8
+ • Summary [dtex-reports]: new_fetched=2, new_used=2, reused=28, prev_cached=30, seen_before=371, seen_added=1
 Wrote feeds/dtex-reports.xml
 
 === Processing: LEXFO Blog (https://blog.lexfo.fr/) -> feeds/lexfo.xml
