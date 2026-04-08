@@ -4,7 +4,13 @@
  <title>Binary Defense Blog (Custom Feed)</title>
  <link>https://binarydefense.com/resources/blog</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Wed, 08 Apr 2026 09:16:31 GMT</lastBuildDate>
+ <lastBuildDate>Wed, 08 Apr 2026 17:18:32 GMT</lastBuildDate>
+<item>
+ <title>Remote Support to Ransomware Foothold: Stopping a Pre-Ransomware…</title>
+ <link>https://binarydefense.com/resources/blog/remote-support-to-ransomware-foothold-stopping-a-pre-ransomware-intrusion</link>
+ <description>This is the story of an intrusion that moved from initial access to credential harvesting in a single session, and how Binary Defense stopped it before…</description>
+ <pubDate>Wed, 08 Apr 2026 17:18:32 GMT</pubDate>
+</item>
 <item>
  <title>How NightBeacon Cuts SOC Alert Fatigue Without Replacing Analysts</title>
  <link>https://binarydefense.com/resources/blog/how-nightbeacon-cuts-soc-alert-fatigue-without-replacing-analysts</link>
@@ -177,12 +183,6 @@
  <title>MantisTek GK2 Keyboard Sends Data to China</title>
  <link>https://binarydefense.com/resources/blog/mantistek-gk2-keyboard-sends-data-to-china</link>
  <description>The Mantistek GK2 gaming keyboard is a popular keyboard in the gaming community, it has been seen that the keyboard has been silently recording key strokes</description>
- <pubDate>Sun, 08 Mar 2026 16:42:45 GMT</pubDate>
-</item>
-<item>
- <title>,000 Stolen from Cryptocurrency Wallets</title>
- <link>https://binarydefense.com/resources/blog/150000-stolen-from-cryptocurrency-wallets</link>
- <description>Cryptocurrency wallets are currently being targeted by the CryptoShuffler Trojan. It is unclear who is behind the attack, however, $150,000 of Dash,…</description>
  <pubDate>Sun, 08 Mar 2026 16:42:45 GMT</pubDate>
 </item>
 </channel>
