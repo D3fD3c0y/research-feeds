@@ -57,10 +57,7 @@ Wrote feeds/bfore-ai-reports.xml
  [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-services-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-services-1-sitemap.xml) CT=text/xml; charset=utf-8
  [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-solutions-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-solutions-1-sitemap.xml) CT=text/xml; charset=utf-8
  [HTTP] sitemap GET https://binarydefense.com/sitemaps-1-section-webinars-1-sitemap.xml -> 200 (final: https://binarydefense.com/sitemaps-1-section-webinars-1-sitemap.xml) CT=text/xml; charset=utf-8
- [HTTP] robots-check GET https://binarydefense.com/robots.txt -> 404 (final: https://binarydefense.com/robots.txt) CT=text/plain; charset=utf-8
- [HTTP] robots-check body snippet: # robots.txt for https://binarydefense.com/  sitemap: https://binarydefense.com/sitemaps-1-sitemap.xml  # live - don't allow web crawlers to index cpresources/ or vendor/  User-agent: * Disallow: /cpr
- [HTTP] article GET https://binarydefense.com/resources/blog/remote-support-to-ransomware-foothold-stopping-a-pre-ransomware-intrusion -> 200 (final: https://binarydefense.com/resources/blog/remote-support-to-ransomware-foothold-stopping-a-pre-ransomware-intrusion) CT=text/html; charset=UTF-8
- • Summary [binarydefense-blog]: new_fetched=1, new_used=1, reused=29, prev_cached=30, seen_before=217, seen_added=1
+ • Summary [binarydefense-blog]: new_fetched=0, new_used=0, reused=30, prev_cached=30, seen_before=218, seen_added=0
 Wrote feeds/binarydefense-blog.xml
 
 === Processing: Blackpoint Cyber Threat Intelligence &amp; Research (https://blackpointcyber.com/threat-intelligence-and-research/) -> feeds/blackpoint-ti.xml
@@ -153,9 +150,19 @@ Wrote feeds/ransomnews.xml
 
 === Processing: Sequretek Resources Hub (https://www.sequretek.com/resources-hub) -> feeds/sequretek.xml
  robots.txt respected: True
- [HTTP] robots-check GET https://www.sequretek.com/robots.txt -> 200 (final: https://www.sequretek.com/robots.txt) CT=text/plain
- • scraping listing page …
- [HTTP] scrape-listing GET https://www.sequretek.com/resources-hub -> 200 (final: https://www.sequretek.com/resources-hub) CT=text/html
+ [HTTP] robots-check GET https://www.sequretek.com/robots.txt -> 403 (final: https://www.sequretek.com/robots.txt) CT=text/html
+ [HTTP] robots-check body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
+ ! robots.txt disallows scraping listing; trying sitemap fallback …
+ [HTTP] robots GET https://www.sequretek.com/robots.txt -> 403 (final: https://www.sequretek.com/robots.txt) CT=text/html
+ [HTTP] robots body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
+ [HTTP] sitemap GET https://www.sequretek.com/sitemap.xml -> 403 (final: https://www.sequretek.com/sitemap.xml) CT=text/html
+ [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
+ [HTTP] sitemap GET https://www.sequretek.com/sitemap_index.xml -> 403 (final: https://www.sequretek.com/sitemap_index.xml) CT=text/html
+ [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
+ [HTTP] sitemap GET https://www.sequretek.com/sitemap.xml.gz -> 403 (final: https://www.sequretek.com/sitemap.xml.gz) CT=text/html
+ [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
+ [HTTP] sitemap GET https://www.sequretek.com/sitemap_index.xml.gz -> 403 (final: https://www.sequretek.com/sitemap_index.xml.gz) CT=text/html
+ [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
  • Summary [sequretek]: new_fetched=0, new_used=0, reused=1, prev_cached=1, seen_before=0, seen_added=0
 Wrote feeds/sequretek.xml
 Wrote index.html
