@@ -108,8 +108,7 @@ Wrote feeds/dtex-reports.xml
  [HTTP] robots-check GET https://blog.lexfo.fr/robots.txt -> 200 (final: https://blog.lexfo.fr/robots.txt) CT=text/plain
  • scraping listing page …
  [HTTP] scrape-listing GET https://blog.lexfo.fr/ -> 200 (final: https://blog.lexfo.fr/) CT=text/html
- [HTTP] article GET https://blog.lexfo.fr/ninja-forms-uploads_rce.html -> 200 (final: https://blog.lexfo.fr/ninja-forms-uploads_rce.html) CT=text/html
- • Summary [lexfo]: new_fetched=1, new_used=1, reused=6, prev_cached=6, seen_before=6, seen_added=1
+ • Summary [lexfo]: new_fetched=0, new_used=0, reused=7, prev_cached=7, seen_before=7, seen_added=0
 Wrote feeds/lexfo.xml
 
 === Processing: PRODAFT Blogs (https://prodaft.com/blogs) -> feeds/prodaft-blogs.xml
