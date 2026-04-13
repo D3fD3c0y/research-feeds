@@ -114,22 +114,24 @@ Wrote feeds/lexfo.xml
 === Processing: PRODAFT Blogs (https://prodaft.com/blogs) -> feeds/prodaft-blogs.xml
  robots.txt respected: True
  • using sitemap fallback …
- [HTTP] robots GET https://prodaft.com/robots.txt -> 200 (final: https://prodaft.com/robots.txt) CT=text/html
- [HTTP] sitemap GET https://prodaft.com/sitemap.xml -> 200 (final: https://prodaft.com/sitemap.xml) CT=text/xml
- [HTTP] sitemap GET https://prodaft.com/sitemap_index.xml -> 200 (final: https://prodaft.com/sitemap_index.xml) CT=text/html
- [HTTP] sitemap GET https://prodaft.com/sitemap.xml.gz -> 200 (final: https://prodaft.com/sitemap.xml.gz) CT=text/html
- [HTTP] sitemap GET https://prodaft.com/sitemap_index.xml.gz -> 200 (final: https://prodaft.com/sitemap_index.xml.gz) CT=text/html
+ [HTTP] robots GET https://prodaft.com/robots.txt -> 200 (final: https://www.prodaft.com/robots.txt) CT=text/plain
+ [HTTP] sitemap GET https://www.prodaft.com/sitemap.xml -> 200 (final: https://www.prodaft.com/sitemap.xml) CT=text/xml
+ [HTTP] sitemap GET https://prodaft.com/sitemap.xml -> 200 (final: https://www.prodaft.com/sitemap.xml) CT=text/xml
+ [HTTP] sitemap GET https://prodaft.com/sitemap_index.xml -> 200 (final: https://www.prodaft.com/sitemap_index.xml) CT=text/html
+ [HTTP] sitemap GET https://prodaft.com/sitemap.xml.gz -> 200 (final: https://www.prodaft.com/sitemap.xml.gz) CT=text/html
+ [HTTP] sitemap GET https://prodaft.com/sitemap_index.xml.gz -> 200 (final: https://www.prodaft.com/sitemap_index.xml.gz) CT=text/html
  • Summary [prodaft-blogs]: new_fetched=0, new_used=0, reused=1, prev_cached=1, seen_before=0, seen_added=0
 Wrote feeds/prodaft-blogs.xml
 
 === Processing: PRODAFT Reports (https://prodaft.com/reports) -> feeds/prodaft-reports.xml
  robots.txt respected: True
  • using sitemap fallback …
- [HTTP] robots GET https://prodaft.com/robots.txt -> 200 (final: https://prodaft.com/robots.txt) CT=text/html
- [HTTP] sitemap GET https://prodaft.com/sitemap.xml -> 200 (final: https://prodaft.com/sitemap.xml) CT=text/xml
- [HTTP] sitemap GET https://prodaft.com/sitemap_index.xml -> 200 (final: https://prodaft.com/sitemap_index.xml) CT=text/html
- [HTTP] sitemap GET https://prodaft.com/sitemap.xml.gz -> 200 (final: https://prodaft.com/sitemap.xml.gz) CT=text/html
- [HTTP] sitemap GET https://prodaft.com/sitemap_index.xml.gz -> 200 (final: https://prodaft.com/sitemap_index.xml.gz) CT=text/html
+ [HTTP] robots GET https://prodaft.com/robots.txt -> 200 (final: https://www.prodaft.com/robots.txt) CT=text/plain
+ [HTTP] sitemap GET https://www.prodaft.com/sitemap.xml -> 200 (final: https://www.prodaft.com/sitemap.xml) CT=text/xml
+ [HTTP] sitemap GET https://prodaft.com/sitemap.xml -> 200 (final: https://www.prodaft.com/sitemap.xml) CT=text/xml
+ [HTTP] sitemap GET https://prodaft.com/sitemap_index.xml -> 200 (final: https://www.prodaft.com/sitemap_index.xml) CT=text/html
+ [HTTP] sitemap GET https://prodaft.com/sitemap.xml.gz -> 200 (final: https://www.prodaft.com/sitemap.xml.gz) CT=text/html
+ [HTTP] sitemap GET https://prodaft.com/sitemap_index.xml.gz -> 200 (final: https://www.prodaft.com/sitemap_index.xml.gz) CT=text/html
  • Summary [prodaft-reports]: new_fetched=0, new_used=0, reused=1, prev_cached=1, seen_before=0, seen_added=0
 Wrote feeds/prodaft-reports.xml
 
