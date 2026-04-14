@@ -121,22 +121,10 @@ Wrote feeds/lexfo.xml
  [HTTP] sitemap GET https://prodaft.com/sitemap.xml.gz -> 200 (final: https://www.prodaft.com/sitemap.xml.gz) CT=text/html
  [HTTP] sitemap GET https://prodaft.com/sitemap_index.xml.gz -> 200 (final: https://www.prodaft.com/sitemap_index.xml.gz) CT=text/html
  [HTTP] robots-check GET https://www.prodaft.com/robots.txt -> 200 (final: https://www.prodaft.com/robots.txt) CT=text/plain
- [HTTP] article GET https://www.prodaft.com/blog/best-practices-for-data-protection -> 200 (final: https://www.prodaft.com/blog/best-practices-for-data-protection) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/debunking-myths-and-misconceptions-about-cybersecurity -> 200 (final: https://www.prodaft.com/blog/debunking-myths-and-misconceptions-about-cybersecurity) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/threat-intelligence-for-risk-management-the-data-driven-approach -> 200 (final: https://www.prodaft.com/blog/threat-intelligence-for-risk-management-the-data-driven-approach) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/internet-of-things-and-cybersecurity-protecting-the-connected-world -> 200 (final: https://www.prodaft.com/blog/internet-of-things-and-cybersecurity-protecting-the-connected-world) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/the-evolution-of-multi-factor-authentication-mfa -> 200 (final: https://www.prodaft.com/blog/the-evolution-of-multi-factor-authentication-mfa) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/action-counts-more-than-intention-make-threat-intelligence-actionable -> 200 (final: https://www.prodaft.com/blog/action-counts-more-than-intention-make-threat-intelligence-actionable) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/why-cybercrime-groups-are-shifting-focus-towards-small-scale-extortion -> 200 (final: https://www.prodaft.com/blog/why-cybercrime-groups-are-shifting-focus-towards-small-scale-extortion) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/attacker-motivations-matter-use-threat-intelligence-to-stay-one-step-ahead -> 200 (final: https://www.prodaft.com/blog/attacker-motivations-matter-use-threat-intelligence-to-stay-one-step-ahead) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/the-reverse-side-of-ai-how-are-cybercriminals-using-artificial-intelligence-to-aid-their-exploits -> 200 (final: https://www.prodaft.com/blog/the-reverse-side-of-ai-how-are-cybercriminals-using-artificial-intelligence-to-aid-their-exploits) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/main-challenges-in-risk-management-and-assessment -> 200 (final: https://www.prodaft.com/blog/main-challenges-in-risk-management-and-assessment) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/seeing-through-the-fog-detecting-malicious-sites-and-fake-social-media -> 200 (final: https://www.prodaft.com/blog/seeing-through-the-fog-detecting-malicious-sites-and-fake-social-media) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/understanding-social-engineering-techniques-and-why-they-are-so-convincing -> 200 (final: https://www.prodaft.com/blog/understanding-social-engineering-techniques-and-why-they-are-so-convincing) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/proactive-vs-reactive-approach-to-cybersecurity-why-timely-detection-matters -> 200 (final: https://www.prodaft.com/blog/proactive-vs-reactive-approach-to-cybersecurity-why-timely-detection-matters) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/supply-chain-lessons-learned-from-the-pandemic-crisis -> 200 (final: https://www.prodaft.com/blog/supply-chain-lessons-learned-from-the-pandemic-crisis) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/dangers-of-buying-tickets-online-and-and-how-to-avoid-buying-fraudulent-ones -> 200 (final: https://www.prodaft.com/blog/dangers-of-buying-tickets-online-and-and-how-to-avoid-buying-fraudulent-ones) CT=text/html
- • Summary [prodaft-blogs]: new_fetched=15, new_used=15, reused=15, prev_cached=30, seen_before=30, seen_added=15
+ [HTTP] article GET https://www.prodaft.com/blog/what-cryptocurrencies-cybercriminals-use-for-money-laundering-practices -> 200 (final: https://www.prodaft.com/blog/what-cryptocurrencies-cybercriminals-use-for-money-laundering-practices) CT=text/html
+ [HTTP] article GET https://www.prodaft.com/blog/an-objective-look-at-the-evolution-of-cybercriminals-ttp -> 200 (final: https://www.prodaft.com/blog/an-objective-look-at-the-evolution-of-cybercriminals-ttp) CT=text/html
+ [HTTP] article GET https://www.prodaft.com/blog/why-you-should-take-one-day-and-zero-day-vulnerabilities-seriously -> 200 (final: https://www.prodaft.com/blog/why-you-should-take-one-day-and-zero-day-vulnerabilities-seriously) CT=text/html
+ • Summary [prodaft-blogs]: new_fetched=3, new_used=3, reused=27, prev_cached=30, seen_before=45, seen_added=3
 Wrote feeds/prodaft-blogs.xml
 
 === Processing: PRODAFT Reports (https://prodaft.com/reports) -> feeds/prodaft-reports.xml
