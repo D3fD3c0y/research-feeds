@@ -135,7 +135,7 @@
     "seen_urls": []
   },
   "appomni": {
-    "last_success_utc": "2026-04-14T03:36:00.341457+00:00",
+    "last_success_utc": "2026-04-14T09:44:57.476893+00:00",
     "seen_urls": [
       "https://appomni.com/blog/rsac-ai-saas-security-and-supply-chain-risk/",
       "https://appomni.com/blog/saas-supply-chain-attacks-mitre-attck-mapping/",
@@ -277,7 +277,7 @@
     "seen_urls": []
   },
   "bfore-ai-reports": {
-    "last_success_utc": "2026-04-14T03:36:01.575594+00:00",
+    "last_success_utc": "2026-04-14T09:44:59.004321+00:00",
     "seen_urls": [
       "https://bfore.ai/report/cyber-threat-trends-winter-olympics-2026/",
       "https://bfore.ai/report/2025-retail-holiday-threat-report-scams-impersonation-attacks/",
@@ -313,7 +313,7 @@
     ]
   },
   "binarydefense-blog": {
-    "last_success_utc": "2026-04-14T03:36:10.532363+00:00",
+    "last_success_utc": "2026-04-14T09:45:02.910633+00:00",
     "seen_urls": [
       "https://binarydefense.com/resources/blog/remote-support-to-ransomware-foothold-stopping-a-pre-ransomware-intrusion",
       "https://binarydefense.com/resources/blog/how-nightbeacon-cuts-soc-alert-fatigue-without-replacing-analysts",
@@ -1104,7 +1104,7 @@
     ]
   },
   "blackpoint-ti": {
-    "last_success_utc": "2026-04-14T03:36:12.988374+00:00",
+    "last_success_utc": "2026-04-14T09:45:04.561418+00:00",
     "seen_urls": [
       "https://blackpointcyber.com/threat-profile/akira-ransomware/",
       "https://blackpointcyber.com/threat-profile/ransomhub-ransomware/",
@@ -2091,7 +2091,7 @@
     ]
   },
   "deception-pro": {
-    "last_success_utc": "2026-04-14T03:36:13.690990+00:00",
+    "last_success_utc": "2026-04-14T09:45:04.696622+00:00",
     "seen_urls": [
       "https://blog.deception.pro/blog/cpuz-trojan-stxrat-purelogs-data-exfil-april-2026",
       "https://blog.deception.pro/blog/deceptionpro-platform-update-april-2026",
@@ -2105,7 +2105,7 @@
     ]
   },
   "dtex-reports": {
-    "last_success_utc": "2026-04-14T03:36:15.221473+00:00",
+    "last_success_utc": "2026-04-14T09:45:05.755088+00:00",
     "seen_urls": [
       "https://www.dtex.ai/blog/what-rsa-2026-revealled-about-ai-agent-security/",
       "https://www.dtex.ai/blog/agentic-ai-the-star-of-rsac-2026/",
@@ -2483,7 +2483,7 @@
     ]
   },
   "lexfo": {
-    "last_success_utc": "2026-04-14T03:36:16.067032+00:00",
+    "last_success_utc": "2026-04-14T09:45:06.349658+00:00",
     "seen_urls": [
       "https://blog.lexfo.fr/ninja-forms-uploads_rce.html",
       "https://blog.lexfo.fr/munge-heap-buffer-overflow.html",
@@ -2592,8 +2592,23 @@
     ]
   },
   "prodaft-blogs": {
-    "last_success_utc": "2026-04-14T03:36:24.692303+00:00",
+    "last_success_utc": "2026-04-14T09:45:11.976538+00:00",
     "seen_urls": [
+      "https://www.prodaft.com/blog/best-practices-for-data-protection",
+      "https://www.prodaft.com/blog/debunking-myths-and-misconceptions-about-cybersecurity",
+      "https://www.prodaft.com/blog/threat-intelligence-for-risk-management-the-data-driven-approach",
+      "https://www.prodaft.com/blog/internet-of-things-and-cybersecurity-protecting-the-connected-world",
+      "https://www.prodaft.com/blog/the-evolution-of-multi-factor-authentication-mfa",
+      "https://www.prodaft.com/blog/action-counts-more-than-intention-make-threat-intelligence-actionable",
+      "https://www.prodaft.com/blog/why-cybercrime-groups-are-shifting-focus-towards-small-scale-extortion",
+      "https://www.prodaft.com/blog/attacker-motivations-matter-use-threat-intelligence-to-stay-one-step-ahead",
+      "https://www.prodaft.com/blog/the-reverse-side-of-ai-how-are-cybercriminals-using-artificial-intelligence-to-aid-their-exploits",
+      "https://www.prodaft.com/blog/main-challenges-in-risk-management-and-assessment",
+      "https://www.prodaft.com/blog/seeing-through-the-fog-detecting-malicious-sites-and-fake-social-media",
+      "https://www.prodaft.com/blog/understanding-social-engineering-techniques-and-why-they-are-so-convincing",
+      "https://www.prodaft.com/blog/proactive-vs-reactive-approach-to-cybersecurity-why-timely-detection-matters",
+      "https://www.prodaft.com/blog/supply-chain-lessons-learned-from-the-pandemic-crisis",
+      "https://www.prodaft.com/blog/dangers-of-buying-tickets-online-and-and-how-to-avoid-buying-fraudulent-ones",
       "https://www.prodaft.com/blog/the-importance-of-robust-cyber-resilience-in-the-supply-chain",
       "https://www.prodaft.com/blog/how-safe-is-remote-work-in-terms-of-cybersecurity",
       "https://www.prodaft.com/blog/spoofing-vs-phishing-do-you-know-the-difference",
@@ -2627,11 +2642,11 @@
     ]
   },
   "prodaft-reports": {
-    "last_success_utc": "2026-04-14T03:36:26.144491+00:00",
+    "last_success_utc": "2026-04-14T09:45:12.871126+00:00",
     "seen_urls": []
   },
   "profero": {
-    "last_success_utc": "2026-04-14T03:36:26.569416+00:00",
+    "last_success_utc": "2026-04-14T09:45:13.292721+00:00",
     "seen_urls": [
       "https://profero.io/blog/hijacked-at-the-source-a-trusted-marketing-appsflyers-sdk-distributes-a-crypto-stealer",
       "https://profero.io/blog/from-the-trenches-common-sense-measures-to-prevent-cloud-incidents",
@@ -2672,11 +2687,11 @@
     ]
   },
   "ransomnews": {
-    "last_success_utc": "2026-04-14T03:36:27.632038+00:00",
+    "last_success_utc": "2026-04-14T09:45:13.901181+00:00",
     "seen_urls": []
   },
   "sequretek": {
-    "last_success_utc": "2026-04-14T03:36:27.981785+00:00",
+    "last_success_utc": "2026-04-14T09:45:14.224186+00:00",
     "seen_urls": []
   },
   "trellix-research": {
