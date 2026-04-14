@@ -86,8 +86,7 @@ Wrote feeds/blackpoint-ti.xml
  [HTTP] robots-check GET https://blog.deception.pro/robots.txt -> 200 (final: https://blog.deception.pro/robots.txt) CT=text/plain;charset=utf-8
  • scraping listing page …
  [HTTP] scrape-listing GET https://blog.deception.pro/ -> 200 (final: https://blog.deception.pro/) CT=text/html;charset=utf-8
- [HTTP] article GET https://blog.deception.pro/blog/cpuz-trojan-stxrat-purelogs-data-exfil-april-2026 -> 200 (final: https://blog.deception.pro/blog/cpuz-trojan-stxrat-purelogs-data-exfil-april-2026) CT=text/html;charset=utf-8
- • Summary [deception-pro]: new_fetched=1, new_used=1, reused=8, prev_cached=8, seen_before=8, seen_added=1
+ • Summary [deception-pro]: new_fetched=0, new_used=0, reused=9, prev_cached=9, seen_before=9, seen_added=0
 Wrote feeds/deception-pro.xml
 
 === Processing: DTEX Reports (https://www.dtex.ai/resources/reports/) -> feeds/dtex-reports.xml
@@ -122,22 +121,22 @@ Wrote feeds/lexfo.xml
  [HTTP] sitemap GET https://prodaft.com/sitemap.xml.gz -> 200 (final: https://www.prodaft.com/sitemap.xml.gz) CT=text/html
  [HTTP] sitemap GET https://prodaft.com/sitemap_index.xml.gz -> 200 (final: https://www.prodaft.com/sitemap_index.xml.gz) CT=text/html
  [HTTP] robots-check GET https://www.prodaft.com/robots.txt -> 200 (final: https://www.prodaft.com/robots.txt) CT=text/plain
- [HTTP] article GET https://www.prodaft.com/blog/what-is-keystroke-logging-and-how-can-keyloggers-compromise-you -> 200 (final: https://www.prodaft.com/blog/what-is-keystroke-logging-and-how-can-keyloggers-compromise-you) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/the-cybersecurity-pitfalls-of-social-media -> 200 (final: https://www.prodaft.com/blog/the-cybersecurity-pitfalls-of-social-media) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/why-does-systembc-dominate-the-ransomware-scene -> 200 (final: https://www.prodaft.com/blog/why-does-systembc-dominate-the-ransomware-scene) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/the-growing-threat-of-cyber-espionage -> 200 (final: https://www.prodaft.com/blog/the-growing-threat-of-cyber-espionage) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/what-is-the-difference-between-the-deep-web-and-the-dark-web -> 200 (final: https://www.prodaft.com/blog/what-is-the-difference-between-the-deep-web-and-the-dark-web) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/public-and-private-collaboration-in-the-field-of-cybersecurity -> 200 (final: https://www.prodaft.com/blog/public-and-private-collaboration-in-the-field-of-cybersecurity) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/what-is-the-rhadamanthys-stealer -> 200 (final: https://www.prodaft.com/blog/what-is-the-rhadamanthys-stealer) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/understanding-prometheus-tds -> 200 (final: https://www.prodaft.com/blog/understanding-prometheus-tds) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/compliance-with-the-nis2-directive-what-can-eu-businesses-do-part-2 -> 200 (final: https://www.prodaft.com/blog/compliance-with-the-nis2-directive-what-can-eu-businesses-do-part-2) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/what-eu-businesses-need-to-know-to-ensure-efficient-compliance-with-the-nis2-directive-part-1 -> 200 (final: https://www.prodaft.com/blog/what-eu-businesses-need-to-know-to-ensure-efficient-compliance-with-the-nis2-directive-part-1) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/what-is-the-tor-network-and-how-does-it-work -> 200 (final: https://www.prodaft.com/blog/what-is-the-tor-network-and-how-does-it-work) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/threat-hunting-vs-incident-response-what-s-the-difference -> 200 (final: https://www.prodaft.com/blog/threat-hunting-vs-incident-response-what-s-the-difference) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/what-should-every-business-know-about-cybersecurity-in-2024 -> 200 (final: https://www.prodaft.com/blog/what-should-every-business-know-about-cybersecurity-in-2024) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/how-do-you-protect-your-online-privacy -> 200 (final: https://www.prodaft.com/blog/how-do-you-protect-your-online-privacy) CT=text/html
- [HTTP] article GET https://www.prodaft.com/blog/ransomware-a-major-threat-in-today-s-cybersecurity-landscape -> 200 (final: https://www.prodaft.com/blog/ransomware-a-major-threat-in-today-s-cybersecurity-landscape) CT=text/html
- • Summary [prodaft-blogs]: new_fetched=15, new_used=15, reused=1, prev_cached=1, seen_before=0, seen_added=15
+ [HTTP] article GET https://www.prodaft.com/blog/the-importance-of-robust-cyber-resilience-in-the-supply-chain -> 200 (final: https://www.prodaft.com/blog/the-importance-of-robust-cyber-resilience-in-the-supply-chain) CT=text/html
+ [HTTP] article GET https://www.prodaft.com/blog/how-safe-is-remote-work-in-terms-of-cybersecurity -> 200 (final: https://www.prodaft.com/blog/how-safe-is-remote-work-in-terms-of-cybersecurity) CT=text/html
+ [HTTP] article GET https://www.prodaft.com/blog/spoofing-vs-phishing-do-you-know-the-difference -> 200 (final: https://www.prodaft.com/blog/spoofing-vs-phishing-do-you-know-the-difference) CT=text/html
+ [HTTP] article GET https://www.prodaft.com/blog/why-do-deepfakes-pose-a-cybersecurity-threat -> 200 (final: https://www.prodaft.com/blog/why-do-deepfakes-pose-a-cybersecurity-threat) CT=text/html
+ [HTTP] article GET https://www.prodaft.com/blog/real-price-of-data-breaches-of-critical-network-infrastructures -> 200 (final: https://www.prodaft.com/blog/real-price-of-data-breaches-of-critical-network-infrastructures) CT=text/html
+ [HTTP] article GET https://www.prodaft.com/blog/difference-between-ddos-and-dos-attacks -> 200 (final: https://www.prodaft.com/blog/difference-between-ddos-and-dos-attacks) CT=text/html
+ [HTTP] article GET https://www.prodaft.com/blog/cybersecurity-and-global-risk-protect-your-organization-from-a-deteriorating-risk-landscape-part-2 -> 200 (final: https://www.prodaft.com/blog/cybersecurity-and-global-risk-protect-your-organization-from-a-deteriorating-risk-landscape-part-2) CT=text/html
+ [HTTP] article GET https://www.prodaft.com/blog/how-can-cisos-address-the-challenges-they-face -> 200 (final: https://www.prodaft.com/blog/how-can-cisos-address-the-challenges-they-face) CT=text/html
+ [HTTP] article GET https://www.prodaft.com/blog/what-is-traffic-light-protocol-tlp-in-cybersecurity -> 200 (final: https://www.prodaft.com/blog/what-is-traffic-light-protocol-tlp-in-cybersecurity) CT=text/html
+ [HTTP] article GET https://www.prodaft.com/blog/integrating-threat-detection-systems-using-ai-and-ml-in-your-security-infrastructure -> 200 (final: https://www.prodaft.com/blog/integrating-threat-detection-systems-using-ai-and-ml-in-your-security-infrastructure) CT=text/html
+ [HTTP] article GET https://www.prodaft.com/blog/how-to-use-threat-intelligence-efficiently -> 200 (final: https://www.prodaft.com/blog/how-to-use-threat-intelligence-efficiently) CT=text/html
+ [HTTP] article GET https://www.prodaft.com/blog/combating-insider-threats-detection-prevention-and-implementation -> 200 (final: https://www.prodaft.com/blog/combating-insider-threats-detection-prevention-and-implementation) CT=text/html
+ [HTTP] article GET https://www.prodaft.com/blog/understanding-eavesdropping-attacks-in-network-security -> 200 (final: https://www.prodaft.com/blog/understanding-eavesdropping-attacks-in-network-security) CT=text/html
+ [HTTP] article GET https://www.prodaft.com/blog/cybersecurity-and-global-risk-protect-your-organization-from-a-deteriorating-risk-landscape-part-1 -> 200 (final: https://www.prodaft.com/blog/cybersecurity-and-global-risk-protect-your-organization-from-a-deteriorating-risk-landscape-part-1) CT=text/html
+ [HTTP] article GET https://www.prodaft.com/blog/understanding-the-cyber-kill-chain-staying-ahead-of-cyber-threats -> 200 (final: https://www.prodaft.com/blog/understanding-the-cyber-kill-chain-staying-ahead-of-cyber-threats) CT=text/html
+ • Summary [prodaft-blogs]: new_fetched=15, new_used=15, reused=15, prev_cached=16, seen_before=15, seen_added=15
 Wrote feeds/prodaft-blogs.xml
 
 === Processing: PRODAFT Reports (https://prodaft.com/reports) -> feeds/prodaft-reports.xml
@@ -169,19 +168,9 @@ Wrote feeds/ransomnews.xml
 
 === Processing: Sequretek Resources Hub (https://www.sequretek.com/resources-hub) -> feeds/sequretek.xml
  robots.txt respected: True
- [HTTP] robots-check GET https://www.sequretek.com/robots.txt -> 403 (final: https://www.sequretek.com/robots.txt) CT=text/html
- [HTTP] robots-check body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- ! robots.txt disallows scraping listing; trying sitemap fallback …
- [HTTP] robots GET https://www.sequretek.com/robots.txt -> 403 (final: https://www.sequretek.com/robots.txt) CT=text/html
- [HTTP] robots body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- [HTTP] sitemap GET https://www.sequretek.com/sitemap.xml -> 403 (final: https://www.sequretek.com/sitemap.xml) CT=text/html
- [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- [HTTP] sitemap GET https://www.sequretek.com/sitemap_index.xml -> 403 (final: https://www.sequretek.com/sitemap_index.xml) CT=text/html
- [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- [HTTP] sitemap GET https://www.sequretek.com/sitemap.xml.gz -> 403 (final: https://www.sequretek.com/sitemap.xml.gz) CT=text/html
- [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
- [HTTP] sitemap GET https://www.sequretek.com/sitemap_index.xml.gz -> 403 (final: https://www.sequretek.com/sitemap_index.xml.gz) CT=text/html
- [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
+ [HTTP] robots-check GET https://www.sequretek.com/robots.txt -> 200 (final: https://www.sequretek.com/robots.txt) CT=text/plain
+ • scraping listing page …
+ [HTTP] scrape-listing GET https://www.sequretek.com/resources-hub -> 200 (final: https://www.sequretek.com/resources-hub) CT=text/html
  • Summary [sequretek]: new_fetched=0, new_used=0, reused=1, prev_cached=1, seen_before=0, seen_added=0
 Wrote feeds/sequretek.xml
 Wrote index.html

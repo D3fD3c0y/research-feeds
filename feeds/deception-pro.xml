@@ -4,11 +4,11 @@
  <title>Deception.Pro Blog (Custom Feed)</title>
  <link>https://blog.deception.pro/</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Mon, 13 Apr 2026 17:16:15 GMT</lastBuildDate>
+ <lastBuildDate>Tue, 14 Apr 2026 03:36:13 GMT</lastBuildDate>
 <item>
  <title>[Op Report] Trojanized CPU-Z Delivers STXRAT, Steals Credentials, and Exfils Data Through a Hidden QEMU VM</title>
  <link>https://blog.deception.pro/blog/cpuz-trojan-stxrat-purelogs-data-exfil-april-2026</link>
- <description> A trojanized CPU-Z installer dropped STXRAT via DLL side-loading, quietly deploying PureLogs Stealer to harvest browser credentials and PureHVNC for remote access — all while routing 54 hours of continuous data exfiltration through a locally-hosted QEMU Alpine Linux VM to evade detection.  Deception.Pro  captured the first documented full post-exploitation chain for this campaign, delivering ground-truth adversary telemetry that no sandbox or threat feed could replicate. </description>
+ <description>A trojanized CPU-Z installer dropped STXRAT via DLL side-loading, quietly deploying PureLogs Stealer to harvest browser credentials and PureHVNC for remote access — all while routing 54 hours of continuous data exfiltration through a locally-hosted QEMU Alpine Linux VM to evade detection.  Deception.Pro  captured the first documented full post-exploitation chain for this campaign, delivering ground-truth adversary telemetry that no sandbox or threat feed could replicate.</description>
  <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
