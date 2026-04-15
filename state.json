@@ -135,7 +135,7 @@
     "seen_urls": []
   },
   "appomni": {
-    "last_success_utc": "2026-04-14T17:19:44.585579+00:00",
+    "last_success_utc": "2026-04-15T03:34:56.601895+00:00",
     "seen_urls": [
       "https://appomni.com/blog/rsac-ai-saas-security-and-supply-chain-risk/",
       "https://appomni.com/blog/saas-supply-chain-attacks-mitre-attck-mapping/",
@@ -277,7 +277,7 @@
     "seen_urls": []
   },
   "bfore-ai-reports": {
-    "last_success_utc": "2026-04-14T17:19:45.155401+00:00",
+    "last_success_utc": "2026-04-15T03:34:57.547642+00:00",
     "seen_urls": [
       "https://bfore.ai/report/cyber-threat-trends-winter-olympics-2026/",
       "https://bfore.ai/report/2025-retail-holiday-threat-report-scams-impersonation-attacks/",
@@ -313,8 +313,9 @@
     ]
   },
   "binarydefense-blog": {
-    "last_success_utc": "2026-04-14T17:19:51.365487+00:00",
+    "last_success_utc": "2026-04-15T03:35:05.474232+00:00",
     "seen_urls": [
+      "https://binarydefense.com/resources/blog/chasing-phantoms-how-a-multi-stage-stealer-abuses-signed-binaries-to-disappear",
       "https://binarydefense.com/resources/blog/remote-support-to-ransomware-foothold-stopping-a-pre-ransomware-intrusion",
       "https://binarydefense.com/resources/blog/how-nightbeacon-cuts-soc-alert-fatigue-without-replacing-analysts",
       "https://binarydefense.com/resources/blog/isis-cyber-security-threat",
@@ -1104,7 +1105,7 @@
     ]
   },
   "blackpoint-ti": {
-    "last_success_utc": "2026-04-14T17:19:55.835595+00:00",
+    "last_success_utc": "2026-04-15T03:35:07.251682+00:00",
     "seen_urls": [
       "https://blackpointcyber.com/threat-profile/akira-ransomware/",
       "https://blackpointcyber.com/threat-profile/ransomhub-ransomware/",
@@ -2091,7 +2092,7 @@
     ]
   },
   "deception-pro": {
-    "last_success_utc": "2026-04-14T17:19:56.096902+00:00",
+    "last_success_utc": "2026-04-15T03:35:07.491044+00:00",
     "seen_urls": [
       "https://blog.deception.pro/blog/cpuz-trojan-stxrat-purelogs-data-exfil-april-2026",
       "https://blog.deception.pro/blog/deceptionpro-platform-update-april-2026",
@@ -2105,8 +2106,9 @@
     ]
   },
   "dtex-reports": {
-    "last_success_utc": "2026-04-14T17:19:57.049917+00:00",
+    "last_success_utc": "2026-04-15T03:35:08.491438+00:00",
     "seen_urls": [
+      "https://www.dtex.ai/leadership/tam-vu/",
       "https://www.dtex.ai/blog/what-rsa-2026-revealled-about-ai-agent-security/",
       "https://www.dtex.ai/blog/agentic-ai-the-star-of-rsac-2026/",
       "https://www.dtex.ai/dtex-trust-center/",
@@ -2483,7 +2485,7 @@
     ]
   },
   "lexfo": {
-    "last_success_utc": "2026-04-14T17:19:57.653760+00:00",
+    "last_success_utc": "2026-04-15T03:35:09.092806+00:00",
     "seen_urls": [
       "https://blog.lexfo.fr/ninja-forms-uploads_rce.html",
       "https://blog.lexfo.fr/munge-heap-buffer-overflow.html",
@@ -2592,7 +2594,7 @@
     ]
   },
   "prodaft-blogs": {
-    "last_success_utc": "2026-04-14T17:20:01.861480+00:00",
+    "last_success_utc": "2026-04-15T03:35:12.257919+00:00",
     "seen_urls": [
       "https://www.prodaft.com/blog/what-cryptocurrencies-cybercriminals-use-for-money-laundering-practices",
       "https://www.prodaft.com/blog/an-objective-look-at-the-evolution-of-cybercriminals-ttp",
@@ -2645,11 +2647,11 @@
     ]
   },
   "prodaft-reports": {
-    "last_success_utc": "2026-04-14T17:20:02.768032+00:00",
+    "last_success_utc": "2026-04-15T03:35:13.475309+00:00",
     "seen_urls": []
   },
   "profero": {
-    "last_success_utc": "2026-04-14T17:20:03.016712+00:00",
+    "last_success_utc": "2026-04-15T03:35:13.659366+00:00",
     "seen_urls": [
       "https://profero.io/blog/hijacked-at-the-source-a-trusted-marketing-appsflyers-sdk-distributes-a-crypto-stealer",
       "https://profero.io/blog/from-the-trenches-common-sense-measures-to-prevent-cloud-incidents",
@@ -2690,11 +2692,11 @@
     ]
   },
   "ransomnews": {
-    "last_success_utc": "2026-04-14T17:20:03.645545+00:00",
+    "last_success_utc": "2026-04-15T03:35:14.280868+00:00",
     "seen_urls": []
   },
   "sequretek": {
-    "last_success_utc": "2026-04-14T17:20:03.890090+00:00",
+    "last_success_utc": "2026-04-15T03:35:14.547586+00:00",
     "seen_urls": []
   },
   "trellix-research": {

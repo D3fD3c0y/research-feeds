@@ -4,7 +4,13 @@
  <title>Binary Defense Blog (Custom Feed)</title>
  <link>https://binarydefense.com/resources/blog</link>
  <description>Auto-generated periodically</description>
- <lastBuildDate>Tue, 14 Apr 2026 17:19:51 GMT</lastBuildDate>
+ <lastBuildDate>Wed, 15 Apr 2026 03:35:05 GMT</lastBuildDate>
+<item>
+ <title>Chasing Phantoms: How a Multi-Stage Stealer Abuses Signed Binaries to…</title>
+ <link>https://binarydefense.com/resources/blog/chasing-phantoms-how-a-multi-stage-stealer-abuses-signed-binaries-to-disappear</link>
+ <description>Phantom Stealer is the latest variant to emerge from this ecosystem, leveraging phishing campaigns to deploy a multi-stage payload that harvests browser…</description>
+ <pubDate>Wed, 15 Apr 2026 03:35:05 GMT</pubDate>
+</item>
 <item>
  <title>Remote Support to Ransomware Foothold: Stopping a Pre-Ransomware…</title>
  <link>https://binarydefense.com/resources/blog/remote-support-to-ransomware-foothold-stopping-a-pre-ransomware-intrusion</link>
@@ -178,12 +184,6 @@
  <link>https://binarydefense.com/resources/blog/new-vulnerability-uses-antivirus-software-to-inject-malware</link>
  <description>Multiple antivirus programs have been found to have a vulnerability that allows the “restore from quarantine” feature to be used for malicious purposes.</description>
  <pubDate>Sun, 08 Mar 2026 16:42:44 GMT</pubDate>
-</item>
-<item>
- <title>MantisTek GK2 Keyboard Sends Data to China</title>
- <link>https://binarydefense.com/resources/blog/mantistek-gk2-keyboard-sends-data-to-china</link>
- <description>The Mantistek GK2 gaming keyboard is a popular keyboard in the gaming community, it has been seen that the keyboard has been silently recording key strokes</description>
- <pubDate>Sun, 08 Mar 2026 16:42:45 GMT</pubDate>
 </item>
 </channel>
 </rss>
