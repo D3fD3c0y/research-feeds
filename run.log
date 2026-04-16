@@ -146,8 +146,7 @@ Wrote feeds/profero.xml
 === Processing: RansomNews Blog (https://ransomnews.online/) -> feeds/ransomnews.xml
  robots.txt respected: False
  • scraping listing page …
- [HTTP] scrape-listing GET https://ransomnews.online/ -> EXCEPTION: HTTPSConnectionPool(host='ransomnews.online', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='ransomnews.online', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
- ! scrape_items listing fetch error: HTTPSConnectionPool(host='ransomnews.online', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='ransomnews.online', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+ [HTTP] scrape-listing GET https://ransomnews.online/ -> 200 (final: https://ransomnews.online/) CT=text/html
  • Summary [ransomnews]: new_fetched=0, new_used=0, reused=1, prev_cached=1, seen_before=0, seen_added=0
 Wrote feeds/ransomnews.xml
 
