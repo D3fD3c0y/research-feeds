@@ -92,15 +92,17 @@ Wrote feeds/deception-pro.xml
 === Processing: DTEX Reports (https://www.dtex.ai/resources/reports/) -> feeds/dtex-reports.xml
  robots.txt respected: True
  • using sitemap fallback …
- [HTTP] robots GET https://www.dtex.ai/robots.txt -> 200 (final: https://www.dtex.ai/robots.txt) CT=text/plain
- [HTTP] sitemap GET https://www.dtex.ai/sitemap_index.xml -> 200 (final: https://www.dtex.ai/sitemap_index.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://www.dtex.ai/page-sitemap.xml -> 200 (final: https://www.dtex.ai/page-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://www.dtex.ai/blog-sitemap.xml -> 200 (final: https://www.dtex.ai/blog-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://www.dtex.ai/leadership-sitemap.xml -> 200 (final: https://www.dtex.ai/leadership-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] sitemap GET https://www.dtex.ai/blog-by-topic-sitemap.xml -> 200 (final: https://www.dtex.ai/blog-by-topic-sitemap.xml) CT=text/xml; charset=UTF-8
- [HTTP] robots-check GET https://www.dtex.ai/robots.txt -> 200 (final: https://www.dtex.ai/robots.txt) CT=text/plain
- [HTTP] article GET https://www.dtex.ai/resources/reports/ -> 200 (final: https://www.dtex.ai/resources/reports/) CT=text/html; charset=UTF-8
- • Summary [dtex-reports]: new_fetched=1, new_used=1, reused=29, prev_cached=30, seen_before=374, seen_added=0
+ [HTTP] robots GET https://www.dtex.ai/robots.txt -> 403 (final: https://www.dtex.ai/robots.txt) CT=text/html; charset=UTF-8
+ [HTTP] robots body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://www.dtex.ai/sitemap_index.xml -> 403 (final: https://www.dtex.ai/sitemap_index.xml) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://www.dtex.ai/sitemap.xml -> 403 (final: https://www.dtex.ai/sitemap.xml) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://www.dtex.ai/sitemap.xml.gz -> 403 (final: https://www.dtex.ai/sitemap.xml.gz) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ [HTTP] sitemap GET https://www.dtex.ai/sitemap_index.xml.gz -> 403 (final: https://www.dtex.ai/sitemap_index.xml.gz) CT=text/html; charset=UTF-8
+ [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
+ • Summary [dtex-reports]: new_fetched=0, new_used=0, reused=30, prev_cached=30, seen_before=374, seen_added=0
 Wrote feeds/dtex-reports.xml
 
 === Processing: LEXFO Blog (https://blog.lexfo.fr/) -> feeds/lexfo.xml
