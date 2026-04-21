@@ -92,17 +92,15 @@ Wrote feeds/deception-pro.xml
 === Processing: DTEX Reports (https://www.dtex.ai/resources/reports/) -> feeds/dtex-reports.xml
  robots.txt respected: True
  • using sitemap fallback …
- [HTTP] robots GET https://www.dtex.ai/robots.txt -> 403 (final: https://www.dtex.ai/robots.txt) CT=text/html; charset=UTF-8
- [HTTP] robots body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] sitemap GET https://www.dtex.ai/sitemap_index.xml -> 403 (final: https://www.dtex.ai/sitemap_index.xml) CT=text/html; charset=UTF-8
- [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] sitemap GET https://www.dtex.ai/sitemap.xml -> 403 (final: https://www.dtex.ai/sitemap.xml) CT=text/html; charset=UTF-8
- [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] sitemap GET https://www.dtex.ai/sitemap.xml.gz -> 403 (final: https://www.dtex.ai/sitemap.xml.gz) CT=text/html; charset=UTF-8
- [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- [HTTP] sitemap GET https://www.dtex.ai/sitemap_index.xml.gz -> 403 (final: https://www.dtex.ai/sitemap_index.xml.gz) CT=text/html; charset=UTF-8
- [HTTP] sitemap body snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta nam
- • Summary [dtex-reports]: new_fetched=0, new_used=0, reused=30, prev_cached=30, seen_before=374, seen_added=0
+ [HTTP] robots GET https://www.dtex.ai/robots.txt -> 200 (final: https://www.dtex.ai/robots.txt) CT=text/plain
+ [HTTP] sitemap GET https://www.dtex.ai/sitemap_index.xml -> 200 (final: https://www.dtex.ai/sitemap_index.xml) CT=text/xml; charset=UTF-8
+ [HTTP] sitemap GET https://www.dtex.ai/page-sitemap.xml -> 200 (final: https://www.dtex.ai/page-sitemap.xml) CT=text/xml; charset=UTF-8
+ [HTTP] sitemap GET https://www.dtex.ai/blog-sitemap.xml -> 200 (final: https://www.dtex.ai/blog-sitemap.xml) CT=text/xml; charset=UTF-8
+ [HTTP] sitemap GET https://www.dtex.ai/leadership-sitemap.xml -> 200 (final: https://www.dtex.ai/leadership-sitemap.xml) CT=text/xml; charset=UTF-8
+ [HTTP] sitemap GET https://www.dtex.ai/blog-by-topic-sitemap.xml -> 200 (final: https://www.dtex.ai/blog-by-topic-sitemap.xml) CT=text/xml; charset=UTF-8
+ [HTTP] robots-check GET https://www.dtex.ai/robots.txt -> 200 (final: https://www.dtex.ai/robots.txt) CT=text/plain
+ [HTTP] article GET https://www.dtex.ai/resources/reports/ -> 200 (final: https://www.dtex.ai/resources/reports/) CT=text/html; charset=UTF-8
+ • Summary [dtex-reports]: new_fetched=1, new_used=1, reused=29, prev_cached=30, seen_before=374, seen_added=0
 Wrote feeds/dtex-reports.xml
 
 === Processing: LEXFO Blog (https://blog.lexfo.fr/) -> feeds/lexfo.xml
@@ -154,9 +152,19 @@ Wrote feeds/ransomnews.xml
 
 === Processing: Sequretek Resources Hub (https://www.sequretek.com/resources-hub) -> feeds/sequretek.xml
  robots.txt respected: True
- [HTTP] robots-check GET https://www.sequretek.com/robots.txt -> 200 (final: https://www.sequretek.com/robots.txt) CT=text/plain
- • scraping listing page …
- [HTTP] scrape-listing GET https://www.sequretek.com/resources-hub -> 200 (final: https://www.sequretek.com/resources-hub) CT=text/html
+ [HTTP] robots-check GET https://www.sequretek.com/robots.txt -> 403 (final: https://www.sequretek.com/robots.txt) CT=text/html
+ [HTTP] robots-check body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
+ ! robots.txt disallows scraping listing; trying sitemap fallback …
+ [HTTP] robots GET https://www.sequretek.com/robots.txt -> 403 (final: https://www.sequretek.com/robots.txt) CT=text/html
+ [HTTP] robots body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
+ [HTTP] sitemap GET https://www.sequretek.com/sitemap.xml -> 403 (final: https://www.sequretek.com/sitemap.xml) CT=text/html
+ [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
+ [HTTP] sitemap GET https://www.sequretek.com/sitemap_index.xml -> 403 (final: https://www.sequretek.com/sitemap_index.xml) CT=text/html
+ [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
+ [HTTP] sitemap GET https://www.sequretek.com/sitemap.xml.gz -> 403 (final: https://www.sequretek.com/sitemap.xml.gz) CT=text/html
+ [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
+ [HTTP] sitemap GET https://www.sequretek.com/sitemap_index.xml.gz -> 403 (final: https://www.sequretek.com/sitemap_index.xml.gz) CT=text/html
+ [HTTP] sitemap body snippet: <html>  <head><title>403 Forbidden</title></head>  <body>  <center><h1>403 Forbidden</h1></center>  </body>  </html>  <!-- a padding to disable MSIE and Chrome friendly error page -->  <!-- a padding 
  • Summary [sequretek]: new_fetched=0, new_used=0, reused=1, prev_cached=1, seen_before=0, seen_added=0
 Wrote feeds/sequretek.xml
 Wrote index.html
